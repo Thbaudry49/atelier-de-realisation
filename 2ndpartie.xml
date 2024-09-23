@@ -60,25 +60,18 @@
  </teiHeader>
  <text>
   <body>
-   <div xml:id="secondepartie" n="II" type="partie">
-    <div1 n="Page de titre" id="page_titre1" type="frontispice">
-     <pb id="page_abs_1" n="page_ori_LIM1"/>
-     <p>
-      <title><hi rend="bold">L'ASTRÉE<lb/> DE<lb/> MESSIRE<lb/> Honoré<lb/> D'urfé</hi><lb/> Seconde
-       partie<lb/> 1614</title>
-     </p>
-     <p>
-      <title>A PARIS<lb/>
-       <hi rend="italic">Chez Toussainct &amp; du Bray Rue St Jaques Aux Espics Meurs &amp; en sa
-        Bouticque au Palais en la Gallerie des Prisonniers<lb/></hi> Avec Privilege du Roy.</title>
-     </p>
-     <pb id="page_abs_2" n="page_ori_LIM2"/>
-    </div1>
-    <div1 n="L'autheur au berger Céladon" id="auteur" type="adresse">
-     <p>
-      <title><hi rend="bold">L'AUTHEUR</hi><lb/> AU BERGER<lb/> CELADON.</title>
+   <div xml:id="secondepartie">
+     <pb xml:id="page_abs_1" n="page_ori_LIM1"/>
+     <head type="main"><hi rend="bold">L'ASTRÉE<lb/> DE<lb/> MESSIRE<lb/> <persName key="honoreurfe">Honoré<lb/> D'urfé</persName></hi><lb/> Seconde
+      partie<lb/> <date when="1614">1614</date></head>
+     
+     <head type="sub">A <placeName key="paris">PARIS</placeName><lb/>
+      <hi rend="italic">Chez Toussainct &amp; du Bray Rue St Jaques Aux Espics Meurs &amp; en sa
+       Bouticque au Palais en la Gallerie des Prisonniers<lb/></hi> Avec Privilege du <persName>Roy</persName>.</head>
+     <pb xml:id="page_abs_2" n="page_ori_LIM2"/>
+     <div1 type="adresse">
+      <head><hi rend="bold">L'AUTHEUR</hi><lb/> AU BERGER<lb/> CELADON.</head>
       <lb/>
-     </p>
      <p>&nbsp;&nbsp;&nbsp;<hi rend="italic">C'est une estrange humeur que la tienne, Celadon, de te
        cacher avec tant de peine, &amp; d'opiniatreté à ta Bergere, &amp; de desirer avec tant de
        passion que toute l'Europe sçache où tu es, &amp; ce que tu fais. Il vaudroit bien mieux, ce
