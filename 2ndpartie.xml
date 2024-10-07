@@ -5567,27 +5567,32 @@
       tour d'un petit pourtrait qu'il avoit de moy, &amp; qu'il portoit au col dans une petite boite
       de cuir parfumé. Voyons, dit Philis, ce qu'il y a dans ce papier que je tiens en la main,
       &amp; que j'ay pris au pied de vostre image.</p>
-     <p>
-      <lb/>
-      <hi rend="rule"/>
-      <head>
-       <hi rend="bold">SONNET.</hi>
-      </head>
-     </p>
-     <lb/>
-     <p>&#160;&#160;&#160;<hi rend="italic">Qui ne l'admireroit ! &amp; qui n'aimeroit mieux,<lb/>
-       Errer en l'adorant plein d'Amour &amp; de crainte :<lb/> Et rendre courroucez contre soy tous
-       les Dieux,<lb/> Que n'idolatrer point une si belle Sainte ?</hi></p>
-     <p>&#160;&#160;&#160;<hi rend="italic">Mais qu'est-ce que je dis ? en effet elle est
-       peinte,<lb/> La belle que votcy, ce ne sont pas des yeux,<lb/> Comme nous les croyons, ce
-       n'en est qu'une sainte,<lb/> Dont nous deçoit la main du peintre ingenieux.</hi></p>
+     <div3 type="poem"> 
+      <head><hi rend="bold">SONNET.</hi></head> 
+      <lg>
+       <l>&#160;&#160;&#160;<hi rend="italic">Qui ne l'admireroit ! &amp; qui n'aimeroit mieux,</hi></l>
+       <l><hi rend="italic">Errer en l'adorant plein d'Amour &amp; de crainte :</hi></l>
+       <l><hi rend="italic">Et rendre courroucez contre soy tous les Dieux,</hi></l>
+       <l><hi rend="italic">Que n'idolatrer point une si belle Sainte ?</hi></l>
+      </lg>
+     <lg>
+      <l>&#160;&#160;&#160;<hi rend="italic">Mais qu'est-ce que je dis ? en effet elle est peinte,</hi></l>
+      <l><hi rend="italic">La belle que votcy, ce ne sont pas des yeux,</hi></l>
+      <l><hi rend="italic">Comme nous les croyons, ce n'en est qu'une sainte,</hi></l>
+      <l><hi rend="italic">Dont nous deçoit la main du peintre ingenieux.</hi></l>
+     </lg>
+     <lg>
      <pb xml:id="page_abs_316" n="page_ori_309"/>
-     <p>&#160;&#160;&#160;<hi rend="italic">Ce ne sont pas des yeux ? si ressens-je la playe :<lb/>
-       Quoy que le trait soit saint toutesfois estre vraye,<lb/> Fuyons donc puis qu'ainsi les coups
-       nous en sentons.</hi></p>
-     <p>&#160;&#160;&#160;<hi rend="italic">Mais pourquoy fuyrons nous ? la fuite en est bien<lb/>
-       Si des-iabien avât dans le cœur nous portons, (vaine,<lb/> De ces yeux vrais ou faux la
-       blessure certaine.</hi><lb/></p>
+      <l>&#160;&#160;&#160;<hi rend="italic">Ce ne sont pas des yeux ? si ressens-je la playe :</hi></l>
+      <l><hi rend="italic">Quoy que le trait soit saint toutesfois estre vraye,</hi></l>
+      <l><hi rend="italic">Fuyons donc puis qu'ainsi les coups nous en sentons.</hi></l>
+     </lg>
+     <lg>
+      <l>&#160;&#160;&#160;<hi rend="italic">Mais pourquoy fuyrons nous ? la fuite en est bien</hi></l>
+      <l><hi rend="italic">Si des-iabien avât dans le cœur nous portons, (vaine,</hi></l>
+      <l><hi rend="italic">De ces yeux vrais ou faux la blessure certaine.</hi></l>
+     </lg>
+    </div3>
      <p>&#160;&#160;&#160;Ah ! ma sœur, dit alors Astrée, n'en doutons plus, c'est bien Celadon qui
       a escrit ces vers, c'est bien luy sans doute, car il y a plus de trois ans qu'il les fit sur
       un pourtrait que mon pere avoit fait faire de moy : pour le donner à mon oncle Focion. A ce
