@@ -2203,25 +2203,32 @@
       pensée l'arresta si court, qu'en cessant de marcher, apres l'avoir long temps roulée dans son
       esprit, il profera telles paroles.</p>
      <pb xml:id="page_abs_124" n="page_ori_117"/>
-     <p>
-      <hi rend="rule"/>
-      <lb/>
+     <div3 type="poem">
       <head><hi rend="bold">SONNET.</hi><lb/> QU'IL N'Y A CONSIDERATION<lb/> QUI L'EMPESCHE
        D'AYMER<lb/> sa Maistresse.</head>
-      <lb/>
-     </p>
-     <p>&#160;&#160;&#160;<hi rend="italic">Mon penser, hé! pourquoy me viens tu figurer,<lb/> Qu'il
-       ne faut que je l'aime, &amp; qu'elle est pour un autre,<lb/> Si c'est pour un mortel, ne peut
-       elle estre nostre,<lb/> Et si c'est pour un Dieu ne la puis-je adorer ?</hi></p>
-     <p>&#160;&#160;&#160;<hi rend="italic">Si c'est pour un Mortel, qui sçauroit mesurer,<lb/>
-       Entre tous les mortels son amour à ma flame,<lb/> Et si c'est pour un Dieu, se peut-il voir
-       une ame,<lb/> Qui d'un zele plus sain la puisse reverer ?</hi></p>
-     <p>&#160;&#160;&#160;<hi rend="italic">Mais que nous vaut cela si cette ame cruelle,<lb/> Ne
-       daigne regarder ceux qui meurent pour elle,<lb/> L'Amour ou la Raison la forceront un
-       jour.</hi></p>
-     <p>&#160;&#160;&#160;<hi rend="italic">En fin elle aimera, puis que nul ne l'évite,<lb/> Que si
-       c'est par Raison, gagnons la par merite,<lb/> Et si c'est par Amour, gagnons la par
-       Amour.</hi><lb/></p>
+        <lg>
+     <l>&#160;&#160;&#160;<hi rend="italic">Mon penser, hé! pourquoy me viens tu figurer,</hi></l> 
+        <l><hi rend="italic">Qu'il ne faut que je l'aime, &amp; qu'elle est pour un autre,</hi></l>
+        <l><hi rend="italic">Si c'est pour un mortel, ne peut elle estre nostre,</hi></l>
+        <l><hi rend="italic">Et si c'est pour un Dieu ne la puis-je adorer ?</hi></l>
+        </lg>
+        <lg>
+     <l>&#160;&#160;&#160;<hi rend="italic">Si c'est pour un Mortel, qui sçauroit mesurer,</hi></l>
+            <l><hi rend="italic">Entre tous les mortels son amour à ma flame,</hi></l>  
+            <l><hi rend="italic">Et si c'est pour un Dieu, se peut-il voir une ame,</hi></l>
+            <l><hi rend="italic">Qui d'un zele plus sain la puisse reverer ?</hi></l>
+        </lg>
+        <lg>
+     <l>&#160;&#160;&#160;<hi rend="italic">Mais que nous vaut cela si cette ame cruelle,</hi></l>
+            <l><hi rend="italic">Ne daigne regarder ceux qui meurent pour elle,</hi></l>      
+            <l><hi rend="italic">L'Amour ou la Raison la forceront un jour.</hi></l>
+        </lg>
+        <lg>
+     <l>&#160;&#160;&#160;<hi rend="italic">En fin elle aimera, puis que nul ne l'évite,</hi></l> 
+            <l><hi rend="italic">Que si c'est par Raison, gagnons la par merite,</hi></l> 
+            <l><hi rend="italic">Et si c'est par Amour, gagnons la par Amour.</hi></l> 
+        </lg>
+    </div3>
      <p>&#160;&#160;&#160;La Lune alors, comme si c'eust esté pour le convier à demeurer davantage
       en ce lieu, sembla s'allumer d'une nouvelle clarté, &amp; parce qu'avant que de partir, il
       avoit mis son troupeau avec celuy de Diane, &amp; qu'il s'asseuroit <pb xml:id="page_abs_125"
@@ -3290,24 +3297,31 @@
       prendre garde au bruit que fit <pb xml:id="page_abs_186" n="page_ori_179"/> Hylas en ouvrant la
       porte &amp; en entrant ; &amp; de fortune il parloit alors si haut que Hylas peust ouyr ces
       paroles.</p>
-     <p>
-      <hi rend="rule"/>
-      <lb/>
+     <div3 type="poem">
       <head><hi rend="bold">SONNET.</hi><lb/> IL PARLE AU VENT.</head>
-      <lb/>
-     </p>
-     <p>&#160;&#160;&#160;<hi rend="italic">Doux zephir que je vois errer folatrement<lb/> Entre les
-       crins aigus de ces plantes hautaines,<lb/> Et qui pillant des fleurs les plus douces
-       haleines<lb/> Avec ce beau larcin vas tout l'air parfumant.</hi></p>
-     <p>&#160;&#160;&#160;<hi rend="italic">Si jamais la pitié te donna mouvement,<lb/> Oublie en ma
-       faveur icy tes douces peines ;<lb/> Et t'en va dans le sein de ces heureuses plaines,<lb/> Où
-       mon malheur retient tout mon contentement.</hi></p>
-     <p>&#160;&#160;&#160;<hi rend="italic">Va, mais porte avec toy les amoureuses plaintes<lb/> Que
-       parmy ces forests j'ay tristement empraintes,<lb/> Seul &amp; dernier plaisir entre mes
-       desplaisirs.</hi></p>
-     <p>&#160;&#160;&#160;<hi rend="italic">Là tu pourras trouver sur des levres jumelles<lb/> Des
-       odeurs &amp; des fleurs plus douces &amp; plus belles :<lb/> Mais rapporte les moy pour
-       nourrir mes desirs.</hi><lb/></p>
+         <lg>
+     <l>&#160;&#160;&#160;<hi rend="italic">Doux zephir que je vois errer folatrement</hi></l> 
+             <l><hi rend="italic">Entre les crins aigus de ces plantes hautaines,</hi></l>  
+             <l><hi rend="italic">Et qui pillant des fleurs les plus douces haleines</hi></l> 
+             <l><hi rend="italic">Avec ce beau larcin vas tout l'air parfumant.</hi></l> 
+         </lg>
+         <lg>
+     <l>&#160;&#160;&#160;<hi rend="italic">Si jamais la pitié te donna mouvement,</hi></l> 
+             <l><hi rend="italic">Oublie en ma faveur icy tes douces peines ;</hi></l>
+             <l><hi rend="italic">Et t'en va dans le sein de ces heureuses plaines</hi></l>  
+             <l><hi rend="italic">Où mon malheur retient tout mon contentement.</hi></l>
+         </lg>
+         <lg>
+     <l>&#160;&#160;&#160;<hi rend="italic">Va, mais porte avec toy les amoureuses plaintes</hi></l> 
+             <l><hi rend="italic">Que parmy ces forests j'ay tristement empraintes,</hi></l>
+             <l><hi rend="italic">Seul &amp; dernier plaisir entre mes desplaisirs.</hi></l>
+         </lg>
+         <lg>
+     <l>&#160;&#160;&#160;<hi rend="italic">Là tu pourras trouver sur des levres jumelles</hi></l> 
+             <l><hi rend="italic">Des odeurs &amp; des fleurs plus douces &amp; plus belles :</hi></l>
+             <l><hi rend="italic">Mais rapporte les moy pour nourrir mes desirs.</hi></l> 
+         </lg>
+     </div3>
      <p>&#160;&#160;&#160;Je vous y prends Clorian (dit Hylas, luy jettant le bras au col, &amp; le
       baisant à la jouë) je confesse que vous estes le plus secret Amoureux qui fut jamais, mais si
       ne pouvez vous plus vous cacher à moy. Ny en cette occasion, <pb xml:id="page_abs_187"
