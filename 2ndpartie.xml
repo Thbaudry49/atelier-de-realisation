@@ -135,22 +135,15 @@
      <pb xml:id="page_abs_8" n="page_ori_1"/>
     </div3>
     <div3 xml:id="page_ASTREE_1614_2ndpartie" type="2ndpartie">
-     <p>
-      <title>
+      <head>
        <hi rend="bold">LA SECONDE<lb/> PARTIE D'ASTRÉE,<lb/></hi>
-       <hi rend="italic">De Messire Honoré d'Urfé.</hi>
-      </title>
-      <lb/>
-      <hi rend="rule"/>
-      <lb/>
-     </p>
+       <hi rend="italic">De Messire Honoré d'Urfé.<lb/></hi>
+      </head>
       <div4 type="chapitre"  
-     <p>
-      <title>
+      <head>
        <hi rend="bold">LIVRE PREMIER.</hi>
-      </title>
+      </head>
       <lb/>
-     </p>
      <p>&#160;&#160;&#160;La lune estoit déja pour la deuxiéme fois sur le milieu de son cours,
       depuis que Celadon échapé des mains de Galathée, &amp; n'osant se presenter devant les yeux de
       la Bergere Astrée, pour obeïr au commandement qu'elle luy en avoit fait, s'estoit renfermé
@@ -223,60 +216,44 @@
       bouche mesme de ma Bergere, qui est l'Oracle le plus certain que je puisse consulter. Et lors
       relevant la voix il luy parla de cette sorte.</p>
      <pb xml:id="page_abs_13" n="page_ori_6"/>
-
-     <p>
       <hi rend="rule"/>
       <lb/>
-      <title>ECHO.</title>
+          <head><hi rend="rule">ECHO.</hi></head>
       <lb/>
-     </p>
-     <p>
-      <title>STANSES.</title>
-     </p>
+      <div5 type="poem">    
+      <head>STANSES.</head>
      <p>&#160;&#160;&#160;<hi rend="italic">Fille de l'Air qui ne sçaurois rientaire,<lb/> De ces
        rochers hostesse solitaire,<lb/> Où vont les cris que je vais émouvant ?</hi> Au vent.<lb/>
       <hi rend="italic">Et quel crois-tu que ce cruel martire,<lb/> Q[u]e plein d'Amour mon cœur va
        concevant,<lb/> Devienne en fin aux maux que je souspire ?</hi> Pire.</p>
-     <p>
-      <title>II.</title>
-     </p>
+      <head>II.</head>
      <p>&#160;&#160;&#160;<hi rend="italic">Que feroit donc cet œil qui me desarme<lb/> Par sa
        douceur de toute sorte d'arme,<lb/> Et qui promet m'aymer infiniment ?</hi> Il ment.<lb/>
       <hi rend="italic">Mais s'il est vray qu'il mente, quel remede<lb/> Nous faudra-t'il pour
        sortir promptement<lb/> De cet abus qui trompeur nous possede ?</hi> Cede.</p>
-     <p>
-      <title>III.</title>
-     </p>
+      <head>III.</head>
      <p>&#160;&#160;&#160;<hi rend="italic">Comment ? ceder un tel bien à quelque autre<lb/>
        Qu'Amour ordonne en effet qui soit nostre !<lb/> Qui plus que moy voit-elle volontiers ?</hi>
       Un tiers.<lb/>
       <hi rend="italic">Un tiers, Echo, c'est un cruel langage,<lb/> Mais s'il est vray qu'elle ayme
        mieux un tiers,<lb/> Au lieu d'amour qu'auroit un grand courage ?</hi> Rage.</p>
-     <p>
-      <title>IV.</title>
-     </p>
+      <head>IV.</head>
      <p>&#160;&#160;&#160;<hi rend="italic">Nimphe qui sents dedans ces roches creuses<lb/> Quel est
        le mal des peines amoureuses,<lb/> N'auray-je donc jamais alegements ?</hi> Je ments.<lb/>
       <hi rend="italic">Comment, Echo, n'est-ce point un blaspheme<lb/> De t'accuser &amp; dire que
        tu ments ?<lb/> Ce que j'entens est-ce bien ta voix mesme ?</hi> Ayme.</p>
      <pb xml:id="page_abs_14" n="page_ori_7"/>
-     <p>
-      <title>V.</title>
-     </p>
+      <head>V.</head>
      <p>&#160;&#160;&#160;<hi rend="italic">C'est bien ta voix qui frappe mes a[u]reilles,<lb/> Mais
        ce secret, Nimphe qui me conseilles<lb/> L'as-tu dis moy de ma Diane ouy ?</hi> Ouy.<lb/>
       <hi rend="italic">Mais de l'aymer, helas ! c'est peu de chose,<lb/> Si d'elle aymé d'elle je
        ne jouy,<lb/> Pour un tel heur qu'est-ce qu'on me propose ?</hi> Ose.</p>
-     <p>
-      <title>VI.</title>
-     </p>
+      <head>VI.</head>
      <p>&#160;&#160;&#160;<hi rend="italic">Le Ciel noircy de tempeste &amp; d'orage<lb/> Ne peut
        d'effroy m'abattre le courage<lb/> Mon cœur ne craint tous ces estonnements.</hi> Ne ments.<lb/>
       <hi rend="italic">Je ne ments point ny ne suis temeraire,<lb/> J'apprens d'Amour ces beaux
        enseignements,<lb/> Faut il rien plus pour un si grand mistere ?</hi> Taire.</p>
-     <p>
-      <title>VII.</title>
-     </p>
+      <head>VII.</head>
      <p>&#160;&#160;&#160;<hi rend="italic">Je me tairay, plustost ma voix pressée,<lb/> Souspirera
        ma mort que ma pensée,<lb/> Amant secret comme Amant valeureux.</hi> Heureux.<lb/>
       <hi rend="italic">Heureux cent fois aymé de cette belle,<lb/> Mais d'où sçais-tu que son cœur
@@ -513,11 +490,12 @@
       armer de patience. Licidas vouloit respondre, &amp; peut estre l'eust fait trop aigrement, si
       Leonide qui le prevoyoit ne l'en eust empesché avec excuse qu'elle vouloit ouyr ce que Philis
       chantoit : car il en estoit desja assez pres pour ouyr ses paroles, qui estoient telles.</p>
-
      <p>
+      </div5> 
+      <div5 type="poem"></div5>    
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">SONNET.</hi><lb/> CONTRE LA JALOUSIE.</title>
+      <head><hi rend="bold">SONNET.</hi><lb/> CONTRE LA JALOUSIE.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Amour ne brusle plus, on bien il brusle en vain,<lb/>
@@ -755,7 +733,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">HISTOIRE</hi><lb/> DE CELIDÉE, THAMYRE,<lb/> ET CALYDON.</title>
+      <head><hi rend="bold">HISTOIRE</hi><lb/> DE CELIDÉE, THAMYRE,<lb/> ET CALYDON.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;Puis qu'il a pleu au grand Tautates, de m'eslire pour vous raconter les
@@ -797,7 +775,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">SONNET.</hi><lb/> D'UNE JEUNE BEAUTE.</title>
+      <head><hi rend="bold">SONNET.</hi><lb/> D'UNE JEUNE BEAUTE.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Quelle Aurore jamais d'un beau jour devanciere<lb/> Eut
@@ -1261,9 +1239,9 @@
     <div1 xml:id="page_ASTREE_1614_0202" n="deuxiesme" type="livre">
      <pb xml:id="page_abs_72" n="page_ori_65"/>
      <p>
-      <title>
+      <head>
        <hi rend="bold"> LE DEUXIESME<lb/> LIVRE DE LA<lb/> SECONDE PARTIE<lb/> D'ASTRÉE. </hi>
-      </title>
+      </head>
      </p>
      <lb/>
      <p>&#160;&#160;&#160;Ainsi paracheva Thamire, de raconter ce que la Nimphe Leonide avoit desiré
@@ -1321,7 +1299,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">HARANGUE</hi><lb/> DU BERGER CALYDON.</title>
+      <head><hi rend="bold">HARANGUE</hi><lb/> DU BERGER CALYDON.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;Amour, grand Dieu qui par ta puissance m'as ravy toute celle que la raison
@@ -1599,7 +1577,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">RESPONCE</hi><lb/> DE LA BERGERE CELIDÉE.</title>
+      <head><hi rend="bold">RESPONCE</hi><lb/> DE LA BERGERE CELIDÉE.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;Je suis si peu accoustumée, grande Nimphe, à parler du sujet qui se
@@ -1878,7 +1856,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">RESPONCE</hi><lb/> DU BERGER THAMYRE.</title>
+      <head><hi rend="bold">RESPONCE</hi><lb/> DU BERGER THAMYRE.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;A ce que je vois, grande Nimphe, il m'est advenu comme à celuy qui forge
@@ -2071,7 +2049,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">JUGEMENT DE LA NIMPHE</hi><lb/> LEONIDE.</title>
+      <head><hi rend="bold">JUGEMENT DE LA NIMPHE</hi><lb/> LEONIDE.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;Trois choses se presentent à nos yeux, sur le different de Celidée,
@@ -2149,7 +2127,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">SONNET.</hi><lb/> RAPORT DE DIANE A<lb/> LA LUNE.</title>
+      <head><hi rend="bold">SONNET.</hi><lb/> RAPORT DE DIANE A<lb/> LA LUNE.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Bel Astre flamboyant, qui dans un Ciel serain<lb/>
@@ -2180,8 +2158,8 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">SONNET.</hi><lb/> QU'IL N'Y A CONSIDERATION<lb/> QUI L'EMPESCHE
-       D'AYMER<lb/> sa Maistresse.</title>
+      <head><hi rend="bold">SONNET.</hi><lb/> QU'IL N'Y A CONSIDERATION<lb/> QUI L'EMPESCHE
+       D'AYMER<lb/> sa Maistresse.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Mon penser, hé! pourquoy me viens tu figurer,<lb/> Qu'il
@@ -2350,9 +2328,9 @@
     <div1 xml:id="page_ASTREE_1614_0203" n="troisiesme" type="livre">
      <pb xml:id="page_abs_134" n="page_ori_127"/>
      <p>
-      <title>
+      <head>
        <hi rend="bold"> LE<lb/> TROISIESME<lb/> LIVRE DE LA<lb/> SECONDE PARTIE<lb/> D'ASTRÉE.</hi>
-      </title>
+      </head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;Lors que Silvandre s'endormit, la nuict estoit desja tant advancée, qu'il
@@ -2763,8 +2741,8 @@
 
      <p>
       <hi rend="rule"/>
-      <title>A la plus aymée &amp; plus belle Bergere de l'univers, le plus infortuné &amp; plus
-       fidelle de ses serviteurs envoye le salut que la fortune luy denie.</title>
+      <head>A la plus aymée &amp; plus belle Bergere de l'univers, le plus infortuné &amp; plus
+       fidelle de ses serviteurs envoye le salut que la fortune luy denie.</head>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Mon extréme affection ne consentira jamais que je donne
        le nom de peine &amp; de supplice à ce que vostre commandement m'a fait ressentir, ny ne
@@ -2800,9 +2778,9 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title>
+      <head>
        <hi rend="bold">MADRIGAL.</hi>
-      </title>
+      </head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">L'esguille du quadran cherche la Tramontante<lb/>
@@ -3107,9 +3085,9 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title>
+      <head>
        <hi rend="bold">MADRIGAL.</hi>
-      </title>
+      </head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Quoy ? vous ay-je offencée,<lb/> D'effect ou de pensée
@@ -3129,34 +3107,34 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title>
+      <head>
        <hi rend="bold">CHANSON.</hi>
-      </title>
+      </head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Quand Hylas apperceut les yeux<lb/> De Philis sabelle
        Maistresse,<lb/> Voit on encor telle Déesse<lb/> Ailleurs, dit-il, que dans les Cieux
       ?</hi></p>
      <p>
-      <title>II.</title>
+      <head>II.</head>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Phylis d'un esclat rougissant<lb/> Oyant ces mots devint
        plus belle ;<lb/> En vain cette beauté nouvelle<lb/> Rend, dit-il, vostre œil plus
        puissant.</hi></p>
      <p>
-      <title>III.</title>
+      <head>III.</head>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Elle d'un gracieux sousris<lb/> Recevant cette flatterie
        :<lb/> Cessez, luy dit-il, je vous prie,<lb/> C'est fait, en fin Hylas est pris.</hi></p>
      <p>
-      <title>IIII.</title>
+      <head>IIII.</head>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Mais s'il plaint, dit-elle, à l'instant<lb/> Sa liberté,
        qu'il la repreine<lb/> Vous estes, dit-il, moins humaine<lb/> En pardonnant qu'en
        surmontant.</hi></p>
      <pb xml:id="page_abs_180" n="page_ori_173"/>
      <p>
-      <title>V.</title>
+      <head>V.</head>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Lien trop aymable &amp; trop cher<lb/> Dont le captif
        craint qu'on le lasche,<lb/> Heureux Amant puis qu'il te fasche<lb/> Quand tu vois qu'on te
@@ -3178,7 +3156,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">HISTOIRE</hi><lb/> DE PALINICE ET DE CYRCENE.</title>
+      <head><hi rend="bold">HISTOIRE</hi><lb/> DE PALINICE ET DE CYRCENE.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;Je ne trouveray jamais estrange, gentil Berger, tant que j'auray memoire
@@ -3267,7 +3245,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">SONNET.</hi><lb/> IL PARLE AU VENT.</title>
+      <head><hi rend="bold">SONNET.</hi><lb/> IL PARLE AU VENT.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Doux zephir que je vois errer folatrement<lb/> Entre les
@@ -3342,9 +3320,9 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title>
+      <head>
        <hi rend="bold">MADRIGAL.</hi>
-      </title>
+      </head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Elle fuit, &amp; fuyant elle veut qu'on l'attaigne
@@ -3470,9 +3448,9 @@
     <div1 xml:id="page_ASTREE_1614_0204" n="quatriesme" type="livre">
      <pb xml:id="page_abs_198" n="page_ori_191"/>
      <p>
-      <title>
+      <head>
        <hi rend="bold"> LE<lb/> QUATRIESME<lb/> LIVRE DE LA<lb/> SECONDE PARTIE<lb/> D'ASTRÉE.</hi>
-      </title>
+      </head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;C'estoit la coustume des Bergers de Lignon de ne rencontrer jamais
@@ -3641,7 +3619,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">HISTOIRE.</hi><lb/> DE PARTHENOPE, FLORICE<lb/> ET DORINDE.</title>
+      <head><hi rend="bold">HISTOIRE.</hi><lb/> DE PARTHENOPE, FLORICE<lb/> ET DORINDE.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;Je me suis moqué bien souvent en ma pensée, de ceux qui blasment
@@ -3968,9 +3946,9 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title>
+      <head>
        <hi rend="bold">SONNET.</hi>
-      </title>
+      </head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Dorinde se mocqua de vous,<lb/> Quand elle vous tint ce
@@ -4044,7 +4022,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">SONNET.</hi><lb/> SERMENTS AMOUREUX.</title>
+      <head><hi rend="bold">SONNET.</hi><lb/> SERMENTS AMOUREUX.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Belle de mes desirs, vous estes le trespas.<lb/> Et
@@ -4415,7 +4393,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">LETTRE</hi><lb/> DE DORINDE A HYLAS.</title>
+      <head><hi rend="bold">LETTRE</hi><lb/> DE DORINDE A HYLAS.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Je m'y trouveray puis que vous le voulez ainsi : aussi
@@ -4433,7 +4411,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">LETTRE.</hi><lb/> DE DORINDE A HYLAS.</title>
+      <head><hi rend="bold">LETTRE.</hi><lb/> DE DORINDE A HYLAS.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Je croi de vostre affection encor plus que vous ne m'en
@@ -4447,7 +4425,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">LETTRE</hi><lb/> DE DORINDE A HYLAS.</title>
+      <head><hi rend="bold">LETTRE</hi><lb/> DE DORINDE A HYLAS.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Je vous envoie ce pourtrait que vous avez desiré de moi,
@@ -4671,7 +4649,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">LETTRE</hi><lb/> DE FLORICE A HYLAS</title>
+      <head><hi rend="bold">LETTRE</hi><lb/> DE FLORICE A HYLAS</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Quand vous verrez cette escriture, peut estre vous
@@ -4718,7 +4696,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">LETTRE</hi><lb/> DE HYLAS A FLORICE</title>
+      <head><hi rend="bold">LETTRE</hi><lb/> DE HYLAS A FLORICE</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Vous avez donc le courage de vous donner à Teombre ?
@@ -4741,7 +4719,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">LETTRE</hi><lb/> DE HYLAS A FLORICE</title>
+      <head><hi rend="bold">LETTRE</hi><lb/> DE HYLAS A FLORICE</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Puis qu'il est impossible que Florice ne suive le cours
@@ -4783,7 +4761,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">LETTRE</hi><lb/> DE FLORICE A HYLAS.</title>
+      <head><hi rend="bold">LETTRE</hi><lb/> DE FLORICE A HYLAS.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Si je pouvois vous envoyer ma vie dans ce papier aussi
@@ -4934,7 +4912,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">LETTRE</hi><lb/> DE FLORICE A HYLAS.</title>
+      <head><hi rend="bold">LETTRE</hi><lb/> DE FLORICE A HYLAS.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Celuy qui n'est au monde que pour nostre supplice s'en
@@ -4981,7 +4959,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">LETTRE</hi><lb/> DE FLORICE A HYLAS.</title>
+      <head><hi rend="bold">LETTRE</hi><lb/> DE FLORICE A HYLAS.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">C'est la plus cruelle ennemie que tu auras jamais, qui
@@ -5021,9 +4999,9 @@
     <div1 xml:id="page_ASTREE_1614_0205" n="cinquiesme" type="livre">
      <pb xml:id="page_abs_288" n="page_ori_281"/>
      <p>
-      <title>
+      <head>
        <hi rend="bold"> LE<lb/> CINQUIESME<lb/> LIVRE DE LA<lb/> SECONDE PARTIE<lb/> D'ASTRÉE.</hi>
-      </title>
+      </head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;Astrée eust bien pris plaisir au discours de Hylas, si c'eust esté en une
@@ -5252,84 +5230,84 @@
      <pb xml:id="page_abs_302" n="page_ori_295"/>
      <p>
       <lb/>
-      <title>VOICY LES DOUZE TAbles des Loix d'Amour, que sur peine d'encourir sa disgrace, il
-       commande à tout Amant d'observer.</title>
+      <head>VOICY LES DOUZE TAbles des Loix d'Amour, que sur peine d'encourir sa disgrace, il
+       commande à tout Amant d'observer.</head>
       <lb/>
      </p>
      <p>
-      <title>Premiere Table.</title>
+      <head>Premiere Table.</head>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Qui veut estre parfait Amant,<lb/> Il faut qu'il ayme
        infiniment :<lb/> L'extreme Amour seule en est digne,<lb/> Aussi la mediocrité,<lb/> De
        trahison est plustost signe,<lb/> Que non pas de fidelité.</hi></p>
      <p>
-      <title>Deuxiesme Table.</title>
+      <head>Deuxiesme Table.</head>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Qu'il n'aime jamais qu'en un lieu,<lb/> Et que cest
        Amour soit un Dieu,<lb/> Qu'il adore pour toute chose :<lb/> Et n'ayant jamais qu'un objet,<lb/>
        <pb xml:id="page_abs_303" n="page_ori_296"/> Tous les bon heurs qu'il se propose<lb/> Soient pour
        cet unique sujet.</hi></p>
      <p>
-      <title>Troisiesme Table.</title>
+      <head>Troisiesme Table.</head>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Bornant en luy tous ses plaisirs,<lb/> Qu'il arreste
        tous ses desirs,<lb/> Au service de cette belle :<lb/> Voire qu'il cesse de s'aymer,<lb/>
        Sinon que d'autant qu'aymé d'elle,<lb/> Il se doit pour elle estimer.</hi></p>
      <p>
-      <title>Quatriesme Table.</title>
+      <head>Quatriesme Table.</head>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Que s'il a le soin d'estre mieux,<lb/> Ce ne soit que
        pour les beaux yeux,<lb/> Dont son Amour a pris naissance :<lb/> S'il souhaite plus de
        bon-heur,<lb/> Ce ne soit que pour l'esperance,<lb/> Qu'elle en recevra plus
       d'honneur.</hi></p>
      <p>
-      <title>Cinquiesme Table.</title>
+      <head>Cinquiesme Table.</head>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Telle soit son affection,<lb/> Que mesme la possession,<lb/>
        <pb xml:id="page_abs_304" n="page_ori_297"/> De ce qu'il de sire en son ame,<lb/> S'il doit
        l'acheter au mespris<lb/> De son honneur ou de sa Dame,<lb/> Luy soit moins chere que ce
        pris.</hi></p>
      <p>
-      <title>Sixiesme Table.</title>
+      <head>Sixiesme Table.</head>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Pour subjet qui se vienne offrir,<lb/> Qu'il ne puisse
        jamais souffrir.<lb/> La honte de la chose aimée :<lb/> Et si devant luy par desdain,<lb/>
        D'un mesdisant elle est blasmée :<lb/> Qu'il meure ou la venge soudain.</hi></p>
      <p>
-      <title>Septiesme Table.</title>
+      <head>Septiesme Table.</head>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Que son Amour fasse en effet,<lb/> Qu'il juge en elle
        tout parfait,<lb/> Et quoy que sans doute il l'estime :<lb/> Au prix de ce qu'il aymera,<lb/>
        Qu'il condamne comme d'un crime,<lb/> Celuy qui moins l'estimera.</hi></p>
      <pb xml:id="page_abs_305" n="page_ori_298"/>
      <p>
-      <title>Huictiesme Table.</title>
+      <head>Huictiesme Table.</head>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Qu'espris d'un Amour violant,<lb/> Il aille sans cesse
        brulant,<lb/> Et qu'il languisse, &amp; qu'il souspire,<lb/> Entre la vie &amp; le
        trespas,<lb/> Sans toutesfois qu'il puisse dire,<lb/> Ce qu'il veut, ou qu'il ne veut
        pas.</hi></p>
      <p>
-      <title>Neufiesme Table.</title>
+      <head>Neufiesme Table.</head>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Mesprisant son propre sejour,<lb/> Son Ame aille vivre
        d'Amour<lb/> Au sein de celle qu'il adore,<lb/> Et qu'en elle ainsi transformé,<lb/> Tout ce
        qu'elle aime &amp; qu'elle honore,<lb/> Soit aussi de luy bien aimé.</hi></p>
      <p>
-      <title>Dixiesme Table.</title>
+      <head>Dixiesme Table.</head>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Qu'il tienne les jours pour perdus,<lb/> Qui loing
        d'elle sont despendus,<lb/> Toute peine soit embrassée,<lb/> Pour estre en ce lieu desiré,<lb/>
        <pb xml:id="page_abs_306" n="page_ori_299"/> Et qu'il y soit de la pensée,<lb/> Si le corps en
        est separé.</hi></p>
      <p>
-      <title>Unziesme Table.</title>
+      <head>Unziesme Table.</head>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Que la perte de la raison,<lb/> Que les liens &amp; la
        prison,<lb/> Pour elle en son ame il cherisse ;<lb/> Et se plaise à s'y renfermer,<lb/> Sans
        attendre de son service,<lb/> Que le seul honneur de l'aimer.</hi></p>
      <p>
-      <title>Douziesme Table.</title>
+      <head>Douziesme Table.</head>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Qu'il ne puisse jamais penser,<lb/> Que son Amour doive
        passer :<lb/> Qui d'autre sorte le conseille,<lb/> Soit pour ennemy reputé,<lb/> Car c'est de
@@ -5356,9 +5334,9 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title>
+      <head>
        <hi rend="bold">MADRIGAL.</hi>
-      </title>
+      </head>
       <lb/>
      </p>
      <p>
@@ -5476,7 +5454,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">DIALOGUE</hi><lb/> SUR LES YEUX D'UN POURTRAIT,<lb/> STANCES.</title>
+      <head><hi rend="bold">DIALOGUE</hi><lb/> SUR LES YEUX D'UN POURTRAIT,<lb/> STANCES.</head>
       <lb/>
      </p>
      <p>
@@ -5509,16 +5487,16 @@
       semblables. C'est respondit Philis, de l'escriture de Celadon, ou je ne suis pas Philis. Il
       n'y a point de doute, repliqua Astrée, &amp; mesme je me ressouviens qu'il avoir escrit ce
       dernier vers.</p>
-     <p><title><hi rend="italic">Privé de mon vray bien ce bien faux me soulage</hi></title><lb/> au
+     <p><head><hi rend="italic">Privé de mon vray bien ce bien faux me soulage</hi></head><lb/> au
       tour d'un petit pourtrait qu'il avoit de moy, &amp; qu'il portoit au col dans une petite boite
       de cuir parfumé. Voyons, dit Philis, ce qu'il y a dans ce papier que je tiens en la main,
       &amp; que j'ay pris au pied de vostre image.</p>
      <p>
       <lb/>
       <hi rend="rule"/>
-      <title>
+      <head>
        <hi rend="bold">SONNET.</hi>
-      </title>
+      </head>
      </p>
      <lb/>
      <p>&#160;&#160;&#160;<hi rend="italic">Qui ne l'admireroit ! &amp; qui n'aimeroit mieux,<lb/>
@@ -5661,7 +5639,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">O. RAISON</hi><lb/> A LA DÉESSE ASTRÉE.</title>
+      <head><hi rend="bold">O. RAISON</hi><lb/> A LA DÉESSE ASTRÉE.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Grande &amp; toute-puissante Déesse, encore que vos
@@ -5702,20 +5680,20 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title>
+      <head>
        <hi rend="italic"><hi rend="bold">TABLES D'AMOUR</hi><lb/> falsifiées par l'inconstant<lb/>
         Hylas.</hi>
-      </title>
+      </head>
       <lb/>
      </p>
      <p>
-      <title>Premiere Table.</title>
+      <head>Premiere Table.</head>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Qui veut estre parfait Amant,<lb/> Qu'il n'ayme point
        infiniment :<lb/> Telle amitié n'en est pas digne,<lb/> Puis qu'au rebours l'extremité,<lb/>
        De l'imprudence est plustost signe,<lb/> Que non pas de fidelité.</hi></p>
      <p>
-      <title>Deuxiesme Table.</title>
+      <head>Deuxiesme Table.</head>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Qu'il ayme &amp; serve en divers lieux,<lb/> Et qu'il
        tourne tousjours les yeux,<lb/> Dessus quelque nouvelle chose,<lb/> Aymant ainsi divers
@@ -5723,65 +5701,65 @@
       sujets.</hi></p>
      <pb xml:id="page_abs_327" n="page_ori_320"/>
      <p>
-      <title>Troisiesme Table.</title>
+      <head>Troisiesme Table.</head>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Ne bornant jamais ses desirs,<lb/> Qu'il cherche par
        tout des plaisirs,<lb/> Faisant tousjours amour nouvelle,<lb/> Voire qu'il cesse de
        l'aymer,<lb/> Sinon que d'autant qu'aymé d'elle,<lb/> Pour luy seul il doit
       l'estimer.</hi></p>
      <p>
-      <title>Quatriesme Table.</title>
+      <head>Quatriesme Table.</head>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Que s'il a du soin d'estre mieux,<lb/> Ce soit pour
        plaire à tous les yeux,<lb/> Des belles de sa cognoissance :<lb/> S'il souhaitte quelque bon
        heur,<lb/> Ce ne soit que pour l'esperance,<lb/> D'estre plus absolu Seigneur.</hi></p>
      <p>
-      <title>Cinquiesme Table.</title>
+      <head>Cinquiesme Table.</head>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Telle soit son affection,<lb/> Que mesme la
        possession,<lb/> De ce qu'il desire en son ame,<lb/>
        <pb xml:id="page_abs_328" n="page_ori_321"/> S'il doit l'acheter au mespris<lb/> De son honneur
        ou de sa Dame,<lb/> Il l'a vueille bien à ce prix.</hi></p>
      <p>
-      <title>Sixiesme Table.</title>
+      <head>Sixiesme Table.</head>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Pour sujet qui se vienne offrir,<lb/> Qu'il ne puisse
        jamais souffrir,<lb/> Querelle pour la chose aymée.<lb/> Que si devant luy par desdain,<lb/>
        D'un mesdisant elle est blasmée,<lb/> Qu'il y consente tout soudain.</hi></p>
      <p>
-      <title>Septiesme Table.</title>
+      <head>Septiesme Table.</head>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Que l'Amour permette en effait,<lb/> Que son jugement
        soit parfait,<lb/> Et que dans son ame il l'estime,<lb/> Toute telle qu'elle sera,<lb/>
        Condamnant comme d'un grand crime,<lb/> Celuy qui p[lus] l'estimera.</hi></p>
      <p>
-      <title>Huictiesme Table.</title>
+      <head>Huictiesme Table.</head>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Qu'espris d'un Amour assez lent,<lb/>
        <pb xml:id="page_abs_329" n="page_ori_322"/> Il n'aille sans cesse bruslant,<lb/> Ny qu'il
        languisse ou qu'il souspire,<lb/> Entre la vie &amp; le trespas :<lb/> Mais que tousjours il
        puisse dire,<lb/> Ce qu'il veut, ou qu'il ne veut pas.</hi></p>
      <p>
-      <title>Neufiesme Table.</title>
+      <head>Neufiesme Table.</head>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Estimant son propre sejour,<lb/> Son ame en soy vive
        d'Amour,<lb/> Et non en celle qu'il adore,<lb/> Sans qu'en elle estant transformé,<lb/> Tout
        ce qu'elle ayme &amp; qu'elle honore,<lb/> Soit aussi de luy bien aymé.</hi></p>
      <p>
-      <title>Dixiesme Table.</title>
+      <head>Dixiesme Table.</head>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Qu'il ne tienne pas pour perdus,<lb/> Les jours loin
        d'elle despendus,<lb/> Si la peine n'est surpassée,<lb/> Par le bien qu'il s'est figuré,<lb/>
        Mais se contente en sa pensée,<lb/> Si le corps en est separé.</hi></p>
      <pb xml:id="page_abs_330" n="page_ori_223"/>
      <p>
-      <title>Unziesme Table.</title>
+      <head>Unziesme Table.</head>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Qu'il se remette à la raison,<lb/> Que ses liens &amp;
        sa prison,<lb/> Pour elle bien tost il finisse :<lb/> Mesprisant de s'y renfermer,<lb/> S'il
        n'attend rien de son service,<lb/> Que le vain honneur de l'aimer.</hi></p>
      <p>
-      <title>Douziesme Table.</title>
+      <head>Douziesme Table.</head>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Qu'il ne puisse jamais penser,<lb/> Que telle amour
        n'ait à passer :<lb/> Qui d'autre sorte le conseille,<lb/> Soit pour ennemy reputé,<lb/> Car
@@ -6022,9 +6000,9 @@
     <div1 xml:id="page_ASTREE_1614_0206" n="sixiesme" type="livre">
      <pb xml:id="page_abs_345" n="page_ori_339"/>
      <p>
-      <title>
+      <head>
        <hi rend="bold"> LE<lb/> SIXIESME<lb/> LIVRE DE LA<lb/> SECONDE PARTIE<lb/> d'Astrée.</hi>
-      </title>
+      </head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;Encores que la nuict fut desja bien fort avancée, lors que ces Bergeres se
@@ -6062,7 +6040,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">HISTOIRE</hi><lb/> DE DAMON ET DE MADONTHE.</title>
+      <head><hi rend="bold">HISTOIRE</hi><lb/> DE DAMON ET DE MADONTHE.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;Il est tres à propos, sage &amp; discrete troupe, que de nuict je vous
@@ -6168,7 +6146,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">LETTRE</hi><lb/> DE DAMON A MADONTHE.</title>
+      <head><hi rend="bold">LETTRE</hi><lb/> DE DAMON A MADONTHE.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">C'est bien temerité d'aymer tant de perfections, mais
@@ -6317,9 +6295,9 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title>
+      <head>
        <hi rend="bold">SONNET.</hi>
-      </title>
+      </head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Qu'envieux de mon bien, il parle ou qu'il
@@ -6527,7 +6505,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">LETTRE</hi><lb/> DE THERSANDRE A<lb/> MADONTHE.</title>
+      <head><hi rend="bold">LETTRE</hi><lb/> DE THERSANDRE A<lb/> MADONTHE.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Comme contraint, &amp; non pas comme m'en estimant
@@ -6945,7 +6923,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">DEFFY DE DAMON, A</hi><lb/> THERSANDRE.</title>
+      <head><hi rend="bold">DEFFY DE DAMON, A</hi><lb/> THERSANDRE.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Si l'offence que j'ay receuë de vous n'estoit de celles
@@ -7061,7 +7039,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">LETTRE</hi><lb/> DE DAMON A MADONTHE.</title>
+      <head><hi rend="bold">LETTRE</hi><lb/> DE DAMON A MADONTHE.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Madame, puis que la connoissance que vous eustes hier de
@@ -7931,9 +7909,9 @@
     <div1 xml:id="page_ASTREE_1614_0207" n="septiesme" type="livre">
      <pb xml:id="page_abs_459" n="page_ori_453"/>
      <p>
-      <title>
+      <head>
        <hi rend="bold"> LE<lb/> SEPTIESME<lb/> LIVRE DE LA<lb/> SECONDE PARTIE<lb/> d'Astrée.</hi>
-      </title>
+      </head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;Mais il est temps de revenir à Celadon que nous avons si longuement laissé
@@ -8075,7 +8053,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">LETTRE</hi><lb/> D'ASTRÉE A CELADON.</title>
+      <head><hi rend="bold">LETTRE</hi><lb/> D'ASTRÉE A CELADON.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Que vous m'aimiez, je le croy, &amp; vous le pouvez
@@ -8096,7 +8074,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">LETTRE</hi><lb/> D'ASTRÉE A CELADON.</title>
+      <head><hi rend="bold">LETTRE</hi><lb/> D'ASTRÉE A CELADON.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">N'advouerez vous pas à ce coup, mon fils, que je vous
@@ -8119,7 +8097,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">LETTRE</hi><lb/> D'ASTRÉE A CELADON.</title>
+      <head><hi rend="bold">LETTRE</hi><lb/> D'ASTRÉE A CELADON.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Il vous sied bien, mon fils, d'avoir moins de courage
@@ -8298,7 +8276,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">HISTOIRE</hi><lb/> DE GALATHÉE.</title>
+      <head><hi rend="bold">HISTOIRE</hi><lb/> DE GALATHÉE.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;Vous desirez donc sçavoir, Celadon, de quelle façon j'ay vescu depuis
@@ -8717,7 +8695,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">SONNET.</hi><lb/> Qu'il est jaloux avec raison.</title>
+      <head><hi rend="bold">SONNET.</hi><lb/> Qu'il est jaloux avec raison.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Amour qui dans mon cœur vas lisant mes pensées<lb/> Dans
@@ -8742,79 +8720,79 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">STANCES.</hi><lb/> MONDE D'AMOVR.</title>
+      <head><hi rend="bold">STANCES.</hi><lb/> MONDE D'AMOVR.</head>
       <lb/>
      </p>
      <p>
-      <title>I</title>
+      <head>I</head>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Amour grand Artisan a fait un autre Monde,<lb/> La terre
        c'est ma foy, qui n'a nul mouvement,<lb/> Et comme l'Univers sur la terre se fonde,<lb/> Ma
        foy de ce beau Monde est le seur fondement.</hi></p>
      <p>
-      <title>II.</title>
+      <head>II.</head>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Que si quelques soupçons d'une jalouse guerre<lb/>
        Esbranlent en mon cœur cette constante Foy,<lb/> C'est comme quand les vents sont enclos dans
        la terre<lb/> Qui par des tremblements la remplissent d'effroy.</hi></p>
      <pb xml:id="page_abs_506" n="page_ori_500"/>
      <p>
-      <title>III</title>
+      <head>III</head>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Mes pleurs sont l'ocean, aussi tarir mes larmes<lb/>
        N'est un moindre dessein que d'espuiser la mer :<lb/> La peur de n'estre aymé cause de tant
        d'allarmes,<lb/> C'est l'orage qui fait cette mer escumer.</hi></p>
      <p>
-      <title>IV</title>
+      <head>IV</head>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Cette mer est amere, encores que ses ondes,<lb/> Ne
        soient qu'un grand amas des fleuves qui sont doux ;<lb/> Plus amers sont mes pleurs, &amp;
        leurs sources fecondes,<lb/> Plus douces à mon cœur comme venant de vous.</hi></p>
      <p>
-      <title>V</title>
+      <head>V</head>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">L'air c'est ma volonté qui libre en sa puissance,<lb/> A
        l'entour de ma foy va tousjours se mouvant,<lb/> Les vents sont mes desirs ardents dés leur
        naissance,<lb/> Dont s'esmeut mon vouloir comme l'air par le vent.</hi></p>
      <p>
-      <title>VI</title>
+      <head>VI</head>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Aussi comme les vents diversement fremissent,<lb/> Soubs
        des rochers affreux, dont ils n'osent partir,<lb/> De mesme mes desirs au respect
        obeissent,<lb/> Et dans mon cœur enclos n'en oseroient sortir.</hi></p>
      <p>
-      <title>VII</title>
+      <head>VII</head>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Cest invisible Feu qui les airs environne,<lb/> C'est la
        flame secrette où je me vay bruslant,<lb/> Et comme ce grand Feu ne se voit de personne,<lb/>
        A chascun mon ardeur je vay dissimulant.</hi></p>
      <p>
-      <title>VIII.</title>
+      <head>VIII.</head>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Comme l'on voit qu'au Feu tout est reduit en flame,<lb/>
        Et que source de vie il ne peut rien nourrir,<lb/> De mesme les pensers qui sont dedans mon
        ame :<lb/> s'ils ne bruslent soudain, doivent soudain mourir.</hi></p>
      <p>
-      <title>IX.</title>
+      <head>IX.</head>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">La Lune c'est l'espoir qui croist &amp; diminuë,<lb/> De
        vous seule empruntant les rais dont il reluit,<lb/>
        <pb xml:id="page_abs_507" n="page_ori_501"/> Mais lors que sans lumiere elle erre dans la
        nuë,<lb/> C'est mon vague Penser, qui sans raison vous suit.</hi></p>
      <p>
-      <title>X</title>
+      <head>X</head>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Le Soleil c'est vostre œil lumiere sans seconde,<lb/>
        Bel œil Soleil d'amour, qui nous esclaire à tous :<lb/> Que si l'autre Soleil donne la vie au
        Monde,<lb/> Quel Amant peut nier de la tenir de vous ?</hi></p>
      <p>
-      <title>XI.</title>
+      <head>XI.</head>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Puis de tant de beautez Amour vous a pourveuë<lb/> Que
        son jour c'est vous veoir, sa nuict ne vous voir pas<lb/> Si ce n'est que d'avoir le bien de
        vostre veuë,<lb/> Nous soit plustost la vie, &amp; l'autre le trespas.</hi></p>
      <p>
-      <title>XII.</title>
+      <head>XII.</head>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">L'esté, c'est le transport, dont le sang me
        boüillonne,<lb/> Et l'Hyver, c'est la peur, qui me gelle en tout temps,<lb/> Mais que me vaut
@@ -8842,8 +8820,8 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">SONNET.</hi><lb/> Que d'adorer seulement Diane, il est trop
-       heureux</title>
+      <head><hi rend="bold">SONNET.</hi><lb/> Que d'adorer seulement Diane, il est trop
+       heureux</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Silvandre qui te plains comme d'une injustice,<lb/> Qu'à
@@ -8982,9 +8960,9 @@
     <div1 xml:id="page_ASTREE_1614_0208" n="huictiesme" type="livre">
      <pb xml:id="page_abs_517" n="page_ori_511"/>
      <p>
-      <title>
+      <head>
        <hi rend="bold">LE<lb/> HUICTIESME<lb/> LIVRE DE LA<lb/> SECONDE PARTIE<lb/> d'Astrée.</hi>
-      </title>
+      </head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;Quelque dessein que Leonide eust fait de n'avoir plus d'amour pour
@@ -9129,9 +9107,9 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title>
+      <head>
        <hi rend="bold">ORACLE.</hi>
-      </title>
+      </head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">A vous sage Adamas le Ciel l'a destiné,<lb/> Surmontez
@@ -9159,7 +9137,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">SONNET.</hi><lb/> Il se compare à la riviere de Lignon.</title>
+      <head><hi rend="bold">SONNET.</hi><lb/> Il se compare à la riviere de Lignon.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Riviere que j'accrois couché parmy ces fleurs,<lb/> Je
@@ -9751,7 +9729,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">LETTRE</hi><lb/> DE CELADON A LA BERGERE<lb/> ASTRÉE.</title>
+      <head><hi rend="bold">LETTRE</hi><lb/> DE CELADON A LA BERGERE<lb/> ASTRÉE.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Si l'occasion de vostre venuë en ce lieu où le reste de
@@ -9787,9 +9765,9 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title>
+      <head>
        <hi rend="bold">SONNET.</hi>
-      </title>
+      </head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">La belle dont l'Amour me prive de repos,<lb/> Reposoit
@@ -10058,37 +10036,37 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">DIALOGUE.</hi><lb/> PALEMON, DORIS.</title>
+      <head><hi rend="bold">DIALOGUE.</hi><lb/> PALEMON, DORIS.</head>
       <lb/>
      </p>
      <p>
-      <title>I</title>
+      <head>I</head>
      </p>
      <p>PAL. <hi rend="italic">Si j'ayme autre que vous que je meure &amp; soudain<lb/> D'eternelle
        douleur ceste mort soit suivie.</hi><lb/> DOR. <hi rend="italic">Que je puisse mourir d'un
        tourment inhumain,<lb/> Si d'aymer rien que moy je prens jamais envie.</hi></p>
      <p>
-      <title>II.</title>
+      <head>II.</head>
      </p>
      <p>P. <hi rend="italic">Aimez ou n'aymez point, tousjours vous adorant,<lb/> Vous verrez que ma
        foy se rendra plus extreme.</hi><lb/> D. <hi rend="italic">Aymez ou n'aimez point, il m'est
        indifferent,<lb/> Mais vous ne verrez point que jamais je vous ayme.</hi></p>
      <p>
-      <title>III.</title>
+      <head>III.</head>
      </p>
      <p>P. <hi rend="italic">Je vaincray vous aymant toute difficulté<lb/>
        <pb xml:id="page_abs_580" n="page_ori_574"/> Encor qu'à mon dessein le Ciel mesme
       s'oppose.</hi><lb/> D. <hi rend="italic">Mon cœur est tellement de l'amour rebuté,<lb/> Que
        pour ne vous aymer il vaincra toute chose.</hi></p>
      <p>
-      <title>IIII.</title>
+      <head>IIII.</head>
      </p>
      <p>P. <hi rend="italic">Si le Ciel estoit juste il puniroit en vous,<lb/> Cet orgueil qui vous
        fait mespriser tous les hommes.</hi><lb/> D. <hi rend="italic">Mais tant s'en faut le Ciel
        estant tres juste en nous,<lb/> Nous detient l'un &amp; l'autre au dessein où nous
        sommes.</hi></p>
      <p>
-      <title>V.</title>
+      <head>V.</head>
      </p>
      <p>P. <hi rend="italic">Quand il veut qu'on vous aime il est juste en ce point,<lb/> Mais
        injuste, en ostant à l'Amour l'esperance.</hi><lb/> D. <hi rend="italic">S'il veut que vous
@@ -10180,8 +10158,8 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">AUX.</hi><lb/> DIEUX MANES.<lb/> ET<lb/> A. La Memoire Eternelle.<lb/>
-       Du. Plus. Aymable Berger.<lb/> De Lignon.</title>
+      <head><hi rend="bold">AUX.</hi><lb/> DIEUX MANES.<lb/> ET<lb/> A. La Memoire Eternelle.<lb/>
+       Du. Plus. Aymable Berger.<lb/> De Lignon.</head>
       <lb/>
      </p>
      <p>Amour qui. Par. Imprudence. Fut. Cause.<lb/> De. La. Mort. De Celadon<lb/> Apres. Avoir Noyé
@@ -10280,9 +10258,9 @@
     <div1 xml:id="page_ASTREE_1614_0209" n="neufiesme" type="livre">
      <pb xml:id="page_abs_591" n="page_ori_585"/>
      <p>
-      <title>
+      <head>
        <hi rend="bold"> LE<lb/> NEUFIESME<lb/> LIVRE DE LA<lb/> SECONDE PARTIE<lb/> d'Astrée.</hi>
-      </title>
+      </head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;Cependant que Leonide, &amp; la venerable Chrisante, alloient cherchant
@@ -10305,7 +10283,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">SONNET.</hi><lb/> Qu'il ne faut point aymer sans estre aymé.</title>
+      <head><hi rend="bold">SONNET.</hi><lb/> Qu'il ne faut point aymer sans estre aymé.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Quand je vois un amant transi,<lb/> Qui languit d'un
@@ -10349,7 +10327,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">HISTOIRE</hi><lb/> DE DORIS ET PALEMON</title>
+      <head><hi rend="bold">HISTOIRE</hi><lb/> DE DORIS ET PALEMON</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;J'ay tousjours eu ceste opinion, grande &amp; sage Nymphe, &amp; vous
@@ -10551,7 +10529,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">RESPONCE</hi><lb/> DU BERGER PALEMON.</title>
+      <head><hi rend="bold">RESPONCE</hi><lb/> DU BERGER PALEMON.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;Grande Nymphe, je cognoy bien estre tres-veritable, ce que j'ay tousjours
@@ -10795,7 +10773,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">HISTOIRE</hi><lb/> DU BERGER ADRASTE.</title>
+      <head><hi rend="bold">HISTOIRE</hi><lb/> DU BERGER ADRASTE.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;Je vous conjure grande &amp; puissante Nimphe, &amp; vous sage &amp;
@@ -10959,9 +10937,9 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title>
+      <head>
        <hi rend="bold">Jugement de la Nymphe Leonide.</hi>
-      </title>
+      </head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;Encores que nous remarquions en ces differents, qui sont entre nos mains
@@ -11346,9 +11324,9 @@
     <div1 xml:id="page_ASTREE_1614_0210" n="dixiesme" type="livre">
      <pb xml:id="page_abs_652" n="page_ori_647"/>
      <p>
-      <title>
+      <head>
        <hi rend="bold"> LE<lb/> DIXIESME<lb/> LIVRE DE LA<lb/> SECONDE PARTIE<lb/> d'Astrée.</hi>
-      </title>
+      </head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;Quant à Leonide, elle marcha avec plus de diligence depuis qu'elle eust
@@ -11384,9 +11362,9 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title>
+      <head>
        <hi rend="bold">STANCES.</hi>
-      </title>
+      </head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Belle onde de Lignon que j'enfle de mes pleurs,<lb/>
@@ -11531,9 +11509,9 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title>
+      <head>
        <hi rend="bold">MADRIGAL.</hi>
-      </title>
+      </head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Dans les tristes recoins de ceste roche obscure,<lb/>
@@ -11664,9 +11642,9 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title>
+      <head>
        <hi rend="bold">STANCES.</hi>
-      </title>
+      </head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Precipices, rochers, montagnes sourcilleuses,<lb/>
@@ -11688,9 +11666,9 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title>
+      <head>
        <hi rend="bold">SONNET.</hi>
-      </title>
+      </head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Ondes qui souslevez vos voutes vagabondes,<lb/> Contre
@@ -11714,7 +11692,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">SONNET.</hi><lb/> Des Montagnes &amp; Rochers à un Amant.</title>
+      <head><hi rend="bold">SONNET.</hi><lb/> Des Montagnes &amp; Rochers à un Amant.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Ces vieux Rochers tous nuds, glissants en precipice<lb/>
@@ -11739,7 +11717,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">HISTOIRE</hi><lb/> D'URSACE ET D'OLIMBRE.</title>
+      <head><hi rend="bold">HISTOIRE</hi><lb/> D'URSACE ET D'OLIMBRE.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;Scachez donc Madame, qu'Alcippe ayant fait dessein de m'eslongner
@@ -11764,7 +11742,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">SONNET.</hi><lb/> S'il doit mourir ou vivre.</title>
+      <head><hi rend="bold">SONNET.</hi><lb/> S'il doit mourir ou vivre.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Mon esprit combatu diversement chancelle,<lb/> Dois-je
@@ -11985,8 +11963,8 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title>SUITTE DE<lb/>
-       <hi rend="bold">L'HISTOIRE</hi><lb/> DE LINDAMOR.</title>
+      <head>SUITTE DE<lb/>
+       <hi rend="bold">L'HISTOIRE</hi><lb/> DE LINDAMOR.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;Encores ma sœur, qu'il ne me faille point de subjet pour me convier de
@@ -12025,7 +12003,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">LETTRE</hi><lb/> DE LINDAMOR A LEONIDE.</title>
+      <head><hi rend="bold">LETTRE</hi><lb/> DE LINDAMOR A LEONIDE.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Vous croyez que ma presence me sera utile, &amp; je
@@ -12076,7 +12054,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">LETTRE</hi><lb/> DE LINDAMOR A GALATHÉE.</title>
+      <head><hi rend="bold">LETTRE</hi><lb/> DE LINDAMOR A GALATHÉE.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Puis que ce malheureux esloignement outre l'honneur de
@@ -12222,7 +12200,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">LETTRE</hi><lb/> DE LEONIDE A LINDAMOR.</title>
+      <head><hi rend="bold">LETTRE</hi><lb/> DE LEONIDE A LINDAMOR.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Si autrefois vous avez deu esperer en moy, je vous dis
@@ -12391,9 +12369,9 @@
     <div1 xml:id="page_ASTREE_1614_0211" n="unziesme" type="livre">
      <pb xml:id="page_abs_710" n="page_ori_705"/>
      <p>
-      <title>
+      <head>
        <hi rend="bold"> LE<lb/> UNZIESME<lb/> LIVRE DE LA<lb/> SECONDE PARTIE<lb/> d'Astrée.</hi>
-      </title>
+      </head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;Douze ou quinze jours s'estoyent passez depuis qu'Alexis avoit laissé sa
@@ -12565,8 +12543,8 @@
       jure que je ressens sa perte. Mais dictes moy Licidas, comment est elle advenuë ?</p>
      <p>
       <lb/>
-      <title>SUITTE DE<lb/>
-       <hi rend="bold">L'HISTOIRE</hi><lb/> DE CELIDÉE.</title>
+      <head>SUITTE DE<lb/>
+       <hi rend="bold">L'HISTOIRE</hi><lb/> DE CELIDÉE.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;Je pensois, Madame, respondit Licidas que vous eussiez sceu sa pitoyable
@@ -12599,9 +12577,9 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title>
+      <head>
        <hi rend="bold">MADRIGAL.</hi>
-      </title>
+      </head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Que je vive &amp; qu'on la possede,<lb/> N'est ce point
@@ -13173,7 +13151,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">HISTOIRE</hi><lb/> DE LA JALOUSIE DE<lb/> LICIDAS</title>
+      <head><hi rend="bold">HISTOIRE</hi><lb/> DE LA JALOUSIE DE<lb/> LICIDAS</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;Vous sçavez, Madame, que l'ordinaire conversation qui estoit entre Philis
@@ -13531,7 +13509,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">L'HISTOIRE</hi><lb/> DE PLACIDIE.</title>
+      <head><hi rend="bold">L'HISTOIRE</hi><lb/> DE PLACIDIE.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;Theodose premier de ce nom, Empereur d'Orient l'un des plus grands Princes
@@ -14034,9 +14012,9 @@
     <div1 xml:id="page_ASTREE_1614_0212" n="douziesme" type="livre">
      <pb xml:id="page_abs_806" n="page_ori_801"/>
      <p>
-      <title>
+      <head>
        <hi rend="bold"> LE<lb/> DOUZIESME<lb/> LIVRE DE LA<lb/> SECONDE PARTIE<lb/> d'Astrée.</hi>
-      </title>
+      </head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;Puis qu'il vous plaist sage Adamas, &amp; vous grande Nimphe, d'oüir la
@@ -14182,7 +14160,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">HISTOIRE</hi><lb/> D'EUDOXE, VALENTINIAN,<lb/> ET URSACE.</title>
+      <head><hi rend="bold">HISTOIRE</hi><lb/> D'EUDOXE, VALENTINIAN,<lb/> ET URSACE.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;Vostre desir est trop juste, courtois Silvandre (il avoit apris que je
@@ -14372,8 +14350,8 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">SONNET</hi><lb/> D'une mousche sur les lévres de sa<lb/> Dame
-       endormie.</title>
+      <head><hi rend="bold">SONNET</hi><lb/> D'une mousche sur les lévres de sa<lb/> Dame
+       endormie.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Cependant que Madame à l'ombre se repose,<lb/> Et trompe
@@ -14520,7 +14498,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">SONNET</hi><lb/> Sur le départ d'un Rival.<lb/></title>
+      <head><hi rend="bold">SONNET</hi><lb/> Sur le départ d'un Rival.<lb/></head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Jamais contre les rocs tant de flots amassez,<lb/>
@@ -14775,7 +14753,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">SONNET</hi><lb/> SUR UN ADIEU.</title>
+      <head><hi rend="bold">SONNET</hi><lb/> SUR UN ADIEU.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">J'estois pour mon mal heur prest à partir des
@@ -15201,7 +15179,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">LETTRE</hi><lb/> D'EUDOXE A URSACE.</title>
+      <head><hi rend="bold">LETTRE</hi><lb/> D'EUDOXE A URSACE.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Il n'appartient qu'à mon Chevalier, d'estonner ses
@@ -15608,7 +15586,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">LETTRE</hi><lb/> D'EUDOXE A URSACE.</title>
+      <head><hi rend="bold">LETTRE</hi><lb/> D'EUDOXE A URSACE.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Si Eudoxe n'est miserable, il n'y en eust jamais au
@@ -15984,8 +15962,8 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">REQUESTE</hi><lb/> Qui se presente au conseil des six cens, demandant
-       le Poison.</title>
+      <head><hi rend="bold">REQUESTE</hi><lb/> Qui se presente au conseil des six cens, demandant
+       le Poison.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Le souverain Conseil des six cens, est requis d'accorder
@@ -16017,9 +15995,9 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title>
+      <head>
        <hi rend="bold">DEMANDE D'URSACE.</hi>
-      </title>
+      </head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Je veux mourir, Seigneurs Massiliens, parce que la vie
@@ -16040,9 +16018,9 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title>
+      <head>
        <hi rend="bold">DEMANDE D'OLYMBRE.</hi>
-      </title>
+      </head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Je veux mourir, Seigneurs Massiliens, pour les mesmes
@@ -16077,7 +16055,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title><hi rend="bold">JUGEMENT</hi><lb/> Du Conseil des six cens.</title>
+      <head><hi rend="bold">JUGEMENT</hi><lb/> Du Conseil des six cens.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Sur les requestes à nous presentées par ces deux
@@ -16167,7 +16145,7 @@
      <p>
       <hi rend="rule"/>
       <lb/>
-      <title>EPITAPHE<lb/> D'UN HOMME HEUREUX.</title>
+      <head>EPITAPHE<lb/> D'UN HOMME HEUREUX.</head>
       <lb/>
      </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Enfant chery de tous, nourry de pere &amp; mere,<lb/>
@@ -16330,17 +16308,17 @@
       laissoit jouyr du bien qui estoit en leur puissance, s'il leur est permis de le sçavoir
       recognoistre.</p>
      <p>
-      <title>FIN<lb/>
-       <hi rend="italic">De la deuxiesme partie d'Astrée de Messire Honoré d'Urfé.</hi></title>
+      <head>FIN<lb/>
+       <hi rend="italic">De la deuxiesme partie d'Astrée de Messire Honoré d'Urfé.</hi></head>
      </p>
     </div1>
     <div1 n="Table des histoires" xml:id="table_histoire" type="table">
      <pb xml:id="page_abs_938" n="page_ori_LIM8"/>
      <p>
       <hi rend="rule"/>
-      <title>TABLE DES<lb/>
+      <head>TABLE DES<lb/>
        <hi rend="bold">HISTOIRES</hi><lb/> CONTENVES EN LA SECONDE PARTIE D'ASTRÉE, de Messire
-       Honoré d'Urfé.</title>
+       Honoré d'Urfé.</head>
       <lb/>
      </p>
      <p>Histoire de Celidée, Thamyre &amp; Calidon 35<lb/> Harangue du Berger Calidon. 68<lb/>
@@ -16359,7 +16337,7 @@
     </div1>
     <div1 n="Table des lettres" xml:id="table_lettre" type="table">
      <p>
-      <title>TABLE DES LETTRES.</title>
+      <head>TABLE DES LETTRES.</head>
      </p>
      <p>Lettre à la plus aymée &amp; belle Bergere. 151<lb/> Let de Dorinde à Hylas. 246<lb/> Autre
       let. de Dorinde à Hylas. 247<lb/> Autre let. de Dorinde à Hylas. 245<lb/> Let. de Florice à
@@ -16371,7 +16349,7 @@
       687<lb/> Let. de Leonide à Lindamor. 695<lb/> Let. d'Eudoxe à Ursace. 868<lb/> Autre let.
       d'Eudoxe à Ursace. 892</p>
      <p>
-      <title>TABLE DES PŒSIES.</title>
+      <head>TABLE DES PŒSIES.</head>
      </p>
      <p>Amour ne brusle plus. 21<lb/> Amour qui dans mon cœur. 498<lb/> Amour grand artisan.
       499<lb/> A vous sage Adamas. 519<lb/> Bel astre flamboyant. 115<lb/> Belle de mes desirs. 224
@@ -16387,13 +16365,13 @@
       vois un amant. 586<lb/> Qui veut estre parfait Amant 319</p>
      <p>
       <hi rend="italic">
-       <title>Tables d'Amour.</title>
+       <head>Tables d'Amour.</head>
       </hi>
      </p>
      <p>Qui veut estre parfait Amant, 295</p>
      <p>
       <hi rend="italic">
-       <title>Tables d'Amour falcifiées.</title>
+       <head>Tables d'Amour falcifiées.</head>
       </hi>
      </p>
      <p>Que je vive, &amp; qu'on le possede. 717<lb/> Riviere que j'accrois. 521<lb/> Sont ce,
@@ -16405,7 +16383,7 @@
      <p>
       <hi rend="rule"/>
       <hi rend="italic">
-       <title>Extraict du Privilege du Roy.</title>
+       <head>Extraict du Privilege du Roy.</head>
       </hi>
      </p>
      <p>&#160;&#160;&#160;Par lettres Patentes de sa majesté, il est permis à Jean Micard, &amp;
