@@ -4005,24 +4005,31 @@
       sorte.</p>
      <pb xml:id="page_abs_227" n="page_ori_220"/>
 
-     <p>
-      <hi rend="rule"/>
-      <lb/>
-      <head>
-       <hi rend="bold">SONNET.</hi>
-      </head>
-      <lb/>
-     </p>
-     <p>&#160;&#160;&#160;<hi rend="italic">Dorinde se mocqua de vous,<lb/> Quand elle vous tint ce
-       langage,<lb/> Sçachant bien qu'on peut sans outrage,<lb/> Promettre toute chose aux
-       fous.</hi></p>
-     <p>&#160;&#160;&#160;<hi rend="italic">Ou la vanité de vostre ame,<lb/> Vous fait vanter
-       qu'elle l'a dit,<lb/> Pour monstrer d'avoir du credit,<lb/> Aupres d'une si belle
-      Dame.</hi></p>
-     <p>&#160;&#160;&#160;<hi rend="italic">Mais soit qu'elle ait fait ce serment[,]<lb/> Pour
-       chasser un fascheux Amant,<lb/> Promettre est un doux artifice :</hi></p>
-     <p>&#160;&#160;&#160;<hi rend="italic">Et quand on l'en devroit punir,<lb/> Elle aymeroit mieux
-       le supplice,<lb/> Que non pas un tel souvenir.</hi><lb/></p>
+     <div3 type="poem">
+      <head><hi rend="bold">SONNET.</hi></head> 
+      <lg>
+     <l>&#160;&#160;&#160;<hi rend="italic">Dorinde se mocqua de vous,</hi></l> 
+          <l><hi rend="italic">Quand elle vous tint ce langage,</hi></l> 
+          <l><hi rend="italic">Sçachant bien qu'on peut sans outrage,</hi></l> 
+          <l><hi rend="italic">Promettre toute chose aux fous.</hi></l>  
+      </lg>
+         <lg>
+     <l>&#160;&#160;&#160;<hi rend="italic">Ou la vanité de vostre ame,</hi></l>
+             <l><hi rend="italic">Vous fait vanter qu'elle l'a dit,</hi></l>  
+             <l><hi rend="italic">Pour monstrer d'avoir du credit,</hi></l> 
+             <l><hi rend="italic">Aupres d'une si belle Dame.</hi></l> 
+         </lg>
+         <lg>
+     <l>&#160;&#160;&#160;<hi rend="italic">Mais soit qu'elle ait fait ce serment[,]</hi></l> 
+         <l><hi rend="italic">Pour chasser un fascheux Amant,</hi></l>
+         <l><hi rend="italic">Promettre est un doux artifice :</hi></l>
+         </lg>
+         <lg>
+     <l>&#160;&#160;&#160;<hi rend="italic">Et quand on l'en devroit punir,</hi></l> 
+             <l><hi rend="italic">Elle aymeroit mieux le supplice,</hi></l> 
+             <l><hi rend="italic">Que non pas un tel souvenir.</hi></l> 
+     </lg>
+     </div3>
      <p>&#160;&#160;&#160;Cette repartie faite si à propos par Florice me fut tant agreable, que dés
       lors je me resolus de l'aimer, &amp; la joindre à Palinice &amp; à Cyrcéne, &amp; presque en
       mesme temps costoyant un beau pré, elles furent toutes d'avis de mettre pied à terre, pour
@@ -4081,24 +4088,31 @@
       que je vous vay dire, pour asseurer Florice, que tout ce que je luy avois dit estoit
       veritable.</p>
      <pb xml:id="page_abs_231" n="page_ori_224"/>
-     <p>
-      <hi rend="rule"/>
-      <lb/>
+     <div3 type="poem">
       <head><hi rend="bold">SONNET.</hi><lb/> SERMENTS AMOUREUX.</head>
-      <lb/>
-     </p>
-     <p>&#160;&#160;&#160;<hi rend="italic">Belle de mes desirs, vous estes le trespas.<lb/> Et
-       c'est vous toutefois que seule je desire,<lb/> J'en jure vos beaux yeux que le Soleil
-       admire,<lb/> Et j'en jure mon cœur, surpris de vos appas.</hi></p>
-     <p>&#160;&#160;&#160;<hi rend="italic">J'en jure vos douceurs qui sont tout mon soulas,<lb/>
-       J'en jure vos desdains, qui sont tout mon martyre,<lb/> J'en jure mes douleurs tesmoins de
-       vostre empire,<lb/> J'en jure ces plaisirs qu'avoir je ne puis pas.</hi></p>
-     <p>&#160;&#160;&#160;<hi rend="italic">J'en jure les Amours, amoureux de vous mesme,<lb/> J'en
-       jure ces beautez qui font que l'on vous ayme,<lb/> J'en jure mes espoirs encor que bien
-       petis.</hi></p>
-     <p>&#160;&#160;&#160;<hi rend="italic">J'en jure ces desirs que vous me faites naistre,<lb/>
-       Bref j'en jure par vous, sans qui je ne veux estre,<lb/> Encor ne croirez vous ce que je vous
-       en dis.</hi><lb/></p>
+     <lg>   
+     <l>&#160;&#160;&#160;<hi rend="italic">Belle de mes desirs, vous estes le trespas.</hi></l> 
+         <l><hi rend="italic">Et c'est vous toutefois que seule je desire,</hi></l>  
+         <l><hi rend="italic">J'en jure vos beaux yeux que le Soleil admire,</hi></l> 
+         <l><hi rend="italic">Et j'en jure mon cœur, surpris de vos appas.</hi></l> 
+      </lg>
+        <lg>
+     <l>&#160;&#160;&#160;<hi rend="italic">J'en jure vos douceurs qui sont tout mon soulas,</hi></l>
+         <l><hi rend="italic">J'en jure vos desdains, qui sont tout mon martyre,</hi></l>
+            <l><hi rend="italic">J'en jure mes douleurs tesmoins de vostre empire,</hi></l>
+            <l><hi rend="italic">J'en jure ces plaisirs qu'avoir je ne puis pas.</hi></l>
+       </lg>   
+         <lg>
+         <l>&#160;&#160;&#160;<hi rend="italic">J'en jure les Amours, amoureux de vous mesme,</hi></l>  
+         <l><hi rend="italic">J'en jure ces beautez qui font que l'on vous ayme,</hi></l> 
+         <l><hi rend="italic">J'en jure mes espoirs encor que bien petis.</hi></l> 
+        </lg> 
+         <lg>
+             <l>&#160;&#160;&#160;<hi rend="italic">J'en jure ces desirs que vous me faites naistre,</hi></l>
+             <l><hi rend="italic">Bref j'en jure par vous, sans qui je ne veux estre,</hi></l>
+             <l><hi rend="italic">Encor ne croirez vous ce que je vousen dis.</hi></l>    
+         </lg>
+     </div3>
      <p>&#160;&#160;&#160;Or belle Philis, voicy un grand commencement d'affaires : car depuis que
       j'eus veu Florice, il me fut impossible de m'en retirer : toutefois il me faschoit fort de
       perdre Palinice, tant pour l'obligation que je luy avois, que parce que veritablement c'estoit
