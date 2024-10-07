@@ -134,12 +134,13 @@
        patron de leur imperfection.</hi></p>
      <pb xml:id="page_abs_8" n="page_ori_1"/>
     </div3>
+    </div2>
+    <div2 type="chapitre">  
     <div3 xml:id="page_ASTREE_1614_2ndpartie" type="2ndpartie">
       <head>
        <hi rend="bold">LA SECONDE<lb/> PARTIE D'ASTRÉE,<lb/></hi>
        <hi rend="italic">De Messire Honoré d'Urfé.<lb/></hi>
       </head>
-      <div4 type="chapitre"  
       <head>
        <hi rend="bold">LIVRE PREMIER.</hi>
       </head>
@@ -216,21 +217,28 @@
       bouche mesme de ma Bergere, qui est l'Oracle le plus certain que je puisse consulter. Et lors
       relevant la voix il luy parla de cette sorte.</p>
      <pb xml:id="page_abs_13" n="page_ori_6"/>
-      <hi rend="rule"/>
+        <div4 type="poem">
       <lb/>
           <head><hi rend="rule">ECHO.</hi></head>
       <lb/>
-      <div5 type="poem">    
-      <head>STANSES.</head>
-     <p>&#160;&#160;&#160;<hi rend="italic">Fille de l'Air qui ne sçaurois rientaire,<lb/> De ces
-       rochers hostesse solitaire,<lb/> Où vont les cris que je vais émouvant ?</hi> Au vent.<lb/>
-      <hi rend="italic">Et quel crois-tu que ce cruel martire,<lb/> Q[u]e plein d'Amour mon cœur va
-       concevant,<lb/> Devienne en fin aux maux que je souspire ?</hi> Pire.</p>
+     <lg>       
+      <head>STANSES.</head>      
+     <l>&#160;&#160;&#160;<hi rend="italic">Fille de l'Air qui ne sçaurois rientaire,</hi></l> 
+         <l><hi rend="italic">De ces rochers hostesse solitaire,</hi></l> 
+         <l><hi rend="italic">Où vont les cris que je vais émouvant ?</hi> Au vent.</l>
+      <l><hi rend="italic">Et quel crois-tu que ce cruel martire,</hi></l> 
+         <l><hi rend="italic">Q[u]e plein d'Amour mon cœur va concevant,</hi></l> 
+         <l><hi rend="italic">Devienne en fin aux maux que je souspire ?</hi> Pire.</l>
+     </lg>
+     <lg>       
       <head>II.</head>
-     <p>&#160;&#160;&#160;<hi rend="italic">Que feroit donc cet œil qui me desarme<lb/> Par sa
-       douceur de toute sorte d'arme,<lb/> Et qui promet m'aymer infiniment ?</hi> Il ment.<lb/>
-      <hi rend="italic">Mais s'il est vray qu'il mente, quel remede<lb/> Nous faudra-t'il pour
-       sortir promptement<lb/> De cet abus qui trompeur nous possede ?</hi> Cede.</p>
+     <l>&#160;&#160;&#160;<hi rend="italic">Que feroit donc cet œil qui me desarme</hi></l> 
+         <l><hi rend="italic">Par sa douceur de toute sorte d'arme,</hi></l> 
+         <l><hi rend="italic">Et qui promet m'aymer infiniment ?</hi> Il ment.</l>
+      <l><hi rend="italic">Mais s'il est vray qu'il mente, quel remede</hi></l> 
+         <l><hi rend="italic">Nous faudra-t'il pour sortir promptement</hi></l> 
+         <l><hi rend="italic">De cet abus qui trompeur nous possede ?</hi> Cede.</l>
+     <lg>     
       <head>III.</head>
      <p>&#160;&#160;&#160;<hi rend="italic">Comment ? ceder un tel bien à quelque autre<lb/>
        Qu'Amour ordonne en effet qui soit nostre !<lb/> Qui plus que moy voit-elle volontiers ?</hi>
@@ -498,21 +506,27 @@
       <head><hi rend="bold">SONNET.</hi><lb/> CONTRE LA JALOUSIE.</head>
       <lb/>
      </p>
-     <p>&#160;&#160;&#160;<hi rend="italic">Amour ne brusle plus, on bien il brusle en vain,<lb/>
-       Son carquois est perdu, ses fleches sont froissées,<lb/> Il a ses darts rompus, leurs pointes
-       emoussées,<lb/> Et son arc sans vertu demeure dans sa main.</hi></p>
-     <p>&#160;&#160;&#160;<hi rend="italic">Ou sans plus estre Archer d'un mestier incertain<lb/> Il
-       se laisse emporter à plus hautes pensées,<lb/>
-       <pb xml:id="page_abs_29" n="page_ori_22"/> Ou ses flesches ne sont en nos œuvres adressées,<lb/>
-       Ou bien au lieu d'Amour nous blessent [d]e desdain.</hi></p>
-     <p>&#160;&#160;&#160;<hi rend="italic">Ou bien s'il sait aymer, Aymer c'est autre chose<lb/>
-       Que ce n'estoit jadis, &amp; les loix qu'il propose<lb/> Sont contraires aux loix qu'il nous
-       donnoit à tous :</hi></p>
-     <p>
-      <hi rend="italic"> Car aymer &amp; hayr c'est maintenant le mesme,<lb/> Puis que pour bien
-       aymer il faut estre jaloux,<lb/> Que si l'on ayme ainsi je ne veux plus qu'on m'ayme.</hi>
-      <lb/>
-     </p>
+     <lg ana="vers" xml:lang="fr">
+       <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic">Amour ne brusle plus, on bien il brusle en vain,</l>
+       <l ana="vers" xml:lang="fr">Son carquois est perdu, ses fleches sont froissées,</l> 
+       <l ana="vers" xml:lang="fr">Il a ses darts rompus, leurs pointes emoussées,</l> 
+       <l ana="vers" xml:lang="fr">Et son arc sans vertu demeure dans sa main.</l>
+       </lg>
+     <lg ana="vers" xml:lang="fr">    
+     <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic">Ou sans plus estre Archer d'un mestier incertain</l> 
+      <l ana="vers" xml:lang="fr">Il se laisse emporter à plus hautes pensées,</l>
+       <pb xml:id="page_abs_29" n="page_ori_22"/> 
+       <l ana="vers" xml:lang="fr">Ou ses flesches ne sont en nos œuvres adressées,</l>
+           <l ana="vers" xml:lang="fr">Ou bien au lieu d'Amour nous blessent <!-- [d]e --> desdain.</hi></l>
+     <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic">Ou bien s'il sait aymer, Aymer c'est autre chose</l>
+       <l ana="vers" xml:lang="fr">Que ce n'estoit jadis, &amp; les loix qu'il propose</l> 
+         <l ana="vers" xml:lang="fr">Sont contraires aux loix qu'il nous donnoit à tous :</hi></l>
+     </lg>
+          <lg ana="vers" xml:lang="fr">  
+      <l ana="vers" xml:lang="fr"><hi rend="italic"> Car aymer &amp; hayr c'est maintenant le mesme,</l> 
+          <l ana="vers" xml:lang="fr">Puis que pour bien aymer il faut estre jaloux,</l> 
+          <l ana="vers" xml:lang="fr">Que si l'on ayme ainsi je ne veux plus qu'on m'ayme.</hi></l>
+     </lg>
      <p>&#160;&#160;&#160;Sylvandre, qui avoit fait dessein de donner autant de jalousie à Lycidas
       qu'il luy seroit possible, voyant que Philis attentive à ce qu'elle chantoit, &amp; Astrée aux
       pensées que ces paroles renouvelloient en sa memoire, ne prenoient garde à Leonide, ny à eux,
@@ -730,6 +744,8 @@
       Silvandre, ils furent tirez par Leonide : le premier fut celuy de Thamire, l'autre de Calydon,
       &amp; le dernier de la Bergere : c'est pourquoy chacun jettant les yeux sur Thamyre, apres une
       grande reverence, il commença de parler ainsi.</p>
+      </div4>
+      <div4> 
      <p>
       <hi rend="rule"/>
       <lb/>
@@ -1235,7 +1251,7 @@
       autrefois elle m'a aymé sous l'opinion que je l'aymois, qu'elle n'eust beaucoup plus d'Amour
       pour moy maintenant, qui en ay infiniment davantage pour elle que je n'avois pas en ce temps
       là, ny que n'en peut avoir personne qui l'ayme jamais.</p>
-    </div1>
+    </div2>
     <div1 xml:id="page_ASTREE_1614_0202" n="deuxiesme" type="livre">
      <pb xml:id="page_abs_72" n="page_ori_65"/>
      <p>
