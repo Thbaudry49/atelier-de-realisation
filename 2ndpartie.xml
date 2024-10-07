@@ -519,7 +519,7 @@
       Leonide qui le prevoyoit ne l'en eust empesché avec excuse qu'elle vouloit ouyr ce que Philis
       chantoit : car il en estoit desja assez pres pour ouyr ses paroles, qui estoient telles.</p>
      
-      <div3 type="poem"></div3>    
+      <div3 type="poem">
       <hi rend="rule"/>
       <lb/>
       <head><hi rend="bold">SONNET.</hi><lb/> CONTRE LA JALOUSIE.</head>
@@ -546,6 +546,8 @@
           <l ana="vers" xml:lang="fr">Puis que pour bien aymer il faut estre jaloux,</l> 
           <l ana="vers" xml:lang="fr">Que si l'on ayme ainsi je ne veux plus qu'on m'ayme.</hi></l>
      </lg>
+      </div3>
+     
      <p>&#160;&#160;&#160;Sylvandre, qui avoit fait dessein de donner autant de jalousie à Lycidas
       qu'il luy seroit possible, voyant que Philis attentive à ce qu'elle chantoit, &amp; Astrée aux
       pensées que ces paroles renouvelloient en sa memoire, ne prenoient garde à Leonide, ny à eux,
@@ -763,8 +765,7 @@
       Silvandre, ils furent tirez par Leonide : le premier fut celuy de Thamire, l'autre de Calydon,
       &amp; le dernier de la Bergere : c'est pourquoy chacun jettant les yeux sur Thamyre, apres une
       grande reverence, il commença de parler ainsi.</p>
-      </div3>
-      <div3> 
+   
      <p>
       <hi rend="rule"/>
       <lb/>
@@ -16347,7 +16348,7 @@
        <hi rend="italic">De la deuxiesme partie d'Astrée de Messire Honoré d'Urfé.</hi></head>
      </p>
     </div2>
-    <div1 n="Table des histoires" xml:id="table_histoire" type="table">
+    <div2 n="Table des histoires" xml:id="table_histoire" type="table">
      <pb xml:id="page_abs_938" n="page_ori_LIM8"/>
      <p>
       <hi rend="rule"/>
@@ -16370,7 +16371,7 @@
       demandant le poison. 914<lb/> Demande d'Ursace. 916<lb/> Demande d'Olymbre. 917<lb/> Jugement
       du Conseil des six cens. 919</p>
     </div2>
-    <div1 n="Table des lettres" xml:id="table_lettre" type="table">
+    <div2 n="Table des lettres" xml:id="table_lettre" type="table">
      <p>
       <head>TABLE DES LETTRES.</head>
      </p>
@@ -16413,7 +16414,7 @@
       Peintr[e] sçavan[t] 307<lb/> Silvandre qui te plains. 502<lb/> Sy j'ayme autre que vous.
       573</p>
     </div2>
-    <div1 n="Privilège" xml:id="privilege_final" type="privilege">
+    <div2 n="Privilège" xml:id="privilege_final" type="privilege">
      <pb xml:id="page_abs_941" n="page_ori_LIM11"/>
      <p>
       <hi rend="rule"/>
@@ -16440,7 +16441,8 @@
      <p><hi rend="rule"/> Par accord fait le vingt huictiesme May mil six cens quatorze, ledit
       Micard a associé Olivier de Varennes Libraire pour un quart audit privilege.</p>
    </div2>
-    </div1>
+  
+   </div1>
   </body>
  </text>
 </TEI>
