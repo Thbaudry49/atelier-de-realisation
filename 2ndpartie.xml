@@ -2164,24 +2164,32 @@
       &amp; d'elle luy commandoit d'aimer cet Astre sur tous ceux qui paroissoient dans les cieux.
       L'ayant donc adorée, &amp; sa Bergere en elle, il se releva, &amp; tenant les yeux haussez
       vers elle, il luy parla de cette sorte.</p>
-     <p>
-      <hi rend="rule"/>
-      <lb/>
+     <div3 type="poem">
       <head><hi rend="bold">SONNET.</hi><lb/> RAPORT DE DIANE A<lb/> LA LUNE.</head>
-      <lb/>
-     </p>
-     <p>&#160;&#160;&#160;<hi rend="italic">Bel Astre flamboyant, qui dans un Ciel serain<lb/>
-       Esclairez de la Nuict le visage effroyable,<lb/> Ne vous offensez point si je vous dis
-       semblable<lb/> A la belle qui tiens mon cœur dedans sa main.</hi></p>
-     <p>&#160;&#160;&#160;<hi rend="italic">Comme vous chastement elle s'arme le sein<lb/> De tant
-       de cruautez qu'elle en est redoutable,<lb/> Et quiconque la voit, Acteon miserable,<lb/>
-       Devoré de desirs va l'appellant en vain.</hi></p>
-     <p>&#160;&#160;&#160;<hi rend="italic">Tous les feux de la Nuict vous cedent en lumiere,<lb/>
-       <pb xml:id="page_abs_123" n="page_ori_116"/> Et des belles, Diane est tousjours la premiere,<lb/>
-       Rien ne trompe voz coups, rien n'esvite ses yeux.</hi></p>
-     <p>&#160;&#160;&#160;<hi rend="italic">Bref vous vous ressemblez, non elle est plus
-       cruelle,<lb/> Car un Endimion vous fit laisser les Cieux,<lb/> Mais nul Endimion ne se trouve
-       pour elle.</hi><lb/></p>
+         <lg>
+     <l>&#160;&#160;&#160;<hi rend="italic">Bel Astre flamboyant, qui dans un Ciel serain</hi></l>
+         <l><hi rend="italic">Esclairez de la Nuict le visage effroyable,</hi></l>
+         <l><hi rend="italic">Ne vous offensez point si je vous dis semblable</hi></l>
+         <l><hi rend="italic">A la belle qui tiens mon cœur dedans sa main.</hi></l>
+     </lg>
+         <lg>
+     <l>&#160;&#160;&#160;<hi rend="italic">Comme vous chastement elle s'arme le sein</hi></l>
+             <l><hi rend="italic">De tant de cruautez qu'elle en est redoutable,</hi></l>
+             <l><hi rend="italic">Et quiconque la voit, Acteon miserable,</hi></l>
+             <l><hi rend="italic">Devoré de desirs va l'appellant en vain.</hi></l>
+       </lg>
+         <lg>
+     <l>&#160;&#160;&#160;<hi rend="italic">Tous les feux de la Nuict vous cedent en lumiere,</hi></l>
+       <pb xml:id="page_abs_123" n="page_ori_116"/>
+             <l><hi rend="italic">Et des belles, Diane est tousjours la premiere,</hi></l>
+             <l><hi rend="italic">Rien ne trompe voz coups, rien n'esvite ses yeux.</hi></l>
+         </lg>
+         <lg>
+     <l>&#160;&#160;&#160;<hi rend="italic">Bref vous vous ressemblez, non elle est plus cruelle,</hi></l> 
+             <l><hi rend="italic">Car un Endimion vous fit laisser les Cieux,</hi></l>
+             <l><hi rend="italic">Mais nul Endimion ne se trouve pour elle.</hi></l>
+         </lg>
+     </div3>
      <p>&#160;&#160;&#160;O Dieux ! s'escria-t'il alors, &amp; que sera ce donc de toy Silvandre,
       puis qu'il n'y a point d'Endimion pour elle ? seroit-il possible que la Nature qui s'est pleuë
       en cest ouvrage, si jamais de tous ceux qui luy sont sortis de la main, elle en a eu quelqu'un
