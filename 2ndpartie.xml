@@ -520,34 +520,31 @@
       chantoit : car il en estoit desja assez pres pour ouyr ses paroles, qui estoient telles.</p>
      
       <div3 type="poem">
-      <hi rend="rule"/>
       <lb/>
       <head><hi rend="bold">SONNET.</hi><lb/> CONTRE LA JALOUSIE.</head>
       <lb/>
-     </p>
      <lg ana="vers" xml:lang="fr">
-       <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic">Amour ne brusle plus, on bien il brusle en vain,</l>
+       <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic">Amour ne brusle plus, on bien il brusle en vain,</hi></l>
        <l ana="vers" xml:lang="fr">Son carquois est perdu, ses fleches sont froissées,</l> 
        <l ana="vers" xml:lang="fr">Il a ses darts rompus, leurs pointes emoussées,</l> 
        <l ana="vers" xml:lang="fr">Et son arc sans vertu demeure dans sa main.</l>
        </lg>
      <lg ana="vers" xml:lang="fr">    
-     <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic">Ou sans plus estre Archer d'un mestier incertain</l> 
-      <l ana="vers" xml:lang="fr">Il se laisse emporter à plus hautes pensées,</l>
+     <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic">Ou sans plus estre Archer d'un mestier incertain</hi></l> 
+         <l ana="vers" xml:lang="fr"><hi rend="italic">Il se laisse emporter à plus hautes pensées,</hi></l>
        <pb xml:id="page_abs_29" n="page_ori_22"/> 
-       <l ana="vers" xml:lang="fr">Ou ses flesches ne sont en nos œuvres adressées,</l>
-           <l ana="vers" xml:lang="fr">Ou bien au lieu d'Amour nous blessent <!-- [d]e --> desdain.</hi></l>
-     <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic">Ou bien s'il sait aymer, Aymer c'est autre chose</l>
+         <l ana="vers" xml:lang="fr"><hi rend="italic">Ou ses flesches ne sont en nos œuvres adressées,</hi></l>
+         <l ana="vers" xml:lang="fr"><hi rend="italic">Ou bien au lieu d'Amour nous blessent <!-- [d]e --> desdain.</hi></l>
+     <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic">Ou bien s'il sait aymer, Aymer c'est autre chose</hi></l>
        <l ana="vers" xml:lang="fr">Que ce n'estoit jadis, &amp; les loix qu'il propose</l> 
-         <l ana="vers" xml:lang="fr">Sont contraires aux loix qu'il nous donnoit à tous :</hi></l>
+         <l ana="vers" xml:lang="fr"><hi rend="italic">Sont contraires aux loix qu'il nous donnoit à tous :</hi></l>
      </lg>
           <lg ana="vers" xml:lang="fr">  
-      <l ana="vers" xml:lang="fr"><hi rend="italic"> Car aymer &amp; hayr c'est maintenant le mesme,</l> 
-          <l ana="vers" xml:lang="fr">Puis que pour bien aymer il faut estre jaloux,</l> 
-          <l ana="vers" xml:lang="fr">Que si l'on ayme ainsi je ne veux plus qu'on m'ayme.</hi></l>
+      <l ana="vers" xml:lang="fr"><hi rend="italic"> Car aymer &amp; hayr c'est maintenant le mesme,</hi></l> 
+              <l ana="vers" xml:lang="fr"><hi rend="italic">Puis que pour bien aymer il faut estre jaloux,</hi></l> 
+              <l ana="vers" xml:lang="fr"><hi rend="italic">Que si l'on ayme ainsi je ne veux plus qu'on m'ayme.</hi></l>
      </lg>
-      </div3>
-     
+     </div3>
      <p>&#160;&#160;&#160;Sylvandre, qui avoit fait dessein de donner autant de jalousie à Lycidas
       qu'il luy seroit possible, voyant que Philis attentive à ce qu'elle chantoit, &amp; Astrée aux
       pensées que ces paroles renouvelloient en sa memoire, ne prenoient garde à Leonide, ny à eux,
@@ -765,7 +762,6 @@
       Silvandre, ils furent tirez par Leonide : le premier fut celuy de Thamire, l'autre de Calydon,
       &amp; le dernier de la Bergere : c'est pourquoy chacun jettant les yeux sur Thamyre, apres une
       grande reverence, il commença de parler ainsi.</p>
-   
      <p>
       <hi rend="rule"/>
       <lb/>
@@ -6956,12 +6952,9 @@
       logis apres avoir donné ordre à ses affaires le plus promptement qu'il peut, il m'escrivit une
       lettre, qu'il mit en <pb xml:id="page_abs_400" n="page_ori_394"/> sa poche, &amp; reprenant la
       plume, escrivit ces paroles à Thersandre.</p>
-     <p>
-      <hi rend="rule"/>
       <lb/>
       <head><hi rend="bold">DEFFY DE DAMON, A</hi><lb/> THERSANDRE.</head>
       <lb/>
-     </p>
      <p>&#160;&#160;&#160;<hi rend="italic">Si l'offence que j'ay receuë de vous n'estoit de celles
        qui ne peuvent estre effacées qu'avec le sang, je ne desirerois pas, Thersandre, de vous voir
        seul avec l'espée en la main. Mais ne pouvant estre satisfait d'autre sorte, &amp; sçachant
