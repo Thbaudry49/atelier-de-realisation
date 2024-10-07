@@ -805,24 +805,32 @@
       elle parvint enfin jusques à l'âge de dix ans, qu'elle commença de donner une si grande
       esperance de sa beauté que je n'avois plus de honte d'aymer un enfant, se pouvant dire dés
       lors la plus belle fille du hameau, je me souviens que sur ce sujet je fis ces vers.<lb/></p>
-     <p>
-      <hi rend="rule"/>
-      <lb/>
-      <head><hi rend="bold">SONNET.</hi><lb/> D'UNE JEUNE BEAUTE.</head>
-      <lb/>
-     </p>
-     <p>&#160;&#160;&#160;<hi rend="italic">Quelle Aurore jamais d'un beau jour devanciere<lb/> Eut
-       le sein plus semé de roses &amp; de lys ?<lb/> Ou quels nouveaux Soleils de rayons
-       embellis,<lb/> Furent jamais si beaux commençant leur carrierée.</hi></p>
+    <div3 type="poem">
+          <head><hi rend="bold">SONNET.</hi><lb/> D'UNE JEUNE BEAUTE.</head> 
+       <lg>   
+     <l>&#160;&#160;&#160;<hi rend="italic">Quelle Aurore jamais d'un beau jour devanciere</l> 
+           <l> <hi rend="italic">Eut le sein plus semé de roses &amp; de lys ?</hi></l>
+           <l> <hi rend="italic">Ou quels nouveaux Soleils de rayons embellis,</hi></l> 
+           <l><hi rend="italic"> Furent jamais si beaux commençant leur carrierée.</hi></l>
+       </lg>
+       <lg>  
      <pb xml:id="page_abs_45" n="page_ori_38"/>
-     <p>&#160;&#160;&#160;<hi rend="italic">Dés qu'on t'a veu paroistre aux rais de la lumiere,<lb/>
-       Tous les autres Soleils soudain sont defaillis,<lb/> Ou pres d'eux pour le moins demeurent si
-       pallis,<lb/> Qu'ils ne retiennent rien de leur clairté premiere.</hi></p>
-     <p>&#160;&#160;&#160;<hi rend="italic">Quel sera le Midy d'un si bel Orient ?<lb/> Je prevoy
-       dés icy que le Ciel tout riant,<lb/> Et qui ne vit jamais une Aurore si belle,</hi></p>
-     <p>&#160;&#160;&#160;<hi rend="italic">Se promet d'en brusler les hommes &amp; les Dieux,<lb/>
-       Amour ou rends son cœur aussi doux que ses yeux,<lb/> Ou nos yeux &amp; nos cœurs insensibles
-       pour elle.</hi><lb/></p>
+     <l>&#160;&#160;&#160;<hi rend="italic">Dés qu'on t'a veu paroistre aux rais de la lumiere,</l>
+           <l><hi rend="italic">Tous les autres Soleils soudain sont defaillis,</hi></l> 
+           <l><hi rend="italic"> Ou pres d'eux pour le moins demeurent si pallis,</hi></l> 
+           <l><hi rend="italic"> Qu'ils ne retiennent rien de leur clairté premiere.</hi></l>
+       </lg>
+       <lg>
+     <l>&#160;&#160;&#160;<hi rend="italic">Quel sera le Midy d'un si bel Orient ?</hi></l> 
+           <l> <hi rend="italic">Je prevoy dés icy que le Ciel tout riant,</hi></l> 
+           <l> <hi rend="italic">Et qui ne vit jamais une Aurore si belle,</hi></l>
+       </lg>
+         <lg>
+     <l>&#160;&#160;&#160;<hi rend="italic">Se promet d'en brusler les hommes &amp; les Dieux,</hi></l>
+             <l><hi rend="italic">Amour ou rends son cœur aussi doux que ses yeux,</hi></l> 
+             <l><hi rend="italic"> Ou nos yeux &amp; nos cœurs insensibles pour elle.</hi></l> 
+       </lg>
+     </div3>
      <p>&#160;&#160;&#160;Et parce que je prevoyois bien que cette beauté seroit veuë de plusieurs,
       &amp; que mon cœur ne seroit pas le seul qui en brusleroit de desir, je me resolus d'occuper
       pour le moins le premier son ame, sçachant bien qu'il y a double difficulté de parvenir en un
