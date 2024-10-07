@@ -70,8 +70,7 @@
      <pb xml:id="page_abs_2" n="page_ori_LIM2"/>
       <head><hi rend="bold">L'AUTHEUR</hi><lb/> AU BERGER<lb/> CELADON.</head>
       <lb/>
-      <div2 type="chapitre">
-      <div3 type="préface">    
+      <div2 type="preface">    
      <p> &#160; &#160; &#160;<hi rend="italic">C'est une estrange humeur que la tienne, Celadon, de te
        cacher avec tant de peine, &amp; d'opiniatreté à ta Bergere, &amp; de desirer avec tant de
        passion que toute l'Europe sçache où tu es, &amp; ce que tu fais. Il vaudroit bien mieux, ce
@@ -133,9 +132,10 @@
        inutile, puisque prenant tes actions au rebours, ils pourront tirer de ceste sorte un parfait
        patron de leur imperfection.</hi></p>
      <pb xml:id="page_abs_8" n="page_ori_1"/>
-    </div3>
     </div2>
-    <div2 xml:id="livre_premier" type="livre">
+    
+    <!-- Changer id -->
+    <div2 xml:id="livre_premier" n="premier" type="livre">
       <head>
        <hi rend="bold">LA SECONDE<lb/> PARTIE D'ASTRÉE,<lb/></hi>
        <hi rend="italic">De Messire Honoré d'Urfé.<lb/></hi>
@@ -216,12 +216,14 @@
       bouche mesme de ma Bergere, qui est l'Oracle le plus certain que je puisse consulter. Et lors
       relevant la voix il luy parla de cette sorte.</p>
      <pb xml:id="page_abs_13" n="page_ori_6"/>
-        <div3 type="poem">
+        
+     <div3 type="poem">
       <lb/>
           <head><hi rend="rule">ECHO.</hi></head>
       <lb/>
-     <lg>       
-      <head>STANSES.</head>      
+            
+      <head>STANSES.</head>
+      <lg>      
      <l>&#160;&#160;&#160;<hi rend="italic">Fille de l'Air qui ne sçaurois rientaire,</hi></l> 
          <l><hi rend="italic">De ces rochers hostesse solitaire,</hi></l> 
          <l><hi rend="italic">Où vont les cris que je vais émouvant ?</hi> Au vent.</l>
@@ -805,32 +807,24 @@
       elle parvint enfin jusques à l'âge de dix ans, qu'elle commença de donner une si grande
       esperance de sa beauté que je n'avois plus de honte d'aymer un enfant, se pouvant dire dés
       lors la plus belle fille du hameau, je me souviens que sur ce sujet je fis ces vers.<lb/></p>
-    <div3 type="poem">
-          <head><hi rend="bold">SONNET.</hi><lb/> D'UNE JEUNE BEAUTE.</head> 
-       <lg>   
-     <l>&#160;&#160;&#160;<hi rend="italic">Quelle Aurore jamais d'un beau jour devanciere</l> 
-           <l> <hi rend="italic">Eut le sein plus semé de roses &amp; de lys ?</hi></l>
-           <l> <hi rend="italic">Ou quels nouveaux Soleils de rayons embellis,</hi></l> 
-           <l><hi rend="italic"> Furent jamais si beaux commençant leur carrierée.</hi></l>
-       </lg>
-       <lg>  
+     <p>
+      <hi rend="rule"/>
+      <lb/>
+      <head><hi rend="bold">SONNET.</hi><lb/> D'UNE JEUNE BEAUTE.</head>
+      <lb/>
+     </p>
+     <p>&#160;&#160;&#160;<hi rend="italic">Quelle Aurore jamais d'un beau jour devanciere<lb/> Eut
+       le sein plus semé de roses &amp; de lys ?<lb/> Ou quels nouveaux Soleils de rayons
+       embellis,<lb/> Furent jamais si beaux commençant leur carrierée.</hi></p>
      <pb xml:id="page_abs_45" n="page_ori_38"/>
-     <l>&#160;&#160;&#160;<hi rend="italic">Dés qu'on t'a veu paroistre aux rais de la lumiere,</l>
-           <l><hi rend="italic">Tous les autres Soleils soudain sont defaillis,</hi></l> 
-           <l><hi rend="italic"> Ou pres d'eux pour le moins demeurent si pallis,</hi></l> 
-           <l><hi rend="italic"> Qu'ils ne retiennent rien de leur clairté premiere.</hi></l>
-       </lg>
-       <lg>
-     <l>&#160;&#160;&#160;<hi rend="italic">Quel sera le Midy d'un si bel Orient ?</hi></l> 
-           <l> <hi rend="italic">Je prevoy dés icy que le Ciel tout riant,</hi></l> 
-           <l> <hi rend="italic">Et qui ne vit jamais une Aurore si belle,</hi></l>
-       </lg>
-         <lg>
-     <l>&#160;&#160;&#160;<hi rend="italic">Se promet d'en brusler les hommes &amp; les Dieux,</hi></l>
-             <l><hi rend="italic">Amour ou rends son cœur aussi doux que ses yeux,</hi></l> 
-             <l><hi rend="italic"> Ou nos yeux &amp; nos cœurs insensibles pour elle.</hi></l> 
-       </lg>
-     </div3>
+     <p>&#160;&#160;&#160;<hi rend="italic">Dés qu'on t'a veu paroistre aux rais de la lumiere,<lb/>
+       Tous les autres Soleils soudain sont defaillis,<lb/> Ou pres d'eux pour le moins demeurent si
+       pallis,<lb/> Qu'ils ne retiennent rien de leur clairté premiere.</hi></p>
+     <p>&#160;&#160;&#160;<hi rend="italic">Quel sera le Midy d'un si bel Orient ?<lb/> Je prevoy
+       dés icy que le Ciel tout riant,<lb/> Et qui ne vit jamais une Aurore si belle,</hi></p>
+     <p>&#160;&#160;&#160;<hi rend="italic">Se promet d'en brusler les hommes &amp; les Dieux,<lb/>
+       Amour ou rends son cœur aussi doux que ses yeux,<lb/> Ou nos yeux &amp; nos cœurs insensibles
+       pour elle.</hi><lb/></p>
      <p>&#160;&#160;&#160;Et parce que je prevoyois bien que cette beauté seroit veuë de plusieurs,
       &amp; que mon cœur ne seroit pas le seul qui en brusleroit de desir, je me resolus d'occuper
       pour le moins le premier son ame, sçachant bien qu'il y a double difficulté de parvenir en un
@@ -1277,7 +1271,7 @@
       pour moy maintenant, qui en ay infiniment davantage pour elle que je n'avois pas en ce temps
       là, ny que n'en peut avoir personne qui l'ayme jamais.</p>
     </div2>
-    <div1 xml:id="page_ASTREE_1614_0202" n="deuxiesme" type="livre">
+    <div2 xml:id="page_ASTREE_1614_0202" n="deuxiesme" type="livre">
      <pb xml:id="page_abs_72" n="page_ori_65"/>
      <p>
       <head>
@@ -2365,8 +2359,8 @@
       plus grande partie de la nuict ne fust escoulée. Le travail &amp; le sommeil en fin le
       contraignirent de choisir un lieu pour reposer, ne sçachant bonnement par où s'en retourner en
       son hameau.</p>
-    </div1>
-    <div1 xml:id="page_ASTREE_1614_0203" n="troisiesme" type="livre">
+    </div2>
+    <div2 xml:id="page_ASTREE_1614_0203" n="troisiesme" type="livre">
      <pb xml:id="page_abs_134" n="page_ori_127"/>
      <p>
       <head>
@@ -3485,8 +3479,8 @@
       combattre contre trois : les plus vaillans mesme ne le veulent entreprendre contre deux. A ce
       mot, Astrée, Diane, Philis &amp; le reste de leur trouppe arriverent, &amp; furent cause que
       ceste dispute prist fin.</p>
-    </div1>
-    <div1 xml:id="page_ASTREE_1614_0204" n="quatriesme" type="livre">
+    </div2>
+    <div2 xml:id="page_ASTREE_1614_0204" n="quatriesme" type="livre">
      <pb xml:id="page_abs_198" n="page_ori_191"/>
      <p>
       <head>
@@ -5036,8 +5030,8 @@
       demeurer inutile, je vis Criseide, &amp; si je la vis je l'aymay. Et à la verité elle le
       meritoit ; car je ne croy pas que jamais estrangere eust plus d'attraits, ny fut plus capable
       de donner de l'amour qu'elle.</p>
-    </div1>
-    <div1 xml:id="page_ASTREE_1614_0205" n="cinquiesme" type="livre">
+    </div2>
+    <div2 xml:id="page_ASTREE_1614_0205" n="cinquiesme" type="livre">
      <pb xml:id="page_abs_288" n="page_ori_281"/>
      <p>
       <head>
@@ -6037,8 +6031,8 @@
       retiré des autres, ils choisirent le mieux qu'ils purent un lieu bien sec, &amp; là les
       Bergers estendant leurs sayes, &amp; les Bergeres s'estant couchées dessus, ils se retirerent
       un peu à costé, où tous ensemble ils se coucherent attendant que la Lune parust.</p>
-    </div1>
-    <div1 xml:id="page_ASTREE_1614_0206" n="sixiesme" type="livre">
+    </div2>
+    <div2 xml:id="page_ASTREE_1614_0206" n="sixiesme" type="livre">
      <pb xml:id="page_abs_345" n="page_ori_339"/>
      <p>
       <head>
@@ -7946,8 +7940,8 @@
       qu'elle avoit faite. Cette imagination fut debatuë en son ame fort long temps : en fin Amour
       par pitié luy permit de clore les yeux, &amp; y laisser couler le sommeil pour enchanter en
       quelque sorte ses facheuses incertitudes.</p>
-    </div1>
-    <div1 xml:id="page_ASTREE_1614_0207" n="septiesme" type="livre">
+    </div2>
+    <div2 xml:id="page_ASTREE_1614_0207" n="septiesme" type="livre">
      <pb xml:id="page_abs_459" n="page_ori_453"/>
      <p>
       <head>
@@ -8997,8 +8991,8 @@
       elle ne peut obtenir autre chose de luy sinon que si elle vouloit prendre la peine de le voir
       quelquefois il le souffriroit. En fin le Soleil estant prest à se cacher elle fut contrainte
       de se retirer, avec promesse de le revoir bien souvent.</p>
-    </div1>
-    <div1 xml:id="page_ASTREE_1614_0208" n="huictiesme" type="livre">
+    </div2>
+    <div2 xml:id="page_ASTREE_1614_0208" n="huictiesme" type="livre">
      <pb xml:id="page_abs_517" n="page_ori_511"/>
      <p>
       <head>
@@ -10295,8 +10289,8 @@
       personne qui en soit mieux informé. Et à ce mot sans attendre autre responce il se remit dans
       le bois au grand pas. Si cette replique toucha vivement Philis on le peut penser, puis que de
       tout le jour on ne peut avoir une bonne parole d'elle.</p>
-    </div1>
-    <div1 xml:id="page_ASTREE_1614_0209" n="neufiesme" type="livre">
+    </div2>
+    <div2 xml:id="page_ASTREE_1614_0209" n="neufiesme" type="livre">
      <pb xml:id="page_abs_591" n="page_ori_585"/>
      <p>
       <head>
@@ -11361,8 +11355,8 @@
       contentement que d'estre aupres d'elle. La Nymphe donc s'en allant chez son Oncle, Paris prist
       le chemin contraire, &amp; ayant retrouvé ces belles Bergeres, s'arresta avec elles presque
       tout le reste du jour.</p>
-    </div1>
-    <div1 xml:id="page_ASTREE_1614_0210" n="dixiesme" type="livre">
+    </div2>
+    <div2 xml:id="page_ASTREE_1614_0210" n="dixiesme" type="livre">
      <pb xml:id="page_abs_652" n="page_ori_647"/>
      <p>
       <head>
@@ -12406,8 +12400,8 @@
       vers Adamas, &amp; luy raconta une partie des nouvelles qu'elle luy avoit dittes, cachant avec
       finesse ce qu'elle creut qu'il pourroit trouver mauvais, &amp; parce qu'il estoit heure de
       disner : le Druyde, Alexis, &amp; elle se retirerent au petit pas dans le logis.</p>
-    </div1>
-    <div1 xml:id="page_ASTREE_1614_0211" n="unziesme" type="livre">
+    </div2>
+    <div2 xml:id="page_ASTREE_1614_0211" n="unziesme" type="livre">
      <pb xml:id="page_abs_710" n="page_ori_705"/>
      <p>
       <head>
@@ -14049,8 +14043,8 @@
       qu'il leur fut impossible de ne lui obeïr : faisant donc apporter des sieges pour faire
       asseoir la compagnie, chacun prit place, &amp; Silvandre estant au milieu, commença de parler
       de cette sorte.</p>
-    </div1>
-    <div1 xml:id="page_ASTREE_1614_0212" n="douziesme" type="livre">
+    </div2>
+    <div2 xml:id="page_ASTREE_1614_0212" n="douziesme" type="livre">
      <pb xml:id="page_abs_806" n="page_ori_801"/>
      <p>
       <head>
@@ -16352,7 +16346,7 @@
       <head>FIN<lb/>
        <hi rend="italic">De la deuxiesme partie d'Astrée de Messire Honoré d'Urfé.</hi></head>
      </p>
-    </div1>
+    </div2>
     <div1 n="Table des histoires" xml:id="table_histoire" type="table">
      <pb xml:id="page_abs_938" n="page_ori_LIM8"/>
      <p>
@@ -16375,7 +16369,7 @@
       <pb xml:id="page_abs_939" n="page_ori_LIM9"/> Requeste qui se presente au conseil des six cens,
       demandant le poison. 914<lb/> Demande d'Ursace. 916<lb/> Demande d'Olymbre. 917<lb/> Jugement
       du Conseil des six cens. 919</p>
-    </div1>
+    </div2>
     <div1 n="Table des lettres" xml:id="table_lettre" type="table">
      <p>
       <head>TABLE DES LETTRES.</head>
@@ -16418,7 +16412,7 @@
      <p>Que je vive, &amp; qu'on le possede. 717<lb/> Riviere que j'accrois. 521<lb/> Sont ce,
       Peintr[e] sçavan[t] 307<lb/> Silvandre qui te plains. 502<lb/> Sy j'ayme autre que vous.
       573</p>
-    </div1>
+    </div2>
     <div1 n="Privilège" xml:id="privilege_final" type="privilege">
      <pb xml:id="page_abs_941" n="page_ori_LIM11"/>
      <p>
@@ -16445,7 +16439,8 @@
      <p>&#160;&#160;&#160;DESPORTES.</p>
      <p><hi rend="rule"/> Par accord fait le vingt huictiesme May mil six cens quatorze, ledit
       Micard a associé Olivier de Varennes Libraire pour un quart audit privilege.</p>
-   </div1>
+   </div2>
+    </div1>
   </body>
  </text>
 </TEI>
