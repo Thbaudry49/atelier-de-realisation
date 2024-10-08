@@ -258,12 +258,11 @@
                         l'Oracle le plus certain que je puisse consulter. Et lors relevant la voix
                         il luy parla de cette sorte.</p>
                     <pb xml:id="page_abs_13" n="page_ori_6"/>
-
-                    <div3 type="poem" xml:id="sonnet1">
-                        <lb/>
+ 
+                    <floatingText type="pwp" >
+                        <body >
+                        <div type="poem" xml:id="sonnet1">
                         <head><hi rend="rule">ECHO.</hi></head>
-                        <lb/>
-
                         <head>STANSES.</head>
                         <lg>
                             <l>&#160;&#160;&#160;<hi rend="italic">Fille de l'Air qui ne sçaurois
@@ -352,7 +351,10 @@
                                 D'elle.</l>
                         </lg>
 
-                    </div3>
+                    </div>
+                        </body>
+                    </floatingText>
+
 
                     <p>&#160;&#160;&#160;Encore que le Berger n'ignorast point que c'estoit luy
                         mesme qui se respondoit, &amp; que l'air frappé par sa voix rencontrant les
@@ -642,8 +644,9 @@
                         aigrement, si Leonide qui le prevoyoit ne l'en eust empesché avec excuse
                         qu'elle vouloit ouyr ce que Philis chantoit : car il en estoit desja assez
                         pres pour ouyr ses paroles, qui estoient telles.</p>
-
-                    <div3 type="poem">
+<floatingText>
+    <body>
+                    <div type="poem">
                         <lb/>
                         <head><hi rend="bold">SONNET.</hi><lb/> CONTRE LA JALOUSIE.</head>
                         <lb/>
@@ -682,7 +685,9 @@
                             <l ana="vers" xml:lang="fr"><hi rend="italic">Que si l'on ayme ainsi je
                                     ne veux plus qu'on m'ayme.</hi></l>
                         </lg>
-                    </div3>
+                    </div>
+    </body>
+</floatingText>
                     <p>&#160;&#160;&#160;Sylvandre, qui avoit fait dessein de donner autant de
                         jalousie à Lycidas qu'il luy seroit possible, voyant que Philis attentive à
                         ce qu'elle chantoit, &amp; Astrée aux pensées que ces paroles renouvelloient
@@ -955,10 +960,12 @@
                         l'autre de Calydon, &amp; le dernier de la Bergere : c'est pourquoy chacun
                         jettant les yeux sur Thamyre, apres une grande reverence, il commença de
                         parler ainsi.</p>
-                    <lb/>
+<floatingText>
+    <body>
+        <div>
                     <head><hi rend="bold">HISTOIRE</hi><lb/> DE CELIDÉE, THAMYRE,<lb/> ET
                         CALYDON.</head>
-                    <lb/>
+
                     <p>&#160;&#160;&#160;Puis qu'il a pleu au grand Tautates, de m'eslire pour vous
                         raconter les dissentions qui sont entre nous, je proteste qu'encores que ce
                         soit la coustume des personnes inte[r]essées de ne dire que ce qui est à
@@ -1005,7 +1012,12 @@
                         n'avois plus de honte d'aymer un enfant, se pouvant dire dés lors la plus
                         belle fille du hameau, je me souviens que sur ce sujet je fis ces
                         vers.<lb/></p>
-                    <div3 type="poem">
+        </div>
+    </body>
+</floatingText>
+                    <floatingText>
+                        <body>
+                    <div type="poem">
                         <head><hi rend="bold">SONNET.</hi><lb/> D'UNE JEUNE BEAUTE.</head>
                         <lg>
                             <l>&#160;&#160;&#160;<hi rend="italic">Quelle Aurore jamais d'un beau
@@ -1046,7 +1058,9 @@
                             <l><hi rend="italic"> Ou nos yeux &amp; nos cœurs insensibles pour
                                     elle.</hi></l>
                         </lg>
-                    </div3>
+                    </div>
+                        </body>
+                    </floatingText>
                     <p>&#160;&#160;&#160;Et parce que je prevoyois bien que cette beauté seroit veuë
                         de plusieurs, &amp; que mon cœur ne seroit pas le seul qui en brusleroit de
                         desir, je me resolus d'occuper pour le moins le premier son ame, sçachant
@@ -1674,7 +1688,9 @@
                         semble que Celidée doive estre vostre, &amp; non pas à Thamire, qui l'a si
                         longuement possedée &amp; eslevée comme sienne. Le Berger alors se relevant,
                         apres avoir fait une grande reverence, prit la parole de ceste sorte.</p>
-                    <div3>
+                    <floatingText>
+                        <body>
+                    <div>
                         <lb/>
                         <head><hi rend="bold">HARANGUE</hi><lb/> DU BERGER CALYDON.</head>
                         <lb/>
@@ -2033,9 +2049,12 @@
                             concernoit. Cela fut cause que le Berger se remettant en sa place,
                             Celidée par le commandement de la Nimphe, rougissant d'une honneste
                             honte, print ainsi la parole.</p>
-                    </div3>
-                    <lb/>
-                    <div3>
+                    </div>
+                        </body>
+                    </floatingText>
+ <floatingText>
+     <body>
+                    <div>
                         <head><hi rend="bold">RESPONCE</hi><lb/> DE LA BERGERE CELIDÉE.</head>
                         <lb/>
                         <p>&#160;&#160;&#160;Je suis si peu accoustumée, grande Nimphe, à parler du
@@ -2397,11 +2416,13 @@
                             à la Nimphe, donna cognoissance qu'elle ne vouloit parler davantage, qui
                             fut cause que Leonide commanda à Thamyre de dire ses raisons, à quoy
                             satisfaisant il commença de parler ainsi.</p>
-                    </div3>
-                    <div3>
-                        <lb/>
+                    </div>
+     </body>
+ </floatingText>
+                    <floatingText>
+                        <body>
+                    <div>
                         <head><hi rend="bold">RESPONCE</hi><lb/> DU BERGER THAMYRE.</head>
-                        <lb/>
                         <p>&#160;&#160;&#160;A ce que je vois, grande Nimphe, il m'est advenu comme
                             à celuy qui forge &amp; trempe avec une grande peine le fer qu'un autre
                             luy met apres dans le cœur : car ayant eslevé ce Berger &amp; ceste
@@ -2646,11 +2667,13 @@
                             les autres d'un autre : en fin toutes choses ayant esté longuement
                             debattuës, apres que chacun se fut remis en sa place, elle prononça son
                             jugement de telle sorte.</p>
-                    </div3>
-                    <lb/>
-                    <div3>
+                    </div>
+                        </body>
+                    </floatingText>
+        <floatingText>
+            <body>
+                    <div>
                         <head><hi rend="bold">JUGEMENT DE LA NIMPHE</hi><lb/> LEONIDE.</head>
-                        <lb/>
                         <p>&#160;&#160;&#160;Trois choses se presentent à nos yeux, sur le different
                             de Celidée, Thamire &amp; Calidon : la premiere, l'Amour : la deuxiesme,
                             le devoir : &amp; la derniere, l'offense. En la premiere nous remarquons
@@ -2746,8 +2769,12 @@
                             cieux. L'ayant donc adorée, &amp; sa Bergere en elle, il se releva,
                             &amp; tenant les yeux haussez vers elle, il luy parla de cette
                             sorte.</p>
-                    </div3>
-                    <div3 type="poem">
+                    </div>
+            </body>
+        </floatingText>
+                    <floatingText>
+                        <body>
+                    <div type="poem">
                         <head><hi rend="bold">SONNET.</hi><lb/> RAPORT DE DIANE A<lb/> LA
                             LUNE.</head>
                         <lg>
@@ -2784,8 +2811,9 @@
                                 Cieux,</hi></l>
                             <l><hi rend="italic">Mais nul Endimion ne se trouve pour elle.</hi></l>
                         </lg>
-                    </div3>
-
+                    </div>
+                        </body>
+                    </floatingText>
                     <p>&#160;&#160;&#160;O Dieux ! s'escria-t'il alors, &amp; que sera ce donc de
                         toy Silvandre, puis qu'il n'y a point d'Endimion pour elle ? seroit-il
                         possible que la Nature qui s'est pleuë en cest ouvrage, si jamais de tous
@@ -2802,7 +2830,9 @@
                         marcher, apres l'avoir long temps roulée dans son esprit, il profera telles
                         paroles.</p>
                     <pb xml:id="page_abs_124" n="page_ori_117"/>
-                    <div3 type="poem">
+                    <floatingText>
+                        <body>
+                    <div type="poem">
                         <head><hi rend="bold">SONNET.</hi><lb/> QU'IL N'Y A CONSIDERATION<lb/> QUI
                             L'EMPESCHE D'AYMER<lb/> sa Maistresse.</head>
                         <lg>
@@ -2840,7 +2870,9 @@
                             <l><hi rend="italic">Et si c'est par Amour, gagnons la par
                                 Amour.</hi></l>
                         </lg>
-                    </div3>
+                    </div>
+                        </body>
+                    </floatingText>
                     <p>&#160;&#160;&#160;La Lune alors, comme si c'eust esté pour le convier à
                         demeurer davantage en ce lieu, sembla s'allumer d'une nouvelle clarté, &amp;
                         parce qu'avant que de partir, il avoit mis son troupeau avec celuy de Diane,
@@ -3032,7 +3064,6 @@
                         <hi rend="bold"> LE<lb/> TROISIESME<lb/> LIVRE DE LA<lb/> SECONDE
                             PARTIE<lb/> D'ASTRÉE.</hi>
                     </head>
-                    <lb/>
                     <p>&#160;&#160;&#160;Lors que Silvandre s'endormit, la nuict estoit desja tant
                         advancée, qu'il ne s'esveilla que le Soleil ne fust fort haut : Et au
                         contraire, le Berger, qui la nuict avoit discouru avec le Druide, fut aussi
@@ -3540,10 +3571,10 @@
                         mort. Mais voyons ce qu'il y a dedans, peut estre y apprendrons nous
                         davantage : &amp; lors la deployant elles virent qu'elle estoit telle.</p>
 
-                    <p>
-                        <head>A la plus aymée &amp; plus belle Bergere de l'univers, le plus
+                    <p rend="bold" facs="center"> <!-- changer -->
+                       A la plus aymée &amp; plus belle Bergere de l'univers, le plus
                             infortuné &amp; plus fidelle de ses serviteurs envoye le salut que la
-                            fortune luy denie.</head>
+                            fortune luy denie. <!-- il y avait un head ici -->
                     </p>
                     <p>&#160;&#160;&#160;<hi rend="italic">Mon extréme affection ne consentira
                             jamais que je donne le nom de peine &amp; de supplice à ce que vostre
@@ -3583,18 +3614,17 @@
                         de se rejoindre à son tout ; de mesme son cœur atteint des beautez de sa
                         Maistresse, tournoit incessamment toutes ses pensées vers elle. Et pour
                         mieux faire entendre cette conception, il y adjousta ces vers.</p>
-
-                    <div3>
+<floatingText>
+    <body>
+                    <div>
                         
                         <head>
                             <hi rend="bold">MADRIGAL.</hi>
                         </head>
-                       
+                      
                         <p>&#160;&#160;&#160;<hi rend="italic">L'esguille du quadran cherche la
                                 Tramontante<lb/> Touchée avec l'Aimant :<lb/> Mon cœur aussi touché
                                 des beautez de Diane,<lb/> La cherche incessamment.</hi><lb/></p>
-                    </div3>
-                    
                         <p>&#160;&#160;&#160;Lors qu'elle aborda il parachevoit d'y graver leurs
                             chiffres : &amp; la voyant venir s'en alla tout joyeux vers elle, en luy
                             disant. Quel bonheur est celuy qui vous ameine vers moy, ma belle
@@ -3985,10 +4015,13 @@
                             &amp; se tournant vers ceux qui venoient apres eux, leur firent signe
                             d'alle[r] doucement : mais d'autant que la chanson estoit presque finie,
                             ils n'ouyrent que ce dernier couplet.</p>
-                   
+                    </div>
+    </body>
+</floatingText>
                     <pb xml:id="page_abs_178" n="page_ori_171"/>
-                    
-                    <div3>
+                    <floatingText>
+                        <body>
+                    <div>
                         <head>
                             <hi rend="bold">MADRIGAL.</hi>
                         </head>
@@ -3996,7 +4029,6 @@
                         <p>&#160;&#160;&#160;<hi rend="italic">Quoy ? vous ay-je offencée,<lb/>
                                 D'effect ou de pensée ?<lb/> D'effect il ne peut estre,<lb/> Si mon
                                 penser l'a fait il est un traistre.</hi><lb/></p>
-                    </div3>
                     
                         <p>&#160;&#160;&#160;Cette Bergere avoit la voix si douce, que toute la
                             troupe survenuë fut bien marrie qu'elle eust si tost achevé : mais Hylas
@@ -4010,36 +4042,46 @@
                             que vous nous avez faite. Je ne vous desdiray jamais, respondit Paris,
                             de chose qui soit en ma puissance : &amp; lors prenant une harpe que ces
                             Bergeres avoient, il chanta sur cet instrument de cette sorte.</p>
+                    </div>
+                        </body>
+                    </floatingText>
                         <pb xml:id="page_abs_179" n="page_ori_172"/>
-
-                        <lb/>
+<floatingText>
+    <body>
+        <div1>
                         <head>
                             <hi rend="bold">CHANSON.</hi>
                         </head>
-                        <lb/>
+            
+            <div2 type="chansonparagraphe" n="1">
                         <p>&#160;&#160;&#160;<hi rend="italic">Quand Hylas apperceut les yeux<lb/>
                                 De Philis sabelle Maistresse,<lb/> Voit on encor telle Déesse<lb/>
                                 Ailleurs, dit-il, que dans les Cieux ?</hi></p>
+            </div2>
 
-                        <head>II.</head>
-
+            <div2 type="chansonparagraphe" n="2">
+                        <p >II.</p>
                         <p>&#160;&#160;&#160;<hi rend="italic">Phylis d'un esclat rougissant<lb/>
                                 Oyant ces mots devint plus belle ;<lb/> En vain cette beauté
                                 nouvelle<lb/> Rend, dit-il, vostre œil plus puissant.</hi></p>
-
-                        <head>III.</head>
-
+            </div2>
+            <div2 type="chansonparagraphe" n="1">
+                        <p>III.</p>
                         <p>&#160;&#160;&#160;<hi rend="italic">Elle d'un gracieux sousris<lb/>
                                 Recevant cette flatterie :<lb/> Cessez, luy dit-il, je vous
                                 prie,<lb/> C'est fait, en fin Hylas est pris.</hi></p>
-
-                        <head>IIII.</head>
+            </div2>
+            <div2 type="chansonparagraphe" n="4">
+                        <p>IIII.</p>
 
                         <p>&#160;&#160;&#160;<hi rend="italic">Mais s'il plaint, dit-elle, à
                                 l'instant<lb/> Sa liberté, qu'il la repreine<lb/> Vous estes,
                                 dit-il, moins humaine<lb/> En pardonnant qu'en surmontant.</hi></p>
+            </div2>
                         <pb xml:id="page_abs_180" n="page_ori_173"/>
-                        <head>V.</head>
+            
+            <div2 type="chansonparagraphe" n="5">            
+            <p>V.</p>
                         <p>&#160;&#160;&#160;<hi rend="italic">Lien trop aymable &amp; trop
                                 cher<lb/> Dont le captif craint qu'on le lasche,<lb/> Heureux Amant
                                 puis qu'il te fasche<lb/> Quand tu vois qu'on te veut
@@ -4061,12 +4103,16 @@
                             est : car pour toutes ses autres conditions, nous les avons autrefois
                             aprises à nos despens, &amp; apres s'estre teuë quelque temps, elle
                             reprit de cette sorte.</p>
+            </div2>
+        </div1>
+    </body>
+</floatingText>
                         <pb xml:id="page_abs_181" n="page_ori_174"/>
-                    </div3>
-                    <div3>
-                        <lb/>
+<floatingText>
+    <body>
+                    <div>
+
                         <head><hi rend="bold">HISTOIRE</hi><lb/> DE PALINICE ET DE CYRCENE.</head>
-                        <lb/>
 
                         <p>&#160;&#160;&#160;Je ne trouveray jamais estrange, gentil Berger, tant
                             que j'auray memoire de Hylas, d'ouyr dire que la plus part des choses
@@ -4176,8 +4222,12 @@
                             bruit que fit <pb xml:id="page_abs_186" n="page_ori_179"/> Hylas en
                             ouvrant la porte &amp; en entrant ; &amp; de fortune il parloit alors si
                             haut que Hylas peust ouyr ces paroles.</p>
-                    </div3>
-                    <div3 type="poem">
+                    </div>
+    </body>
+</floatingText>
+                    <floatingText>
+                        <body>
+                    <div type="poem">
                         <head><hi rend="bold">SONNET.</hi><lb/> IL PARLE AU VENT.</head>
                         <lg>
                             <l>&#160;&#160;&#160;<hi rend="italic">Doux zephir que je vois errer
@@ -4215,7 +4265,9 @@
                             <l><hi rend="italic">Mais rapporte les moy pour nourrir mes
                                 desirs.</hi></l>
                         </lg>
-                    </div3>
+                    </div>
+                        </body>
+                    </floatingText>
                     <p>&#160;&#160;&#160;Je vous y prends Clorian (dit Hylas, luy jettant le bras au
                         col, &amp; le baisant à la jouë) je confesse que vous estes le plus secret
                         Amoureux qui fut jamais, mais si ne pouvez vous plus vous cacher à moy. Ny
@@ -4286,8 +4338,9 @@
                             xml:id="page_abs_190" n="page_ori_183"/> voire qu'il ravisse. Et ne
                         sçavez vous Clorian comme la femme est faite ? Escoutez ce qu'en dit ce
                         grand Oracle qui de nostre temps a parlé de là les Alpes.</p>
-                    
-                    <div3 type="madrigal">
+                    <floatingText>
+                        <body>
+                    <div type="madrigal">
                 
                         <head>
                             <hi rend="bold">MADRIGAL.</hi>
@@ -4297,7 +4350,6 @@
                                 qu'on l'attaigne :<lb/> Refuse, &amp; refusant veut qu'on l'ait par
                                 effort :<lb/> Combat, &amp; combatant veut qu'on soit le plus fort
                                 :<lb/> Car ainsi son honneur ordonne qu'elle feigne.</hi><lb/></p>
-                    </div3>
                     
                         <p>&#160;&#160;&#160;Celui qui n'a pas le courage de vivre de cette sorte,
                             conseillez luy seulement qu'il prenne un autre mestier que celui
@@ -4451,6 +4503,9 @@
                             le veulent entreprendre contre deux. A ce mot, Astrée, Diane, Philis
                             &amp; le reste de leur trouppe arriverent, &amp; furent cause que ceste
                             dispute prist fin.</p>
+                    </div>
+                        </body>
+                    </floatingText>
                 </div2>
                 <div2 xml:id="page_ASTREE_1614_0204" n="quatriesme" type="livre">
                     <pb xml:id="page_abs_198" n="page_ori_191"/>
@@ -4659,11 +4714,11 @@
                         lors que les cerises furent parachevées, Hylas commença de parler de cette
                         sorte.</p>
                     <pb xml:id="page_abs_208" n="page_ori_201"/>
-                    <lb/>
-                    <div3 type="histoire">
+                    <floatingText>
+                        <body>
+                    <div type="histoire">
                         <head><hi rend="bold">HISTOIRE.</hi><lb/> DE PARTHENOPE, FLORICE<lb/> ET
                             DORINDE.</head>
-                        <lb/>
                         <p>&#160;&#160;&#160;Je me suis moqué bien souvent en ma pensée, de ceux qui
                             blasment l'inconstance, &amp; qui font profession d'en estre plus
                             ennemis, considerant qu'ils ne peuvent estre tels qu'ils se disent,
@@ -5079,10 +5134,13 @@
                             l'offencer d'avantage : &amp; prenant la parole comme si c'eust esté en
                             deffence de Dorinde, qui en quelque façon luy touchoit d'alliance, elle
                             luy respondit de cette sorte.</p>
-                    </div3>
+                    </div>
+                        </body>
+                    </floatingText>
                     <pb xml:id="page_abs_227" n="page_ori_220"/>
-
-                    <div3 type="poem">
+<floatingText>
+    <body>
+                    <div type="poem">
                         <head><hi rend="bold">SONNET.</hi></head>
                         <lg>
                             <l>&#160;&#160;&#160;<hi rend="italic">Dorinde se mocqua de
@@ -5110,8 +5168,10 @@
                             <l><hi rend="italic">Elle aymeroit mieux le supplice,</hi></l>
                             <l><hi rend="italic">Que non pas un tel souvenir.</hi></l>
                         </lg>
-                    </div3>
-                    <p>&#160;&#160;&#160;Cette repartie faite si à propos par Florice me fut tant
+                    </div>
+    </body>
+</floatingText>
+    <p>&#160;&#160;&#160;Cette repartie faite si à propos par Florice me fut tant
                         agreable, que dés lors je me resolus de l'aimer, &amp; la joindre à Palinice
                         &amp; à Cyrcéne, &amp; presque en mesme temps costoyant un beau pré, elles
                         furent toutes d'avis de mettre pied à terre, pour joüyr de la beauté du
@@ -5181,7 +5241,9 @@
                         vers que je vous vay dire, pour asseurer Florice, que tout ce que je luy
                         avois dit estoit veritable.</p>
                     <pb xml:id="page_abs_231" n="page_ori_224"/>
-                    <div3 type="poem">
+                    <floatingText>
+                        <body>
+                    <div type="poem">
                         <head><hi rend="bold">SONNET.</hi><lb/> SERMENTS AMOUREUX.</head>
                         <lg>
                             <l>&#160;&#160;&#160;<hi rend="italic">Belle de mes desirs, vous estes
@@ -5219,7 +5281,9 @@
                             <l><hi rend="italic">Encor ne croirez vous ce que je vousen
                                 dis.</hi></l>
                         </lg>
-                    </div3>
+                    </div>
+                        </body>
+                    </floatingText>
                     <p>&#160;&#160;&#160;Or belle Philis, voicy un grand commencement d'affaires :
                         car depuis que j'eus veu Florice, il me fut impossible de m'en retirer :
                         toutefois il me faschoit fort de perdre Palinice, tant pour l'obligation que
@@ -5660,11 +5724,10 @@
                         paroissoient fraichement escrites, &amp; les autres de plus longue main. La
                         premiere qu'elle prist, qui toutesfois estoit la derniere escrite, se trouva
                         telle.</p>
-                    <div3>
-                        <lb/>
+                    <floatingText>
+                        <body>
+                    <div>
                         <head><hi rend="bold">LETTRE</hi><lb/> DE DORINDE A HYLAS.</head>
-                        <lb/>
-
                         <p>&#160;&#160;&#160;<hi rend="italic">Je m'y trouveray puis que vous le
                                 voulez ainsi : aussi seroit-il bien malaisé que vous y fussiez sans
                                 moy, puis que je ne suis jamais sans vous. Mais ressouvenez vous
@@ -5680,11 +5743,13 @@
                             d'elle mesme, qu'elle ne sçavoit si c'estoit songe ou non. Enfin sans
                             dire un seul mot, elle mit la main sur la premiere qu'elle rencontra,
                             qui fut telle.</p>
-                    </div3>
-                    <div3>
-                        <lb/>
+                    </div>
+                        </body>
+                    </floatingText>
+                    <floatingText>
+                        <body>
+                    <div>
                         <head><hi rend="bold">LETTRE.</hi><lb/> DE DORINDE A HYLAS.</head>
-                        <lb/>
                         <p>&#160;&#160;&#160;<hi rend="italic">Je croi de vostre affection encor
                                 plus que vous ne m'en dites. Mais pourquoy ne m'aimez vous autant
                                 que je vous aime ? Vous jurerez sans doute que vous m'aimez
@@ -5695,11 +5760,15 @@
                                 estes le plus incredule de tous les hommes, si par mes effets vous
                                 ne croyez à mes paroles.</hi><lb/></p>
                         <p>&#160;&#160;&#160;Voicy la troisiesme qu'elle rencontra.</p>
-                    </div3>
-                    <div3>
-                        <lb/>
+                    </div>
+                        </body>
+                    </floatingText>
+                    <floatingText>
+                        <body>
+                    <div>
+
                         <head><hi rend="bold">LETTRE</hi><lb/> DE DORINDE A HYLAS.</head>
-                        <lb/>
+
                         <p>&#160;&#160;&#160;<hi rend="italic">Je vous envoie ce pourtrait que vous
                                 avez desiré de moi, non pas pour vous faire perdre personne que vous
                                 ayez acquise, comme vous me fistes autresfois avec un semblable
@@ -5710,6 +5779,9 @@
                                 moins heureuse seulement en ce qu'elle possedera ce bien sans le
                                 connoistre, que sans le posseder j'estime plus que ma
                             vie.</hi><lb/></p>
+                    </div>
+                        </body>
+                    </floatingText>
                         <p>&#160;&#160;&#160;Jettant alors cette lettre de dépit sur la table, &amp;
                             de cholere poussant les autres loing <pb xml:id="page_abs_255"
                                 n="page_ori_248"/> d'elle, elle se recula d'un pas, &amp; se noüant
@@ -5987,12 +6059,11 @@
                             éviter le mariage de Teombre, de me faire sçavoir pour le moins, que sa
                             foy n'estoit point changée, ny que son affection ne seroit jamais autre
                             que je l'avois esprouvée. Sa lettre fut telle.</p>
-                    </div3>
                     <pb xml:id="page_abs_267" n="page_ori_260"/>
-                    <div3>
-                        <lb/>
+                    <floatingText>
+                        <body>
+                    <div>
                         <head><hi rend="bold">LETTRE</hi><lb/> DE FLORICE A HYLAS</head>
-                        <lb/>
                         <p>&#160;&#160;&#160;<hi rend="italic">Quand vous verrez cette escriture,
                                 peut estre vous souviendrez vous d'en avoir veu autrefois lors que
                                 vous aymiez celle qui vous escrit, &amp; que vous avez tant
@@ -6045,12 +6116,16 @@
                             hazard il me donna le loisir quand je me retirois. L'ayant leuë je le
                             priay de ne dire point que je l'eusse veuë, mais que j'estois desja
                             parti, &amp; prenant la plume, j'escris ainsi à Florice.</p>
-                    </div3>
+                    </div>
+                        </body>
+                    </floatingText>
                     <pb xml:id="page_abs_270" n="page_ori_263"/>
-                    <div3>
-                        <lb/>
+                    <floatingText>
+                        <body>
+                    <div>
+
                         <head><hi rend="bold">LETTRE</hi><lb/> DE HYLAS A FLORICE</head>
-                        <lb/>
+
                         <p>&#160;&#160;&#160;<hi rend="italic">Vous avez donc le courage de vous
                                 donner à Teombre ? vous avez donc si peu de memoire de l'amitié de
                                 Hylas, que vous luy vueillez preferer un tel homme ? Doncques vous
@@ -6073,11 +6148,15 @@
                                 n="page_ori_264"/> pouvoir soustenir la veuë de ce mariage : &amp;
                             afin qu'elle le creust mieux, je donnay ordre que presque en mesme temps
                             une autre lettre des miennes luy fut portée. Elle estoit telle.</p>
-                    </div3>
-                    <div3>
-                        <lb/>
+                    </div>
+                        </body>
+                    </floatingText>
+                    <floatingText>
+                        <body>
+                    <div>
+
                         <head><hi rend="bold">LETTRE</hi><lb/> DE HYLAS A FLORICE</head>
-                        <lb/>
+
                         <p>&#160;&#160;&#160;<hi rend="italic">Puis qu'il est impossible que Florice
                                 ne suive le cours de son malheureux destin, je pars de cette ville,
                                 ne pouvant souffrir une veuë si deplorable pour moy. J'ayme mieux en
@@ -6124,11 +6203,15 @@
                             confusion ; mais je m'en tais, parce qu'ils furent tous inutiles, &amp;
                             vous diray qu'en fin ne pouvant plus reculer, le soir avant que de
                             signer le contract de mariage, elle m'escrivit telles paroles.</p>
-                    </div3>
-                    <div3>
-                        <lb/>
+                    </div>
+                        </body>
+                    </floatingText>
+                    <floatingText>
+                        <body>
+                    <div>
+
                         <head><hi rend="bold">LETTRE</hi><lb/> DE FLORICE A HYLAS.</head>
-                        <lb/>
+
                         <p>&#160;&#160;&#160;<hi rend="italic">Si je pouvois vous envoyer ma vie
                                 dans ce papier aussi bien que la verité de mon intention, je ne me
                                 plaindrois pas de l'injustice du Ciel qui m'a destinée à manquer à
@@ -6320,11 +6403,15 @@
                             moy, comme bien souvent il avoit accoustumé, m'en déroba une que j'avois
                             receuë en sa presence, &amp; aussi tost qu'il put entrer le matin en la
                             chambre de Dorinde, il la luy porta. Elle vit qu'elle estoit telle.</p>
-                    </div3>
-                    <div3>
-                        <lb/>
+                    </div>
+                        </body>
+                    </floatingText>
+                    <floatingText>
+                        <body>
+                    <div>
+
                         <head><hi rend="bold">LETTRE</hi><lb/> DE FLORICE A HYLAS.</head>
-                        <lb/>
+
                         <p>&#160;&#160;&#160;<hi rend="italic">Celuy qui n'est au monde que pour
                                 nostre supplice s'en va demain hors de la ville. Si vous venez tout
                                 le soir sera nostre. Le reste du temps que je passe esloignée de ce
@@ -6377,9 +6464,13 @@
                             quand je fus en mon logis, j'avois une impatience incroyable d'attendre
                             de la clarté pour lire la lettre qui m'avoit esté donnée. En fin je vis
                             qu'elle estoit telle.</p>
-                    </div3>
+                    </div>
+                        </body>
+                    </floatingText>
                     <pb xml:id="page_abs_285" n="page_ori_278"/>
-                    <div3>
+                    <floatingText>
+                        <body>
+                    <div>
                         <lb/>
                         <head><hi rend="bold">LETTRE</hi><lb/> DE FLORICE A HYLAS.</head>
                         <lb/>
@@ -6426,7 +6517,9 @@
                             la verité elle le meritoit ; car je ne croy pas que jamais estrangere
                             eust plus d'attraits, ny fut plus capable de donner de l'amour
                             qu'elle.</p>
-                    </div3>
+                    </div>
+                        </body>
+                    </floatingText>
                 </div2>
                 <div2 xml:id="page_ASTREE_1614_0205" n="cinquiesme" type="livre">
                     <pb xml:id="page_abs_288" n="page_ori_281"/>
@@ -6434,7 +6527,6 @@
                         <hi rend="bold"> LE<lb/> CINQUIESME<lb/> LIVRE DE LA<lb/> SECONDE
                             PARTIE<lb/> D'ASTRÉE.</hi>
                     </head>
-                    <lb/>
                     <p>&#160;&#160;&#160;Astrée eust bien pris plaisir au discours de Hylas, si
                         c'eust esté en une autre saison : mais le desir extreme qu'elle avoit
                         d'estre au lieu où Silvandre avoit trouvé la lettre de Celadon luy faisoit
@@ -6714,89 +6806,110 @@
                         qui est encor de rare en ce tableau. Et l'ors le prenant en la main il leut
                         ces paroles qui estoient escrites au bas.</p>
                     <pb xml:id="page_abs_302" n="page_ori_295"/>
-                    <div3>
-                        <lb/>
+                    <floatingText>
+                        <body>
+                    <div1>
                         <head type="main">VOICY LES DOUZE TAbles des Loix d'Amour, que sur peine
                             d'encourir sa disgrace, il commande à tout Amant d'observer.</head>
-                        <lb/>
 
-                        <head type="sub">Premiere Table.</head>
+                        <div2 n="1">
+                        <p>Premiere Table.</p>
                         <p>&#160;&#160;&#160;<hi rend="italic">Qui veut estre parfait Amant,<lb/> Il
                                 faut qu'il ayme infiniment :<lb/> L'extreme Amour seule en est
                                 digne,<lb/> Aussi la mediocrité,<lb/> De trahison est plustost
                                 signe,<lb/> Que non pas de fidelité.</hi></p>
-
-                        <head>Deuxiesme Table.</head>
+                        </div2>
+                        
+                        <div2 n="2">
+                        <p>Deuxiesme Table.</p>
                         <p>&#160;&#160;&#160;<hi rend="italic">Qu'il n'aime jamais qu'en un
                                 lieu,<lb/> Et que cest Amour soit un Dieu,<lb/> Qu'il adore pour
                                 toute chose :<lb/> Et n'ayant jamais qu'un objet,<lb/>
                                 <pb xml:id="page_abs_303" n="page_ori_296"/> Tous les bon heurs
                                 qu'il se propose<lb/> Soient pour cet unique sujet.</hi></p>
+                        </div2>
 
-                        <head>Troisiesme Table.</head>
+                        <div2 n="3">
+                        <p>Troisiesme Table.</p>
                         <p>&#160;&#160;&#160;<hi rend="italic">Bornant en luy tous ses
                                 plaisirs,<lb/> Qu'il arreste tous ses desirs,<lb/> Au service de
                                 cette belle :<lb/> Voire qu'il cesse de s'aymer,<lb/> Sinon que
                                 d'autant qu'aymé d'elle,<lb/> Il se doit pour elle estimer.</hi></p>
+                        </div2>
 
-                        <head>Quatriesme Table.</head>
+                        <div2 n="4">
+                        <p>Quatriesme Table.</p>
                         <p>&#160;&#160;&#160;<hi rend="italic">Que s'il a le soin d'estre
                                 mieux,<lb/> Ce ne soit que pour les beaux yeux,<lb/> Dont son Amour
                                 a pris naissance :<lb/> S'il souhaite plus de bon-heur,<lb/> Ce ne
                                 soit que pour l'esperance,<lb/> Qu'elle en recevra plus
                                 d'honneur.</hi></p>
+                        </div2>
 
-                        <head>Cinquiesme Table.</head>
+                        <div2 n="5">
+                        <p>Cinquiesme Table.</p>
                         <p>&#160;&#160;&#160;<hi rend="italic">Telle soit son affection,<lb/> Que
                                 mesme la possession,<lb/>
                                 <pb xml:id="page_abs_304" n="page_ori_297"/> De ce qu'il de sire en
                                 son ame,<lb/> S'il doit l'acheter au mespris<lb/> De son honneur ou
                                 de sa Dame,<lb/> Luy soit moins chere que ce pris.</hi></p>
-
-                        <head>Sixiesme Table.</head>
+                        </div2>
+                        <div2 n="6">
+                        <p>Sixiesme Table.</p>
                         <p>&#160;&#160;&#160;<hi rend="italic">Pour subjet qui se vienne
                                 offrir,<lb/> Qu'il ne puisse jamais souffrir.<lb/> La honte de la
                                 chose aimée :<lb/> Et si devant luy par desdain,<lb/> D'un mesdisant
                                 elle est blasmée :<lb/> Qu'il meure ou la venge soudain.</hi></p>
-
-                        <head>Septiesme Table.</head>
+                        </div2>
+                        <div2 n="7">
+                        <p>Septiesme Table.</p>
                         <p>&#160;&#160;&#160;<hi rend="italic">Que son Amour fasse en effet,<lb/>
                                 Qu'il juge en elle tout parfait,<lb/> Et quoy que sans doute il
                                 l'estime :<lb/> Au prix de ce qu'il aymera,<lb/> Qu'il condamne
                                 comme d'un crime,<lb/> Celuy qui moins l'estimera.</hi></p>
+                        </div2>
                         <pb xml:id="page_abs_305" n="page_ori_298"/>
-
-                        <head>Huictiesme Table.</head>
+                        <div2 n="8">
+                        <p>Huictiesme Table.</p>
                         <p>&#160;&#160;&#160;<hi rend="italic">Qu'espris d'un Amour violant,<lb/> Il
                                 aille sans cesse brulant,<lb/> Et qu'il languisse, &amp; qu'il
                                 souspire,<lb/> Entre la vie &amp; le trespas,<lb/> Sans toutesfois
                                 qu'il puisse dire,<lb/> Ce qu'il veut, ou qu'il ne veut
                             pas.</hi></p>
-
-                        <head>Neufiesme Table.</head>
+                        </div2>
+                        
+                        <div2 n="9">
+                        <p>Neufiesme Table.</p>
                         <p>&#160;&#160;&#160;<hi rend="italic">Mesprisant son propre sejour,<lb/>
                                 Son Ame aille vivre d'Amour<lb/> Au sein de celle qu'il adore,<lb/>
                                 Et qu'en elle ainsi transformé,<lb/> Tout ce qu'elle aime &amp;
                                 qu'elle honore,<lb/> Soit aussi de luy bien aimé.</hi></p>
-
-                        <head>Dixiesme Table.</head>
+                        </div2>
+                        <div2 n="10">
+                        <p>Dixiesme Table.</p>
                         <p>&#160;&#160;&#160;<hi rend="italic">Qu'il tienne les jours pour
                                 perdus,<lb/> Qui loing d'elle sont despendus,<lb/> Toute peine soit
                                 embrassée,<lb/> Pour estre en ce lieu desiré,<lb/>
                                 <pb xml:id="page_abs_306" n="page_ori_299"/> Et qu'il y soit de la
                                 pensée,<lb/> Si le corps en est separé.</hi></p>
-
-                        <head>Unziesme Table.</head>
+                        </div2>
+                        <div2 n="11">
+                        <p>Unziesme Table.</p>
                         <p>&#160;&#160;&#160;<hi rend="italic">Que la perte de la raison,<lb/> Que
                                 les liens &amp; la prison,<lb/> Pour elle en son ame il cherisse
                                 ;<lb/> Et se plaise à s'y renfermer,<lb/> Sans attendre de son
                                 service,<lb/> Que le seul honneur de l'aimer.</hi></p>
-
-                        <head>Douziesme Table.</head>
+                        </div2>
+                        <div2 n="12">
+                        <p>Douziesme Table.</p>
                         <p>&#160;&#160;&#160;<hi rend="italic">Qu'il ne puisse jamais penser,<lb/>
                                 Que son Amour doive passer :<lb/> Qui d'autre sorte le
                                 conseille,<lb/> Soit pour ennemy reputé,<lb/> Car c'est de luy
                                 preter l'aureille,<lb/> Crime de leze Maiesté.</hi></p>
+                        </div2>
+                    </div1>
+                        </body>
+                    </floatingText>
                         <p>&#160;&#160;&#160;Hylas qui escoutoit ce que Silvandre lisoit. Je ne croy
                             point, dit-il, Silvandre, qu'une seule des paroles que tu as proferées,
                             soit escritte au tableau que tu tiens : mais les ayant composées il y a
@@ -6820,7 +6933,7 @@
                             cabinet beaucoup plus ample. Il y avoit au dessus de la voute de la
                             porte un feston où pendoit un tableau, dans lequel ces vers estoient
                             escrits.</p>
-                    </div3>
+
                     <pb xml:id="page_abs_308" n="page_ori_301"/>
 
                     <div3>
