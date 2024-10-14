@@ -271,15 +271,15 @@
                         d'avantage, puis que le Ciel &amp; nostre volonté appreuvent une si bonne
                         resolution ?</p>
                     <p>&#160;&#160;&#160;De fortune quand il tenoit ces discours en soy mesme il se
-                        trouva sur le bord de la delectable riviere de Lignon vis à vis de ce
-                        rocher, qui estant frappé de la voix, respond si intelligiblement aux
-                        derniers accents. Cela fut cause qu'aprés que ces pensées luy eurent
-                        longuement roulé par l'esprit, presque comme revenant d'un profond sommeil :
-                        Mais pourquoy, dit-il, nous allons nous consommant &amp; embroüillant en ces
-                        contrarietez ? Echo qui habite en ce rocher, si nous l'en enquerons, nous en
-                        dira bien ce qu'elle en a ouy de la bouche mesme de ma Bergere, qui est
-                        l'Oracle le plus certain que je puisse consulter. Et lors relevant la voix
-                        il luy parla de cette sorte.</p>
+                        trouva sur le bord de la delectable <placeName key="riviere_lignon">riviere
+                            de Lignon</placeName> vis à vis de ce rocher, qui estant frappé de la
+                        voix, respond si intelligiblement aux derniers accents. Cela fut cause
+                        qu'aprés que ces pensées luy eurent longuement roulé par l'esprit, presque
+                        comme revenant d'un profond sommeil : Mais pourquoy, dit-il, nous allons
+                        nous consommant &amp; embroüillant en ces contrarietez ? Echo qui habite en
+                        ce rocher, si nous l'en enquerons, nous en dira bien ce qu'elle en a ouy de
+                        la bouche mesme de ma Bergere, qui est l'Oracle le plus certain que je
+                        puisse consulter. Et lors relevant la voix il luy parla de cette sorte.</p>
                     <pb xml:id="page_abs_13" n="page_ori_6"/>
 
                     <floatingText type="pwp">
@@ -1799,41 +1799,42 @@
                     <p>&#160;&#160;&#160;Ainsi paracheva Thamire, de raconter ce que la Nimphe
                             <persName key="leonide" role="travesti">Leonide</persName> avoit desiré
                         sçavoir, &amp; s'estant teu pour quelque temps : Or Madame, continua-t'il,
-                        nous nous sommes de fortune rencontrez au sortir de la riviere de Lignon,
-                        avec ceste Bergere, &amp; par ce que l'Amour continuë autant en nous que le
-                        desdain en elle, nous venions tous deux luy prouvant par les meilleures
-                        raisons que nous pouvons, qu'elle en devoit aymer l'un ou l'autre, &amp;
-                        quant à moy je disois que c'estoit de moy de qui elle devoit faire choix :
-                        &amp; au contraire <persName key="calidon" role="berger">Calidon</persName>,
-                        que j'ay tant obligé par toute sorte de bons offices, soustient
-                        opiniastrement que c'est de luy : Et quoy que je sçache bien que vostre
-                        entendement peut beaucoup mieux comprendre mes <pb xml:id="page_abs_73"
-                            n="page_ori_66"/> raisons que je ne les sçaurois deduire, si est-ce que
-                        pour mettre une fin à ces longues dissentions (car desormais nous sommes la
-                        fable de nostre hameau) pleust à Dieu, grande Nimphe, que vous voulussiez
-                        aussi bien oüir nos raisons de nos bouches mesmes, &amp; ordonner ce qui
-                        vous sembleroit estre juste, comme librement je me sousmettrois à vostre
-                        jugement : Ce seroit une œuvre digne de vous, &amp; de laquelle les Dieux
-                        vous sçauroient gré, &amp; nous vous demeurerions infiniment obligez.
-                            <persName key="leonide" role="travesti">Leonide</persName> à lors
-                        l'ayant remercié de la peine qu'il avoit prise de leur raconter les causes
-                        de leur debat, l'asseura que si luy &amp; ceux qui y avoient interest la
-                        jugeoient capable de ce qu'il luy demandoit, elle s'offroit librement d'en
-                        dire son advis lors qu'ils auroient promis de l'observer : car autrement ce
-                        ne seroit que se travailler en vain. Thamyre se jettant à genoux, Je vous
-                        remets, ô grande Nimphe, dit-il, non seulement ma vie &amp; ma mort, mais
-                        tout le contentement &amp; le desplaisir que j'auray jamais &amp; durant ma
-                        vie, &amp; apres ma mort. Que si je contreviens à ce que vous ordonnerez, je
-                        veux que nos Druides me declarent indigne d'assister à leurs sacrifices,
-                        &amp; me soient deffendus nos boccages sacrez, &amp; nos chesnes celestes.
-                        Et moy, respondit <persName key="calidon" role="berger">Calidon</persName>,
-                        jamais ne me puisse estre salutaire, le Guy de l'an neuf, &amp; si je
-                        rencontre quelquefois l'œuf salutaire, soufflé des serpens, je prie Tautates
-                        qu'il les anime de sorte contre moy, qu'ils ne me laissent jamais en repos,
-                        &amp; que m'ayant <pb xml:id="page_abs_74" n="page_ori_67"/> entortillé
-                        &amp; les jambes &amp; les bras de cent tours, leur venin ne m'ait percé le
-                        cœur, si je ne reçois vostre jugement, comme venant d'un grand Dieu, &amp;
-                        si je ne l'observe tant que je vivray. Et parce que <persName key="celidee"
+                        nous nous sommes de fortune rencontrez au sortir de la <placeName
+                            key="riviere_lignon">riviere de Lignon</placeName>, avec ceste Bergere,
+                        &amp; par ce que l'Amour continuë autant en nous que le desdain en elle,
+                        nous venions tous deux luy prouvant par les meilleures raisons que nous
+                        pouvons, qu'elle en devoit aymer l'un ou l'autre, &amp; quant à moy je
+                        disois que c'estoit de moy de qui elle devoit faire choix : &amp; au
+                        contraire <persName key="calidon" role="berger">Calidon</persName>, que j'ay
+                        tant obligé par toute sorte de bons offices, soustient opiniastrement que
+                        c'est de luy : Et quoy que je sçache bien que vostre entendement peut
+                        beaucoup mieux comprendre mes <pb xml:id="page_abs_73" n="page_ori_66"/>
+                        raisons que je ne les sçaurois deduire, si est-ce que pour mettre une fin à
+                        ces longues dissentions (car desormais nous sommes la fable de nostre
+                        hameau) pleust à Dieu, grande Nimphe, que vous voulussiez aussi bien oüir
+                        nos raisons de nos bouches mesmes, &amp; ordonner ce qui vous sembleroit
+                        estre juste, comme librement je me sousmettrois à vostre jugement : Ce
+                        seroit une œuvre digne de vous, &amp; de laquelle les Dieux vous sçauroient
+                        gré, &amp; nous vous demeurerions infiniment obligez. <persName
+                            key="leonide" role="travesti">Leonide</persName> à lors l'ayant remercié
+                        de la peine qu'il avoit prise de leur raconter les causes de leur debat,
+                        l'asseura que si luy &amp; ceux qui y avoient interest la jugeoient capable
+                        de ce qu'il luy demandoit, elle s'offroit librement d'en dire son advis lors
+                        qu'ils auroient promis de l'observer : car autrement ce ne seroit que se
+                        travailler en vain. Thamyre se jettant à genoux, Je vous remets, ô grande
+                        Nimphe, dit-il, non seulement ma vie &amp; ma mort, mais tout le
+                        contentement &amp; le desplaisir que j'auray jamais &amp; durant ma vie,
+                        &amp; apres ma mort. Que si je contreviens à ce que vous ordonnerez, je veux
+                        que nos Druides me declarent indigne d'assister à leurs sacrifices, &amp; me
+                        soient deffendus nos boccages sacrez, &amp; nos chesnes celestes. Et moy,
+                        respondit <persName key="calidon" role="berger">Calidon</persName>, jamais
+                        ne me puisse estre salutaire, le Guy de l'an neuf, &amp; si je rencontre
+                        quelquefois l'œuf salutaire, soufflé des serpens, je prie Tautates qu'il les
+                        anime de sorte contre moy, qu'ils ne me laissent jamais en repos, &amp; que
+                        m'ayant <pb xml:id="page_abs_74" n="page_ori_67"/> entortillé &amp; les
+                        jambes &amp; les bras de cent tours, leur venin ne m'ait percé le cœur, si
+                        je ne reçois vostre jugement, comme venant d'un grand Dieu, &amp; si je ne
+                        l'observe tant que je vivray. Et parce que <persName key="celidee"
                             role="amantr">Celidée</persName> ne disoit mot, Et vous belle Bergere,
                         dit <persName key="astree_personnage" role="berger">Astrée</persName>,
                         n'avez-vous point de volonté de vous descharger de l'importunité que vous
@@ -3157,7 +3158,7 @@
                                         <persName key="adamas" role="druide">Adamas</persName> qui
                                     estoit prest à souper. <persName key="silvandre" role="berger"
                                         >Silvandre</persName> d'autre costé reprenant son chemin,
-                                    laissa à main gauche Bonlieu, Temple dedié à la bonne Déesse, où
+                                    laissa à main gauche Bonlieu, <placeName key="temple_galathee">Temple dedié à la bonne Déesse</placeName>, où
                                     elle est servie avec honneur &amp; devotion par les Vestales
                                     &amp; chastes filles Druides, sous la charge de la venerable
                                     Chrisante, &amp; passa dans un bois si toufu, qu'encores que la
@@ -4751,11 +4752,12 @@
                             role="amie_astree">Philis</persName> &amp; <persName key="hylas"
                             role="donjuan">Hylas</persName>. Si vous avez quelquefois ouy parler de
                         cette plaine de Forest, respondit Paris, &amp; particulierement de
-                        l'agreable riviere de Lignon, il ne peut estre que vous n'ayez ouy le nom de
-                        la belle Bergere <persName key="diane" role="berger">Diane</persName>, &amp;
-                            d'<persName key="astree_personnage" role="berger">Astrée</persName>. Or
-                        cette <persName key="philis" role="amie_astree">Philis</persName> dont vous
-                        me demandez des nouvelles, est leur plus chere compagne. Quant à <persName
+                        l'agreable <placeName key="riviere_lignon">riviere de Lignon</placeName>, il
+                        ne peut estre que vous n'ayez ouy le nom de la belle Bergere <persName
+                            key="diane" role="berger">Diane</persName>, &amp; d'<persName
+                            key="astree_personnage" role="berger">Astrée</persName>. Or cette
+                            <persName key="philis" role="amie_astree">Philis</persName> dont vous me
+                        demandez des nouvelles, est leur plus chere compagne. Quant à <persName
                             key="hylas" role="donjuan">Hylas</persName>, je ne vous en puis dire
                         autre chose, sinon qu'il est estranger, mais de la plus gracieuse, &amp;
                         plus heureuse humeur que j'aye jamais pratiquée, car il ne s'ennuye jamais
@@ -11761,29 +11763,30 @@
                             n="page_ori_456"/> quelquesfois en compagnie de Paris, &amp; bien
                         souvant seule, n'y ayant guiere plus d'un demie lieuë de la maison où elle
                         demeuroit jusques aux hameaux de ces Bergeres, &amp; le chemin encores
-                        estoit tant agreable, à cause de la douce riviere de Lignon, &amp; des
-                        bocages qui s'y rencontroient qu'il estoit impossible de s'y ennuyer. Il
-                        avint donc qu'estant resoluë un jour de s'y en aller toute seule, elle alla
-                        passer sur le pont de la [B]outeresse, &amp; descendant le long des rives de
-                        Lignon. Encores qu'il n'y eust point de sentier si pres de la rive, elle ne
-                        laissoit de s'y faire chemin pour le plaisir qu'elle prenoit de voir le
-                        poisson qui dans la claire eau de la riviere s'en alloit à petites troupes,
-                        se joüant ensemble le long du bord, &amp; poursuivant ainsi son voyage, se
-                        trouva sans y penser pres de la fontaine où <persName key="celadon"
-                            role="berger">Celadon</persName> souloit cueillir le cresson dont il se
-                        nourrissoit. Et de fortune le Berger s'estant couché sur le bord s'y estoit
-                        endormy un peu auparavant. D'aussi loing que la Nimphe l'apperceut, elle le
-                        prist pour Licidas, parce que ces deux freres estoient presque d'une mesme
-                        taille, &amp; avoient accoustumé d'aller vestus l'un comme l'autre : &amp;
-                        quoy que <persName key="celadon" role="berger">Celadon</persName> fut un peu
-                        plus grand, &amp; eust le visage beaucoup plus blanc &amp; plus agreable, si
-                        est ce que s'approchant de luy elle y fust deceuë, tant pource qu'elle creut
-                        asseurement que <persName key="celadon" role="berger">Celadon</persName>
-                        n'estoit pas en cette contrée, que pour le changement de son visage, ou pour
-                        l'opinion qu'elle avoit que Licidas plein de jalousie, comme elle sçavoit
-                            <pb xml:id="page_abs_463" n="page_ori_457"/> bien qu'il estoit, se
-                        retiroit ainsi seul par ces lieux esgarez. Tant y a qu'elle s'assit aupres
-                        de <persName key="celadon" role="berger">Celadon</persName>, pensant qu'il
+                        estoit tant agreable, à cause de la douce <placeName key="riviere_lignon"
+                            >riviere de Lignon</placeName>, &amp; des bocages qui s'y rencontroient
+                        qu'il estoit impossible de s'y ennuyer. Il avint donc qu'estant resoluë un
+                        jour de s'y en aller toute seule, elle alla passer sur le pont de la
+                        [B]outeresse, &amp; descendant le long des rives de Lignon. Encores qu'il
+                        n'y eust point de sentier si pres de la rive, elle ne laissoit de s'y faire
+                        chemin pour le plaisir qu'elle prenoit de voir le poisson qui dans la claire
+                        eau de la riviere s'en alloit à petites troupes, se joüant ensemble le long
+                        du bord, &amp; poursuivant ainsi son voyage, se trouva sans y penser pres de
+                        la fontaine où <persName key="celadon" role="berger">Celadon</persName>
+                        souloit cueillir le cresson dont il se nourrissoit. Et de fortune le Berger
+                        s'estant couché sur le bord s'y estoit endormy un peu auparavant. D'aussi
+                        loing que la Nimphe l'apperceut, elle le prist pour Licidas, parce que ces
+                        deux freres estoient presque d'une mesme taille, &amp; avoient accoustumé
+                        d'aller vestus l'un comme l'autre : &amp; quoy que <persName key="celadon"
+                            role="berger">Celadon</persName> fut un peu plus grand, &amp; eust le
+                        visage beaucoup plus blanc &amp; plus agreable, si est ce que s'approchant
+                        de luy elle y fust deceuë, tant pource qu'elle creut asseurement que
+                            <persName key="celadon" role="berger">Celadon</persName> n'estoit pas en
+                        cette contrée, que pour le changement de son visage, ou pour l'opinion
+                        qu'elle avoit que Licidas plein de jalousie, comme elle sçavoit <pb
+                            xml:id="page_abs_463" n="page_ori_457"/> bien qu'il estoit, se retiroit
+                        ainsi seul par ces lieux esgarez. Tant y a qu'elle s'assit aupres de
+                            <persName key="celadon" role="berger">Celadon</persName>, pensant qu'il
                         fust <persName key="lycidas" role="berger">Lycidas</persName>, mais voyant
                         qu'il ne s'esveilloit point, elle r[e]solut de continuer son voyage &amp; le
                         laisser en repos. Il estoit couché sur le costé, &amp; le petit sac où il
@@ -12853,20 +12856,20 @@
                                     l'amitié que je luy ay portée. Paris n'attendoit que cette
                                     declaration pour parachever son dessein : cela fut cause que le
                                     lendemain apres avoir disné de bonne heure nous descendismes la
-                                    colline de Laignieu, &amp; passant la claire riviere de Lignon
-                                    sur le pont de Trelin, nous vi[n]mes suivant la riviere,
-                                    jusqu'au pres de la Bouteresse, où remontant un peu, &amp;
-                                    laissant le temple de la bonne Déesse à <pb
-                                        xml:id="page_abs_501" n="page_ori_495"/> main droite, nous
-                                    vi[n]mes sur un lieu relevé, d'où nous pouvions voir presque
-                                    tous les destours de Lignon, &amp; les lieux où les Bergers
-                                    menent paistre leurs troupeaux, mesmes nous y en vismes, qui
-                                    pour estre trop esloignez, ne peurent estre recognus de nous. Et
-                                    lors que par un petit sentier nous commencions à descendre dans
-                                    la plaine : Voyez vous, luy dis-je, mon frere, en la luy
-                                    montrant du doigt, cette touffe d'arbres, qui est à main
-                                    droitte, &amp; qui s'approche un peu du bord de la riviere,
-                                    c'est le premier lieu où je vis jamais <persName
+                                    colline de Laignieu, &amp; passant la claire <placeName
+                                        key="riviere_lignon">riviere de Lignon</placeName> sur le
+                                    pont de Trelin, nous vi[n]mes suivant la riviere, jusqu'au pres
+                                    de la Bouteresse, où remontant un peu, &amp; laissant le temple
+                                    de la bonne Déesse à <pb xml:id="page_abs_501" n="page_ori_495"
+                                    /> main droite, nous vi[n]mes sur un lieu relevé, d'où nous
+                                    pouvions voir presque tous les destours de Lignon, &amp; les
+                                    lieux où les Bergers menent paistre leurs troupeaux, mesmes nous
+                                    y en vismes, qui pour estre trop esloignez, ne peurent estre
+                                    recognus de nous. Et lors que par un petit sentier nous
+                                    commencions à descendre dans la plaine : Voyez vous, luy dis-je,
+                                    mon frere, en la luy montrant du doigt, cette touffe d'arbres,
+                                    qui est à main droitte, &amp; qui s'approche un peu du bord de
+                                    la riviere, c'est le premier lieu où je vis jamais <persName
                                         key="astree_personnage" role="berger">Astrée</persName>,
                                         <persName key="diane" role="berger">Diane</persName>, &amp;
                                         <persName key="philis" role="amie_astree">Philis</persName>
@@ -17355,30 +17358,30 @@
                         commença de visiter la maison, &amp; de sortir dehors, faisant semblant que
                         l'air la fortifioit. L'assiete du lieu estoit tres-belle &amp; agreable,
                         ayant la veuë de la montagne &amp; de la plaine, &amp; mesme de la
-                        delectable riviere de Lignon, depuis Boën jusques à Feurs. Cela avoit esté
-                        cause, que Pelion, pere d'<persName key="adamas" role="druide"
-                            >Adamas</persName> y avoit fait bastir : Et depuis <persName
-                            key="adamas" role="druide">Adamas</persName> y fit eslever le somptueux
-                        tombeau de son frere Belizar au sortir de la maison, &amp; <pb
-                            xml:id="page_abs_664" n="page_ori_659"/> tout aupres d'un petit boccage
-                        qui touchoit presque la maison du costé de la montagne. En ce lieu Alexis
-                        &amp; <persName key="leonide" role="travesti">Leonide</persName> se venoient
-                        bien souvent promener à cause de la beauté des allées, &amp; de la veuë :
-                        &amp; par ce qu'il faloit un peu monter, Alexis prenoit quelquefois
-                            <persName key="leonide" role="travesti">Leonide</persName> sous les bras
-                        quand elles n'estoient pas veuës, &amp; une fois entre autres qu'elles
-                        s'estoient levées assez matin, &amp; qu'Alexis luy rendoit ce service :
-                        voicy, dict la Nymphe en sous-riant, un service que vous aymeriez bien mieux
-                        rendre à quelque autre qui peut estre ne vous en sçauroit pas tant de gré
-                        que moy. Ha ! Nymphe, dit Alexis en souspirant, je vous supplie au nom de
-                        Dieu ne renouveller point le souvenir de mon mal : penseriez vous que je le
-                        peusse oublier, le ressentant d'ordinaire comme je fay ? Elles parvindrent
-                        avec ces propos au boccage, qui estant plus relevé que la maison descouvroit
-                        encores mieux toute la plaine, de sorte qu'il n'y avoit reply ny destour de
-                        Lignon, depuis Boën d'où il commençoit de sortir de la montagne, jusques à
-                        Feurs, où il entroit en Loire, qu'elles ne descouvrissent aisément. Ceste
-                        representation fut si sensible à la feinte Alexis, qu'elle ne peut
-                        s'empescher de dire tout haut.</p>
+                        delectable <placeName key="riviere_lignon">riviere de Lignon</placeName>,
+                        depuis Boën jusques à Feurs. Cela avoit esté cause, que Pelion, pere
+                            d'<persName key="adamas" role="druide">Adamas</persName> y avoit fait
+                        bastir : Et depuis <persName key="adamas" role="druide">Adamas</persName> y
+                        fit eslever le somptueux tombeau de son frere Belizar au sortir de la
+                        maison, &amp; <pb xml:id="page_abs_664" n="page_ori_659"/> tout aupres d'un
+                        petit boccage qui touchoit presque la maison du costé de la montagne. En ce
+                        lieu Alexis &amp; <persName key="leonide" role="travesti">Leonide</persName>
+                        se venoient bien souvent promener à cause de la beauté des allées, &amp; de
+                        la veuë : &amp; par ce qu'il faloit un peu monter, Alexis prenoit
+                        quelquefois <persName key="leonide" role="travesti">Leonide</persName> sous
+                        les bras quand elles n'estoient pas veuës, &amp; une fois entre autres
+                        qu'elles s'estoient levées assez matin, &amp; qu'Alexis luy rendoit ce
+                        service : voicy, dict la Nymphe en sous-riant, un service que vous aymeriez
+                        bien mieux rendre à quelque autre qui peut estre ne vous en sçauroit pas
+                        tant de gré que moy. Ha ! Nymphe, dit Alexis en souspirant, je vous supplie
+                        au nom de Dieu ne renouveller point le souvenir de mon mal : penseriez vous
+                        que je le peusse oublier, le ressentant d'ordinaire comme je fay ? Elles
+                        parvindrent avec ces propos au boccage, qui estant plus relevé que la maison
+                        descouvroit encores mieux toute la plaine, de sorte qu'il n'y avoit reply ny
+                        destour de Lignon, depuis Boën d'où il commençoit de sortir de la montagne,
+                        jusques à Feurs, où il entroit en Loire, qu'elles ne descouvrissent
+                        aisément. Ceste representation fut si sensible à la feinte Alexis, qu'elle
+                        ne peut s'empescher de dire tout haut.</p>
                     <p>&#160;&#160;&#160;Ha ! mes tristes yeux comment souffrez vous sans mort la
                         veuë de ces rives heureuses, où vous laissastes par mon départ tout vostre
                         contentement. <persName key="leonide" role="travesti">Leonide</persName> qui
