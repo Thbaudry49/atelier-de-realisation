@@ -8610,29 +8610,31 @@
                     <pb xml:id="page_abs_363" n="page_ori_357"/>
                     <floatingText>
                         <body>
-                            <div>
+                            <div type="poem">
 
-                                <head>
-                                    <hi rend="bold">SONNET.</hi>
-                                </head>
-                                <p>&#160;&#160;&#160;<hi rend="italic">Qu'envieux de mon bien, il
-                                        parle ou qu'il blaspheme,<lb/> Qu'il remarque à nos yeux, ce
-                                        qu'il pense est[r]e en nous,<lb/> Qu'il cognoisse en effect
-                                        que je ne suis moy mesme,<lb/> Sinon, ma sœur, en tant que
-                                        je ne suis qu'à vous.</hi></p>
-                                <p>&#160;&#160;&#160;<hi rend="italic">Que d'un œil importun il nous
-                                        veille jalous,<lb/> Que sur nos actions la mesdisance il
-                                        seme :<lb/> Il peut bien m'esloigner de mon bien le plus
-                                        doux,<lb/> Mais non pas empescher qu'enfin je ne vous
-                                        ayme.</hi></p>
-                                <p>&#160;&#160;&#160;<hi rend="italic">Malgré tous ces discours
-                                        contre nous inventez,<lb/> Ma[l]gré tous ces soupçons qui
-                                        nous ont tourmentez,<lb/> Mesme dans le cercueil je fay vœu
-                                        d'estre vostre :</hi></p>
-                                <p>&#160;&#160;&#160;<hi rend="italic">Mais ce fascheux Argus, ne
-                                        feroit il pas mieux,<lb/> Nous laissant en repos d'employer
-                                        tous ses yeux,<lb/> A garder la beauté qu'il paye pour un
-                                        autre ?</hi><lb/></p>
+                                <head><hi rend="bold">SONNET.</hi></head>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Qu'envieux de mon bien, il parle ou qu'il blaspheme,</hi></l>
+                                    <l><hi rend="italic">Qu'il remarque à nos yeux, ce qu'il pense est[r]e en nous,</hi></l>
+                                    <l><hi rend="italic">Qu'il cognoisse en effect que je ne suis moy mesme,</hi></l>
+                                    <l><hi rend="italic">Sinon, ma sœur, en tant que je ne suis qu'à vous.</hi></l>
+                                </lg>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Que d'un œil importun il nous veille jalous,</hi></l>
+                                    <l><hi rend="italic">Que sur nos actions la mesdisance il seme :</hi></l>
+                                    <l><hi rend="italic">Il peut bien m'esloigner de mon bien le plus doux,</hi></l>
+                                    <l><hi rend="italic">Mais non pas empescher qu'enfin je ne vous ayme.</hi></l>
+                                </lg>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Malgré tous ces discours contre nous inventez,</hi></l>
+                                    <l><hi rend="italic">Ma[l]gré tous ces soupçons qui nous ont tourmentez,</hi></l>
+                                    <l><hi rend="italic">Mesme dans le cercueil je fay vœu d'estre vostre :</hi></l>
+                                </lg>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Mais ce fascheux Argus, ne feroit il pas mieux,</hi></l>
+                                    <l><hi rend="italic">Nous laissant en repos d'employer tous ses yeux,</hi></l>
+                                    <l><hi rend="italic">A garder la beauté qu'il paye pour un autre ?</hi></l>
+                                </lg>
                             </div>
                         </body>
                     </floatingText>
@@ -11725,28 +11727,34 @@
                     </floatingText>
                     <floatingText>
                         <body>
-                            <div>
-                                <head><hi rend="bold">SONNET.</hi><lb/> Qu'il est jaloux avec
-                                    raison.</head>
-                                <p>&#160;&#160;&#160;<hi rend="italic">Amour qui dans mon cœur vas
-                                        lisant mes pensées<lb/> Dans mon cœur où ta main tous les
-                                        jours les escrit,<lb/> Ne voy tu qu'un s[o]upçon maugré toy
-                                        les aigrit,<lb/> Quoyqu'avec tes douceurs elles soient
-                                        commencées ?</hi></p>
-                                <p>&#160;&#160;&#160;<hi rend="italic">Tant de serments jurez, tant
-                                        de preuves passées<lb/> Ne sçauroient r'asseurer à ce coup
-                                        mon esprit,<lb/> Puis qu'autrefois Amour, elle mesme
-                                        m'aprit,<lb/> Que les voix d'un amant sont en fin
-                                        exaucées.</hi></p>
-                                <p>&#160;&#160;&#160;<hi rend="italic">Dieux s'il est vray, qu'en
-                                        fin l'on exauce un Amant<lb/> Ne suis je point jalous
-                                        avecques jugement ?<lb/> Qui ne le seroit point, ce seroit
-                                        une souche.</hi></p>
-                                <p>&#160;&#160;&#160;<hi rend="italic">Je l'ay veu de mes yeux
-                                        devant elle à genoux,<lb/>
-                                        <pb xml:id="page_abs_505" n="page_ori_499"/> La voila qui ne
-                                        pend que de sa seule bouche,<lb/> Et qui seroit l'amant qui
-                                        n'en seroit jaloux ?</hi><lb/></p>
+                            <div type="poem">
+                                <head><hi rend="bold">SONNET.</hi><lb/> Qu'il est jaloux avec raison.</head>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Amour qui dans mon cœur vas lisant mes pensées</hi></l>
+                                    <l><hi rend="italic">Dans mon cœur où ta main tous les jours les escrit,</hi></l>
+                                    <l><hi rend="italic">Ne voy tu qu'un s[o]upçon maugré toy les aigrit,</hi></l>
+                                    <l><hi rend="italic">Quoyqu'avec tes douceurs elles soient commencées ?</hi></l>
+                                </lg>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Tant de serments jurez, tant de preuves passées</hi></l>
+                                    <l><hi rend="italic">Ne sçauroient r'asseurer à ce coup mon esprit,</hi></l>
+                                    <l><hi rend="italic">Puis qu'autrefois Amour, elle mesme m'aprit,</hi></l>
+                                    <l><hi rend="italic">Que les voix d'un amant sont en fin exaucées.</hi></l>
+                                </lg>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Dieux s'il est vray, qu'en fin l'on exauce un Amant</hi></l>
+                                    <l><hi rend="italic">Ne suis je point jalous avecques jugement ?</hi></l>
+                                    <l><hi rend="italic">Qui ne le seroit point, ce seroit une souche.</hi></l>
+                                </lg>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Je l'ay veu de mes yeux devant elle à genoux,</hi></l>
+                                    <pb xml:id="page_abs_505" n="page_ori_499"/>
+                                    <l><hi rend="italic">La voila qui ne pend que de sa seule bouche,</hi></l>
+                                    <l><hi rend="italic">Et qui seroit l'amant qui n'en seroit jaloux ?</hi></l>
+                                </lg>
+                            </div>
+                        </body>
+                    </floatingText>
                                 <p>&#160;&#160;&#160;A peine avoit-il parachevé ces vers, que nous
                                     le vismes tout à coup se relever, &amp; se haussant sur le bout
                                     des pieds regarder ce que faisoit Philis, &amp; peu apres au
@@ -11757,9 +11765,7 @@
                                     Nous le suivimes de loing, &amp; lors qu'il se cacha aupres de
                                     Philis nous en fismes de mesme pour ouyr Silvandre qui chantoit
                                     ces vers quand nous y arrivasmes.</p>
-                            </div>
-                        </body>
-                    </floatingText>
+                            
                     <floatingText>
                         <body>
                             <div1>
@@ -11900,27 +11906,32 @@
                         de chanter ces vers,</p>
                     <floatingText>
                         <body>
-                            <div>
-                                <head><hi rend="bold">SONNET.</hi><lb/> Que d'adorer seulement
-                                    Diane, il est trop heureux</head>
+                            <div type="poem">
+                                <head><hi rend="bold">SONNET.</hi><lb/> Que d'adorer seulement Diane, il est trop heureux</head>
 
-                                <p>&#160;&#160;&#160;<hi rend="italic">Silvandre qui te plains comme
-                                        d'une injustice,<lb/> Qu'à si belle maistresse Amour t'a destiné,<lb/>
-                                        <pb xml:id="page_abs_509" n="page_ori_503"/> Rends luy
-                                        graces plustost de t'avoir ordonné<lb/> De servir de victime
-                                        en si beau sacrifice.</hi></p>
-                                <p>&#160;&#160;&#160;<hi rend="italic">Depuis que ce grand Dieu d'un
-                                        puissant artifice,<lb/> Separant le cahos, le monde a
-                                        façonné,<lb/> Jamais dedans le Ciel ne fut imaginé<lb/> Rien
-                                        plus beau que la belle à qui tu fais service.</hi></p>
-                                <p>&#160;&#160;&#160;<hi rend="italic">Cesse donc de te plaindre, ou
-                                        tu plaindras à tort<lb/> Que si tu meurs pour elle, est il
-                                        plus belle mort ?<lb/> C'est lors que l'ame vit quand elle
-                                        en est meurtrie,</hi></p>
-                                <p>&#160;&#160;&#160;<hi rend="italic">Que si l'amour te fait
-                                        idolatrer ses yeux,<lb/> Adore les Silvandre, ainsi comme
-                                        des Dieux,<lb/> Qui jamais a commis plus belle idolatrie
-                                        ?</hi></p>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Silvandre qui te plains comme d'une injustice,</hi></l>
+                                    <l><hi rend="italic">Qu'à si belle maistresse Amour t'a destiné,</hi></l>
+                                    <pb xml:id="page_abs_509" n="page_ori_503"/>
+                                    <l><hi rend="italic">Rends luy graces plustost de t'avoir ordonné</hi></l>
+                                    <l><hi rend="italic">De servir de victime en si beau sacrifice.</hi></l>
+                                </lg>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Depuis que ce grand Dieu d'un puissant artifice,</hi></l>
+                                    <l><hi rend="italic">Separant le cahos, le monde a façonné,</hi></l>
+                                    <l><hi rend="italic">Jamais dedans le Ciel ne fut imaginé</hi></l>
+                                    <l><hi rend="italic"> Rien plus beau que la belle à qui tu fais service.</hi></l>
+                                </lg>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Cesse donc de te plaindre, ou tu plaindras à tort</hi></l>
+                                    <l><hi rend="italic">Que si tu meurs pour elle, est il plus belle mort ?</hi></l>
+                                    <l><hi rend="italic">C'est lors que l'ame vit quand elle en est meurtrie,</hi></l>
+                                </lg>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Que si l'amour te fait idolatrer ses yeux,</hi></l>
+                                    <l><hi rend="italic">Adore les Silvandre, ainsi comme des Dieux,</hi></l>
+                                    <l><hi rend="italic">Qui jamais a commis plus belle idolatrie ?</hi></l>
+                                </lg>
                             </div>
                         </body>
                     </floatingText>
@@ -12300,28 +12311,31 @@
                     <pb xml:id="page_abs_527" n="page_ori_521"/>
                     <floatingText>
                         <body>
-                            <div>
-                                <head><hi rend="bold">SONNET.</hi><lb/> Il se compare à la riviere
-                                    de Lignon.</head>
+                            <div type="poem">
+                                <head><hi rend="bold">SONNET.</hi><lb/> Il se compare à la riviere de Lignon.</head>
 
-                                <p>&#160;&#160;&#160;<hi rend="italic">Riviere que j'accrois couché
-                                        parmy ces fleurs,<lb/> Je considere en toy ma triste
-                                        ressemblance,<lb/> De deux sources tu prens en mesme temps
-                                        naissance,<lb/> Et mes yeux ne sont rien que deux sources de
-                                        pleurs.</hi></p>
-                                <p>&#160;&#160;&#160;<hi rend="italic">Tu n'as point tant de flots
-                                        que je sens de malheurs,<lb/> Si tu cours sans dessein, je
-                                        sers sans esperance,<lb/> En des sommets hautains, ta source
-                                        se commence,<lb/> D'orgueilleuses beautez procedent mes
-                                        douleurs.</hi></p>
-                                <p>&#160;&#160;&#160;<hi rend="italic">Combien de grands rochers te
-                                        rompent le passage ?<lb/> De quels empeschemens ne sens-je
-                                        point l'outrage ?<lb/> Toutesfois en un point nous differons
-                                        tous deux ;</hi></p>
-                                <p>&#160;&#160;&#160;<hi rend="italic">En toy l'onde s'accroist des
-                                        neiges qui se fondent,<lb/> Plus on gele pour moy, plus mes
-                                        larmes abondent<lb/> Quoy que tu sois si froide, &amp; moy
-                                        si plein de feux.</hi><lb/></p>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Riviere que j'accrois couché parmy ces fleurs,</hi></l>
+                                    <l><hi rend="italic">Je considere en toy ma triste ressemblance,</hi></l>
+                                    <l><hi rend="italic">De deux sources tu prens en mesme temps naissance,</hi></l>
+                                    <l><hi rend="italic">Et mes yeux ne sont rien que deux sources de pleurs.</hi></l>
+                                </lg>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Tu n'as point tant de flots que je sens de malheurs,</hi></l>
+                                    <l><hi rend="italic">Si tu cours sans dessein, je sers sans esperance,</hi></l>
+                                    <l><hi rend="italic">En des sommets hautains, ta source se commence,</hi></l>
+                                    <l><hi rend="italic">D'orgueilleuses beautez procedent mes douleurs.</hi></l>
+                                </lg>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Combien de grands rochers te rompent le passage ?</hi></l>
+                                    <l><hi rend="italic">De quels empeschemens ne sens-je point l'outrage ?</hi></l>
+                                    <l><hi rend="italic">Toutesfois en un point nous differons tous deux ;</hi></l>
+                                </lg>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">En toy l'onde s'accroist des neiges qui se fondent,</hi></l>
+                                    <l><hi rend="italic">Plus on gele pour moy, plus mes larmes abondent</hi></l>
+                                    <l><hi rend="italic">Quoy que tu sois si froide, &amp; moy si plein de feux.</hi></l>
+                                </lg>
                             </div>
                         </body>
                     </floatingText>
@@ -13098,29 +13112,31 @@
 
                     <floatingText>
                         <body>
-                            <div>
-                                <head>
-                                    <hi rend="bold">SONNET.</hi>
-                                </head>
+                            <div type="poem">
+                                <head><hi rend="bold">SONNET.</hi></head>
 
-                                <p>&#160;&#160;&#160;<hi rend="italic">La belle dont l'Amour me
-                                        prive de repos,<lb/> Reposoit doucement sous l'ombre d'un
-                                        boccage,<lb/> Là voloient les amours autour de son
-                                        visage,<lb/> Qui naissoient de ses yeux encore qu'ils
-                                        fussent clos.</hi></p>
-                                <p>&#160;&#160;&#160;<hi rend="italic">Là les Zephirs changez en
-                                        amoureux propos,<lb/> Rendoient pour ses Amours un amoureux
-                                        hommage :<lb/> Et les arbres chargez de tant d'Amours
-                                        esclos,<lb/> N'en estoient garentis par les loix de leur
-                                        age.</hi></p>
-                                <p>&#160;&#160;&#160;<hi rend="italic">Hommes, Faunes, ny Dieux,
-                                        rien n'estoit à l'entour,<lb/> Contemplant ce sommeil, qui
-                                        ne bruslast d'Amour,<lb/> Et perdist le repos pendant
-                                        qu'elle repose.</hi></p>
-                                <p>&#160;&#160;&#160;<hi rend="italic">Quelle estes vous
-                                        beauté,quand veincre vous voulez,<lb/> Puis que sans ce
-                                        dessein tellement vous bruslez,<lb/> Que vous voir, vous
-                                        aymer n'est qu'une mesme chose.</hi><lb/></p>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">La belle dont l'Amour me prive de repos,</hi></l>
+                                    <l><hi rend="italic">Reposoit doucement sous l'ombre d'un boccage,</hi></l>
+                                    <l><hi rend="italic">Là voloient les amours autour de son visage,</hi></l>
+                                    <l><hi rend="italic">Qui naissoient de ses yeux encore qu'ils fussent clos.</hi></l>
+                                </lg>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Là les Zephirs changez en amoureux propos,</hi></l>
+                                    <l><hi rend="italic">Rendoient pour ses Amours un amoureux hommage :</hi></l>
+                                    <l><hi rend="italic">Et les arbres chargez de tant d'Amours esclos,</hi></l>
+                                    <l><hi rend="italic">N'en estoient garentis par les loix de leur age.</hi></l>
+                                </lg>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Hommes, Faunes, ny Dieux, rien n'estoit à l'entour,</hi></l>
+                                    <l><hi rend="italic">Contemplant ce sommeil, qui ne bruslast d'Amour,</hi></l>
+                                    <l><hi rend="italic">Et perdist le repos pendant qu'elle repose.</hi></l>
+                                </lg>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Quelle estes vous beauté,quand veincre vous voulez,</hi></l>
+                                    <l><hi rend="italic">Puis que sans ce dessein tellement vous bruslez,</hi></l>
+                                    <l><hi rend="italic">Que vous voir, vous aymer n'est qu'une mesme chose.</hi></l>
+                                </lg>
                             </div>
                         </body>
                     </floatingText>
@@ -13755,25 +13771,33 @@
                         haut de teste.</p>
                     <floatingText>
                         <body>
-                            <div>
-                                <head><hi rend="bold">SONNET.</hi><lb/> Qu'il ne faut point aymer
-                                    sans estre aymé.</head>
+                            <div type="poem">
+                                <head><hi rend="bold">SONNET.</hi><lb/> Qu'il ne faut point aymer sans estre aymé.</head>
 
-                                <p>&#160;&#160;&#160;<hi rend="italic">Quand je vois un amant
-                                        transi,<lb/> Qui languit d'un amour extreme,<lb/> L'œil
-                                        triste, &amp; le visage blesme,<lb/> Portant cent plis sur
-                                        le sourcy.</hi></p>
-                                <p>&#160;&#160;&#160;<hi rend="italic">Quand je le vois plein de soucy,<lb/>
-                                        <pb xml:id="page_abs_593" n="page_ori_587"/> Qui meurt
-                                        d'Amour sans que l'on l'ayme,<lb/> Je dis aussi tost en moy
-                                        mesme,<lb/> C'est un grand sot d'aymer ainsi.</hi></p>
-                                <p>&#160;&#160;&#160;<hi rend="italic">Il faut aymer mais que la
-                                        belle<lb/> Brusle pour qui brusle pour elle,<lb/> Ou bien
-                                        c'est pure lascheté.</hi></p>
-                                <p>&#160;&#160;&#160;<hi rend="italic">L'Amour de l'Amour est
-                                        extraicte,<lb/> La charge n'est jamais bien faicte,<lb/> Qui
-                                        panche toute d'un costé.</hi></p>
-                            </div>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Quand je vois un amant transi,</hi></l>
+                                    <l><hi rend="italic">Qui languit d'un amour extreme,</hi></l>
+                                    <l><hi rend="italic">L'œil triste, &amp; le visage blesme,</hi></l>
+                                    <l><hi rend="italic">Portant cent plis sur le sourcy.</hi></l>
+                                </lg>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Quand je le vois plein de soucy,</hi></l>
+                                    <pb xml:id="page_abs_593" n="page_ori_587"/>
+                                    <l><hi rend="italic">Qui meurt d'Amour sans que l'on l'ayme,</hi></l>
+                                    <l><hi rend="italic">Je dis aussi tost en moy mesme,</hi></l>
+                                    <l><hi rend="italic">C'est un grand sot d'aymer ainsi.</hi></l>
+                                </lg>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Il faut aymer mais que la belle</hi></l>
+                                    <l><hi rend="italic">Brusle pour qui brusle pour elle,</hi></l>
+                                    <l><hi rend="italic">Ou bien c'est pure lascheté.</hi></l>
+                                </lg>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">L'Amour de l'Amour est extraicte,</hi></l>
+                                    <l><hi rend="italic">La charge n'est jamais bien faicte,</hi></l>
+                                    <l><hi rend="italic">Qui panche toute d'un costé.</hi></l>
+                                </lg>
+                                </div>
                         </body>
                     </floatingText>
 
@@ -15719,29 +15743,34 @@
 
                     <floatingText>
                         <body>
-                            <div>
-                                <head>
-                                    <hi rend="bold">SONNET.</hi>
-                                </head>
+                            <div type="poem">
+                                <head><hi rend="bold">SONNET.</hi></head>
 
-                                <p>&#160;&#160;&#160;<hi rend="italic">Ondes qui souslevez vos
-                                        voutes vagabondes,<lb/> Contre le foible sein de mon fresle
-                                        vaisseau,<lb/> Sçachez que dans le sein je porte un tel
-                                        flambeau,<lb/> Qu'il peut rendre une mer des abismes sans
-                                        ondes.</hi></p>
-                                <p>&#160;&#160;&#160;<hi rend="italic">Plusieurs fois de mes yeux
-                                        les deux sources fecondes<lb/> Auroient desja fait naistre
-                                        un Ocean nouveau.<lb/> Si l'ardeur de ce feu ne consommoit
-                                        leur eau,<lb/> Vagues refuyez donc en vos grottes
-                                        profondes.</hi></p>
-                                <p>&#160;&#160;&#160;<hi rend="italic">De vos replis bossus plus
-                                        fort vous nous hurtez,<lb/> Sans craindre de l'Amour les
-                                        flambeaux redoutez ?<lb/> N'estes vous point d'Enfer quelque
-                                        source maudite ?</hi></p>
-                                <p>&#160;&#160;&#160;<hi rend="italic">O Dieux ! s'il est ainsi du
-                                        destein estably,<lb/> Sont plustost qu'un Lethé, pour le
-                                        moins un Cocyte,<lb/> Fleuve plustost de mort, que fleuve de
-                                        l'oubly.</hi><lb/></p>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Ondes qui souslevez vos voutes vagabondes,</hi></l>
+                                    <l><hi rend="italic">Contre le foible sein de mon fresle vaisseau,</hi></l>
+                                    <l><hi rend="italic">Sçachez que dans le sein je porte un tel flambeau,</hi></l>
+                                    <l><hi rend="italic">Qu'il peut rendre une mer des abismes sans ondes.</hi></l>
+                                </lg>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Plusieurs fois de mes yeux les deux sources fecondes</hi></l>
+                                    <l><hi rend="italic">Auroient desja fait naistre un Ocean nouveau.</hi></l>
+                                    <l><hi rend="italic">Si l'ardeur de ce feu ne consommoit leur eau,</hi></l>
+                                    <l><hi rend="italic">Vagues refuyez donc en vos grottes profondes.</hi></l>
+                                </lg>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">De vos replis bossus plus fort vous nous hurtez,</hi></l>
+                                    <l><hi rend="italic">Sans craindre de l'Amour les flambeaux redoutez ?</hi></l>
+                                    <l><hi rend="italic">N'estes vous point d'Enfer quelque source maudite ?</hi></l>
+                                </lg>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">O Dieux ! s'il est ainsi du destein estably,</hi></l>
+                                    <l><hi rend="italic">Sont plustost qu'un Lethé, pour le moins un Cocyte,</hi></l>
+                                    <l><hi rend="italic">Fleuve plustost de mort, que fleuve de l'oubly.</hi></l>
+                                </lg> 
+                            </div>
+                        </body>
+                    </floatingText>
                                 <p>&#160;&#160;&#160;Au sortir de ce grand lac, je traversay les
                                     grands bois des Caturiges, &amp; apres avoir passé Iseré,
                                     riviere qui vient des Centrons, je traversay l'estroitte valée
@@ -15751,34 +15780,38 @@
                                     compagnie duquel je m'estois mis, en fit qu'il me recita, &amp;
                                     parce <pb xml:id="page_abs_672" n="page_ori_667"/> qu'ils me
                                     pleurent, je les appris par cœur, ils estoyent tels.</p>
-                            </div>
-                        </body>
-                    </floatingText>
+                           
 
                     <floatingText>
                         <body>
-                            <div>
-                                <head><hi rend="bold">SONNET.</hi><lb/> Des Montagnes &amp; Rochers
-                                    à un Amant.</head>
+                            <div type="poem">
+                                <head><hi rend="bold">SONNET.</hi><lb/> Des Montagnes &amp; Rochers à un Amant.</head>
 
-                                <p>&#160;&#160;&#160;<hi rend="italic">Ces vieux Rochers tous nuds,
-                                        glissants en precipice<lb/> Ces cheutes de Torrent, froissez
-                                        de mille saults,<lb/> Ces sommets plus neigeux, &amp; ces
-                                        monts les plus hauts,<lb/> Ne sont que les pourtraicts de
-                                        mon cruel supplice.</hi></p>
-                                <p>&#160;&#160;&#160;<hi rend="italic">Si ces Rochers sont vieux, il
-                                        faut que je vieillisse<lb/> Lié par la constance au milieu
-                                        de mes maux :<lb/> S'ils sont nuds &amp; sans fruit, sans
-                                        fruit sont mes travaux,<lb/> Sans qu'en eux nul espoir je
-                                        retienne ou nourrisse.</hi></p>
-                                <p>&#160;&#160;&#160;<hi rend="italic">Et ces Torrents rompus, sont
-                                        ce pas mes desseins ?<lb/> Ces Neiges vos froideurs, ces
-                                        grands Monts vos desdains ?<lb/> Bref ces deserts en tout à
-                                        mon estre respondent ;</hi></p>
-                                <p>&#160;&#160;&#160;<hi rend="italic">Sinon que vos rigueurs plus
-                                        malheureux me font :<lb/> Car d'en haut bien souvent
-                                        quelques neiges se fondent,<lb/> Mais las ! de vos
-                                        froideurs, pas une ne se fond.</hi><lb/></p>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Ces vieux Rochers tous nuds, glissants en precipice</hi></l>
+                                    <l><hi rend="italic">Ces cheutes de Torrent, froissez de mille saults,</hi></l>
+                                    <l><hi rend="italic">Ces sommets plus neigeux, &amp; ces monts les plus hauts,</hi></l>
+                                    <l><hi rend="italic">Ne sont que les pourtraicts de mon cruel supplice.</hi></l>
+                                </lg>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Si ces Rochers sont vieux, il faut que je vieillisse</hi></l>
+                                    <l><hi rend="italic">Lié par la constance au milieu de mes maux :</hi></l>
+                                    <l><hi rend="italic">S'ils sont nuds &amp; sans fruit, sans fruit sont mes travaux,</hi></l>
+                                    <l><hi rend="italic">Sans qu'en eux nul espoir je retienne ou nourrisse.</hi></l>
+                                </lg>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Et ces Torrents rompus, sont ce pas mes desseins ?</hi></l>
+                                    <l><hi rend="italic">Ces Neiges vos froideurs, ces grands Monts vos desdains ?</hi></l>
+                                    <l><hi rend="italic">Bref ces deserts en tout à mon estre respondent ;</hi></l>
+                                </lg>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Sinon que vos rigueurs plus malheureux me font :</hi></l>
+                                    <l><hi rend="italic">Car d'en haut bien souvent quelques neiges se fondent,</hi></l>
+                                    <l><hi rend="italic">Mais las ! de vos froideurs, pas une ne se fond.</hi></l>
+                                </lg>
+                            </div>
+                        </body>
+                    </floatingText>
                                 <p>&#160;&#160;&#160;Leonide qui estoit bien aise de distraire
                                     Alexis de ses fascheuses pensées, Racontez moy, lui dit-elle, ce
                                     que vous vistes de rare, en vôtre voyage. Cela seroit trop long,
@@ -15788,9 +15821,7 @@
                                     j'eus passé la ville des Segusienses. Mais je vous veux raconter
                                     l'une des plus belles advantures qui m'y advindrent, m'asseurant
                                     que nous en aurons assez de loisir.</p>
-                            </div>
-                        </body>
-                    </floatingText>
+                            
                     <floatingText>
                         <body>
                             <div>
@@ -15830,29 +15861,32 @@
                     </floatingText>
                     <floatingText>
                         <body>
-                            <div>
-                                <head><hi rend="bold">SONNET.</hi><lb/> S'il doit mourir ou
-                                    vivre.</head>
+                            <div type="poem">
+                                <head><hi rend="bold">SONNET.</hi><lb/> S'il doit mourir ou vivre.</head>
 
-                                <p>&#160;&#160;&#160;<hi rend="italic">Mon esprit combatu
-                                        diversement chancelle,<lb/> Dois-je vivre ou mourir parmi
-                                        tant de malheurs ?<lb/> Si je vis, he comment souffrir tant
-                                        de douleurs ?<lb/> Si je meurs, he comment estre à jamais
-                                        sans elle ?</hi></p>
-                                <p>&#160;&#160;&#160;<hi rend="italic">En mourant je n'auray que
-                                        l'espine cruelle,<lb/> Dont Amour si souvent m'a tant promis
-                                        de fleurs ;<lb/> En vivant je seray tousjours noyé des
-                                        pleurs,<lb/> Que mon cuisant regret sans cesse
-                                        renouvelle.</hi></p>
-                                <pb xml:id="page_abs_675" n="page_ori_670"/>
-                                <p>&#160;&#160;&#160;<hi rend="italic">Pour tromper tant de maux,
-                                        mon cœur que ferons nous ?<lb/> Vivons. La vie en fin est
-                                        agreable à tous,<lb/> Mourons. Douce est la mort dont l'ame
-                                        est soulagée.</hi></p>
-                                <p>&#160;&#160;&#160;<hi rend="italic">En quel cruel estat m'ont
-                                        reduit mes ennuis,<lb/> Puis que ny vif ny mort, la misere
-                                        où je suis,<lb/> Tant mon desastre est grand, ne peut estre
-                                        allegée.</hi><lb/></p>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Mon esprit combatu diversement chancelle,</hi></l>
+                                    <l><hi rend="italic">Dois-je vivre ou mourir parmi tant de malheurs ?</hi></l>
+                                    <l><hi rend="italic">Si je vis, he comment souffrir tant de douleurs ?</hi></l>
+                                    <l><hi rend="italic">Si je meurs, he comment estre à jamais sans elle ?</hi></l>
+                                </lg>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">En mourant je n'auray que l'espine cruelle,</hi></l>
+                                    <l><hi rend="italic">Dont Amour si souvent m'a tant promis de fleurs ;</hi></l>
+                                    <l><hi rend="italic">En vivant je seray tousjours noyé des pleurs,</hi></l>
+                                    <l><hi rend="italic">Que mon cuisant regret sans cesse renouvelle.</hi></l>
+                                </lg>
+                                <lg>
+                                    <pb xml:id="page_abs_675" n="page_ori_670"/>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Pour tromper tant de maux, mon cœur que ferons nous ?</hi></l>
+                                    <l><hi rend="italic">Vivons. La vie en fin est agreable à tous,</hi></l>
+                                    <l><hi rend="italic">Mourons. Douce est la mort dont l'ame est soulagée.</hi></l>
+                                </lg>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">En quel cruel estat m'ont reduit mes ennuis,</hi></l>
+                                    <l><hi rend="italic">Puis que ny vif ny mort, la misere où je suis,</hi></l>
+                                    <l><hi rend="italic">Tant mon desastre est grand, ne peut estre allegée.</hi></l>
+                                </lg>
                             </div>
                         </body>
                     </floatingText>
@@ -19366,27 +19400,31 @@
                     </floatingText>
                     <floatingText>
                         <body>
-                            <div>
-                                <head><hi rend="bold">SONNET</hi><lb/> D'une mousche sur les lévres
-                                    de sa<lb/> Dame endormie.</head>
+                            <div type="poem">
+                                <head><hi rend="bold">SONNET</hi><lb/> D'une mousche sur les lévres de sa<lb/> Dame endormie.</head>
 
-                                <p>&#160;&#160;&#160;<hi rend="italic">Cependant que Madame à
-                                        l'ombre se repose,<lb/> Et trompe du Soleil la trop aspre
-                                        chaleur,<lb/> Un petit animal volant de fleur en fleur,<lb/>
-                                        Les douceurs va cherchant dont le miel se compose.</hi></p>
-                                <p>&#160;&#160;&#160;<hi rend="italic">De fortune sa levre estant à
-                                        moitié close,<lb/> La fleur representoit la plus vive en
-                                        couleur,<lb/> Lors que cest animal, la voyant par
-                                        malheur,<lb/> Y vole, &amp; la sucçant pensa succer la
-                                        rose.</hi></p>
-                                <p>&#160;&#160;&#160;<hi rend="italic">Ah ! trop sage au faillir,
-                                        trop heureux à l'oser,<lb/> Puis qu'à ta hardiesse on n'a
-                                        sceu refuser,<lb/> Ce qu'on nie aux desirs dont mon ame
-                                        s'allume.</hi></p>
-                                <p>&#160;&#160;&#160;<hi rend="italic">Mais ceste mousche, Amour,
-                                        ravit tout nostre bien,<lb/> Que nous reste t'il plus, puis
-                                        qu'elle a rendu sien,<lb/> Le miel dont s'addoucit toute
-                                        nostre amertume ?</hi><lb/></p>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Cependant que Madame à l'ombre se repose,</hi></l>
+                                    <l><hi rend="italic">Et trompe du Soleil la trop aspre chaleur,</hi></l>
+                                    <l><hi rend="italic">Un petit animal volant de fleur en fleur,</hi></l>
+                                    <l><hi rend="italic">Les douceurs va cherchant dont le miel se compose.</hi></l>
+                                </lg>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">De fortune sa levre estant à moitié close,</hi></l>
+                                    <l><hi rend="italic">La fleur representoit la plus vive en couleur,</hi></l>
+                                    <l><hi rend="italic">Lors que cest animal, la voyant par malheur,</hi></l>
+                                    <l><hi rend="italic">Y vole, &amp; la sucçant pensa succer la rose.</hi></l>
+                                </lg>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Ah ! trop sage au faillir, trop heureux à l'oser,</hi></l>
+                                    <l><hi rend="italic">Puis qu'à ta hardiesse on n'a sceu refuser,</hi></l>
+                                    <l><hi rend="italic">Ce qu'on nie aux desirs dont mon ame s'allume.</hi></l>
+                                </lg>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Mais ceste mousche, Amour, ravit tout nostre bien,</hi></l>
+                                    <l><hi rend="italic">Que nous reste t'il plus, puis qu'elle a rendu sien,</hi></l>
+                                    <l><hi rend="italic">Le miel dont s'addoucit toute nostre amertume ?</hi></l>
+                                </lg>
                             </div>
                         </body>
                     </floatingText>
@@ -19555,29 +19593,32 @@
                         occasion qui se presenta. Ils estoient tels.</p>
                     <floatingText>
                         <body>
-                            <div>
-                                <head><hi rend="bold">SONNET</hi><lb/> Sur le départ d'un
-                                    Rival.<lb/></head>
+                            <div type="poem">
+                                <head><hi rend="bold">SONNET</hi><lb/> Sur le départ d'un Rival.<lb/></head>
 
-                                <p>&#160;&#160;&#160;<hi rend="italic">Jamais contre les rocs tant
-                                        de flots amassez,<lb/> Escumant de courroux, n'ont blanchi
-                                        les rivages :<lb/> Jamais les blancs couverts n'ont veu tant
-                                        de naufrages<lb/> Que cest esloignement m'a d'ennuys
-                                        effacez.</hi></p>
-                                <p>&#160;&#160;&#160;<hi rend="italic">Bien-heureux souvenirs de mes
-                                        soupçons passez,<lb/> Maintenant de mon heur asseurez
-                                        tesmoignages ;<lb/> Qu'il est doux au nocher apres de grands
-                                        orages,<lb/> De voir dedans un port ses navires cassez
-                                        !</hi></p>
-                                <pb xml:id="page_abs_835" n="page_ori_830"/>
-                                <p>&#160;&#160;&#160;<hi rend="italic">Blessé de froide peur dedans
-                                        la fantasie,<lb/> J'ay tremblé mille-fois attaint de
-                                        jalousie,<lb/> Mais en fin son despart m'a du tout rendu
-                                        sain.</hi></p>
-                                <p>&#160;&#160;&#160;<hi rend="italic">Heureux esloignement, puisses
-                                        tu tousjours estre,<lb/> Ou bien s'il s'en revient, Amour
-                                        fay luy paroistre,<lb/> Qu'à son dam il partit, &amp; qu'il
-                                        retourne en vain.</hi><lb/></p>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Jamais contre les rocs tant de flots amassez,</hi></l>
+                                    <l><hi rend="italic">Escumant de courroux, n'ont blanchi les rivages :</hi></l>
+                                    <l><hi rend="italic">Jamais les blancs couverts n'ont veu tant de naufrages</hi></l>
+                                    <l><hi rend="italic">Que cest esloignement m'a d'ennuys effacez.</hi></l>
+                                </lg>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Bien-heureux souvenirs de mes soupçons passez,</hi></l>
+                                    <l><hi rend="italic">Maintenant de mon heur asseurez tesmoignages ;</hi></l>
+                                    <l><hi rend="italic">Qu'il est doux au nocher apres de grands orages,</hi></l>
+                                    <l><hi rend="italic">De voir dedans un port ses navires cassez !</hi></l>
+                                    <pb xml:id="page_abs_835" n="page_ori_830"/>
+                                </lg>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Blessé de froide peur dedans la fantasie,</hi></l>
+                                    <l><hi rend="italic">J'ay tremblé mille-fois attaint de jalousie,</hi></l>
+                                    <l><hi rend="italic">Mais en fin son despart m'a du tout rendu sain.</hi></l>
+                                </lg>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Heureux esloignement, puisses tu tousjours estre,</hi></l>
+                                    <l><hi rend="italic">Ou bien s'il s'en revient, Amour fay luy paroistre,</hi></l>
+                                    <l><hi rend="italic">Qu'à son dam il partit, &amp; qu'il retourne en vain.</hi></l>
+                                </lg>
                             </div>
                         </body>
                     </floatingText>
@@ -19880,30 +19921,32 @@
                         subject.</p>
                     <floatingText>
                         <body>
-                            <div>
+                            <div type="poem">
                                 <head><hi rend="bold">SONNET</hi><lb/> SUR UN ADIEU.</head>
 
-                                <p>&#160;&#160;&#160;<hi rend="italic">J'estois pour mon mal heur
-                                        prest à partir des lieux,<lb/> Où dans le sein d'autruy je
-                                        me laissay moy mesme,<lb/> Lors que plein de regret en mes
-                                        derniers adieux<lb/> J'alois contre l'Amour proferant ce
-                                        blaspheme.</hi></p>
-                                <p>&#160;&#160;&#160;<hi rend="italic">Doncques cruel Amour, si tu
-                                        fais qu'elle m'ayme,<lb/> Et que je l'ayme aussi cent fois
-                                        plus que mes yeux,<lb/> C'est seulement à fin qu'un regret
-                                        plus extreme<lb/> Nous blesse l'un &amp; l'autre, &amp; nous
-                                        offence mieux.</hi></p>
-                                <p>
-                                    <hi rend="italic"> Mais quand je pris congé : Souvien toy, me
-                                        dit-elle,<lb/> De revenir bien tost, &amp; de m'estre
-                                        fidelle,<lb/> O tourment bien heureux guery si doucement
-                                        !</hi>
-                                </p>
-                                <pb xml:id="page_abs_850" n="page_ori_845"/>
-                                <p>&#160;&#160;&#160;<hi rend="italic">Content en mon mal-heur, je
-                                        fus contraint de dire<lb/> Je cognois qu'on peut estre
-                                        heureux mesme au tourment<lb/> Et que le bien d'Amour
-                                        surpasse son martyre.</hi><lb/></p>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">J'estois pour mon mal heur prest à partir des lieux,</hi></l>
+                                    <l><hi rend="italic">Où dans le sein d'autruy je me laissay moy mesme,</hi></l>
+                                    <l><hi rend="italic">Lors que plein de regret en mes derniers adieux</hi></l>
+                                    <l><hi rend="italic">J'alois contre l'Amour proferant ce blaspheme.</hi></l>
+                                </lg>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Doncques cruel Amour, si tu fais qu'elle m'ayme,</hi></l>
+                                    <l><hi rend="italic">Et que je l'ayme aussi cent fois plus que mes yeux,</hi></l>
+                                    <l><hi rend="italic">C'est seulement à fin qu'un regret plus extreme</hi></l>
+                                    <l><hi rend="italic">Nous blesse l'un &amp; l'autre, &amp; nous offence mieux.</hi></l>
+                                </lg>
+                                <lg>
+                                    <l><hi rend="italic">Mais quand je pris congé : Souvien toy, me dit-elle,</hi></l>
+                                    <l><hi rend="italic">De revenir bien tost, &amp; de m'estre fidelle,</hi></l>
+                                    <l><hi rend="italic">O tourment bien heureux guery si doucement !</hi></l>
+                                    <pb xml:id="page_abs_850" n="page_ori_845"/>
+                                </lg>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Content en mon mal-heur, je fus contraint de dire</hi></l>
+                                    <l><hi rend="italic">Je cognois qu'on peut estre heureux mesme au tourment</hi></l>
+                                    <l><hi rend="italic">Et que le bien d'Amour surpasse son martyre.</hi></l>
+                                </lg>
                             </div>
                         </body>
                     </floatingText>
