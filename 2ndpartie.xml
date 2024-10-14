@@ -264,105 +264,108 @@
                             <div type="poem" xml:id="sonnet1">
                                 <head><hi rend="rule">ECHO.</hi></head>
                                 <head>STANSES.</head>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Fille de l'Air qui ne
-                                            sçaurois rientaire,</hi></l>
-                                    <l><hi rend="italic">De ces rochers hostesse solitaire,</hi></l>
-                                    <l><hi rend="italic">Où vont les cris que je vais émouvant
-                                            ?</hi> Au vent.</l>
-                                    <l><hi rend="italic">Et quel crois-tu que ce cruel
-                                        martire,</hi></l>
-                                    <l><hi rend="italic">Q[u]e plein d'Amour mon cœur va
-                                            concevant,</hi></l>
-                                    <l><hi rend="italic">Devienne en fin aux maux que je souspire
-                                            ?</hi> Pire.</l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Fille de l'Air qui ne sçaurois rientaire,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">De ces rochers
+                                            hostesse solitaire,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Où vont les cris
+                                            que je vais émouvant ?</hi> Au vent.</l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Et quel crois-tu
+                                            que ce cruel martire,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Q[u]e plein
+                                            d'Amour mon cœur va concevant,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Devienne en fin
+                                            aux maux que je souspire ?</hi> Pire.</l>
                                 </lg>
-                                <lg>
+                                <lg ana="vers" xml:lang="fr">
                                     <head>II.</head>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Que feroit donc cet œil
-                                            qui me desarme</hi></l>
-                                    <l><hi rend="italic">Par sa douceur de toute sorte
-                                        d'arme,</hi></l>
-                                    <l><hi rend="italic">Et qui promet m'aymer infiniment ?</hi> Il
-                                        ment.</l>
-                                    <l><hi rend="italic">Mais s'il est vray qu'il mente, quel
-                                            remede</hi></l>
-                                    <l><hi rend="italic">Nous faudra-t'il pour sortir
-                                            promptement</hi></l>
-                                    <l><hi rend="italic">De cet abus qui trompeur nous possede
-                                            ?</hi> Cede.</l>
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Que feroit donc cet œil qui me desarme</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Par sa douceur de
+                                            toute sorte d'arme,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Et qui promet
+                                            m'aymer infiniment ?</hi> Il ment.</l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Mais s'il est vray
+                                            qu'il mente, quel remede</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Nous faudra-t'il
+                                            pour sortir promptement</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">De cet abus qui
+                                            trompeur nous possede ?</hi> Cede.</l>
                                 </lg>
-                                <lg>
+                                <lg ana="vers" xml:lang="fr">
                                     <head>III.</head>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Comment ? ceder un tel
-                                            bien à quelque autre</hi></l>
-                                    <l><hi rend="italic">Qu'Amour ordonne en effet qui soit nostre
-                                            !</hi></l>
-                                    <l><hi rend="italic">Qui plus que moy voit-elle volontiers
-                                            ?</hi>Un tiers.</l>
-                                    <l><hi rend="italic">Un tiers, Echo, c'est un cruel
-                                            langage,</hi></l>
-                                    <l><hi rend="italic">Mais s'il est vray qu'elle ayme mieux un
-                                            tiers,</hi></l>
-                                    <l><hi rend="italic">Au lieu d'amour qu'auroit un grand courage
-                                            ?</hi> Rage.</l>
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Comment ? ceder un tel bien à quelque autre</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Qu'Amour ordonne
+                                            en effet qui soit nostre !</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Qui plus que moy
+                                            voit-elle volontiers ?</hi>Un tiers.</l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Un tiers, Echo,
+                                            c'est un cruel langage,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Mais s'il est vray
+                                            qu'elle ayme mieux un tiers,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Au lieu d'amour
+                                            qu'auroit un grand courage ?</hi> Rage.</l>
                                 </lg>
-                                <lg>
+                                <lg ana="vers" xml:lang="fr">
                                     <head>IV.</head>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Nimphe qui sents dedans
-                                            ces roches creuses</hi></l>
-                                    <l><hi rend="italic">Quel est le mal des peines
-                                        amoureuses,</hi></l>
-                                    <l><hi rend="italic">N'auray-je donc jamais alegements ?</hi> Je
-                                        ments.</l>
-                                    <l><hi rend="italic">Comment, Echo, n'est-ce point un
-                                            blaspheme</hi></l>
-                                    <l><hi rend="italic">De t'accuser &amp; dire que tu ments ?<lb/>
-                                            Ce que j'entens est-ce bien ta voix mesme ?</hi>
-                                        Ayme.</l>
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Nimphe qui sents dedans ces roches creuses</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Quel est le mal
+                                            des peines amoureuses,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">N'auray-je donc
+                                            jamais alegements ?</hi> Je ments.</l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Comment, Echo,
+                                            n'est-ce point un blaspheme</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">De t'accuser &amp;
+                                            dire que tu ments ?<lb/> Ce que j'entens est-ce bien ta
+                                            voix mesme ?</hi> Ayme.</l>
                                     <pb xml:id="page_abs_14" n="page_ori_7"/>
                                 </lg>
-                                <lg>
+                                <lg ana="vers" xml:lang="fr">
                                     <head>V.</head>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">C'est bien ta voix qui
-                                            frappe mes a[u]reilles,</hi></l>
-                                    <l><hi rend="italic">Mais ce secret, Nimphe qui me
-                                            conseilles<lb/> L'as-tu dis moy de ma Diane ouy ?</hi>
-                                        Ouy.</l>
-                                    <l><hi rend="italic">Mais de l'aymer, helas ! c'est peu de
-                                            chose,</hi></l>
-                                    <l><hi rend="italic">Si d'elle aymé d'elle je ne jouy,</hi></l>
-                                    <l><hi rend="italic">Pour un tel heur qu'est-ce qu'on me propose
-                                            ?</hi> Ose.</l>
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >C'est bien ta voix qui frappe mes a[u]reilles,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Mais ce secret,
+                                            Nimphe qui me conseilles<lb/> L'as-tu dis moy de ma
+                                            Diane ouy ?</hi> Ouy.</l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Mais de l'aymer,
+                                            helas ! c'est peu de chose,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Si d'elle aymé
+                                            d'elle je ne jouy,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Pour un tel heur
+                                            qu'est-ce qu'on me propose ?</hi> Ose.</l>
                                 </lg>
-                                <lg>
+                                <lg ana="vers" xml:lang="fr">
                                     <head>VI.</head>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Le Ciel noircy de
-                                            tempeste &amp; d'orage</hi></l>
-                                    <l><hi rend="italic">Ne peut d'effroy m'abattre le
-                                        courage</hi></l>
-                                    <l><hi rend="italic">Mon cœur ne craint tous ces
-                                            estonnements.</hi> Ne ments.</l>
-                                    <l><hi rend="italic">Je ne ments point ny ne suis
-                                            temeraire,</hi></l>
-                                    <l><hi rend="italic">J'apprens d'Amour ces beaux
-                                            enseignements,</hi></l>
-                                    <l><hi rend="italic">Faut il rien plus pour un si grand mistere
-                                            ?</hi> Taire.</l>
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Le Ciel noircy de tempeste &amp; d'orage</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Ne peut d'effroy
+                                            m'abattre le courage</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Mon cœur ne craint
+                                            tous ces estonnements.</hi> Ne ments.</l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Je ne ments point
+                                            ny ne suis temeraire,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">J'apprens d'Amour
+                                            ces beaux enseignements,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Faut il rien plus
+                                            pour un si grand mistere ?</hi> Taire.</l>
                                 </lg>
-                                <lg>
+                                <lg ana="vers" xml:lang="fr">
                                     <head>VII.</head>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Je me tairay, plustost ma
-                                            voix pressée,</hi></l>
-                                    <l><hi rend="italic">Souspirera ma mort que ma pensée,</hi></l>
-                                    <l><hi rend="italic">Amant secret comme Amant valeureux.</hi>
-                                        Heureux.</l>
-                                    <l><hi rend="italic">Heureux cent fois aymé de cette
-                                        belle,</hi></l>
-                                    <l><hi rend="italic">Mais d'où sçais-tu que son cœur
-                                            genereux</hi></l>
-                                    <l><hi rend="italic">Sera vaincu si je luy suis fidelle ?</hi>
-                                        D'elle.</l>
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Je me tairay, plustost ma voix pressée,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Souspirera ma mort
+                                            que ma pensée,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Amant secret comme
+                                            Amant valeureux.</hi> Heureux.</l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Heureux cent fois
+                                            aymé de cette belle,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Mais d'où sçais-tu
+                                            que son cœur genereux</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Sera vaincu si je
+                                            luy suis fidelle ?</hi> D'elle.</l>
                                 </lg>
 
                             </div>
@@ -1044,46 +1047,48 @@
                         <body>
                             <div type="poem">
                                 <head><hi rend="bold">SONNET.</hi><lb/> D'UNE JEUNE BEAUTE.</head>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Quelle Aurore jamais d'un
-                                            beau jour devanciere</hi></l>
-                                    <l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Quelle Aurore jamais d'un beau jour devanciere</hi></l>
+                                    <l ana="vers" xml:lang="fr">
                                         <hi rend="italic">Eut le sein plus semé de roses &amp; de
                                             lys ?</hi></l>
-                                    <l>
+                                    <l ana="vers" xml:lang="fr">
                                         <hi rend="italic">Ou quels nouveaux Soleils de rayons
                                             embellis,</hi></l>
-                                    <l><hi rend="italic"> Furent jamais si beaux commençant leur
-                                            carrierée.</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic"> Furent jamais si
+                                            beaux commençant leur carrierée.</hi></l>
                                 </lg>
-                                <lg>
+                                <lg ana="vers" xml:lang="fr">
                                     <pb xml:id="page_abs_45" n="page_ori_38"/>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Dés qu'on t'a veu
-                                            paroistre aux rais de la lumiere,</hi></l>
-                                    <l><hi rend="italic">Tous les autres Soleils soudain sont
-                                            defaillis,</hi></l>
-                                    <l><hi rend="italic"> Ou pres d'eux pour le moins demeurent si
-                                            pallis,</hi></l>
-                                    <l><hi rend="italic"> Qu'ils ne retiennent rien de leur clairté
-                                            premiere.</hi></l>
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Dés qu'on t'a veu paroistre aux rais de la
+                                            lumiere,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Tous les autres
+                                            Soleils soudain sont defaillis,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic"> Ou pres d'eux
+                                            pour le moins demeurent si pallis,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic"> Qu'ils ne
+                                            retiennent rien de leur clairté premiere.</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Quel sera le Midy d'un si
-                                            bel Orient ?</hi></l>
-                                    <l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Quel sera le Midy d'un si bel Orient ?</hi></l>
+                                    <l ana="vers" xml:lang="fr">
                                         <hi rend="italic">Je prevoy dés icy que le Ciel tout
                                             riant,</hi></l>
-                                    <l>
+                                    <l ana="vers" xml:lang="fr">
                                         <hi rend="italic">Et qui ne vit jamais une Aurore si
                                             belle,</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Se promet d'en brusler
-                                            les hommes &amp; les Dieux,</hi></l>
-                                    <l><hi rend="italic">Amour ou rends son cœur aussi doux que ses
-                                            yeux,</hi></l>
-                                    <l><hi rend="italic"> Ou nos yeux &amp; nos cœurs insensibles
-                                            pour elle.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Se promet d'en brusler les hommes &amp; les
+                                        Dieux,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Amour ou rends son
+                                            cœur aussi doux que ses yeux,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic"> Ou nos yeux &amp;
+                                            nos cœurs insensibles pour elle.</hi></l>
                                 </lg>
                             </div>
                         </body>
@@ -1651,7 +1656,6 @@
                             D'ASTRÉE. </hi>
                     </head>
 
-                    <lb/>
                     <p>&#160;&#160;&#160;Ainsi paracheva Thamire, de raconter ce que la Nimphe
                         Leonide avoit desiré sçavoir, &amp; s'estant teu pour quelque temps : Or
                         Madame, continua-t'il, nous nous sommes de fortune rencontrez au sortir de
@@ -2945,42 +2949,44 @@
                             <div type="poem">
                                 <head><hi rend="bold">SONNET.</hi><lb/> RAPORT DE DIANE A<lb/> LA
                                     LUNE.</head>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Bel Astre flamboyant, qui
-                                            dans un Ciel serain</hi></l>
-                                    <l><hi rend="italic">Esclairez de la Nuict le visage
-                                            effroyable,</hi></l>
-                                    <l><hi rend="italic">Ne vous offensez point si je vous dis
-                                            semblable</hi></l>
-                                    <l><hi rend="italic">A la belle qui tiens mon cœur dedans sa
-                                            main.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Bel Astre flamboyant, qui dans un Ciel serain</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Esclairez de la
+                                            Nuict le visage effroyable,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Ne vous offensez
+                                            point si je vous dis semblable</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">A la belle qui
+                                            tiens mon cœur dedans sa main.</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Comme vous chastement
-                                            elle s'arme le sein</hi></l>
-                                    <l><hi rend="italic">De tant de cruautez qu'elle en est
-                                            redoutable,</hi></l>
-                                    <l><hi rend="italic">Et quiconque la voit, Acteon
-                                            miserable,</hi></l>
-                                    <l><hi rend="italic">Devoré de desirs va l'appellant en
-                                            vain.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Comme vous chastement elle s'arme le sein</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">De tant de
+                                            cruautez qu'elle en est redoutable,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Et quiconque la
+                                            voit, Acteon miserable,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Devoré de desirs
+                                            va l'appellant en vain.</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Tous les feux de la Nuict
-                                            vous cedent en lumiere,</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Tous les feux de la Nuict vous cedent en
+                                        lumiere,</hi></l>
                                     <pb xml:id="page_abs_123" n="page_ori_116"/>
-                                    <l><hi rend="italic">Et des belles, Diane est tousjours la
-                                            premiere,</hi></l>
-                                    <l><hi rend="italic">Rien ne trompe voz coups, rien n'esvite ses
-                                            yeux.</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Et des belles,
+                                            Diane est tousjours la premiere,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Rien ne trompe voz
+                                            coups, rien n'esvite ses yeux.</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Bref vous vous
-                                            ressemblez, non elle est plus cruelle,</hi></l>
-                                    <l><hi rend="italic">Car un Endimion vous fit laisser les
-                                            Cieux,</hi></l>
-                                    <l><hi rend="italic">Mais nul Endimion ne se trouve pour
-                                            elle.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Bref vous vous ressemblez, non elle est plus
+                                            cruelle,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Car un Endimion
+                                            vous fit laisser les Cieux,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Mais nul Endimion
+                                            ne se trouve pour elle.</hi></l>
                                 </lg>
                             </div>
                         </body>
@@ -3007,41 +3013,41 @@
                                 <head><hi rend="bold">SONNET.</hi><lb/> QU'IL N'Y A
                                     CONSIDERATION<lb/> QUI L'EMPESCHE D'AYMER<lb/> sa
                                     Maistresse.</head>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Mon penser, hé! pourquoy
-                                            me viens tu figurer,</hi></l>
-                                    <l><hi rend="italic">Qu'il ne faut que je l'aime, &amp; qu'elle
-                                            est pour un autre,</hi></l>
-                                    <l><hi rend="italic">Si c'est pour un mortel, ne peut elle estre
-                                            nostre,</hi></l>
-                                    <l><hi rend="italic">Et si c'est pour un Dieu ne la puis-je
-                                            adorer ?</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Mon penser, hé! pourquoy me viens tu figurer,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Qu'il ne faut que
+                                            je l'aime, &amp; qu'elle est pour un autre,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Si c'est pour un
+                                            mortel, ne peut elle estre nostre,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Et si c'est pour
+                                            un Dieu ne la puis-je adorer ?</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Si c'est pour un Mortel,
-                                            qui sçauroit mesurer,</hi></l>
-                                    <l><hi rend="italic">Entre tous les mortels son amour à ma
-                                            flame,</hi></l>
-                                    <l><hi rend="italic">Et si c'est pour un Dieu, se peut-il voir
-                                            une ame,</hi></l>
-                                    <l><hi rend="italic">Qui d'un zele plus sain la puisse reverer
-                                            ?</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Si c'est pour un Mortel, qui sçauroit mesurer,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Entre tous les
+                                            mortels son amour à ma flame,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Et si c'est pour
+                                            un Dieu, se peut-il voir une ame,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Qui d'un zele plus
+                                            sain la puisse reverer ?</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Mais que nous vaut cela
-                                            si cette ame cruelle,</hi></l>
-                                    <l><hi rend="italic">Ne daigne regarder ceux qui meurent pour
-                                            elle,</hi></l>
-                                    <l><hi rend="italic">L'Amour ou la Raison la forceront un
-                                            jour.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Mais que nous vaut cela si cette ame cruelle,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Ne daigne regarder
+                                            ceux qui meurent pour elle,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">L'Amour ou la
+                                            Raison la forceront un jour.</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">En fin elle aimera, puis
-                                            que nul ne l'évite,</hi></l>
-                                    <l><hi rend="italic">Que si c'est par Raison, gagnons la par
-                                            merite,</hi></l>
-                                    <l><hi rend="italic">Et si c'est par Amour, gagnons la par
-                                            Amour.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >En fin elle aimera, puis que nul ne l'évite,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Que si c'est par
+                                            Raison, gagnons la par merite,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Et si c'est par
+                                            Amour, gagnons la par Amour.</hi></l>
                                 </lg>
                             </div>
                         </body>
@@ -4477,41 +4483,42 @@
                         <body>
                             <div type="poem">
                                 <head><hi rend="bold">SONNET.</hi><lb/> IL PARLE AU VENT.</head>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Doux zephir que je vois
-                                            errer folatrement</hi></l>
-                                    <l><hi rend="italic">Entre les crins aigus de ces plantes
-                                            hautaines,</hi></l>
-                                    <l><hi rend="italic">Et qui pillant des fleurs les plus douces
-                                            haleines</hi></l>
-                                    <l><hi rend="italic">Avec ce beau larcin vas tout l'air
-                                            parfumant.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Doux zephir que je vois errer folatrement</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Entre les crins
+                                            aigus de ces plantes hautaines,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Et qui pillant des
+                                            fleurs les plus douces haleines</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Avec ce beau
+                                            larcin vas tout l'air parfumant.</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Si jamais la pitié te
-                                            donna mouvement,</hi></l>
-                                    <l><hi rend="italic">Oublie en ma faveur icy tes douces peines
-                                            ;</hi></l>
-                                    <l><hi rend="italic">Et t'en va dans le sein de ces heureuses
-                                            plaines</hi></l>
-                                    <l><hi rend="italic">Où mon malheur retient tout mon
-                                            contentement.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Si jamais la pitié te donna mouvement,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Oublie en ma
+                                            faveur icy tes douces peines ;</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Et t'en va dans le
+                                            sein de ces heureuses plaines</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Où mon malheur
+                                            retient tout mon contentement.</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Va, mais porte avec toy
-                                            les amoureuses plaintes</hi></l>
-                                    <l><hi rend="italic">Que parmy ces forests j'ay tristement
-                                            empraintes,</hi></l>
-                                    <l><hi rend="italic">Seul &amp; dernier plaisir entre mes
-                                            desplaisirs.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Va, mais porte avec toy les amoureuses
+                                        plaintes</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Que parmy ces
+                                            forests j'ay tristement empraintes,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Seul &amp; dernier
+                                            plaisir entre mes desplaisirs.</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Là tu pourras trouver sur
-                                            des levres jumelles</hi></l>
-                                    <l><hi rend="italic">Des odeurs &amp; des fleurs plus douces
-                                            &amp; plus belles :</hi></l>
-                                    <l><hi rend="italic">Mais rapporte les moy pour nourrir mes
-                                            desirs.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Là tu pourras trouver sur des levres jumelles</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Des odeurs &amp;
+                                            des fleurs plus douces &amp; plus belles :</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Mais rapporte les
+                                            moy pour nourrir mes desirs.</hi></l>
                                 </lg>
                             </div>
                         </body>
@@ -5463,32 +5470,41 @@
                         <body>
                             <div type="poem">
                                 <head><hi rend="bold">SONNET.</hi></head>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Dorinde se mocqua de
-                                            vous,</hi></l>
-                                    <l><hi rend="italic">Quand elle vous tint ce langage,</hi></l>
-                                    <l><hi rend="italic">Sçachant bien qu'on peut sans
-                                        outrage,</hi></l>
-                                    <l><hi rend="italic">Promettre toute chose aux fous.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Dorinde se mocqua de vous,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Quand elle vous
+                                            tint ce langage,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Sçachant bien
+                                            qu'on peut sans outrage,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Promettre toute
+                                            chose aux fous.</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Ou la vanité de vostre
-                                            ame,</hi></l>
-                                    <l><hi rend="italic">Vous fait vanter qu'elle l'a dit,</hi></l>
-                                    <l><hi rend="italic">Pour monstrer d'avoir du credit,</hi></l>
-                                    <l><hi rend="italic">Aupres d'une si belle Dame.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Ou la vanité de vostre ame,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Vous fait vanter
+                                            qu'elle l'a dit,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Pour monstrer
+                                            d'avoir du credit,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Aupres d'une si
+                                            belle Dame.</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Mais soit qu'elle ait
-                                            fait ce serment[,]</hi></l>
-                                    <l><hi rend="italic">Pour chasser un fascheux Amant,</hi></l>
-                                    <l><hi rend="italic">Promettre est un doux artifice :</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Mais soit qu'elle ait fait ce serment[,]</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Pour chasser un
+                                            fascheux Amant,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Promettre est un
+                                            doux artifice :</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Et quand on l'en devroit
-                                            punir,</hi></l>
-                                    <l><hi rend="italic">Elle aymeroit mieux le supplice,</hi></l>
-                                    <l><hi rend="italic">Que non pas un tel souvenir.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Et quand on l'en devroit punir,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Elle aymeroit
+                                            mieux le supplice,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Que non pas un tel
+                                            souvenir.</hi></l>
                                 </lg>
                             </div>
                         </body>
@@ -5567,41 +5583,43 @@
                         <body>
                             <div type="poem">
                                 <head><hi rend="bold">SONNET.</hi><lb/> SERMENTS AMOUREUX.</head>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Belle de mes desirs, vous
-                                            estes le trespas.</hi></l>
-                                    <l><hi rend="italic">Et c'est vous toutefois que seule je
-                                            desire,</hi></l>
-                                    <l><hi rend="italic">J'en jure vos beaux yeux que le Soleil
-                                            admire,</hi></l>
-                                    <l><hi rend="italic">Et j'en jure mon cœur, surpris de vos
-                                            appas.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Belle de mes desirs, vous estes le trespas.</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Et c'est vous
+                                            toutefois que seule je desire,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">J'en jure vos
+                                            beaux yeux que le Soleil admire,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Et j'en jure mon
+                                            cœur, surpris de vos appas.</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">J'en jure vos douceurs
-                                            qui sont tout mon soulas,</hi></l>
-                                    <l><hi rend="italic">J'en jure vos desdains, qui sont tout mon
-                                            martyre,</hi></l>
-                                    <l><hi rend="italic">J'en jure mes douleurs tesmoins de vostre
-                                            empire,</hi></l>
-                                    <l><hi rend="italic">J'en jure ces plaisirs qu'avoir je ne puis
-                                            pas.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >J'en jure vos douceurs qui sont tout mon
+                                        soulas,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">J'en jure vos
+                                            desdains, qui sont tout mon martyre,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">J'en jure mes
+                                            douleurs tesmoins de vostre empire,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">J'en jure ces
+                                            plaisirs qu'avoir je ne puis pas.</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">J'en jure les Amours,
-                                            amoureux de vous mesme,</hi></l>
-                                    <l><hi rend="italic">J'en jure ces beautez qui font que l'on
-                                            vous ayme,</hi></l>
-                                    <l><hi rend="italic">J'en jure mes espoirs encor que bien
-                                            petis.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >J'en jure les Amours, amoureux de vous mesme,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">J'en jure ces
+                                            beautez qui font que l'on vous ayme,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">J'en jure mes
+                                            espoirs encor que bien petis.</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">J'en jure ces desirs que
-                                            vous me faites naistre,</hi></l>
-                                    <l><hi rend="italic">Bref j'en jure par vous, sans qui je ne
-                                            veux estre,</hi></l>
-                                    <l><hi rend="italic">Encor ne croirez vous ce que je vousen
-                                            dis.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >J'en jure ces desirs que vous me faites
+                                        naistre,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Bref j'en jure par
+                                            vous, sans qui je ne veux estre,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Encor ne croirez
+                                            vous ce que je vousen dis.</hi></l>
                                 </lg>
                             </div>
                         </body>
@@ -7528,42 +7546,46 @@
                         <body>
                             <div type="poem">
                                 <head><hi rend="bold">SONNET.</hi></head>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Qui ne l'admireroit !
-                                            &amp; qui n'aimeroit mieux,</hi></l>
-                                    <l><hi rend="italic">Errer en l'adorant plein d'Amour &amp; de
-                                            crainte :</hi></l>
-                                    <l><hi rend="italic">Et rendre courroucez contre soy tous les
-                                            Dieux,</hi></l>
-                                    <l><hi rend="italic">Que n'idolatrer point une si belle Sainte
-                                            ?</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Qui ne l'admireroit ! &amp; qui n'aimeroit
+                                        mieux,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Errer en l'adorant
+                                            plein d'Amour &amp; de crainte :</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Et rendre
+                                            courroucez contre soy tous les Dieux,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Que n'idolatrer
+                                            point une si belle Sainte ?</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Mais qu'est-ce que je dis
-                                            ? en effet elle est peinte,</hi></l>
-                                    <l><hi rend="italic">La belle que votcy, ce ne sont pas des
-                                            yeux,</hi></l>
-                                    <l><hi rend="italic">Comme nous les croyons, ce n'en est qu'une
-                                            sainte,</hi></l>
-                                    <l><hi rend="italic">Dont nous deçoit la main du peintre
-                                            ingenieux.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Mais qu'est-ce que je dis ? en effet elle est
+                                            peinte,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">La belle que
+                                            votcy, ce ne sont pas des yeux,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Comme nous les
+                                            croyons, ce n'en est qu'une sainte,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Dont nous deçoit
+                                            la main du peintre ingenieux.</hi></l>
                                 </lg>
-                                <lg>
+                                <lg ana="vers" xml:lang="fr">
                                     <pb xml:id="page_abs_316" n="page_ori_309"/>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Ce ne sont pas des yeux ?
-                                            si ressens-je la playe :</hi></l>
-                                    <l><hi rend="italic">Quoy que le trait soit saint toutesfois
-                                            estre vraye,</hi></l>
-                                    <l><hi rend="italic">Fuyons donc puis qu'ainsi les coups nous en
-                                            sentons.</hi></l>
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Ce ne sont pas des yeux ? si ressens-je la playe
+                                        :</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Quoy que le trait
+                                            soit saint toutesfois estre vraye,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Fuyons donc puis
+                                            qu'ainsi les coups nous en sentons.</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Mais pourquoy fuyrons
-                                            nous ? la fuite en est bien</hi></l>
-                                    <l><hi rend="italic">Si des-iabien avât dans le cœur nous
-                                            portons, (vaine,</hi></l>
-                                    <l><hi rend="italic">De ces yeux vrais ou faux la blessure
-                                            certaine.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Mais pourquoy fuyrons nous ? la fuite en est
+                                        bien</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Si des-iabien avât
+                                            dans le cœur nous portons, (vaine,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">De ces yeux vrais
+                                            ou faux la blessure certaine.</hi></l>
                                 </lg>
                             </div>
                         </body>
@@ -8613,27 +8635,43 @@
                             <div type="poem">
 
                                 <head><hi rend="bold">SONNET.</hi></head>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Qu'envieux de mon bien, il parle ou qu'il blaspheme,</hi></l>
-                                    <l><hi rend="italic">Qu'il remarque à nos yeux, ce qu'il pense est[r]e en nous,</hi></l>
-                                    <l><hi rend="italic">Qu'il cognoisse en effect que je ne suis moy mesme,</hi></l>
-                                    <l><hi rend="italic">Sinon, ma sœur, en tant que je ne suis qu'à vous.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Qu'envieux de mon bien, il parle ou qu'il
+                                            blaspheme,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Qu'il remarque à
+                                            nos yeux, ce qu'il pense est[r]e en nous,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Qu'il cognoisse en
+                                            effect que je ne suis moy mesme,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Sinon, ma sœur, en
+                                            tant que je ne suis qu'à vous.</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Que d'un œil importun il nous veille jalous,</hi></l>
-                                    <l><hi rend="italic">Que sur nos actions la mesdisance il seme :</hi></l>
-                                    <l><hi rend="italic">Il peut bien m'esloigner de mon bien le plus doux,</hi></l>
-                                    <l><hi rend="italic">Mais non pas empescher qu'enfin je ne vous ayme.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Que d'un œil importun il nous veille jalous,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Que sur nos
+                                            actions la mesdisance il seme :</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Il peut bien
+                                            m'esloigner de mon bien le plus doux,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Mais non pas
+                                            empescher qu'enfin je ne vous ayme.</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Malgré tous ces discours contre nous inventez,</hi></l>
-                                    <l><hi rend="italic">Ma[l]gré tous ces soupçons qui nous ont tourmentez,</hi></l>
-                                    <l><hi rend="italic">Mesme dans le cercueil je fay vœu d'estre vostre :</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Malgré tous ces discours contre nous inventez,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Ma[l]gré tous ces
+                                            soupçons qui nous ont tourmentez,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Mesme dans le
+                                            cercueil je fay vœu d'estre vostre :</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Mais ce fascheux Argus, ne feroit il pas mieux,</hi></l>
-                                    <l><hi rend="italic">Nous laissant en repos d'employer tous ses yeux,</hi></l>
-                                    <l><hi rend="italic">A garder la beauté qu'il paye pour un autre ?</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Mais ce fascheux Argus, ne feroit il pas
+                                        mieux,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Nous laissant en
+                                            repos d'employer tous ses yeux,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">A garder la beauté
+                                            qu'il paye pour un autre ?</hi></l>
                                 </lg>
                             </div>
                         </body>
@@ -11728,44 +11766,60 @@
                     <floatingText>
                         <body>
                             <div type="poem">
-                                <head><hi rend="bold">SONNET.</hi><lb/> Qu'il est jaloux avec raison.</head>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Amour qui dans mon cœur vas lisant mes pensées</hi></l>
-                                    <l><hi rend="italic">Dans mon cœur où ta main tous les jours les escrit,</hi></l>
-                                    <l><hi rend="italic">Ne voy tu qu'un s[o]upçon maugré toy les aigrit,</hi></l>
-                                    <l><hi rend="italic">Quoyqu'avec tes douceurs elles soient commencées ?</hi></l>
+                                <head><hi rend="bold">SONNET.</hi><lb/> Qu'il est jaloux avec
+                                    raison.</head>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Amour qui dans mon cœur vas lisant mes pensées</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Dans mon cœur où
+                                            ta main tous les jours les escrit,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Ne voy tu qu'un
+                                            s[o]upçon maugré toy les aigrit,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Quoyqu'avec tes
+                                            douceurs elles soient commencées ?</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Tant de serments jurez, tant de preuves passées</hi></l>
-                                    <l><hi rend="italic">Ne sçauroient r'asseurer à ce coup mon esprit,</hi></l>
-                                    <l><hi rend="italic">Puis qu'autrefois Amour, elle mesme m'aprit,</hi></l>
-                                    <l><hi rend="italic">Que les voix d'un amant sont en fin exaucées.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Tant de serments jurez, tant de preuves
+                                        passées</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Ne sçauroient
+                                            r'asseurer à ce coup mon esprit,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Puis qu'autrefois
+                                            Amour, elle mesme m'aprit,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Que les voix d'un
+                                            amant sont en fin exaucées.</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Dieux s'il est vray, qu'en fin l'on exauce un Amant</hi></l>
-                                    <l><hi rend="italic">Ne suis je point jalous avecques jugement ?</hi></l>
-                                    <l><hi rend="italic">Qui ne le seroit point, ce seroit une souche.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Dieux s'il est vray, qu'en fin l'on exauce un
+                                            Amant</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Ne suis je point
+                                            jalous avecques jugement ?</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Qui ne le seroit
+                                            point, ce seroit une souche.</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Je l'ay veu de mes yeux devant elle à genoux,</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Je l'ay veu de mes yeux devant elle à genoux,</hi></l>
                                     <pb xml:id="page_abs_505" n="page_ori_499"/>
-                                    <l><hi rend="italic">La voila qui ne pend que de sa seule bouche,</hi></l>
-                                    <l><hi rend="italic">Et qui seroit l'amant qui n'en seroit jaloux ?</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">La voila qui ne
+                                            pend que de sa seule bouche,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Et qui seroit
+                                            l'amant qui n'en seroit jaloux ?</hi></l>
                                 </lg>
                             </div>
                         </body>
                     </floatingText>
-                                <p>&#160;&#160;&#160;A peine avoit-il parachevé ces vers, que nous
-                                    le vismes tout à coup se relever, &amp; se haussant sur le bout
-                                    des pieds regarder ce que faisoit Philis, &amp; peu apres au
-                                    petit pas s'approcher d'elle, s'en retournant d'où il estoit
-                                    venu. Nous ne fusmes point apperceus de luy, parce qu'il avoit
-                                    tellement toute sa pensée en sa Philis, que quand nous eussions
-                                    esté devant ses yeux, je croy qu'il ne nous eust point veus.
-                                    Nous le suivimes de loing, &amp; lors qu'il se cacha aupres de
-                                    Philis nous en fismes de mesme pour ouyr Silvandre qui chantoit
-                                    ces vers quand nous y arrivasmes.</p>
-                            
+                    <p>&#160;&#160;&#160;A peine avoit-il parachevé ces vers, que nous le vismes
+                        tout à coup se relever, &amp; se haussant sur le bout des pieds regarder ce
+                        que faisoit Philis, &amp; peu apres au petit pas s'approcher d'elle, s'en
+                        retournant d'où il estoit venu. Nous ne fusmes point apperceus de luy, parce
+                        qu'il avoit tellement toute sa pensée en sa Philis, que quand nous eussions
+                        esté devant ses yeux, je croy qu'il ne nous eust point veus. Nous le
+                        suivimes de loing, &amp; lors qu'il se cacha aupres de Philis nous en fismes
+                        de mesme pour ouyr Silvandre qui chantoit ces vers quand nous y
+                        arrivasmes.</p>
+
                     <floatingText>
                         <body>
                             <div1>
@@ -11907,30 +11961,47 @@
                     <floatingText>
                         <body>
                             <div type="poem">
-                                <head><hi rend="bold">SONNET.</hi><lb/> Que d'adorer seulement Diane, il est trop heureux</head>
+                                <head><hi rend="bold">SONNET.</hi><lb/> Que d'adorer seulement
+                                    Diane, il est trop heureux</head>
 
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Silvandre qui te plains comme d'une injustice,</hi></l>
-                                    <l><hi rend="italic">Qu'à si belle maistresse Amour t'a destiné,</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Silvandre qui te plains comme d'une injustice,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Qu'à si belle
+                                            maistresse Amour t'a destiné,</hi></l>
                                     <pb xml:id="page_abs_509" n="page_ori_503"/>
-                                    <l><hi rend="italic">Rends luy graces plustost de t'avoir ordonné</hi></l>
-                                    <l><hi rend="italic">De servir de victime en si beau sacrifice.</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Rends luy graces
+                                            plustost de t'avoir ordonné</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">De servir de
+                                            victime en si beau sacrifice.</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Depuis que ce grand Dieu d'un puissant artifice,</hi></l>
-                                    <l><hi rend="italic">Separant le cahos, le monde a façonné,</hi></l>
-                                    <l><hi rend="italic">Jamais dedans le Ciel ne fut imaginé</hi></l>
-                                    <l><hi rend="italic"> Rien plus beau que la belle à qui tu fais service.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Depuis que ce grand Dieu d'un puissant
+                                        artifice,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Separant le cahos,
+                                            le monde a façonné,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Jamais dedans le
+                                            Ciel ne fut imaginé</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic"> Rien plus beau
+                                            que la belle à qui tu fais service.</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Cesse donc de te plaindre, ou tu plaindras à tort</hi></l>
-                                    <l><hi rend="italic">Que si tu meurs pour elle, est il plus belle mort ?</hi></l>
-                                    <l><hi rend="italic">C'est lors que l'ame vit quand elle en est meurtrie,</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Cesse donc de te plaindre, ou tu plaindras à
+                                        tort</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Que si tu meurs
+                                            pour elle, est il plus belle mort ?</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">C'est lors que
+                                            l'ame vit quand elle en est meurtrie,</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Que si l'amour te fait idolatrer ses yeux,</hi></l>
-                                    <l><hi rend="italic">Adore les Silvandre, ainsi comme des Dieux,</hi></l>
-                                    <l><hi rend="italic">Qui jamais a commis plus belle idolatrie ?</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Que si l'amour te fait idolatrer ses yeux,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Adore les
+                                            Silvandre, ainsi comme des Dieux,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Qui jamais a
+                                            commis plus belle idolatrie ?</hi></l>
                                 </lg>
                             </div>
                         </body>
@@ -12312,29 +12383,47 @@
                     <floatingText>
                         <body>
                             <div type="poem">
-                                <head><hi rend="bold">SONNET.</hi><lb/> Il se compare à la riviere de Lignon.</head>
+                                <head><hi rend="bold">SONNET.</hi><lb/> Il se compare à la riviere
+                                    de Lignon.</head>
 
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Riviere que j'accrois couché parmy ces fleurs,</hi></l>
-                                    <l><hi rend="italic">Je considere en toy ma triste ressemblance,</hi></l>
-                                    <l><hi rend="italic">De deux sources tu prens en mesme temps naissance,</hi></l>
-                                    <l><hi rend="italic">Et mes yeux ne sont rien que deux sources de pleurs.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Riviere que j'accrois couché parmy ces fleurs,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Je considere en
+                                            toy ma triste ressemblance,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">De deux sources tu
+                                            prens en mesme temps naissance,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Et mes yeux ne
+                                            sont rien que deux sources de pleurs.</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Tu n'as point tant de flots que je sens de malheurs,</hi></l>
-                                    <l><hi rend="italic">Si tu cours sans dessein, je sers sans esperance,</hi></l>
-                                    <l><hi rend="italic">En des sommets hautains, ta source se commence,</hi></l>
-                                    <l><hi rend="italic">D'orgueilleuses beautez procedent mes douleurs.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Tu n'as point tant de flots que je sens de
+                                            malheurs,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Si tu cours sans
+                                            dessein, je sers sans esperance,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">En des sommets
+                                            hautains, ta source se commence,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">D'orgueilleuses
+                                            beautez procedent mes douleurs.</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Combien de grands rochers te rompent le passage ?</hi></l>
-                                    <l><hi rend="italic">De quels empeschemens ne sens-je point l'outrage ?</hi></l>
-                                    <l><hi rend="italic">Toutesfois en un point nous differons tous deux ;</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Combien de grands rochers te rompent le passage
+                                        ?</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">De quels
+                                            empeschemens ne sens-je point l'outrage ?</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Toutesfois en un
+                                            point nous differons tous deux ;</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">En toy l'onde s'accroist des neiges qui se fondent,</hi></l>
-                                    <l><hi rend="italic">Plus on gele pour moy, plus mes larmes abondent</hi></l>
-                                    <l><hi rend="italic">Quoy que tu sois si froide, &amp; moy si plein de feux.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >En toy l'onde s'accroist des neiges qui se
+                                            fondent,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Plus on gele pour
+                                            moy, plus mes larmes abondent</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Quoy que tu sois
+                                            si froide, &amp; moy si plein de feux.</hi></l>
                                 </lg>
                             </div>
                         </body>
@@ -13115,27 +13204,43 @@
                             <div type="poem">
                                 <head><hi rend="bold">SONNET.</hi></head>
 
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">La belle dont l'Amour me prive de repos,</hi></l>
-                                    <l><hi rend="italic">Reposoit doucement sous l'ombre d'un boccage,</hi></l>
-                                    <l><hi rend="italic">Là voloient les amours autour de son visage,</hi></l>
-                                    <l><hi rend="italic">Qui naissoient de ses yeux encore qu'ils fussent clos.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >La belle dont l'Amour me prive de repos,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Reposoit doucement
+                                            sous l'ombre d'un boccage,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Là voloient les
+                                            amours autour de son visage,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Qui naissoient de
+                                            ses yeux encore qu'ils fussent clos.</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Là les Zephirs changez en amoureux propos,</hi></l>
-                                    <l><hi rend="italic">Rendoient pour ses Amours un amoureux hommage :</hi></l>
-                                    <l><hi rend="italic">Et les arbres chargez de tant d'Amours esclos,</hi></l>
-                                    <l><hi rend="italic">N'en estoient garentis par les loix de leur age.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Là les Zephirs changez en amoureux propos,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Rendoient pour ses
+                                            Amours un amoureux hommage :</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Et les arbres
+                                            chargez de tant d'Amours esclos,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">N'en estoient
+                                            garentis par les loix de leur age.</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Hommes, Faunes, ny Dieux, rien n'estoit à l'entour,</hi></l>
-                                    <l><hi rend="italic">Contemplant ce sommeil, qui ne bruslast d'Amour,</hi></l>
-                                    <l><hi rend="italic">Et perdist le repos pendant qu'elle repose.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Hommes, Faunes, ny Dieux, rien n'estoit à
+                                            l'entour,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Contemplant ce
+                                            sommeil, qui ne bruslast d'Amour,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Et perdist le
+                                            repos pendant qu'elle repose.</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Quelle estes vous beauté,quand veincre vous voulez,</hi></l>
-                                    <l><hi rend="italic">Puis que sans ce dessein tellement vous bruslez,</hi></l>
-                                    <l><hi rend="italic">Que vous voir, vous aymer n'est qu'une mesme chose.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Quelle estes vous beauté,quand veincre vous
+                                            voulez,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Puis que sans ce
+                                            dessein tellement vous bruslez,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Que vous voir,
+                                            vous aymer n'est qu'une mesme chose.</hi></l>
                                 </lg>
                             </div>
                         </body>
@@ -13772,32 +13877,47 @@
                     <floatingText>
                         <body>
                             <div type="poem">
-                                <head><hi rend="bold">SONNET.</hi><lb/> Qu'il ne faut point aymer sans estre aymé.</head>
+                                <head><hi rend="bold">SONNET.</hi><lb/> Qu'il ne faut point aymer
+                                    sans estre aymé.</head>
 
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Quand je vois un amant transi,</hi></l>
-                                    <l><hi rend="italic">Qui languit d'un amour extreme,</hi></l>
-                                    <l><hi rend="italic">L'œil triste, &amp; le visage blesme,</hi></l>
-                                    <l><hi rend="italic">Portant cent plis sur le sourcy.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Quand je vois un amant transi,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Qui languit d'un
+                                            amour extreme,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">L'œil triste,
+                                            &amp; le visage blesme,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Portant cent plis
+                                            sur le sourcy.</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Quand je le vois plein de soucy,</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Quand je le vois plein de soucy,</hi></l>
                                     <pb xml:id="page_abs_593" n="page_ori_587"/>
-                                    <l><hi rend="italic">Qui meurt d'Amour sans que l'on l'ayme,</hi></l>
-                                    <l><hi rend="italic">Je dis aussi tost en moy mesme,</hi></l>
-                                    <l><hi rend="italic">C'est un grand sot d'aymer ainsi.</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Qui meurt d'Amour
+                                            sans que l'on l'ayme,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Je dis aussi tost
+                                            en moy mesme,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">C'est un grand sot
+                                            d'aymer ainsi.</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Il faut aymer mais que la belle</hi></l>
-                                    <l><hi rend="italic">Brusle pour qui brusle pour elle,</hi></l>
-                                    <l><hi rend="italic">Ou bien c'est pure lascheté.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Il faut aymer mais que la belle</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Brusle pour qui
+                                            brusle pour elle,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Ou bien c'est pure
+                                            lascheté.</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">L'Amour de l'Amour est extraicte,</hi></l>
-                                    <l><hi rend="italic">La charge n'est jamais bien faicte,</hi></l>
-                                    <l><hi rend="italic">Qui panche toute d'un costé.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >L'Amour de l'Amour est extraicte,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">La charge n'est
+                                            jamais bien faicte,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Qui panche toute
+                                            d'un costé.</hi></l>
                                 </lg>
-                                </div>
+                            </div>
                         </body>
                     </floatingText>
 
@@ -15746,82 +15866,115 @@
                             <div type="poem">
                                 <head><hi rend="bold">SONNET.</hi></head>
 
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Ondes qui souslevez vos voutes vagabondes,</hi></l>
-                                    <l><hi rend="italic">Contre le foible sein de mon fresle vaisseau,</hi></l>
-                                    <l><hi rend="italic">Sçachez que dans le sein je porte un tel flambeau,</hi></l>
-                                    <l><hi rend="italic">Qu'il peut rendre une mer des abismes sans ondes.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Ondes qui souslevez vos voutes vagabondes,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Contre le foible
+                                            sein de mon fresle vaisseau,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Sçachez que dans
+                                            le sein je porte un tel flambeau,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Qu'il peut rendre
+                                            une mer des abismes sans ondes.</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Plusieurs fois de mes yeux les deux sources fecondes</hi></l>
-                                    <l><hi rend="italic">Auroient desja fait naistre un Ocean nouveau.</hi></l>
-                                    <l><hi rend="italic">Si l'ardeur de ce feu ne consommoit leur eau,</hi></l>
-                                    <l><hi rend="italic">Vagues refuyez donc en vos grottes profondes.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Plusieurs fois de mes yeux les deux sources
+                                            fecondes</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Auroient desja
+                                            fait naistre un Ocean nouveau.</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Si l'ardeur de ce
+                                            feu ne consommoit leur eau,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Vagues refuyez
+                                            donc en vos grottes profondes.</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">De vos replis bossus plus fort vous nous hurtez,</hi></l>
-                                    <l><hi rend="italic">Sans craindre de l'Amour les flambeaux redoutez ?</hi></l>
-                                    <l><hi rend="italic">N'estes vous point d'Enfer quelque source maudite ?</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >De vos replis bossus plus fort vous nous
+                                        hurtez,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Sans craindre de
+                                            l'Amour les flambeaux redoutez ?</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">N'estes vous point
+                                            d'Enfer quelque source maudite ?</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">O Dieux ! s'il est ainsi du destein estably,</hi></l>
-                                    <l><hi rend="italic">Sont plustost qu'un Lethé, pour le moins un Cocyte,</hi></l>
-                                    <l><hi rend="italic">Fleuve plustost de mort, que fleuve de l'oubly.</hi></l>
-                                </lg> 
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >O Dieux ! s'il est ainsi du destein estably,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Sont plustost
+                                            qu'un Lethé, pour le moins un Cocyte,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Fleuve plustost de
+                                            mort, que fleuve de l'oubly.</hi></l>
+                                </lg>
                             </div>
                         </body>
                     </floatingText>
-                                <p>&#160;&#160;&#160;Au sortir de ce grand lac, je traversay les
-                                    grands bois des Caturiges, &amp; apres avoir passé Iseré,
-                                    riviere qui vient des Centrons, je traversay l'estroitte valée
-                                    des Carroceles, &amp; Bramovices qui me conduit jusques aux
-                                    monts Coties. Je fis en passant par ces grands rochers, &amp;
-                                    ces deserts des vers que j'ay oubliez : mais un estranger en la
-                                    compagnie duquel je m'estois mis, en fit qu'il me recita, &amp;
-                                    parce <pb xml:id="page_abs_672" n="page_ori_667"/> qu'ils me
-                                    pleurent, je les appris par cœur, ils estoyent tels.</p>
-                           
+                    <p>&#160;&#160;&#160;Au sortir de ce grand lac, je traversay les grands bois des
+                        Caturiges, &amp; apres avoir passé Iseré, riviere qui vient des Centrons, je
+                        traversay l'estroitte valée des Carroceles, &amp; Bramovices qui me conduit
+                        jusques aux monts Coties. Je fis en passant par ces grands rochers, &amp;
+                        ces deserts des vers que j'ay oubliez : mais un estranger en la compagnie
+                        duquel je m'estois mis, en fit qu'il me recita, &amp; parce <pb
+                            xml:id="page_abs_672" n="page_ori_667"/> qu'ils me pleurent, je les
+                        appris par cœur, ils estoyent tels.</p>
+
 
                     <floatingText>
                         <body>
                             <div type="poem">
-                                <head><hi rend="bold">SONNET.</hi><lb/> Des Montagnes &amp; Rochers à un Amant.</head>
+                                <head><hi rend="bold">SONNET.</hi><lb/> Des Montagnes &amp; Rochers
+                                    à un Amant.</head>
 
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Ces vieux Rochers tous nuds, glissants en precipice</hi></l>
-                                    <l><hi rend="italic">Ces cheutes de Torrent, froissez de mille saults,</hi></l>
-                                    <l><hi rend="italic">Ces sommets plus neigeux, &amp; ces monts les plus hauts,</hi></l>
-                                    <l><hi rend="italic">Ne sont que les pourtraicts de mon cruel supplice.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Ces vieux Rochers tous nuds, glissants en
+                                            precipice</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Ces cheutes de
+                                            Torrent, froissez de mille saults,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Ces sommets plus
+                                            neigeux, &amp; ces monts les plus hauts,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Ne sont que les
+                                            pourtraicts de mon cruel supplice.</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Si ces Rochers sont vieux, il faut que je vieillisse</hi></l>
-                                    <l><hi rend="italic">Lié par la constance au milieu de mes maux :</hi></l>
-                                    <l><hi rend="italic">S'ils sont nuds &amp; sans fruit, sans fruit sont mes travaux,</hi></l>
-                                    <l><hi rend="italic">Sans qu'en eux nul espoir je retienne ou nourrisse.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Si ces Rochers sont vieux, il faut que je
+                                            vieillisse</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Lié par la
+                                            constance au milieu de mes maux :</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">S'ils sont nuds
+                                            &amp; sans fruit, sans fruit sont mes travaux,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Sans qu'en eux nul
+                                            espoir je retienne ou nourrisse.</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Et ces Torrents rompus, sont ce pas mes desseins ?</hi></l>
-                                    <l><hi rend="italic">Ces Neiges vos froideurs, ces grands Monts vos desdains ?</hi></l>
-                                    <l><hi rend="italic">Bref ces deserts en tout à mon estre respondent ;</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Et ces Torrents rompus, sont ce pas mes desseins
+                                        ?</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Ces Neiges vos
+                                            froideurs, ces grands Monts vos desdains ?</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Bref ces deserts
+                                            en tout à mon estre respondent ;</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Sinon que vos rigueurs plus malheureux me font :</hi></l>
-                                    <l><hi rend="italic">Car d'en haut bien souvent quelques neiges se fondent,</hi></l>
-                                    <l><hi rend="italic">Mais las ! de vos froideurs, pas une ne se fond.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Sinon que vos rigueurs plus malheureux me font
+                                        :</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Car d'en haut bien
+                                            souvent quelques neiges se fondent,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Mais las ! de vos
+                                            froideurs, pas une ne se fond.</hi></l>
                                 </lg>
                             </div>
                         </body>
                     </floatingText>
-                                <p>&#160;&#160;&#160;Leonide qui estoit bien aise de distraire
-                                    Alexis de ses fascheuses pensées, Racontez moy, lui dit-elle, ce
-                                    que vous vistes de rare, en vôtre voyage. Cela seroit trop long,
-                                    respondit-elle, car l'Italie est la province la plus belle du
-                                    monde : &amp; mesme quand j'eus descendu les Monts <pb
-                                        xml:id="page_abs_673" n="page_ori_668"/> Coties, &amp; que
-                                    j'eus passé la ville des Segusienses. Mais je vous veux raconter
-                                    l'une des plus belles advantures qui m'y advindrent, m'asseurant
-                                    que nous en aurons assez de loisir.</p>
-                            
+                    <p>&#160;&#160;&#160;Leonide qui estoit bien aise de distraire Alexis de ses
+                        fascheuses pensées, Racontez moy, lui dit-elle, ce que vous vistes de rare,
+                        en vôtre voyage. Cela seroit trop long, respondit-elle, car l'Italie est la
+                        province la plus belle du monde : &amp; mesme quand j'eus descendu les Monts
+                            <pb xml:id="page_abs_673" n="page_ori_668"/> Coties, &amp; que j'eus
+                        passé la ville des Segusienses. Mais je vous veux raconter l'une des plus
+                        belles advantures qui m'y advindrent, m'asseurant que nous en aurons assez
+                        de loisir.</p>
+
                     <floatingText>
                         <body>
                             <div>
@@ -15862,30 +16015,46 @@
                     <floatingText>
                         <body>
                             <div type="poem">
-                                <head><hi rend="bold">SONNET.</hi><lb/> S'il doit mourir ou vivre.</head>
+                                <head><hi rend="bold">SONNET.</hi><lb/> S'il doit mourir ou
+                                    vivre.</head>
 
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Mon esprit combatu diversement chancelle,</hi></l>
-                                    <l><hi rend="italic">Dois-je vivre ou mourir parmi tant de malheurs ?</hi></l>
-                                    <l><hi rend="italic">Si je vis, he comment souffrir tant de douleurs ?</hi></l>
-                                    <l><hi rend="italic">Si je meurs, he comment estre à jamais sans elle ?</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Mon esprit combatu diversement chancelle,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Dois-je vivre ou
+                                            mourir parmi tant de malheurs ?</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Si je vis, he
+                                            comment souffrir tant de douleurs ?</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Si je meurs, he
+                                            comment estre à jamais sans elle ?</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">En mourant je n'auray que l'espine cruelle,</hi></l>
-                                    <l><hi rend="italic">Dont Amour si souvent m'a tant promis de fleurs ;</hi></l>
-                                    <l><hi rend="italic">En vivant je seray tousjours noyé des pleurs,</hi></l>
-                                    <l><hi rend="italic">Que mon cuisant regret sans cesse renouvelle.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >En mourant je n'auray que l'espine cruelle,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Dont Amour si
+                                            souvent m'a tant promis de fleurs ;</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">En vivant je seray
+                                            tousjours noyé des pleurs,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Que mon cuisant
+                                            regret sans cesse renouvelle.</hi></l>
                                 </lg>
-                                <lg>
+                                <lg ana="vers" xml:lang="fr">
                                     <pb xml:id="page_abs_675" n="page_ori_670"/>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Pour tromper tant de maux, mon cœur que ferons nous ?</hi></l>
-                                    <l><hi rend="italic">Vivons. La vie en fin est agreable à tous,</hi></l>
-                                    <l><hi rend="italic">Mourons. Douce est la mort dont l'ame est soulagée.</hi></l>
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Pour tromper tant de maux, mon cœur que ferons nous
+                                            ?</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Vivons. La vie en
+                                            fin est agreable à tous,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Mourons. Douce est
+                                            la mort dont l'ame est soulagée.</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">En quel cruel estat m'ont reduit mes ennuis,</hi></l>
-                                    <l><hi rend="italic">Puis que ny vif ny mort, la misere où je suis,</hi></l>
-                                    <l><hi rend="italic">Tant mon desastre est grand, ne peut estre allegée.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >En quel cruel estat m'ont reduit mes ennuis,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Puis que ny vif ny
+                                            mort, la misere où je suis,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Tant mon desastre
+                                            est grand, ne peut estre allegée.</hi></l>
                                 </lg>
                             </div>
                         </body>
@@ -19401,29 +19570,46 @@
                     <floatingText>
                         <body>
                             <div type="poem">
-                                <head><hi rend="bold">SONNET</hi><lb/> D'une mousche sur les lévres de sa<lb/> Dame endormie.</head>
+                                <head><hi rend="bold">SONNET</hi><lb/> D'une mousche sur les lévres
+                                    de sa<lb/> Dame endormie.</head>
 
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Cependant que Madame à l'ombre se repose,</hi></l>
-                                    <l><hi rend="italic">Et trompe du Soleil la trop aspre chaleur,</hi></l>
-                                    <l><hi rend="italic">Un petit animal volant de fleur en fleur,</hi></l>
-                                    <l><hi rend="italic">Les douceurs va cherchant dont le miel se compose.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Cependant que Madame à l'ombre se repose,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Et trompe du
+                                            Soleil la trop aspre chaleur,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Un petit animal
+                                            volant de fleur en fleur,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Les douceurs va
+                                            cherchant dont le miel se compose.</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">De fortune sa levre estant à moitié close,</hi></l>
-                                    <l><hi rend="italic">La fleur representoit la plus vive en couleur,</hi></l>
-                                    <l><hi rend="italic">Lors que cest animal, la voyant par malheur,</hi></l>
-                                    <l><hi rend="italic">Y vole, &amp; la sucçant pensa succer la rose.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >De fortune sa levre estant à moitié close,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">La fleur
+                                            representoit la plus vive en couleur,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Lors que cest
+                                            animal, la voyant par malheur,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Y vole, &amp; la
+                                            sucçant pensa succer la rose.</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Ah ! trop sage au faillir, trop heureux à l'oser,</hi></l>
-                                    <l><hi rend="italic">Puis qu'à ta hardiesse on n'a sceu refuser,</hi></l>
-                                    <l><hi rend="italic">Ce qu'on nie aux desirs dont mon ame s'allume.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Ah ! trop sage au faillir, trop heureux à
+                                        l'oser,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Puis qu'à ta
+                                            hardiesse on n'a sceu refuser,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Ce qu'on nie aux
+                                            desirs dont mon ame s'allume.</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Mais ceste mousche, Amour, ravit tout nostre bien,</hi></l>
-                                    <l><hi rend="italic">Que nous reste t'il plus, puis qu'elle a rendu sien,</hi></l>
-                                    <l><hi rend="italic">Le miel dont s'addoucit toute nostre amertume ?</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Mais ceste mousche, Amour, ravit tout nostre
+                                        bien,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Que nous reste
+                                            t'il plus, puis qu'elle a rendu sien,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Le miel dont
+                                            s'addoucit toute nostre amertume ?</hi></l>
                                 </lg>
                             </div>
                         </body>
@@ -19594,30 +19780,46 @@
                     <floatingText>
                         <body>
                             <div type="poem">
-                                <head><hi rend="bold">SONNET</hi><lb/> Sur le départ d'un Rival.<lb/></head>
+                                <head><hi rend="bold">SONNET</hi><lb/> Sur le départ d'un
+                                    Rival.<lb/></head>
 
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Jamais contre les rocs tant de flots amassez,</hi></l>
-                                    <l><hi rend="italic">Escumant de courroux, n'ont blanchi les rivages :</hi></l>
-                                    <l><hi rend="italic">Jamais les blancs couverts n'ont veu tant de naufrages</hi></l>
-                                    <l><hi rend="italic">Que cest esloignement m'a d'ennuys effacez.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Jamais contre les rocs tant de flots amassez,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Escumant de
+                                            courroux, n'ont blanchi les rivages :</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Jamais les blancs
+                                            couverts n'ont veu tant de naufrages</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Que cest
+                                            esloignement m'a d'ennuys effacez.</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Bien-heureux souvenirs de mes soupçons passez,</hi></l>
-                                    <l><hi rend="italic">Maintenant de mon heur asseurez tesmoignages ;</hi></l>
-                                    <l><hi rend="italic">Qu'il est doux au nocher apres de grands orages,</hi></l>
-                                    <l><hi rend="italic">De voir dedans un port ses navires cassez !</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Bien-heureux souvenirs de mes soupçons passez,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Maintenant de mon
+                                            heur asseurez tesmoignages ;</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Qu'il est doux au
+                                            nocher apres de grands orages,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">De voir dedans un
+                                            port ses navires cassez !</hi></l>
                                     <pb xml:id="page_abs_835" n="page_ori_830"/>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Blessé de froide peur dedans la fantasie,</hi></l>
-                                    <l><hi rend="italic">J'ay tremblé mille-fois attaint de jalousie,</hi></l>
-                                    <l><hi rend="italic">Mais en fin son despart m'a du tout rendu sain.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Blessé de froide peur dedans la fantasie,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">J'ay tremblé
+                                            mille-fois attaint de jalousie,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Mais en fin son
+                                            despart m'a du tout rendu sain.</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Heureux esloignement, puisses tu tousjours estre,</hi></l>
-                                    <l><hi rend="italic">Ou bien s'il s'en revient, Amour fay luy paroistre,</hi></l>
-                                    <l><hi rend="italic">Qu'à son dam il partit, &amp; qu'il retourne en vain.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Heureux esloignement, puisses tu tousjours
+                                        estre,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Ou bien s'il s'en
+                                            revient, Amour fay luy paroistre,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Qu'à son dam il
+                                            partit, &amp; qu'il retourne en vain.</hi></l>
                                 </lg>
                             </div>
                         </body>
@@ -19924,28 +20126,45 @@
                             <div type="poem">
                                 <head><hi rend="bold">SONNET</hi><lb/> SUR UN ADIEU.</head>
 
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">J'estois pour mon mal heur prest à partir des lieux,</hi></l>
-                                    <l><hi rend="italic">Où dans le sein d'autruy je me laissay moy mesme,</hi></l>
-                                    <l><hi rend="italic">Lors que plein de regret en mes derniers adieux</hi></l>
-                                    <l><hi rend="italic">J'alois contre l'Amour proferant ce blaspheme.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >J'estois pour mon mal heur prest à partir des
+                                            lieux,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Où dans le sein
+                                            d'autruy je me laissay moy mesme,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Lors que plein de
+                                            regret en mes derniers adieux</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">J'alois contre
+                                            l'Amour proferant ce blaspheme.</hi></l>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Doncques cruel Amour, si tu fais qu'elle m'ayme,</hi></l>
-                                    <l><hi rend="italic">Et que je l'ayme aussi cent fois plus que mes yeux,</hi></l>
-                                    <l><hi rend="italic">C'est seulement à fin qu'un regret plus extreme</hi></l>
-                                    <l><hi rend="italic">Nous blesse l'un &amp; l'autre, &amp; nous offence mieux.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Doncques cruel Amour, si tu fais qu'elle
+                                        m'ayme,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Et que je l'ayme
+                                            aussi cent fois plus que mes yeux,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">C'est seulement à
+                                            fin qu'un regret plus extreme</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Nous blesse l'un
+                                            &amp; l'autre, &amp; nous offence mieux.</hi></l>
                                 </lg>
-                                <lg>
-                                    <l><hi rend="italic">Mais quand je pris congé : Souvien toy, me dit-elle,</hi></l>
-                                    <l><hi rend="italic">De revenir bien tost, &amp; de m'estre fidelle,</hi></l>
-                                    <l><hi rend="italic">O tourment bien heureux guery si doucement !</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Mais quand je pris
+                                            congé : Souvien toy, me dit-elle,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">De revenir bien
+                                            tost, &amp; de m'estre fidelle,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">O tourment bien
+                                            heureux guery si doucement !</hi></l>
                                     <pb xml:id="page_abs_850" n="page_ori_845"/>
                                 </lg>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Content en mon mal-heur, je fus contraint de dire</hi></l>
-                                    <l><hi rend="italic">Je cognois qu'on peut estre heureux mesme au tourment</hi></l>
-                                    <l><hi rend="italic">Et que le bien d'Amour surpasse son martyre.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Content en mon mal-heur, je fus contraint de
+                                        dire</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Je cognois qu'on
+                                            peut estre heureux mesme au tourment</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Et que le bien
+                                            d'Amour surpasse son martyre.</hi></l>
                                 </lg>
                             </div>
                         </body>
