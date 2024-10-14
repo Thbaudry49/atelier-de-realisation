@@ -63,16 +63,18 @@
         </revisionDesc>
     </teiHeader>
     <text>
+        <front>
+            <head type="main"><hi rend="bold">L'ASTRÉE<lb/> DE<lb/> MESSIRE<lb/>
+                <persName key="honoreurfe">Honoré<lb/> D'urfé</persName></hi><lb/> Seconde partie<lb/>
+                <date when="1614">1614</date></head>
+            <head type="sub">A <placeName key="paris">PARIS</placeName><lb/>
+                <hi rend="italic">Chez Toussainct &amp; du Bray Rue St Jaques Aux Espics Meurs
+                    &amp; en sa Bouticque au Palais en la Gallerie des Prisonniers<lb/></hi>
+                Avec Privilege du <persName>Roy</persName>.</head>
+            <pb xml:id="page_abs_1" n="page_ori_LIM1"/>
+        </front>
         <body>
             <div1 type="astree">
-                <pb xml:id="page_abs_1" n="page_ori_LIM1"/>
-                <head type="main"><hi rend="bold">L'ASTRÉE<lb/> DE<lb/> MESSIRE<lb/>
-                        <persName key="honoreurfe">Honoré<lb/> D'urfé</persName></hi><lb/> Seconde partie<lb/>
-                    <date when="1614">1614</date></head>
-                <head type="sub">A <placeName key="paris">PARIS</placeName><lb/>
-                    <hi rend="italic">Chez Toussainct &amp; du Bray Rue St Jaques Aux Espics Meurs
-                        &amp; en sa Bouticque au Palais en la Gallerie des Prisonniers<lb/></hi>
-                    Avec Privilege du <persName>Roy</persName>.</head>
                 <pb xml:id="page_abs_2" n="page_ori_LIM2"/>
                 <head><hi rend="bold">L'AUTHEUR</hi><lb/> AU BERGER<lb/> CELADON.</head>
                 <lb/>
