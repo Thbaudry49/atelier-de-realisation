@@ -21968,6 +21968,275 @@
 
                         <head><hi rend="italic">Tables d'Amour.</hi></head>
                         <p>Qui veut estre parfait Amant, 295</p>
+
+                        <!-- <eTree type="table">
+    <!-- TABLE 1 -->
+    <eTree>
+        <label>TABLE DES HISTOIRES CONTENVES EN LA SECONDE PARTIE D'ASTRÉE, de Messire Honoré d'Urfé.</label>
+        <eLeaf>
+            <label>Lettre à la plus aymée &amp; belle Bergere. 151</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Let de Dorinde à Hylas. 246</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Autre let. de Dorinde à Hylas. 247</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Autre let. de Dorinde à Hylas. 245</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Let. de Florice à Hylas. 266</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Autre let. de Hylas à Florice. 264</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Let. de Florice à Hylas. 260</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Autre let. de Florice à Hylas. 266</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Autre let. de Florice à Hylas. 278</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Let. de Damon à Madonthe. 348</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Let. de Thersandre à Madonthe. 369</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Let. de Damon à Madonthe. 401</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Let. d'Astrée à Celadon. 462</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Autre let. d'Astrée à Celadon. 463</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Celadon à la Bergere Astrée. 565</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Let. de Lindamor à Leonide. 684</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Let. de Lindamor à Galathée. 687</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Let. de Leonide à Lindamor. 695</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Let. d'Eudoxe à Ursace. 868</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Autre let. d'Eudoxe à Ursace. 892</label>
+        </eLeaf>
+    </eTree>
+    
+    <!-- TABLE 2 -->
+    <eTree>
+        <label>TABLE DES LETTRES.</label>
+        <eLeaf>
+            <label>Lettre à la plus aymée &amp; belle Bergere. 151</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Let de Dorinde à Hylas. 246</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Autre let. de Dorinde à Hylas. 247</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Autre let. de Dorinde à Hylas. 245</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Let. de Florice à Hylas. 266</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Autre let. de Hylas à Florice. 264</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Let. de Florice à Hylas. 260</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Autre
+                let. de Florice à Hylas. 266</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Autre let. de Florice à Hylas. 278</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Let. de Damon à Madonthe. 348</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Let. de Thersandre à Madonthe. 369</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Let. de Damon à Madonthe. 401</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Let. d'Astrée à Celadon. 462</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Autre let. d'Astrée à Celadon. 463</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Celadon à la Bergere Astrée. 565</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Let. de Lindamor à Leonide. 684</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Let. de Lindamor à Galathée. 687</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Let. de Leonide à Lindamor. 695</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Let. d'Eudoxe à Ursace. 868</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Autre let. d'Eudoxe à Ursace. 892</label>
+        </eLeaf>
+        
+    </eTree>
+    
+    <!-- TABLE 3 -->
+    <eTree>
+        <label>TABLE DES PŒSIES.</label>
+        <eLeaf>
+            <label>Amour ne brusle plus. 21</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Amour qui dans mon cœur. 498</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Amour grand artisan. 499</label>
+        </eLeaf>
+        <eLeaf>
+            <label>A vous sage Adamas. 519</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Bel astre flamboyant. 115</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Belle de mes desirs. 224</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Belle onde de Lignon. 649</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Ces vieux rochers tous nuds. 667</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Ce pendant que Madame. 821</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Doux Zephir que je vois. 179</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Dorinde se moqua de vous 120</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Dans les tristes recoings. 657</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Elle fuit &amp; fuyant. 183</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Epitaphe d'un homme heureux. 924</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Fille de l'Air. 62</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Jamais contre les Rocs. 829</label>
+        </eLeaf>
+        <eLeaf>
+            <label>J'estois pour mon malheur. 844</label>
+        </eLeaf>
+        <eLeaf>
+            <label>L'eguille de quadran. 153</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Le Temple d'amitié. 301</label>
+        </eLeaf>
+        <eLeaf>
+            <label>La belle dont l'Amour. 558</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Mon Penser, hé pourquoy ? 117</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Mon esprit combatu. 669</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Onde qui soulevez. 666</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Passant si tu t'enquiers. 395</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Precipices, rochers. 665</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Quelle Aurore jamais. 37</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Quoy vous ay-je offencée. 171</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Quand Hylas apperceut. 172</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Qui ne l'admireroit. 308</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Qu'enuieux de mon bien. 357</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Quand je vois un amant. 586</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Qui veut estre parfait Amant. 319</label>
+        </eLeaf>
+    </eTree>
+    
+    <!-- TABLE 4 -->
+    <eTree>
+        <label>Tables d'Amour.</label>
+        <eLeaf>
+            <label>Qui veut estre parfait Amant. 295 	
+                <ptr target="#page_abs_295"/></label>
+        </eLeaf>
+    </eTree>
+    
+    <!-- TABLE 5 -->
+    <eTree>
+        <label>Tables d'Amour falcifiées.</label>
+        <eLeaf>
+            <label>Que je vive, &amp; qu'on le possede. 717</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Riviere que j'accrois. 521</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Sont ce, Peintr[e] sçavan[t]. 307</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Silvandre qui te plains. 502</label>
+        </eLeaf>
+        <eLeaf>
+            <label>Sy j'ayme autre que vous. 573</label>
+        </eLeaf>
+    </eTree>
+</eTree>
+            -->
+
+
+
+                        
                     </div3>
                     <div3>
 
