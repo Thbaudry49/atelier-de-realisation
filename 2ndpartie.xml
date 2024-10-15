@@ -282,9 +282,9 @@
                         puisse consulter. Et lors relevant la voix il luy parla de cette sorte.</p>
                     <pb xml:id="page_abs_13" n="page_ori_6"/>
 
-                    <floatingText type="pwp">
+                    <floatingText xml:id="S1_L1_P2" type="sonnet">
                         <body>
-                            <div type="sonnet" xml:id="sonnet1">
+                            <div>
                                 <head><hi rend="rule">ECHO.</hi></head>
                                 <head>STANSES.</head>
                                 <lg ana="vers" xml:lang="fr">
@@ -715,9 +715,9 @@
                         empesché avec excuse qu'elle vouloit ouyr ce que <persName key="philis"
                             role="amie_astree">Philis</persName> chantoit : car il en estoit desja
                         assez pres pour ouyr ses paroles, qui estoient telles.</p>
-                    <floatingText>
+                    <floatingText xml:id="S2_L1_P2" type="sonnet">
                         <body>
-                            <div type="sonnet">
+                            <div>
 
                                 <head><hi rend="bold">SONNET.</hi><lb/> CONTRE LA JALOUSIE.</head>
 
@@ -1093,7 +1093,7 @@
                         fut celuy de Thamire, l'autre de Calydon, &amp; le dernier de la Bergere :
                         c'est pourquoy chacun jettant les yeux sur Thamyre, apres une grande
                         reverence, il commença de parler ainsi.</p>
-                    <floatingText>
+                    <floatingText xml:id="histoire_celidee_thamyre" type="histoire">
                         <body>
                             <div>
                                 <head><hi rend="bold">HISTOIRE</hi><lb/> DE <persName key="celidee"
@@ -1160,9 +1160,9 @@
                             </div>
                         </body>
                     </floatingText>
-                    <floatingText>
+                    <floatingText xml:id="S3_L1_P2" type="sonnet">
                         <body>
-                            <div type="sonnet">
+                            <div>
                                 <head><hi rend="bold">SONNET.</hi><lb/> D'UNE JEUNE BEAUTE.</head>
                                 <lg ana="vers" xml:lang="fr">
                                     <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
@@ -3185,9 +3185,9 @@
                             </div>
                         </body>
                     </floatingText>
-                    <floatingText>
+                    <floatingText xml:id="S1_L2_P2" type="sonnet">
                         <body>
-                            <div type="sonnet">
+                            <div>
                                 <head><hi rend="bold">SONNET.</hi><lb/> RAPORT DE <persName
                                         key="diane" role="berger">Diane</persName> A<lb/> LA
                                     LUNE.</head>
@@ -3250,9 +3250,9 @@
                         Cette pensée l'arresta si court, qu'en cessant de marcher, apres l'avoir
                         long temps roulée dans son esprit, il profera telles paroles.</p>
                     <pb xml:id="page_abs_124" n="page_ori_117"/>
-                    <floatingText>
+                    <floatingText xml:id="S2_L2_P2" type="sonnet">
                         <body>
-                            <div type="sonnet">
+                            <div>
                                 <head><hi rend="bold">SONNET.</hi><lb/> QU'IL N'Y A
                                     CONSIDERATION<lb/> QUI L'EMPESCHE D'AYMER<lb/> sa
                                     Maistresse.</head>
@@ -4176,9 +4176,9 @@
                         son tout ; de mesme son cœur atteint des beautez de sa Maistresse, tournoit
                         incessamment toutes ses pensées vers elle. Et pour mieux faire entendre
                         cette conception, il y adjousta ces vers.</p>
-                    <floatingText>
+                    <floatingText xml:id="M1_L3_P2" type="madrigal">
                         <body>
-                            <div type="madrigal">
+                            <div>
                                 <head><hi rend="bold">MADRIGAL.</hi></head>
                                 <lg ana="vers" xml:lang="fr">
                                     <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
@@ -4663,9 +4663,9 @@
                         chanson estoit presque finie, ils n'ouyrent que ce dernier couplet.</p>
 
                     <pb xml:id="page_abs_178" n="page_ori_171"/>
-                    <floatingText>
+                    <floatingText xml:id="M2_L3_P2" type="madrigal">
                         <body>
-                            <div type="madrigal">
+                            <div>
                                 <head><hi rend="bold">MADRIGAL.</hi></head>
                                 <lg ana="vers" xml:lang="fr">
                                     <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
@@ -4770,7 +4770,7 @@
                         apres s'estre teuë quelque temps, elle reprit de cette sorte.</p>
 
                     <pb xml:id="page_abs_181" n="page_ori_174"/>
-                    <floatingText>
+                    <floatingText xml:id="histoire_palinice" type="histoire">
                         <body>
                             <div>
 
@@ -4912,9 +4912,9 @@
                             </div>
                         </body>
                     </floatingText>
-                    <floatingText>
+                    <floatingText xml:id="S1_L3_P2" type="sonnet">
                         <body>
-                            <div type="sonnet">
+                            <div>
                                 <head><hi rend="bold">SONNET.</hi><lb/> IL PARLE AU VENT.</head>
                                 <lg ana="vers" xml:lang="fr">
                                     <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
@@ -5032,9 +5032,9 @@
                             xml:id="page_abs_190" n="page_ori_183"/> voire qu'il ravisse. Et ne
                         sçavez vous Clorian comme la femme est faite ? Escoutez ce qu'en dit ce
                         grand Oracle qui de nostre temps a parlé de là les Alpes.</p>
-                    <floatingText>
+                    <floatingText xml:id="M3_L3_P2" type="madrigal">
                         <body>
-                            <div type="madrigal">
+                            <div>
                                 <head><hi rend="bold">MADRIGAL.</hi></head>
                                 <lg ana="vers" xml:lang="fr">
                                     <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
@@ -5479,9 +5479,9 @@
                         lors que les cerises furent parachevées, <persName key="hylas"
                             role="donjuan">Hylas</persName> commença de parler de cette sorte.</p>
                     <pb xml:id="page_abs_208" n="page_ori_201"/>
-                    <floatingText>
+                    <floatingText xml:id="histoire_parthenope" type="histoire">
                         <body>
-                            <div type="histoire">
+                            <div>
                                 <head><hi rend="bold">HISTOIRE.</hi><lb/> DE PARTHENOPE, <persName
                                         key="florice" role="amant">Florice</persName><lb/> ET
                                         <persName key="dorinde" role="berger"
@@ -5974,9 +5974,9 @@
                         </body>
                     </floatingText>
                     <pb xml:id="page_abs_227" n="page_ori_220"/>
-                    <floatingText>
+                    <floatingText  xml:id="S1_L4_P2" type="sonnet">
                         <body>
-                            <div type="sonnet">
+                            <div>
                                 <head><hi rend="bold">SONNET.</hi></head>
                                 <lg ana="vers" xml:lang="fr">
                                     <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
@@ -6093,9 +6093,9 @@
                             >Florice</persName>, que tout ce que je luy avois dit estoit
                         veritable.</p>
                     <pb xml:id="page_abs_231" n="page_ori_224"/>
-                    <floatingText>
+                    <floatingText  xml:id="S2_L4_P2" type="sonnet">
                         <body>
-                            <div type="sonnet">
+                            <div>
                                 <head><hi rend="bold">SONNET.</hi><lb/> SERMENTS AMOUREUX.</head>
                                 <lg ana="vers" xml:lang="fr">
                                     <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
@@ -7977,9 +7977,9 @@
 
                     <pb xml:id="page_abs_308" n="page_ori_301"/>
 
-                    <floatingText>
+                    <floatingText xml:id="M1_L5_P2" type="madrigal">
                         <body>
-                            <div type="madrigal">
+                            <div>
                                 <head><hi rend="bold">MADRIGAL.</hi></head>
                                 <lg ana="vers" xml:lang="fr">
                                     <l ana="vers" xml:lang="fr"><hi rend="italic">Le temple
@@ -8241,9 +8241,9 @@
                         boite de cuir parfumé. Voyons, dit <persName key="philis" role="amie_astree"
                             >Philis</persName>, ce qu'il y a dans ce papier que je tiens en la main,
                         &amp; que j'ay pris au pied de vostre image.</p>
-                    <floatingText>
+                    <floatingText xml:id="S1_L5_P2" type="sonnet">
                         <body>
-                            <div type="sonnet">
+                            <div>
                                 <head><hi rend="bold">SONNET.</hi></head>
                                 <lg ana="vers" xml:lang="fr">
                                     <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
@@ -9074,7 +9074,7 @@
                             key="thersandre" role="antagonsite">Thersandre</persName> me peust ouyr,
                         pour les raisons que vous pourrez juger par la suitte de mon discours :
                         &amp; lors elle commença de cette sorte.</p>
-                    <floatingText>
+                    <floatingText xml:id="histoire_damon" type="histoire">
                         <body>
                             <div>
                                 <head><hi rend="bold">HISTOIRE</hi><lb/> DE <persName key="damon"
@@ -9432,9 +9432,9 @@
                         encores des vers dont je vous parle. Il me semble qu'ils estoient tels.</p>
 
                     <pb xml:id="page_abs_363" n="page_ori_357"/>
-                    <floatingText>
+                    <floatingText xml:id="S1_L6_P2" type="sonnet">
                         <body>
-                            <div type="sonnet">
+                            <div>
 
                                 <head><hi rend="bold">SONNET.</hi></head>
                                 <lg ana="vers" xml:lang="fr">
@@ -12221,7 +12221,7 @@
                         voulez faire m'est sur tout agreable. Alors <persName key="leonide"
                             role="travesti">Leonide</persName> reprit la parole de cette sorte.</p>
                     <pb xml:id="page_abs_480" n="page_ori_474"/>
-                    <floatingText>
+                    <floatingText xml:id="histoire_galathee" type="histoire">
                         <body>
                             <div>
 
@@ -12961,9 +12961,9 @@
                             </div>
                         </body>
                     </floatingText>
-                    <floatingText>
+                    <floatingText xml:id="S1_L7_P2" type="sonnet">
                         <body>
-                            <div type="sonnet">
+                            <div>
                                 <head><hi rend="bold">SONNET.</hi><lb/> Qu'il est jaloux avec
                                     raison.</head>
                                 <lg ana="vers" xml:lang="fr">
@@ -13168,9 +13168,9 @@
                         mains en la considerant, me firent avoir cette opinion. Cependant <persName
                             key="silvandre" role="berger">Silvandre</persName> recommença de chanter
                         ces vers,</p>
-                    <floatingText>
+                    <floatingText xml:id="S2_L7_P2" type="sonnet">
                         <body>
-                            <div type="sonnet">
+                            <div>
                                 <head><hi rend="bold">SONNET.</hi><lb/> Que d'adorer seulement
                                         <persName key="diane" role="berger">Diane</persName>, il est
                                     trop heureux</head>
@@ -13663,9 +13663,9 @@
                         son onde : Et lors qu'ils arriverent, il reprit ainsi la parole.</p>
 
                     <pb xml:id="page_abs_527" n="page_ori_521"/>
-                    <floatingText>
+                    <floatingText xml:id="S1_L8_P2" type="sonnet">
                         <body>
-                            <div type="sonnet">
+                            <div>
                                 <head><hi rend="bold">SONNET.</hi><lb/> Il se compare à la riviere
                                     de Lignon.</head>
 
@@ -14566,9 +14566,9 @@
                         telles paroles.</p>
 
 
-                    <floatingText>
+                    <floatingText xml:id="S2_L8_P2" type="sonnet">
                         <body>
-                            <div type="sonnet">
+                            <div>
                                 <head><hi rend="bold">SONNET.</hi></head>
 
                                 <lg ana="vers" xml:lang="fr">
@@ -15357,9 +15357,9 @@
                         attendre, &amp; <persName key="hylas" role="donjuan">Hylas</persName> qui ne
                         demeuroit jamais muet, esleuant la voix s'en venoit chantant ces vers, à
                         haut de teste.</p>
-                    <floatingText>
+                    <floatingText xml:id="S1_L9_P2" type="sonnet">
                         <body>
-                            <div type="sonnet">
+                            <div>
                                 <head><hi rend="bold">SONNET.</hi><lb/> Qu'il ne faut point aymer
                                     sans estre aymé.</head>
 
@@ -15445,7 +15445,7 @@
                         leur puissent dire. Enfin la Bergere commença de parler en céte sorte par le
                         commandement qui luy en fut faict.</p>
                     <pb xml:id="page_abs_595" n="page_ori_589"/>
-                    <floatingText>
+                    <floatingText xml:id="histoire_doris" type="histoire">
                         <body>
                             <div>
                                 <head><hi rend="bold">HISTOIRE</hi><lb/> DE DORIS ET PALEMON</head>
@@ -16103,7 +16103,7 @@
                             </div>
                         </body>
                     </floatingText>
-                    <floatingText>
+                    <floatingText xml:id="histoire_berger" type="histoire">
                         <body>
                             <div>
                                 <head><hi rend="bold">HISTOIRE</hi><lb/> DU BERGER ADRASTE.</head>
@@ -17298,9 +17298,9 @@
                         les ayant commencez dés le jour qu'il resolut d'en sortir, pour memoire
                         eternelle du sejour qu'il y avoit fait, ils estoient tels.</p>
 
-                    <floatingText>
+                    <floatingText xml:id="M1_L10_P2" type="madrigal">
                         <body>
-                            <div type="madrigal">
+                            <div>
                                 <head><hi rend="bold">MADRIGAL.</hi></head>
 
                                 <lg ana="vers" xml:lang="fr">
@@ -17528,9 +17528,9 @@
                         </body>
                     </floatingText>
 
-                    <floatingText>
+                    <floatingText xml:id="S1_L10_P2" type="sonnet">
                         <body>
-                            <div type="sonnet">
+                            <div>
                                 <head><hi rend="bold">SONNET.</hi></head>
 
                                 <lg ana="vers" xml:lang="fr">
@@ -17584,9 +17584,9 @@
                         appris par cœur, ils estoyent tels.</p>
 
 
-                    <floatingText>
+                    <floatingText xml:id="S2_L10_P2" type="sonnet">
                         <body>
-                            <div type="sonnet">
+                            <div>
                                 <head><hi rend="bold">SONNET.</hi><lb/> Des Montagnes &amp; Rochers
                                     à un Amant.</head>
 
@@ -17642,7 +17642,7 @@
                         Segusienses. Mais je vous veux raconter l'une des plus belles advantures qui
                         m'y advindrent, m'asseurant que nous en aurons assez de loisir.</p>
 
-                    <floatingText>
+                    <floatingText xml:id="histoire_ursace" type="histoire">
                         <body>
                             <div>
                                 <head><hi rend="bold">HISTOIRE</hi><lb/> D'<persName key="ursace"
@@ -17681,9 +17681,9 @@
                             </div>
                         </body>
                     </floatingText>
-                    <floatingText>
+                    <floatingText xml:id="S3_L10_P2" type="sonnet">
                         <body>
-                            <div type="sonnet">
+                            <div>
                                 <head><hi rend="bold">SONNET.</hi><lb/> S'il doit mourir ou
                                     vivre.</head>
 
@@ -18012,7 +18012,7 @@
                         visage encores que quand elle la laissa, elles s'assirent eslognées de
                         chacun, &amp; lors Silvie luy parla de cette sorte.</p>
                     <pb xml:id="page_abs_687" n="page_ori_682"/>
-                    <floatingText>
+                    <floatingText xml:id="histoire_lindamor" type="histoire">
                         <body>
                             <div>
                                 <head>SUITTE DE<lb/>
@@ -18889,7 +18889,7 @@
                         moy, dit la Nimphe, je n'en ay rien sceu qu'à cette heure, &amp; je vous
                         jure que je ressens sa perte. Mais dictes moy Licidas, comment est elle
                         advenuë ?</p>
-                    <floatingText>
+                    <floatingText xml:id="histoire_celidee_suite" type="histoire">
                         <body>
                             <div>
                                 <head>SUITTE DE<lb/>
@@ -18941,9 +18941,9 @@
                             </div>
                         </body>
                     </floatingText>
-                    <floatingText>
+                    <floatingText xml:id="M1_L11_P2" type="madrigal">
                         <body>
-                            <div type="madrigal">
+                            <div>
                                 <head><hi rend="bold">MADRIGAL.</hi></head>
 
                                 <lg ana="vers" xml:lang="fr">
@@ -19753,7 +19753,7 @@
                         aux autres. Licidas qui n'y pensoit point, croyant seulement de faire chose
                         qui fust aggreable à la Nymphe, reprist la parole ainsi.</p>
 
-                    <floatingText>
+                    <floatingText xml:id="histoire_licidas" type="histoire">
                         <body>
                             <div>
                                 <head><hi rend="bold">HISTOIRE</hi><lb/> DE LA JALOUSIE DE<lb/>
@@ -20405,7 +20405,7 @@
                             </div>
                         </body>
                     </floatingText>
-                    <floatingText>
+                    <floatingText xml:id="histoire_placidie" type="histoire">
                         <body>
                             <div>
                                 <head><hi rend="bold">L'HISTOIRE</hi><lb/> DE PLACIDIE.</head>
@@ -21352,7 +21352,7 @@
                         dit que ceux de ceste contrée estoient destinez pour les r'appeler de la
                         mort. Le plus vieux prenant la parole me respondit ainsi.</p>
                     <pb xml:id="page_abs_815" n="page_ori_810"/>
-                    <floatingText>
+                    <floatingText xml:id="histoire_eudoxe" type="histoire">
                         <body>
                             <div>
                                 <head><hi rend="bold">HISTOIRE</hi><lb/> D'<persName key="eudoxe"
@@ -21658,9 +21658,9 @@
                             </div>
                         </body>
                     </floatingText>
-                    <floatingText>
+                    <floatingText xml:id="S1_L12_P2" type="sonnet">
                         <body>
-                            <div type="sonnet">
+                            <div>
                                 <head><hi rend="bold">SONNET</hi><lb/> D'une mousche sur les lévres
                                     de sa<lb/> Dame endormie.</head>
 
@@ -21878,9 +21878,9 @@
                         d'estre un peu jaloux de Valentinian, &amp; de me rejouyr de son départ,
                         &amp; je fis des vers sur ce sujet que je chantay devant elle, à la premiere
                         occasion qui se presenta. Ils estoient tels.</p>
-                    <floatingText>
+                    <floatingText xml:id="S2_L12_P2" type="sonnet">
                         <body>
-                            <div type="sonnet">
+                            <div>
                                 <head><hi rend="bold">SONNET</hi><lb/> Sur le départ d'un
                                     Rival.<lb/></head>
 
@@ -22232,9 +22232,9 @@
                         m'estre tousjours fidelle. Et ne pouvant demeurer plus long temps aupres
                         d'elle, je partis, &amp; m'en vins trouver Ætius, &amp; fis tels vers sur ce
                         subject.</p>
-                    <floatingText>
+                    <floatingText xml:id="S3_L12_P2" type="sonnet">
                         <body>
-                            <div type="sonnet">
+                            <div>
                                 <head><hi rend="bold">SONNET</hi><lb/> SUR UN ADIEU.</head>
 
                                 <lg ana="vers" xml:lang="fr">
