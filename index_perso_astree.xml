@@ -1,21 +1,118 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="index.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <listPerson xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
-
-
+    
     <person xml:id="celadon" sex="M">
-      <name>Céladon</name>
-      <role>Berger et protagoniste du roman</role>
-      <identifier type="wikipedia">https://fr.wikipedia.org/wiki/C%C3%A9ladon_(roman)</identifier>
+        <name>Céladon</name>
+        <role>Berger et protagoniste du roman</role>
+        <identifier type="wikipedia">https://fr.wikipedia.org/wiki/C%C3%A9ladon_(roman)</identifier>
     </person>
-  
-  
-    <person xml:id="astree_personnage" sex="M">
+    
+    <person xml:id="astree" sex="F">
         <name>Astrée</name>
         <role>Bergère et protagoniste du roman</role>
+        <identifier type="wikipedia">https://fr.wikipedia.org/wiki/L%27Astr%C3%A9e</identifier>
     </person>
-  
-
-  
-
+    
+    <person xml:id="silvandre" sex="M">
+        <name>Silvandre</name>
+        <role>Berger philosophe et amant de Célidée</role>
+    </person>
+    
+    <person xml:id="celidee" sex="F">
+        <name>Célidée</name>
+        <role>Amante fidèle de Silvandre</role>
+    </person>
+    
+    <person xml:id="hylas" sex="M">
+        <name>Hylas</name>
+        <role>Jeune homme volage et séducteur</role>
+    </person>
+    
+    <person xml:id="diane" sex="F">
+        <name>Diane</name>
+        <role>Bergère amoureuse de Silvandre</role>
+    </person>
+    
+    <person xml:id="galathee" sex="F">
+        <name>Galathée</name>
+        <role>Nymphe amoureuse de Céladon</role>
+    </person>
+    
+    <person xml:id="leonide" sex="F">
+        <name>Léonide</name>
+        <role>Nièce de Galathée, déguisée en Léonidas pour protéger Céladon</role>
+    </person>
+    
+    <person xml:id="ursace" sex="M">
+        <name>Ursace</name>
+        <role>Prince guerrier jaloux, rival de Céladon</role>
+    </person>
+    
+    <person xml:id="florice" sex="F">
+        <name>Florice</name>
+        <role>Bergère fidèle, amoureuse de Lycidas</role>
+    </person>
+    
+    <person xml:id="lycidas" sex="M">
+        <name>Lycidas</name>
+        <role>Berger amoureux de Florice</role>
+    </person>
+    
+    <person xml:id="dorinde" sex="F">
+        <name>Dorinde</name>
+        <role>Bergère amoureuse de Silvandre</role>
+    </person>
+    
+    <person xml:id="thersandre" sex="M">
+        <name>Thersandre</name>
+        <role>Homme jaloux et manipulateur, rival de Céladon</role>
+    </person>
+    
+    <person xml:id="calidon" sex="M">
+        <name>Calidon</name>
+        <role>Berger fidèle et noble</role>
+    </person>
+    
+    <person xml:id="madonthe" sex="F">
+        <name>Madonthe</name>
+        <role>Bergère impliquée dans des aventures amoureuses</role>
+    </person>
+    
+    <person xml:id="lindamor" sex="M">
+        <name>Lindamor</name>
+        <role>Berger loyal, connu pour son amour sincère</role>
+    </person>
+    
+    <person xml:id="eudoxe" sex="M">
+        <name>Eudoxe</name>
+        <role>Vieillard sage, conseiller des bergers</role>
+    </person>
+    
+    <person xml:id="philis" sex="F">
+        <name>Philis</name>
+        <role>Amie d'Astrée et intermédiaire dans certaines intrigues amoureuses</role>
+    </person>
+    
+    <person xml:id="adamas" sex="M">
+        <name>Adamas</name>
+        <role>Druide sage, protecteur de Céladon</role>
+    </person>
+    
+    <person xml:id="cleontine" sex="F">
+        <name>Cléontine</name>
+        <role>Personnage féminin secondaire</role>
+    </person>
+    
+    <person xml:id="polidore" sex="M">
+        <name>Polidore</name>
+        <role>Berger impliqué dans des intrigues amoureuses</role>
+    </person>
+    
+    <person xml:id="amidor" sex="M">
+        <name>Amidor</name>
+        <role>Personnage mineur dans les histoires d'amour secondaires</role>
+    </person>
+    
 </listPerson>
+
