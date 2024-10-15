@@ -9,7 +9,11 @@
       <identifier type="wikipedia">https://fr.wikipedia.org/wiki/C%C3%A9ladon_(roman)</identifier>
     </person>
   
-
+  
+    <person xml:id="astree_personnage" sex="M">
+        <name>Astrée</name>
+        <role>Bergère et protagoniste du roman</role>
+    </person>
   
 
   
