@@ -33,6 +33,11 @@
         <name>Diane</name>
         <role>Bergère amoureuse de Silvandre</role>
     </person>
+
+     <person xml:id="damon" sex="M">
+        <name>Damon</name>
+        <role>Jeune berger fidèle et loyal</role>
+    </person>
     
     <person xml:id="galathee" sex="F">
         <name>Galathée</name>
