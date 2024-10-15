@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="index.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<listPerson xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+
+
+    <person xml:id="celadon" sex="M">
+      <name>Céladon</name>
+      <role>Berger et protagoniste du roman</role>
+      <identifier type="wikipedia">https://fr.wikipedia.org/wiki/C%C3%A9ladon_(roman)</identifier>
+    </person>
+  
+
+  
+
+  
+
+</listPerson>
