@@ -8083,9 +8083,9 @@
                         plusieurs petits roulleaux de papier espars dessus, elle en prit un, &amp;
                         le desliant toute tremblante, y trouva ces vers.</p>
                     <pb xml:id="page_abs_312" n="page_ori_305"/>
-                    <floatingText>
+                    <floatingText xml:id="POEM1_L5_P2" type="poem">
                         <body>
-                            <div type="poem">
+                            <div>
                                 <lg ana="vers" xml:lang="fr">
                                     <l ana="vers" xml:lang="fr"><hi rend="italic">Privé de mon vray
                                             bien ce bien faux mesoulage,</hi></l>
@@ -24437,21 +24437,21 @@
                 <div2 type="table_des_matière" xml:id="table_matière_1614">
                     <pb xml:id="page_abs_938" n="page_ori_LIM8"/>
                     <!-- TABLE 1 -->
-                    <eTree n="Table des histoires" xml:id="table_histoire" type="table">
+                    <eTree xml:id="table_histoire_partie_2" type="table">
                         <label>TABLE DES HISTOIRES CONTENVES EN LA SECONDE PARTIE D'<persName
                                 key="astree_personnage" role="berger">Astrée</persName>, de Messire
                             Honoré d'Urfé.</label>
                         <eLeaf>
-                            <label>Histoire de <persName key="celidee" role="amant"
+                            <label>Histoire de <persName key="celidee" role="amantr"
                                     >Celidée</persName>, Thamyre &amp; <persName key="calidon"
-                                    role="berger">Calidon</persName>. 35</label>
+                                        role="berger">Calidon</persName>. <!-- <seg corresp="#page_abs_35" OU "page_ori_35" -->35<!-- </seg> --></label>
                         </eLeaf>
                         <eLeaf>
                             <label>Harangue du Berger <persName key="calidon" role="berger"
                                     >Calidon</persName>. 68</label>
                         </eLeaf>
                         <eLeaf>
-                            <label>Responce de la Bergere <persName key="celidee" role="amant"
+                            <label>Responce de la Bergere <persName key="celidee" role="amantr"
                                     >Celidée</persName>. 84</label>
                         </eLeaf>
                         <eLeaf>
@@ -24513,7 +24513,7 @@
                             <label>Responce du Berger Palemon. 600</label>
                         </eLeaf>
                         <eLeaf>
-                            <label>Suitte de l'histoire de <persName key="celidee" role="amant"
+                            <label>Suitte de l'histoire de <persName key="celidee" role="amantr"
                                     >Celidée</persName>. 718</label>
                         </eLeaf>
                         <eLeaf>
@@ -24521,7 +24521,7 @@
                                     >Lycidas</persName>. 750</label>
                         </eLeaf>
                         <eLeaf>
-                            <label>Suitte de l'histoire de <persName key="celidee" role="amant"
+                            <label>Suitte de l'histoire de <persName key="celidee" role="amantr"
                                     >Celidée</persName>. 718</label>
                         </eLeaf>
                         <eLeaf>
@@ -24550,7 +24550,7 @@
 
                     <!-- TABLE 2 -->
                     <eTree>
-                        <label n="table_des_lettres" xml:id="table_lettres" type="table">TABLE DES
+                        <label xml:id="table_lettres_partie_2" type="table">TABLE DES
                             LETTRES.</label>
                         <eLeaf>
                             <label>Lettre à la plus aymée &amp; belle Bergere. 151</label>
@@ -24653,7 +24653,7 @@
                     </eTree>
 
                     <!-- TABLE 3 -->
-                    <eTree n="table_des_poesie" xml:id="table_poesie" type="table">
+                    <eTree xml:id="table_poesie_partie_2" type="table">
                         <label>TABLE DES PŒSIES.</label>
                         <eLeaf>
                             <label>Amour ne brusle plus. 21</label>
@@ -24758,7 +24758,7 @@
                     </eTree>
 
                     <!-- TABLE 4 -->
-                    <eTree n="table_damour" xml:id="table_amour" type="table">
+                    <eTree xml:id="table_amour_partie_2" type="table">
                         <label>Tables d'Amour.</label>
                         <eLeaf>
                             <label>Qui veut estre parfait Amant. 295 <ptr target="#page_abs_295"
@@ -24767,7 +24767,7 @@
                     </eTree>
 
                     <!-- TABLE 5 -->
-                    <eTree n="table_damour_falscifees" xml:id="table_amourfa" type="table">
+                    <eTree xml:id="table_amourfa_partie_2" type="table">
                         <label>Tables d'Amour falcifiées.</label>
                         <eLeaf>
                             <label>Que je vive, &amp; qu'on le possede. 717</label>
