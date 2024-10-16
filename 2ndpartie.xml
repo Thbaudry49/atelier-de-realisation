@@ -3,8 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title><persName key="astree_personnage" role="berger">Astrée</persName>. Seconde
-                    partie, édition de 1614</title>
+                <title>Astrée. Seconde partie, édition de 1614</title>
                 <author key="honoreurfe" role="auteur">Honoré d'Urfé (1567-1625)</author>
             </titleStmt>
             <editionStmt>
@@ -18,9 +17,9 @@
                 </respStmt>
             </editionStmt>
             <publicationStmt>
-                <publisher>ACI <persName key="astree_personnage" role="berger">Astrée</persName>
-                    (Université Paris 4/Ministère de l'Education nationale, de l'Enseignement
-                    supérieur et de la Recherche/Bibliothèque nationale de France)</publisher>
+                <publisher>ACI Astrée (Université Paris 4/Ministère de l'Education nationale, de
+                    l'Enseignement supérieur et de la Recherche/Bibliothèque nationale de
+                    France)</publisher>
                 <date when="2024"/>
                 <pubPlace>Delphine Denis, Université Paris-Sorbonne, 1, rue V. Cousin, Paris, 75005,
                     FRANCE</pubPlace>
@@ -38,8 +37,7 @@
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <title type="sub"><persName key="astree_personnage" role="berger"
-                            >Astrée</persName>. Seconde partie, édition de 1614</title>
+                    <title>Astrée. Seconde partie, édition de 1614</title>
                     <author xml:id="honoreurfe" role="auteur">D'Urfé, Honoré</author>
                     <pubPlace>Paris</pubPlace>
                     <date when="1614">1614</date>
@@ -3158,9 +3156,10 @@
                                         <persName key="adamas" role="druide">Adamas</persName> qui
                                     estoit prest à souper. <persName key="silvandre" role="berger"
                                         >Silvandre</persName> d'autre costé reprenant son chemin,
-                                    laissa à main gauche Bonlieu, <placeName key="temple_galathee">Temple dedié à la bonne Déesse</placeName>, où
-                                    elle est servie avec honneur &amp; devotion par les Vestales
-                                    &amp; chastes filles Druides, sous la charge de la venerable
+                                    laissa à main gauche Bonlieu, <placeName key="temple_galathee"
+                                        >Temple dedié à la bonne Déesse</placeName>, où elle est
+                                    servie avec honneur &amp; devotion par les Vestales &amp;
+                                    chastes filles Druides, sous la charge de la venerable
                                     Chrisante, &amp; passa dans un bois si toufu, qu'encores que la
                                     Lune fut des-ja levée, &amp; qu'elle esclairast, si ne
                                     pouvoit-il qu'à peine voir le chemin par où il passoit. Il est
@@ -5974,7 +5973,7 @@
                         </body>
                     </floatingText>
                     <pb xml:id="page_abs_227" n="page_ori_220"/>
-                    <floatingText  xml:id="S1_L4_P2" type="sonnet">
+                    <floatingText xml:id="S1_L4_P2" type="sonnet">
                         <body>
                             <div>
                                 <head><hi rend="bold">SONNET.</hi></head>
@@ -6093,7 +6092,7 @@
                             >Florice</persName>, que tout ce que je luy avois dit estoit
                         veritable.</p>
                     <pb xml:id="page_abs_231" n="page_ori_224"/>
-                    <floatingText  xml:id="S2_L4_P2" type="sonnet">
+                    <floatingText xml:id="S2_L4_P2" type="sonnet">
                         <body>
                             <div>
                                 <head><hi rend="bold">SONNET.</hi><lb/> SERMENTS AMOUREUX.</head>
