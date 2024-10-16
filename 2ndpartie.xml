@@ -2296,7 +2296,7 @@
                             </div>
                         </body>
                     </floatingText>
-                    <floatingText>
+                    <floatingText xml:id="REP1_L2_P2" type="reponse" corresp="#HAR1_L2_P2">
                         <body>
                             <div>
                                 <head><hi rend="bold">RESPONCE</hi><lb/> DE LA BERGERE <persName
@@ -2730,7 +2730,7 @@
                             </div>
                         </body>
                     </floatingText>
-                    <floatingText>
+                    <floatingText xml:id="REP2_L2_P2" type="reponse" corresp="#REP1_L2_P2">
                         <body>
                             <div>
                                 <head><hi rend="bold">RESPONCE</hi><lb/> DU BERGER THAMYRE.</head>
@@ -3038,7 +3038,7 @@
                             </div>
                         </body>
                     </floatingText>
-                    <floatingText>
+                    <floatingText xml:id="REP3_L2_P2" type="text" corresp="#REP2_L2_P2">
                         <body>
                             <div>
                                 <head><hi rend="bold">JUGEMENT DE LA NIMPHE</hi><lb/>
@@ -7827,120 +7827,138 @@
                         permettre de voir ce qui est encor de rare en ce tableau. Et l'ors le
                         prenant en la main il leut ces paroles qui estoient escrites au bas.</p>
                     <pb xml:id="page_abs_302" n="page_ori_295"/>
-                    <floatingText>
+                    <floatingText xml:id="STAN1_L5_P2" type="stance">
                         <body>
-                            <div1>
+                            <div>
                                 <head type="main">VOICY LES DOUZE TAbles des Loix d'Amour, que sur
                                     peine d'encourir sa disgrace, il commande à tout Amant
                                     d'observer.</head>
 
-                                <div2 n="1">
-                                    <p>Premiere Table.</p>
-                                    <p>&#160;&#160;&#160;<hi rend="italic">Qui veut estre parfait
-                                            Amant,<lb/> Il faut qu'il ayme infiniment :<lb/>
-                                            L'extreme Amour seule en est digne,<lb/> Aussi la
-                                            mediocrité,<lb/> De trahison est plustost signe,<lb/>
-                                            Que non pas de fidelité.</hi></p>
-                                </div2>
+                                <lg n="1">
+                                    <head>Premiere Table.</head>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Qui veut estre parfaitAmant,</hi></l> 
+                                    <l><hi rend="italic">Il faut qu'il ayme infiniment :</hi></l>
+                                    <l><hi rend="italic">L'extreme Amour seule en est digne,</hi></l>
+                                    <l><hi rend="italic">Aussi la mediocrité,</hi></l>
+                                    <l><hi rend="italic">De trahison est plustost signe,</hi></l>
+                                    <l><hi rend="italic">Que non pas de fidelité.</hi></l>
+                                </lg>
 
-                                <div2 n="2">
-                                    <p>Deuxiesme Table.</p>
-                                    <p>&#160;&#160;&#160;<hi rend="italic">Qu'il n'aime jamais qu'en
-                                            un lieu,<lb/> Et que cest Amour soit un Dieu,<lb/> Qu'il
-                                            adore pour toute chose :<lb/> Et n'ayant jamais qu'un objet,<lb/>
-                                            <pb xml:id="page_abs_303" n="page_ori_296"/> Tous les
-                                            bon heurs qu'il se propose<lb/> Soient pour cet unique
-                                            sujet.</hi></p>
-                                </div2>
+                                <lg n="2">
+                                    <head>Deuxiesme Table.</head>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Qu'il n'aime jamais qu'en un lieu,</hi></l>
+                                    <l><hi rend="italic">Et que cest Amour soit un Dieu,</hi></l>
+                                    <l><hi rend="italic">Qu'il adore pour toute chose :</hi></l>
+                                    <l><hi rend="italic">Et n'ayant jamais qu'un objet,</hi></l>
+                                    <pb xml:id="page_abs_303" n="page_ori_296"/>
+                                    <l><hi rend="italic">Tous les bon heurs qu'il se propose</hi></l>
+                                    <l><hi rend="italic">Soient pour cet unique sujet.</hi></l>
+                                </lg>
 
-                                <div2 n="3">
-                                    <p>Troisiesme Table.</p>
-                                    <p>&#160;&#160;&#160;<hi rend="italic">Bornant en luy tous ses
-                                            plaisirs,<lb/> Qu'il arreste tous ses desirs,<lb/> Au
-                                            service de cette belle :<lb/> Voire qu'il cesse de
-                                            s'aymer,<lb/> Sinon que d'autant qu'aymé d'elle,<lb/> Il
-                                            se doit pour elle estimer.</hi></p>
-                                </div2>
+                                <lg n="3">
+                                    <head>Troisiesme Table.</head>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Bornant en luy tous ses plaisirs,</hi></l>
+                                    <l><hi rend="italic">Qu'il arreste tous ses desirs,</hi></l>
+                                    <l><hi rend="italic">Au service de cette belle :</hi></l>
+                                    <l><hi rend="italic">Voire qu'il cesse de s'aymer,</hi></l>
+                                    <l><hi rend="italic">Sinon que d'autant qu'aymé d'elle,</hi></l>
+                                    <l><hi rend="italic">Il se doit pour elle estimer.</hi></l>
+                                </lg>
 
-                                <div2 n="4">
-                                    <p>Quatriesme Table.</p>
-                                    <p>&#160;&#160;&#160;<hi rend="italic">Que s'il a le soin
-                                            d'estre mieux,<lb/> Ce ne soit que pour les beaux
-                                            yeux,<lb/> Dont son Amour a pris naissance :<lb/> S'il
-                                            souhaite plus de bon-heur,<lb/> Ce ne soit que pour
-                                            l'esperance,<lb/> Qu'elle en recevra plus
-                                            d'honneur.</hi></p>
-                                </div2>
+                                <lg n="4">
+                                    <head>Quatriesme Table.</head>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Que s'il a le soin d'estre mieux,</hi></l>
+                                    <l><hi rend="italic">Ce ne soit que pour les beaux yeux,</hi></l>
+                                    <l><hi rend="italic">Dont son Amour a pris naissance :</hi></l>
+                                    <l><hi rend="italic">S'il souhaite plus de bon-heur,</hi></l>
+                                    <l><hi rend="italic">Ce ne soit que pour l'esperance,</hi></l>
+                                    <l><hi rend="italic">Qu'elle en recevra plus d'honneur.</hi></l>
+                                </lg>
 
-                                <div2 n="5">
-                                    <p>Cinquiesme Table.</p>
-                                    <p>&#160;&#160;&#160;<hi rend="italic">Telle soit son
-                                            affection,<lb/> Que mesme la possession,<lb/>
-                                            <pb xml:id="page_abs_304" n="page_ori_297"/> De ce qu'il
-                                            de sire en son ame,<lb/> S'il doit l'acheter au
-                                            mespris<lb/> De son honneur ou de sa Dame,<lb/> Luy soit
-                                            moins chere que ce pris.</hi></p>
-                                </div2>
-                                <div2 n="6">
-                                    <p>Sixiesme Table.</p>
-                                    <p>&#160;&#160;&#160;<hi rend="italic">Pour subjet qui se vienne
-                                            offrir,<lb/> Qu'il ne puisse jamais souffrir.<lb/> La
-                                            honte de la chose aimée :<lb/> Et si devant luy par
-                                            desdain,<lb/> D'un mesdisant elle est blasmée :<lb/>
-                                            Qu'il meure ou la venge soudain.</hi></p>
-                                </div2>
-                                <div2 n="7">
-                                    <p>Septiesme Table.</p>
-                                    <p>&#160;&#160;&#160;<hi rend="italic">Que son Amour fasse en
-                                            effet,<lb/> Qu'il juge en elle tout parfait,<lb/> Et
-                                            quoy que sans doute il l'estime :<lb/> Au prix de ce
-                                            qu'il aymera,<lb/> Qu'il condamne comme d'un crime,<lb/>
-                                            Celuy qui moins l'estimera.</hi></p>
-                                </div2>
+                                <lg n="5">
+                                    <head>Cinquiesme Table.</head>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Telle soit son affection,</hi></l>
+                                    <l><hi rend="italic">Que mesme la possession,</hi></l>
+                                    <pb xml:id="page_abs_304" n="page_ori_297"/>
+                                    <l><hi rend="italic">De ce qu'il de sire en son ame,</hi></l>
+                                    <l><hi rend="italic">S'il doit l'acheter au mespris</hi></l>
+                                    <l><hi rend="italic">De son honneur ou de sa Dame,</hi></l>
+                                    <l><hi rend="italic">Luy soit moins chere que ce pris.</hi></l>
+                                </lg>
+                                
+                                <lg n="6">
+                                    <head>Sixiesme Table.</head>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Pour subjet qui se vienne offrir,</hi></l>
+                                    <l><hi rend="italic">Qu'il ne puisse jamais souffrir.</hi></l>
+                                    <l><hi rend="italic">La honte de la chose aimée :</hi></l>
+                                    <l><hi rend="italic">Et si devant luy par desdain,</hi></l>
+                                    <l><hi rend="italic">D'un mesdisant elle est blasmée :</hi></l>
+                                    <l><hi rend="italic">Qu'il meure ou la venge soudain.</hi></l>
+                                </lg>
+                                
+                                <lg n="7">
+                                    <head>Septiesme Table.</head>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Que son Amour fasse en effet,</hi></l>
+                                    <l><hi rend="italic">Qu'il juge en elle tout parfait,</hi></l>
+                                    <l><hi rend="italic">Et quoy que sans doute il l'estime :</hi></l>
+                                    <l><hi rend="italic">Au prix de ce qu'il aymera,</hi></l>
+                                    <l><hi rend="italic">Qu'il condamne comme d'un crime,</hi></l>
+                                    <l><hi rend="italic">Celuy qui moins l'estimera.</hi></l>
+                                </lg>
                                 <pb xml:id="page_abs_305" n="page_ori_298"/>
-                                <div2 n="8">
-                                    <p>Huictiesme Table.</p>
-                                    <p>&#160;&#160;&#160;<hi rend="italic">Qu'espris d'un Amour
-                                            violant,<lb/> Il aille sans cesse brulant,<lb/> Et qu'il
-                                            languisse, &amp; qu'il souspire,<lb/> Entre la vie &amp;
-                                            le trespas,<lb/> Sans toutesfois qu'il puisse dire,<lb/>
-                                            Ce qu'il veut, ou qu'il ne veut pas.</hi></p>
-                                </div2>
+                                
+                                <lg n="8">
+                                    <head>Huictiesme Table.</head>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Qu'espris d'un Amour violant,</hi></l>
+                                    <l><hi rend="italic">Il aille sans cesse brulant,</hi></l>
+                                    <l><hi rend="italic">Et qu'il languisse, &amp; qu'il souspire,</hi></l>
+                                    <l><hi rend="italic">Entre la vie &amp; le trespas,</hi></l>
+                                    <l><hi rend="italic">Sans toutesfois qu'il puisse dire,</hi></l>
+                                    <l><hi rend="italic">Ce qu'il veut, ou qu'il ne veut pas.</hi></l>
+                                </lg>
 
-                                <div2 n="9">
-                                    <p>Neufiesme Table.</p>
-                                    <p>&#160;&#160;&#160;<hi rend="italic">Mesprisant son propre
-                                            sejour,<lb/> Son Ame aille vivre d'Amour<lb/> Au sein de
-                                            celle qu'il adore,<lb/> Et qu'en elle ainsi
-                                            transformé,<lb/> Tout ce qu'elle aime &amp; qu'elle
-                                            honore,<lb/> Soit aussi de luy bien aimé.</hi></p>
-                                </div2>
-                                <div2 n="10">
-                                    <p>Dixiesme Table.</p>
-                                    <p>&#160;&#160;&#160;<hi rend="italic">Qu'il tienne les jours
-                                            pour perdus,<lb/> Qui loing d'elle sont despendus,<lb/>
-                                            Toute peine soit embrassée,<lb/> Pour estre en ce lieu desiré,<lb/>
-                                            <pb xml:id="page_abs_306" n="page_ori_299"/> Et qu'il y
-                                            soit de la pensée,<lb/> Si le corps en est
-                                        separé.</hi></p>
-                                </div2>
-                                <div2 n="11">
-                                    <p>Unziesme Table.</p>
-                                    <p>&#160;&#160;&#160;<hi rend="italic">Que la perte de la
-                                            raison,<lb/> Que les liens &amp; la prison,<lb/> Pour
-                                            elle en son ame il cherisse ;<lb/> Et se plaise à s'y
-                                            renfermer,<lb/> Sans attendre de son service,<lb/> Que
-                                            le seul honneur de l'aimer.</hi></p>
-                                </div2>
-                                <div2 n="12">
-                                    <p>Douziesme Table.</p>
-                                    <p>&#160;&#160;&#160;<hi rend="italic">Qu'il ne puisse jamais
-                                            penser,<lb/> Que son Amour doive passer :<lb/> Qui
-                                            d'autre sorte le conseille,<lb/> Soit pour ennemy
-                                            reputé,<lb/> Car c'est de luy preter l'aureille,<lb/>
-                                            Crime de leze Maiesté.</hi></p>
-                                </div2>
-                            </div1>
+                                <lg n="9">
+                                    <head>Neufiesme Table.</head>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Mesprisant son propre sejour,</hi></l>
+                                    <l><hi rend="italic">Son Ame aille vivre d'Amour</hi></l>
+                                    <l><hi rend="italic">Au sein de celle qu'il adore,</hi></l>
+                                    <l><hi rend="italic">Et qu'en elle ainsi transformé,</hi></l>
+                                    <l><hi rend="italic">Tout ce qu'elle aime &amp; qu'elle honore,</hi></l>
+                                    <l><hi rend="italic">Soit aussi de luy bien aimé.</hi></l>
+                                </lg>
+                                
+                                <lg n="10">
+                                    <head>Dixiesme Table.</head>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Qu'il tienne les jours pour perdus,</hi></l>
+                                    <l><hi rend="italic">Qui loing d'elle sont despendus,</hi></l>
+                                    <l><hi rend="italic">Toute peine soit embrassée,</hi></l>
+                                    <l><hi rend="italic">Pour estre en ce lieu desiré,</hi></l>
+                                    <pb xml:id="page_abs_306" n="page_ori_299"/>
+                                    <l><hi rend="italic">Et qu'il y soit de la pensée,</hi></l>
+                                    <l><hi rend="italic">Si le corps en est separé.</hi></l>
+                                </lg>
+                                
+                                <lg n="11">
+                                    <head>Unziesme Table.</head>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Que la perte de la raison,</hi></l>
+                                    <l><hi rend="italic">Que les liens &amp; la prison,</hi></l>
+                                    <l><hi rend="italic">Pour elle en son ame il cherisse ;</hi></l>
+                                    <l><hi rend="italic">Et se plaise à s'y renfermer,</hi></l>
+                                    <l><hi rend="italic">Sans attendre de son service,</hi></l>
+                                    <l><hi rend="italic">Que le seul honneur de l'aimer.</hi></l>
+                                </lg>
+                                
+                                <lg n="12">
+                                    <head>Douziesme Table.</head>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Qu'il ne puisse jamais penser,</hi></l>
+                                    <l><hi rend="italic">Que son Amour doive passer :</hi></l>
+                                    <l><hi rend="italic">Qui d'autre sorte le conseille,</hi></l>
+                                    <l><hi rend="italic">Soit pour ennemy reputé,</hi></l>
+                                    <l><hi rend="italic">Car c'est de luy preter l'aureille,</hi></l>
+                                    <l><hi rend="italic">Crime de leze Maiesté.</hi></l>
+                                </lg>
+                                
+                            </div>
                         </body>
                     </floatingText>
                     <p>&#160;&#160;&#160;<persName key="hylas" role="donjuan">Hylas</persName> qui
@@ -8177,7 +8195,7 @@
                         sur l'autel : le premier qui luy tumba entre les mains, fut celuy cy.</p>
 
                     <pb xml:id="page_abs_314" n="page_ori_307"/>
-                    <floatingText>
+                    <floatingText xml:id="STAN2_L5_P2" type="stance">
                         <body>
                             <div>
 
@@ -13038,7 +13056,7 @@
                             key="silvandre" role="berger">Silvandre</persName> qui chantoit ces vers
                         quand nous y arrivasmes.</p>
 
-                    <floatingText>
+                    <floatingText xml:id="STAN1_L7_P2" type="stance">
                         <body>
                             <div1>
 
@@ -17138,7 +17156,7 @@
                         plus grands contentements ! Qui voudroit jamais se retirer de ton
                         obeissance, puis que tu as un si grand soin de ceux qui sont à toy ? A ces
                         paroles il adjousta ces vers.</p>
-                    <floatingText>
+                    <floatingText xml:id="STAN1_L10_P2" type="stance">
                         <body>
                             <div>
                                 <head>
@@ -17586,7 +17604,7 @@
                         peut regarder qu'en haussant la teste de propos deliberé, &amp; tenant son
                         chappeau, de peur qu'il ne tombe, je fis [ces] vers</p>
                     <pb xml:id="page_abs_670" n="page_ori_665"/>
-                    <floatingText>
+                    <floatingText xml:id="STAN2_L10_P2" type="stance">
                         <body>
                             <div>
                                 <head>
@@ -24437,21 +24455,21 @@
                 <div2 type="table_des_matière" xml:id="table_matière_1614">
                     <pb xml:id="page_abs_938" n="page_ori_LIM8"/>
                     <!-- TABLE 1 -->
-                    <eTree xml:id="table_histoire_partie_2" type="table">
+                    <eTree n="Table des histoires" xml:id="table_histoire" type="table">
                         <label>TABLE DES HISTOIRES CONTENVES EN LA SECONDE PARTIE D'<persName
                                 key="astree_personnage" role="berger">Astrée</persName>, de Messire
                             Honoré d'Urfé.</label>
                         <eLeaf>
-                            <label>Histoire de <persName key="celidee" role="amantr"
+                            <label>Histoire de <persName key="celidee" role="amant"
                                     >Celidée</persName>, Thamyre &amp; <persName key="calidon"
-                                        role="berger">Calidon</persName>. <!-- <seg corresp="#page_abs_35" OU "page_ori_35" -->35<!-- </seg> --></label>
+                                    role="berger">Calidon</persName>. 35</label>
                         </eLeaf>
                         <eLeaf>
                             <label>Harangue du Berger <persName key="calidon" role="berger"
                                     >Calidon</persName>. 68</label>
                         </eLeaf>
                         <eLeaf>
-                            <label>Responce de la Bergere <persName key="celidee" role="amantr"
+                            <label>Responce de la Bergere <persName key="celidee" role="amant"
                                     >Celidée</persName>. 84</label>
                         </eLeaf>
                         <eLeaf>
@@ -24513,7 +24531,7 @@
                             <label>Responce du Berger Palemon. 600</label>
                         </eLeaf>
                         <eLeaf>
-                            <label>Suitte de l'histoire de <persName key="celidee" role="amantr"
+                            <label>Suitte de l'histoire de <persName key="celidee" role="amant"
                                     >Celidée</persName>. 718</label>
                         </eLeaf>
                         <eLeaf>
@@ -24521,7 +24539,7 @@
                                     >Lycidas</persName>. 750</label>
                         </eLeaf>
                         <eLeaf>
-                            <label>Suitte de l'histoire de <persName key="celidee" role="amantr"
+                            <label>Suitte de l'histoire de <persName key="celidee" role="amant"
                                     >Celidée</persName>. 718</label>
                         </eLeaf>
                         <eLeaf>
@@ -24550,7 +24568,7 @@
 
                     <!-- TABLE 2 -->
                     <eTree>
-                        <label xml:id="table_lettres_partie_2" type="table">TABLE DES
+                        <label n="table_des_lettres" xml:id="table_lettres" type="table">TABLE DES
                             LETTRES.</label>
                         <eLeaf>
                             <label>Lettre à la plus aymée &amp; belle Bergere. 151</label>
@@ -24653,7 +24671,7 @@
                     </eTree>
 
                     <!-- TABLE 3 -->
-                    <eTree xml:id="table_poesie_partie_2" type="table">
+                    <eTree n="table_des_poesie" xml:id="table_poesie" type="table">
                         <label>TABLE DES PŒSIES.</label>
                         <eLeaf>
                             <label>Amour ne brusle plus. 21</label>
@@ -24758,7 +24776,7 @@
                     </eTree>
 
                     <!-- TABLE 4 -->
-                    <eTree xml:id="table_amour_partie_2" type="table">
+                    <eTree n="table_damour" xml:id="table_amour" type="table">
                         <label>Tables d'Amour.</label>
                         <eLeaf>
                             <label>Qui veut estre parfait Amant. 295 <ptr target="#page_abs_295"
@@ -24767,7 +24785,7 @@
                     </eTree>
 
                     <!-- TABLE 5 -->
-                    <eTree xml:id="table_amourfa_partie_2" type="table">
+                    <eTree n="table_damour_falscifees" xml:id="table_amourfa" type="table">
                         <label>Tables d'Amour falcifiées.</label>
                         <eLeaf>
                             <label>Que je vive, &amp; qu'on le possede. 717</label>
