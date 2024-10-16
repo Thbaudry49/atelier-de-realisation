@@ -73,7 +73,7 @@
             <head type="sub">A <placeName key="paris">PARIS</placeName><lb/>
                 <hi rend="italic">Chez Toussainct &amp; du Bray Rue St Jaques Aux Espics Meurs &amp;
                     en sa Bouticque au Palais en la Gallerie des Prisonniers<lb/></hi> Avec
-                Privilege du <persName>Roy</persName>.</head>
+                Privilege du <persName key="louisxiii">Roy</persName>.</head>
             <pb xml:id="page_abs_1" n="page_ori_LIM1"/>
         </front>
 
@@ -8187,33 +8187,54 @@
                                 <head><hi rend="bold">DIALOGUE</hi><lb/> SUR LES YEUX D'UN
                                     POURTRAIT,<lb/> STANCES.</head>
 
-                                <p>
-                                    <hi rend="italic">Sont ce, Peintr[e] sçavan[t], des ames, ou des
-                                        flammes,<lb/> Qui naissant de ces yeux leur volent à
-                                        l'entour ?<lb/> Ce sont flammes d'Amour qui consument les
-                                        ames :<lb/> Ce sont ames plustost qui font vivre
-                                        l'Amour.</hi>
-                                </p>
-                                <p>
-                                    <hi rend="italic">Ah ! qui n'admirera ces flammes
-                                        nompareilles,<lb/> Si la vie &amp; la mort procedent de ces
-                                        yeux [?]<lb/> Les effects des grands dieux sont ce pas des
-                                        merveilles,<lb/> Et ces soleils aussi ne sont ce pas des
-                                        dieux ?</hi>
-                                </p>
-                                <p>
-                                    <hi rend="italic">Les aimer comme humains c'est donc erreur
-                                        extreme,<lb/> Puis qu'il faut des grands dieux reverer le
-                                        pouvoir ;<lb/> Ne commandent-ils pas à ton cœur qu'il les
-                                        aime,<lb/> Ayant desja permis à tes yeux de les voir ?</hi>
-                                </p>
-                                <p>
-                                    <hi rend="italic">Il est vray, mais mon cœur touché de
-                                        reverence,<lb/> Doit de devotion non d'Amour s'allumer
-                                        :<lb/> Les dieux ne veulent rien outre nostre
-                                        puissance.<lb/> Espreuve, si tu peux, les voir sans les
-                                        aimer.</hi>
-                                </p>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">
+                                        <hi rend="italic">Sont ce, Peintr[e] sçavan[t], des ames, ou
+                                            des flammes,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Qui naissant de
+                                            ces yeux leur volent à l'entour ?</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Ce sont flammes
+                                            d'Amour qui consument les ames :</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Ce sont ames
+                                            plustost qui font vivre l'Amour.</hi>
+                                    </l>
+                                </lg>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">
+                                        <hi rend="italic">Ah ! qui n'admirera ces flammes
+                                            nompareilles,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic"> Si la vie &amp;
+                                            la mort procedent de ces yeux [?]</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Les effects des
+                                            grands dieux sont ce pas des merveilles,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Et ces soleils
+                                            aussi ne sont ce pas des dieux ?</hi>
+                                    </l>
+                                </lg>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">
+                                        <hi rend="italic">Les aimer comme humains c'est donc erreur
+                                            extreme,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Puis qu'il faut
+                                            des grands dieux reverer le pouvoir ;</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Ne commandent-ils
+                                            pas à ton cœur qu'il les aime,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Ayant desja permis
+                                            à tes yeux de les voir ?</hi>
+                                    </l>
+                                </lg>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">
+                                        <hi rend="italic">Il est vray, mais mon cœur touché de
+                                            reverence,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic"> Doit de devotion
+                                            non d'Amour s'allumer :</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Les dieux ne
+                                            veulent rien outre nostre puissance.</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Espreuve, si tu
+                                            peux, les voir sans les aimer.</hi>
+                                    </l>
+                                </lg>
                             </div>
                         </body>
                     </floatingText>
@@ -13026,111 +13047,151 @@
 
                                 <head><hi rend="bold">STANCES.</hi><lb/> MONDE D'AMOVR.</head>
 
-                                <div2 n="1">
-                                    <p>I</p>
-                                    <p>&#160;&#160;&#160;<hi rend="italic">Amour grand Artisan a
-                                            fait un autre Monde,<lb/> La terre c'est ma foy, qui n'a
-                                            nul mouvement,<lb/> Et comme l'Univers sur la terre se
-                                            fonde,<lb/> Ma foy de ce beau Monde est le seur
-                                            fondement.</hi></p>
-                                </div2>
-                                <div2 n="2">
-                                    <p>II.</p>
-                                    <p>&#160;&#160;&#160;<hi rend="italic">Que si quelques soupçons
-                                            d'une jalouse guerre<lb/> Esbranlent en mon cœur cette
-                                            constante Foy,<lb/> C'est comme quand les vents sont
-                                            enclos dans la terre<lb/> Qui par des tremblements la
-                                            remplissent d'effroy.</hi></p>
-                                    <pb xml:id="page_abs_506" n="page_ori_500"/>
-                                </div2>
-                                <div2 n="3">
-                                    <p>III</p>
-                                    <p>&#160;&#160;&#160;<hi rend="italic">Mes pleurs sont l'ocean,
-                                            aussi tarir mes larmes<lb/> N'est un moindre dessein que
-                                            d'espuiser la mer :<lb/> La peur de n'estre aymé cause
-                                            de tant d'allarmes,<lb/> C'est l'orage qui fait cette
-                                            mer escumer.</hi></p>
-                                </div2>
-                                <div2 n="4">
-                                    <p>IV</p>
-                                    <p>&#160;&#160;&#160;<hi rend="italic">Cette mer est amere,
-                                            encores que ses ondes,<lb/> Ne soient qu'un grand amas
-                                            des fleuves qui sont doux ;<lb/> Plus amers sont mes
-                                            pleurs, &amp; leurs sources fecondes,<lb/> Plus douces à
-                                            mon cœur comme venant de vous.</hi></p>
-                                </div2>
-                                <div2 n="5">
-                                    <p>V</p>
-                                    <p>&#160;&#160;&#160;<hi rend="italic">L'air c'est ma volonté
-                                            qui libre en sa puissance,<lb/> A l'entour de ma foy va
-                                            tousjours se mouvant,<lb/> Les vents sont mes desirs
-                                            ardents dés leur naissance,<lb/> Dont s'esmeut mon
-                                            vouloir comme l'air par le vent.</hi></p>
-                                </div2>
-                                <div2 n="6">
-                                    <p>VI</p>
-                                    <p>&#160;&#160;&#160;<hi rend="italic">Aussi comme les vents
-                                            diversement fremissent,<lb/> Soubs des rochers affreux,
-                                            dont ils n'osent partir,<lb/> De mesme mes desirs au
-                                            respect obeissent,<lb/> Et dans mon cœur enclos n'en
-                                            oseroient sortir.</hi></p>
-                                </div2>
-                                <div2 n="7">
-                                    <p>VII</p>
+                                <lg ana="vers" xml:lang="fr" n="1">
+                                    <head>I</head>
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Amour grand Artisan a fait un autre Monde,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">La terre c'est ma
+                                            foy, qui n'a nul mouvement,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Et comme l'Univers
+                                            sur la terre se fonde,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Ma foy de ce beau
+                                            Monde est le seur fondement.</hi></l>
+                                </lg>
+                                <lg ana="vers" xml:lang="fr" n="2">
+                                    <head>II.</head>
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Que si quelques soupçons d'une jalouse guerre</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Esbranlent en mon
+                                            cœur cette constante Foy,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">C'est comme quand
+                                            les vents sont enclos dans la terre</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Qui par des
+                                            tremblements la remplissent d'effroy.</hi></l>
+                                </lg>
+                                <pb xml:id="page_abs_506" n="page_ori_500"/>
+                                <lg ana="vers" xml:lang="fr" n="3">
+                                    <head>III</head>
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Mes pleurs sont l'ocean, aussi tarir mes
+                                        larmes</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">N'est un moindre
+                                            dessein que d'espuiser la mer :</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">La peur de n'estre
+                                            aymé cause de tant d'allarmes,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">C'est l'orage qui
+                                            fait cette mer escumer.</hi></l>
+                                </lg>
+                                <lg ana="vers" xml:lang="fr" n="4">
+                                    <head>IV</head>
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Cette mer est amere, encores que ses ondes,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Ne soient qu'un
+                                            grand amas des fleuves qui sont doux ;</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Plus amers sont
+                                            mes pleurs, &amp; leurs sources fecondes,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Plus douces à mon
+                                            cœur comme venant de vous.</hi></l>
+                                </lg>
+                                <lg ana="vers" xml:lang="fr" n="5">
+                                    <head>V</head>
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >L'air c'est ma volonté qui libre en sa
+                                        puissance,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">A l'entour de ma
+                                            foy va tousjours se mouvant,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Les vents sont mes
+                                            desirs ardents dés leur naissance,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Dont s'esmeut mon
+                                            vouloir comme l'air par le vent.</hi></l>
+                                </lg>
+                                <lg ana="vers" xml:lang="fr" n="6">
+                                    <head>VI</head>
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Aussi comme les vents diversement fremissent,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Soubs des rochers
+                                            affreux, dont ils n'osent partir,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">De mesme mes
+                                            desirs au respect obeissent,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Et dans mon cœur
+                                            enclos n'en oseroient sortir.</hi></l>
+                                </lg>
+                                <lg ana="vers" xml:lang="fr" n="7">
+                                    <head>VII</head>
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Cest invisible Feu qui les airs environne,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">C'est la flame
+                                            secrette où je me vay bruslant,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Et comme ce grand
+                                            Feu ne se voit de personne,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">A chascun mon
+                                            ardeur je vay dissimulant.</hi></l>
+                                </lg>
+                                <lg ana="vers" xml:lang="fr" n="8">
+                                    <head>VIII.</head>
 
-                                    <p>&#160;&#160;&#160;<hi rend="italic">Cest invisible Feu qui
-                                            les airs environne,<lb/> C'est la flame secrette où je
-                                            me vay bruslant,<lb/> Et comme ce grand Feu ne se voit
-                                            de personne,<lb/> A chascun mon ardeur je vay
-                                            dissimulant.</hi></p>
-                                </div2>
-                                <div2 n="8">
-                                    <p>VIII.</p>
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Comme l'on voit qu'au Feu tout est reduit en
+                                            flame,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Et que source de
+                                            vie il ne peut rien nourrir,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">De mesme les
+                                            pensers qui sont dedans mon ame :</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">s'ils ne bruslent
+                                            soudain, doivent soudain mourir.</hi></l>
+                                </lg>
+                                <lg ana="vers" xml:lang="fr" n="9">
+                                    <head>IX.</head>
 
-                                    <p>&#160;&#160;&#160;<hi rend="italic">Comme l'on voit qu'au Feu
-                                            tout est reduit en flame,<lb/> Et que source de vie il
-                                            ne peut rien nourrir,<lb/> De mesme les pensers qui sont
-                                            dedans mon ame :<lb/> s'ils ne bruslent soudain, doivent
-                                            soudain mourir.</hi></p>
-                                </div2>
-                                <div2 n="9">
-                                    <p>IX.</p>
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >La Lune c'est l'espoir qui croist &amp;
+                                        diminuë,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic"> De vous seule
+                                            empruntant les rais dont il reluit,</hi></l>
+                                    <pb xml:id="page_abs_507" n="page_ori_501"/>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Mais lors que sans
+                                            lumiere elle erre dans la nuë,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">C'est mon vague
+                                            Penser, qui sans raison vous suit.</hi></l>
+                                </lg>
+                                <lg ana="vers" xml:lang="fr" n="10">
+                                    <head>X</head>
 
-                                    <p>&#160;&#160;&#160;<hi rend="italic">La Lune c'est l'espoir
-                                            qui croist &amp; diminuë,<lb/> De vous seule empruntant
-                                            les rais dont il reluit,<lb/>
-                                            <pb xml:id="page_abs_507" n="page_ori_501"/> Mais lors
-                                            que sans lumiere elle erre dans la nuë,<lb/> C'est mon
-                                            vague Penser, qui sans raison vous suit.</hi></p>
-                                </div2>
-                                <div2 n="10">
-                                    <p>X</p>
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Le Soleil c'est vostre œil lumiere sans
+                                        seconde,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic"> Bel œil Soleil
+                                            d'amour, qui nous esclaire à tous :</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic"> Que si l'autre
+                                            Soleil donne la vie au Monde,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic"> Quel Amant peut
+                                            nier de la tenir de vous ?</hi></l>
+                                </lg>
+                                <lg ana="vers" xml:lang="fr" n="11">
+                                    <head>XI.</head>
 
-                                    <p>&#160;&#160;&#160;<hi rend="italic">Le Soleil c'est vostre
-                                            œil lumiere sans seconde,<lb/> Bel œil Soleil d'amour,
-                                            qui nous esclaire à tous :<lb/> Que si l'autre Soleil
-                                            donne la vie au Monde,<lb/> Quel Amant peut nier de la
-                                            tenir de vous ?</hi></p>
-                                </div2>
-                                <div2 n="11">
-                                    <p>XI.</p>
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Puis de tant de beautez Amour vous a pourveuë</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic"> Que son jour
+                                            c'est vous veoir, sa nuict ne vous voir pas</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic"> Si ce n'est que
+                                            d'avoir le bien de vostre veuë,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic"> Nous soit
+                                            plustost la vie, &amp; l'autre le trespas.</hi></l>
+                                </lg>
+                                <lg ana="vers" xml:lang="fr" n="12">
+                                    <head>XII.</head>
 
-                                    <p>&#160;&#160;&#160;<hi rend="italic">Puis de tant de beautez
-                                            Amour vous a pourveuë<lb/> Que son jour c'est vous
-                                            veoir, sa nuict ne vous voir pas<lb/> Si ce n'est que
-                                            d'avoir le bien de vostre veuë,<lb/> Nous soit plustost
-                                            la vie, &amp; l'autre le trespas.</hi></p>
-                                </div2>
-                                <div2 n="12">
-                                    <p>XII.</p>
-
-                                    <p>&#160;&#160;&#160;<hi rend="italic">L'esté, c'est le
-                                            transport, dont le sang me boüillonne,<lb/> Et l'Hyver,
-                                            c'est la peur, qui me gelle en tout temps,<lb/> Mais que
-                                            me vaut cela, si tousjours mon Automne,<lb/> Est sans
-                                            fruits aussi bien que sans fleurs mon Printemps
-                                        ?</hi><lb/></p>
-                                </div2>
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >L'esté, c'est le transport, dont le sang me
+                                            boüillonne,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic"> Et l'Hyver, c'est
+                                            la peur, qui me gelle en tout temps,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic"> Mais que me vaut
+                                            cela, si tousjours mon Automne,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic"> Est sans fruits
+                                            aussi bien que sans fleurs mon Printemps ?</hi></l>
+                                </lg>
                             </div1>
                         </body>
                     </floatingText>
@@ -17086,42 +17147,79 @@
                                 <head>
                                     <hi rend="bold">STANCES.</hi>
                                 </head>
-
-                                <p>&#160;&#160;&#160;<hi rend="italic">Belle onde de Lignon que
-                                        j'enfle de mes pleurs,<lb/> Campagnes qui sçavez quelles
-                                        sont mes douleurs,<lb/> Tesmoins de mes ennuis ô Forests
-                                        solitaires,<lb/> Echo de qui la voix respond à mes
-                                        accens,<lb/> Air remply de souspirs &amp; de cris
-                                        languissants,<lb/> Ayez part à mon heur comme à tant de
-                                        miseres.</hi></p>
-                                <p>&#160;&#160;&#160;<hi rend="italic">De tempestes tousjours le
-                                        mont de Marsilly,<lb/> Quoy qu'il soit eslevé n'a le dos
-                                        assailly,<lb/> Tousjours impetueux Lignon ne se
-                                        courrouce,<lb/> L'espoir de mes moissons ne nous deçoit
-                                        tousjours,<lb/> Par divers changements s'entresuivent nos
-                                        jours,<lb/> Et d'un bransle divers, le temps mesme se
-                                        pousse.</hi></p>
-                                <p>&#160;&#160;&#160;<hi rend="italic">Ma Bergere dormoit : mais
-                                        autour de ses yeux,<lb/> Mille petits Amours voletoient soucieux,<lb/>
-                                        <pb xml:id="page_abs_655" n="page_ori_650"/> A trouppes les
-                                        desirs sur sa levre jumelle,<lb/> Accouroient murmurant,
-                                        comme fantosmes vains :<lb/> Et ces desirs naissoient des
-                                        amoureux Silvains,<lb/> Qui ne virent jamais une Nymphe si
-                                        belle.</hi></p>
-                                <p>&#160;&#160;&#160;<hi rend="italic">Heureux, ah ! trop heureux
-                                        tous mes ennuis passez,<lb/> Vous estes à ce coup trop bien
-                                        recompensez,<lb/> Puis que je l'ay peu voir avant que je
-                                        finisse :<lb/> Mais s'il ne te plaist pas de changer son
-                                        desdain,<lb/> Je te supplie Amour fay moy mourir
-                                        soudain,<lb/> De peur qu'en languissant mon heur ne
-                                        s'amoindrisse.</hi></p>
-                                <p>&#160;&#160;&#160;<hi rend="italic">En sa course Lignon, reflotte
-                                        moins de fois,<lb/> Nos champs jaunissent moins, Isoure a
-                                        moins de bois,<lb/> Et moins de voix Echo, bien qu'elle soit
-                                        son ame,<lb/> Moins d'eslans à cet Air d'un grand vent
-                                        agité,<lb/> Que mon cœur n'a d'Amour, ma Nimphe de
-                                        beauté,<lb/> Que mon Amour de foy, que sa beauté de
-                                        flamme.</hi><lb/></p>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Belle onde de Lignon que j'enfle de mes
+                                        pleurs,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Campagnes qui
+                                            sçavez quelles sont mes douleurs,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Tesmoins de mes
+                                            ennuis ô Forests solitaires,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Echo de qui la
+                                            voix respond à mes accens,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Air remply de
+                                            souspirs &amp; de cris languissants,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Ayez part à mon
+                                            heur comme à tant de miseres.</hi></l>
+                                </lg>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >De tempestes tousjours le mont de Marsilly,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Quoy qu'il soit
+                                            eslevé n'a le dos assailly,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Tousjours
+                                            impetueux Lignon ne se courrouce,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">L'espoir de mes
+                                            moissons ne nous deçoit tousjours,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Par divers
+                                            changements s'entresuivent nos jours,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Et d'un bransle
+                                            divers, le temps mesme se pousse.</hi></l>
+                                </lg>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Ma Bergere dormoit : mais autour de ses yeux,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic"> Mille petits
+                                            Amours voletoient soucieux,</hi></l>
+                                    <pb xml:id="page_abs_655" n="page_ori_650"/>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">A trouppes les
+                                            desirs sur sa levre jumelle,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Accouroient
+                                            murmurant, comme fantosmes vains :</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Et ces desirs
+                                            naissoient des amoureux Silvains,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Qui ne virent
+                                            jamais une Nymphe si belle.</hi></l>
+                                </lg>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Heureux, ah ! trop heureux tous mes ennuis
+                                        passez,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Vous estes à ce
+                                            coup trop bien recompensez,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Puis que je l'ay
+                                            peu voir avant que je finisse :</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Mais s'il ne te
+                                            plaist pas de changer son desdain,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Je te supplie
+                                            Amour fay moy mourir soudain,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">De peur qu'en
+                                            languissant mon heur ne s'amoindrisse.</hi></l>
+                                </lg>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >En sa course Lignon, reflotte moins de fois,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Nos champs
+                                            jaunissent moins, Isoure a moins de bois,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Et moins de voix
+                                            Echo, bien qu'elle soit son ame,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Moins d'eslans à
+                                            cet Air d'un grand vent agité,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Que mon cœur n'a
+                                            d'Amour, ma Nimphe de beauté,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Que mon Amour de
+                                            foy, que sa beauté de flamme.</hi></l>
+                                </lg>
                             </div>
                         </body>
                     </floatingText>
@@ -17497,35 +17595,49 @@
                                 <head>
                                     <hi rend="bold">STANCES.</hi>
                                 </head>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Precipices, rochers, montagnes sourcilleuses,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Abismes entre
+                                            ouverts, vous pointes orgueilleuses</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Qui vous armez
+                                            d'horreur &amp; despouventement,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Encor que de pitié
+                                            vous ne soyez atteintes,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">De vos sommets
+                                            chenus escoutez mes complaintes,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Et soyez pour ce
+                                            coup tesmoins de mon serment.</hi></l>
+                                </lg>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Ainsi que j'apperçois dessus vos testes nuës,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Les arbres se
+                                            nourrir, &amp; voisiner les nuës,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Je fay vœu qu'à
+                                            jamais en moy je nourriray,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Contre tous mes
+                                            malheurs mon amour infinie :</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Accroisse s'il se
+                                            peut le Ciel sa tyrannie,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Si je n'esmeus
+                                            l'Amour, la mort je fleschiray.</hi></l>
+                                </lg>
 
-                                <p>&#160;&#160;&#160;<hi rend="italic">Precipices, rochers,
-                                        montagnes sourcilleuses,<lb/> Abismes entre ouverts, vous
-                                        pointes orgueilleuses<lb/> Qui vous armez d'horreur &amp;
-                                        despouventement,<lb/> Encor que de pitié vous ne soyez
-                                        atteintes,<lb/> De vos sommets chenus escoutez mes
-                                        complaintes,<lb/> Et soyez pour ce coup tesmoins de mon
-                                        serment.</hi></p>
-                                <p>&#160;&#160;&#160;<hi rend="italic">Ainsi que j'apperçois dessus
-                                        vos testes nuës,<lb/> Les arbres se nourrir, &amp; voisiner
-                                        les nuës,<lb/> Je fay vœu qu'à jamais en moy je
-                                        nourriray,<lb/> Contre tous mes malheurs mon amour infinie
-                                        :<lb/> Accroisse s'il se peut le Ciel sa tyrannie,<lb/> Si
-                                        je n'esmeus l'Amour, la mort je fleschiray.</hi></p>
-                                <p>&#160;&#160;&#160;Et parce qu'auparavant ayant passé les
-                                    destroits des Sebusiens, je voulus esviter la fascheuse montagne
-                                    des Caturiges me mettant sur le Rosne, je me resolus de suivre
-                                    ce grand lac qui flotte contre les rochers escarpez de cette
-                                    montagne, mais je ne fus pas soulagé par l'eau davantage que par
-                                    la terre : [au] contraire la tourmente s'eslevant, nous
-                                    faillismes plusieurs fois de nous perdre tous. Et lors que
-                                    chacun pour la prochaine mort qui nous menassoit, trembloit dans
-                                    le batteau, sans estre esmeu de cette crainte, je ne pensois
-                                    qu'en ma Bergere, &amp; voicy des vers que j'en fis à l'heure
-                                    mesme.</p>
-                                <pb xml:id="page_abs_671" n="page_ori_666"/>
                             </div>
                         </body>
                     </floatingText>
+
+                    <p>&#160;&#160;&#160;Et parce qu'auparavant ayant passé les destroits des
+                        Sebusiens, je voulus esviter la fascheuse montagne des Caturiges me mettant
+                        sur le Rosne, je me resolus de suivre ce grand lac qui flotte contre les
+                        rochers escarpez de cette montagne, mais je ne fus pas soulagé par l'eau
+                        davantage que par la terre : [au] contraire la tourmente s'eslevant, nous
+                        faillismes plusieurs fois de nous perdre tous. Et lors que chacun pour la
+                        prochaine mort qui nous menassoit, trembloit dans le batteau, sans estre
+                        esmeu de cette crainte, je ne pensois qu'en ma Bergere, &amp; voicy des vers
+                        que j'en fis à l'heure mesme.</p>
+                    <pb xml:id="page_abs_671" n="page_ori_666"/>
 
                     <floatingText xml:id="S1_L10_P2" type="sonnet">
                         <body>
