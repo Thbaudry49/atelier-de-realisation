@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <listEvent xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+
+        <listEvent xml:id="livre_1">
+    <event from="1607" where="paris" xml:id="xml_1607_i_global">
+        <label>Astrée. Première partie, édition de 1607</label>
+    </event>
+        </listEvent>
+    
     
     <event from="1614" where="paris" xml:id="xml_1614_ii_global">
         <label>Astrée. Seconde partie, édition de 1614</label>
