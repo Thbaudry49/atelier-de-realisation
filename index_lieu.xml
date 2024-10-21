@@ -6,5 +6,16 @@
             <name>Rivière de Lignon</name>
           </place>
 
+  <place xml:id="feurs">
+            <name>Feurs</name>
+          </place>
+
+  <place xml:id="lyon">
+            <name>Lyon</name>
+          </place>
+
+  <place xml:id="loire">
+            <name>La Loire</name>
+          </place>
 
 </listPlace>
