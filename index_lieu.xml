@@ -26,4 +26,8 @@
             <name>Marcilly</name>
           </place>
 
+  <place xml:id="cabane_druide">
+            <name>La cabane du druide</name>
+          </place>
+
 </listPlace>
