@@ -18,4 +18,12 @@
             <name>La Loire</name>
           </place>
 
+  <place xml:id="montverdun">
+            <name>Montverdun</name>
+          </place>
+
+  <place xml:id="marcilly">
+            <name>Marcilly</name>
+          </place>
+
 </listPlace>
