@@ -13818,13 +13818,18 @@
                                 <head>
                                     <hi rend="bold">ORACLE.</hi>
                                 </head>
-
-                                <p>&#160;&#160;&#160;<hi rend="italic">A vous sage <persName
-                                            key="adamas" role="druide">Adamas</persName> le Ciel l'a
-                                        destiné,<lb/> Surmontez par prudence,<lb/> Et l'amour &amp;
-                                        l'enfance.<lb/> Vous le devez ainsi, puis qu'il est
-                                        ordonné,<lb/> Qu'obtenant sa maistresse<lb/> Contente pour
-                                        jamais sera vostre vieillesse.</hi><lb/></p>
+                                <lg>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">A vous sage <persName
+                                                key="adamas" role="druide">Adamas</persName> le Ciel
+                                            l'a destiné,</hi></l>
+                                    <l><hi rend="italic">Surmontez par prudence,</hi></l>
+                                    <l><hi rend="italic">Et l'amour &amp; l'enfance.</hi></l>
+                                    <l><hi rend="italic">Vous le devez ainsi, puis qu'il est
+                                            ordonné,</hi></l>
+                                    <l><hi rend="italic">Qu'obtenant sa maistresse</hi></l>
+                                    <l><hi rend="italic">Contente pour jamais sera vostre
+                                            vieillesse.</hi></l>
+                                </lg>
                             </div>
                         </body>
                     </floatingText>
@@ -15190,54 +15195,66 @@
                         <body>
                             <div1>
                                 <head><hi rend="bold">DIALOGUE.</hi><lb/> PALEMON, DORIS.</head>
-                                <div2 n="1">
-                                    <p>I</p>
+                                <lg n="1">
+                                    <l>I</l>
+                                    <l>PAL. <hi rend="italic">Si j'ayme autre que vous que je meure
+                                            &amp; soudain</hi></l>
+                                    <l><hi rend="italic">D'eternelle douleur ceste mort soit
+                                            suivie.</hi></l>
+                                    <l>DOR. <hi rend="italic">Que je puisse mourir d'un tourment
+                                            inhumain,</hi></l>
+                                    <l><hi rend="italic">Si d'aymer rien que moy je prens jamais
+                                            envie.</hi></l>
+                                </lg>
+                                <lg n="2">
+                                    <l>II.</l>
 
-                                    <p>PAL. <hi rend="italic">Si j'ayme autre que vous que je meure
-                                            &amp; soudain<lb/> D'eternelle douleur ceste mort soit
-                                            suivie.</hi><lb/> DOR. <hi rend="italic">Que je puisse
-                                            mourir d'un tourment inhumain,<lb/> Si d'aymer rien que
-                                            moy je prens jamais envie.</hi></p>
-                                </div2>
-                                <div2 n="2">
-                                    <p>II.</p>
+                                    <l>P. <hi rend="italic">Aimez ou n'aymez point, tousjours vous
+                                            adorant,</hi></l>
+                                    <l><hi rend="italic">Vous verrez que ma foy se rendra plus
+                                            extreme.</hi></l>
+                                    <l>D. <hi rend="italic">Aymez ou n'aimez point, il m'est
+                                            indifferent,</hi></l>
+                                    <l><hi rend="italic">Mais vous ne verrez point que jamais je
+                                            vous ayme.</hi></l>
+                                </lg>
+                                <lg n="3">
+                                    <l>III.</l>
 
-                                    <p>P. <hi rend="italic">Aimez ou n'aymez point, tousjours vous
-                                            adorant,<lb/> Vous verrez que ma foy se rendra plus
-                                            extreme.</hi><lb/> D. <hi rend="italic">Aymez ou n'aimez
-                                            point, il m'est indifferent,<lb/> Mais vous ne verrez
-                                            point que jamais je vous ayme.</hi></p>
-                                </div2>
-                                <div2 n="3">
-                                    <p>III.</p>
+                                    <l>P. <hi rend="italic">Je vaincray vous aymant toute
+                                            difficulté</hi></l>
+                                    <pb xml:id="page_abs_580" n="page_ori_574"/>
+                                    <l><hi rend="italic">Encor qu'à mon dessein le Ciel mesme
+                                            s'oppose.</hi></l>
+                                    <l>D. <hi rend="italic">Mon cœur est tellement de l'amour
+                                            rebuté,</hi></l>
+                                    <l><hi rend="italic">Que pour ne vous aymer il vaincra toute
+                                            chose.</hi></l>
+                                </lg>
+                                <lg n="4">
+                                    <l>IIII.</l>
 
-                                    <p>P. <hi rend="italic">Je vaincray vous aymant toute difficulté<lb/>
-                                            <pb xml:id="page_abs_580" n="page_ori_574"/> Encor qu'à
-                                            mon dessein le Ciel mesme s'oppose.</hi><lb/> D. <hi
-                                            rend="italic">Mon cœur est tellement de l'amour
-                                            rebuté,<lb/> Que pour ne vous aymer il vaincra toute
-                                            chose.</hi></p>
-                                </div2>
-                                <div2 n="4">
-                                    <p>IIII.</p>
+                                    <l>P. <hi rend="italic">Si le Ciel estoit juste il puniroit en
+                                            vous,</hi></l>
+                                    <l><hi rend="italic">Cet orgueil qui vous fait mespriser tous
+                                            les hommes.</hi></l>
+                                    <l>D. <hi rend="italic">Mais tant s'en faut le Ciel estant tres
+                                            juste en nous,</hi></l>
+                                    <l><hi rend="italic">Nous detient l'un &amp; l'autre au dessein
+                                            où nous sommes.</hi></l>
+                                </lg>
+                                <lg n="5">
+                                    <l>V.</l>
 
-                                    <p>P. <hi rend="italic">Si le Ciel estoit juste il puniroit en
-                                            vous,<lb/> Cet orgueil qui vous fait mespriser tous les
-                                            hommes.</hi><lb/> D. <hi rend="italic">Mais tant s'en
-                                            faut le Ciel estant tres juste en nous,<lb/> Nous
-                                            detient l'un &amp; l'autre au dessein où nous
-                                            sommes.</hi></p>
-                                </div2>
-                                <div2 n="5">
-                                    <p>V.</p>
-
-                                    <p>P. <hi rend="italic">Quand il veut qu'on vous aime il est
-                                            juste en ce point,<lb/> Mais injuste, en ostant à
-                                            l'Amour l'esperance.</hi><lb/> D. <hi rend="italic">S'il
-                                            veut que vous aimiez,&amp; que je n'aime point,<lb/> Il
-                                            vange mon Amour &amp; punit vostre
-                                        offence.</hi><lb/></p>
-                                </div2>
+                                    <l>P. <hi rend="italic">Quand il veut qu'on vous aime il est
+                                            juste en ce point,</hi></l>
+                                    <l><hi rend="italic"> Mais injuste, en ostant à l'Amour
+                                            l'esperance.</hi></l>
+                                    <l> D. <hi rend="italic">S'il veut que vous aimiez,&amp; que je
+                                            n'aime point,</hi></l>
+                                    <l><hi rend="italic"> Il vange mon Amour &amp; punit vostre
+                                            offence.</hi></l>
+                                </lg>
                             </div1>
                         </body>
                     </floatingText>
@@ -15370,17 +15387,26 @@
                                     Memoire Eternelle.<lb/> Du. Plus. Aymable Berger.<lb/> De
                                         <placeName key="riviere_lignon">Lignon</placeName>.</head>
 
-
-                                <p>Amour qui. Par. Imprudence. Fut. Cause.<lb/> De. La. Mort. De
-                                        <persName key="celadon" role="berger"
-                                    >Celadon</persName><lb/> Apres. Avoir Noyé Son. Bandeau. De. Ses
-                                    Pleurs.<lb/> Rompu. Son. Arc.<lb/> Froisse. Ses. Traits.<lb/>
-                                    Estaint. A Jamais. Son. Flambeau.<lb/> Luy. Rend.<lb/> Plein De.
-                                    Tristesse. Et. De. Desolation.<lb/> Ce. Dernier. Devoir.<lb/>
-                                    Et. Apand.<lb/> Sa. Despouille Sur. Ce. Tombeau.<lb/> Pour.
-                                    Marque. Eternelle.<lb/> Qu'ayant. Perdu. Un. Subjet. Si.
-                                    Aymable.<lb/> Il. Ne. Veut.<lb/> Ni. Ne. Daigneroit. Plus.<lb/>
-                                    Employer. Ses. Traits. Ni. Ses. Flammes.<lb/> Inutiles.<lb/></p>
+                                <lg>
+                                    <l>Amour qui. Par. Imprudence. Fut. Cause.</l>
+                                    <l>De. La. Mort. De <persName key="celadon" role="berger"
+                                            >Celadon</persName></l>
+                                    <l>Apres. Avoir Noyé Son. Bandeau. De. Ses Pleurs.</l>
+                                    <l>Rompu. Son. Arc.</l>
+                                    <l>Froisse. Ses. Traits.</l>
+                                    <l>Estaint. A Jamais. Son. Flambeau.</l>
+                                    <l>Luy. Rend.</l>
+                                    <l>Plein De. Tristesse. Et. De. Desolation.</l>
+                                    <l>Ce. Dernier. Devoir.</l>
+                                    <l>Et. Apand.</l>
+                                    <l>Sa. Despouille Sur. Ce. Tombeau.</l>
+                                    <l>Pour. Marque. Eternelle.</l>
+                                    <l>Qu'ayant. Perdu. Un. Subjet. Si. Aymable.</l>
+                                    <l>Il. Ne. Veut.</l>
+                                    <l>Ni. Ne. Daigneroit. Plus.</l>
+                                    <l>Employer. Ses. Traits. Ni. Ses. Flammes.</l>
+                                    <l>Inutiles.</l>
+                                </lg>
                             </div>
                         </body>
                     </floatingText>
@@ -25026,9 +25052,8 @@
                         vingt-uniesme, &amp; scellé du grand sceau en cire jaune. Par le Roy en son
                         Conseil.</p>
                     <p>&#160;&#160;&#160;DESPORTES.</p>
-                    <p>Par accord fait le vingt huictiesme May mil six cens
-                        quatorze, ledit Micard a associé Olivier de Varennes Libraire pour un quart
-                        audit privilege.</p>
+                    <p>Par accord fait le vingt huictiesme May mil six cens quatorze, ledit Micard a
+                        associé Olivier de Varennes Libraire pour un quart audit privilege.</p>
                 </div2>
 
             </div1>
