@@ -4773,54 +4773,64 @@
 
 
                                 <lg type="chansonparagraphe" n="1">
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Quand <persName
-                                                key="hylas" role="donjuan">Hylas</persName>apperceut
-                                            les yeux</hi></l>
-                                    <l><hi rend="italic">De <persName key="philis"
-                                                role="amie_astree">Philis</persName> sabelle
-                                            Maistresse,</hi></l>
-                                    <l><hi rend="italic">Voit on encor telle Déesse</hi></l>
-                                    <l><hi rend="italic">Ailleurs, dit-il, que dans les Cieux
-                                        ?</hi></l>
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Quand <persName key="hylas" role="donjuan"
+                                                >Hylas</persName>apperceut les yeux</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">De <persName
+                                                key="philis" role="amie_astree">Philis</persName>
+                                            sabelle Maistresse,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Voit on encor
+                                            telle Déesse</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Ailleurs, dit-il,
+                                            que dans les Cieux ?</hi></l>
                                 </lg>
 
                                 <lg type="chansonparagraphe" n="2">
                                     <head>II.</head>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Phylis d'un esclat
-                                            rougissant</hi></l>
-                                    <l><hi rend="italic">Oyant ces mots devint plus belle ;</hi></l>
-                                    <l><hi rend="italic">En vain cette beauté nouvelle</hi></l>
-                                    <l><hi rend="italic">Rend, dit-il, vostre œil plus
-                                            puissant.</hi></l>
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Phylis d'un esclat rougissant</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Oyant ces mots
+                                            devint plus belle ;</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">En vain cette
+                                            beauté nouvelle</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Rend, dit-il,
+                                            vostre œil plus puissant.</hi></l>
                                 </lg>
                                 <lg type="chansonparagraphe" n="3">
                                     <head>III.</head>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Elle d'un gracieux
-                                            sousris</hi></l>
-                                    <l><hi rend="italic">Recevant cette flatterie :</hi></l>
-                                    <l><hi rend="italic">Cessez, luy dit-il, je vous prie,</hi></l>
-                                    <l><hi rend="italic">C'est fait, en fin <persName key="hylas"
-                                                role="donjuan">Hylas</persName> est pris.</hi></l>
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Elle d'un gracieux sousris</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Recevant cette
+                                            flatterie :</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Cessez, luy
+                                            dit-il, je vous prie,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">C'est fait, en fin
+                                                <persName key="hylas" role="donjuan"
+                                                >Hylas</persName> est pris.</hi></l>
                                 </lg>
                                 <lg type="chansonparagraphe" n="4">
                                     <head>IIII.</head>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Mais s'il plaint,
-                                            dit-elle, à l'instant</hi></l>
-                                    <l><hi rend="italic">Sa liberté, qu'il la repreine</hi></l>
-                                    <l><hi rend="italic">Vous estes, dit-il, moins humaine</hi></l>
-                                    <l><hi rend="italic">En pardonnant qu'en surmontant.</hi></l>
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Mais s'il plaint, dit-elle, à l'instant</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Sa liberté, qu'il
+                                            la repreine</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Vous estes,
+                                            dit-il, moins humaine</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">En pardonnant
+                                            qu'en surmontant.</hi></l>
                                 </lg>
                                 <pb xml:id="page_abs_180" n="page_ori_173"/>
 
                                 <lg type="chansonparagraphe" n="5">
                                     <head>V.</head>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Lien trop aymable &amp;
-                                            trop cher</hi></l>
-                                    <l><hi rend="italic">Dont le captif craint qu'on le
-                                        lasche,</hi></l>
-                                    <l><hi rend="italic">Heureux Amant puis qu'il te fasche</hi></l>
-                                    <l><hi rend="italic">Quand tu vois qu'on te veut
-                                        lascher.</hi></l>
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Lien trop aymable &amp; trop cher</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Dont le captif
+                                            craint qu'on le lasche,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Heureux Amant puis
+                                            qu'il te fasche</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Quand tu vois
+                                            qu'on te veut lascher.</hi></l>
                                 </lg>
                             </div1>
                         </body>
@@ -7921,146 +7931,198 @@
 
                                 <lg n="1">
                                     <head>Premiere Table.</head>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Qui veut estre
-                                            parfaitAmant,</hi></l>
-                                    <l><hi rend="italic">Il faut qu'il ayme infiniment :</hi></l>
-                                    <l><hi rend="italic">L'extreme Amour seule en est
-                                        digne,</hi></l>
-                                    <l><hi rend="italic">Aussi la mediocrité,</hi></l>
-                                    <l><hi rend="italic">De trahison est plustost signe,</hi></l>
-                                    <l><hi rend="italic">Que non pas de fidelité.</hi></l>
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Qui veut estre parfaitAmant,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Il faut qu'il ayme
+                                            infiniment :</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">L'extreme Amour
+                                            seule en est digne,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Aussi la
+                                            mediocrité,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">De trahison est
+                                            plustost signe,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Que non pas de
+                                            fidelité.</hi></l>
                                 </lg>
 
                                 <lg n="2">
                                     <head>Deuxiesme Table.</head>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Qu'il n'aime jamais qu'en
-                                            un lieu,</hi></l>
-                                    <l><hi rend="italic">Et que cest Amour soit un Dieu,</hi></l>
-                                    <l><hi rend="italic">Qu'il adore pour toute chose :</hi></l>
-                                    <l><hi rend="italic">Et n'ayant jamais qu'un objet,</hi></l>
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Qu'il n'aime jamais qu'en un lieu,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Et que cest Amour
+                                            soit un Dieu,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Qu'il adore pour
+                                            toute chose :</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Et n'ayant jamais
+                                            qu'un objet,</hi></l>
                                     <pb xml:id="page_abs_303" n="page_ori_296"/>
-                                    <l><hi rend="italic">Tous les bon heurs qu'il se
-                                        propose</hi></l>
-                                    <l><hi rend="italic">Soient pour cet unique sujet.</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Tous les bon heurs
+                                            qu'il se propose</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Soient pour cet
+                                            unique sujet.</hi></l>
                                 </lg>
 
                                 <lg n="3">
                                     <head>Troisiesme Table.</head>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Bornant en luy tous ses
-                                            plaisirs,</hi></l>
-                                    <l><hi rend="italic">Qu'il arreste tous ses desirs,</hi></l>
-                                    <l><hi rend="italic">Au service de cette belle :</hi></l>
-                                    <l><hi rend="italic">Voire qu'il cesse de s'aymer,</hi></l>
-                                    <l><hi rend="italic">Sinon que d'autant qu'aymé d'elle,</hi></l>
-                                    <l><hi rend="italic">Il se doit pour elle estimer.</hi></l>
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Bornant en luy tous ses plaisirs,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Qu'il arreste tous
+                                            ses desirs,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Au service de
+                                            cette belle :</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Voire qu'il cesse
+                                            de s'aymer,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Sinon que d'autant
+                                            qu'aymé d'elle,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Il se doit pour
+                                            elle estimer.</hi></l>
                                 </lg>
 
                                 <lg n="4">
                                     <head>Quatriesme Table.</head>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Que s'il a le soin
-                                            d'estre mieux,</hi></l>
-                                    <l><hi rend="italic">Ce ne soit que pour les beaux
-                                        yeux,</hi></l>
-                                    <l><hi rend="italic">Dont son Amour a pris naissance :</hi></l>
-                                    <l><hi rend="italic">S'il souhaite plus de bon-heur,</hi></l>
-                                    <l><hi rend="italic">Ce ne soit que pour l'esperance,</hi></l>
-                                    <l><hi rend="italic">Qu'elle en recevra plus d'honneur.</hi></l>
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Que s'il a le soin d'estre mieux,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Ce ne soit que
+                                            pour les beaux yeux,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Dont son Amour a
+                                            pris naissance :</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">S'il souhaite plus
+                                            de bon-heur,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Ce ne soit que
+                                            pour l'esperance,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Qu'elle en recevra
+                                            plus d'honneur.</hi></l>
                                 </lg>
 
                                 <lg n="5">
                                     <head>Cinquiesme Table.</head>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Telle soit son
-                                            affection,</hi></l>
-                                    <l><hi rend="italic">Que mesme la possession,</hi></l>
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Telle soit son affection,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Que mesme la
+                                            possession,</hi></l>
                                     <pb xml:id="page_abs_304" n="page_ori_297"/>
-                                    <l><hi rend="italic">De ce qu'il de sire en son ame,</hi></l>
-                                    <l><hi rend="italic">S'il doit l'acheter au mespris</hi></l>
-                                    <l><hi rend="italic">De son honneur ou de sa Dame,</hi></l>
-                                    <l><hi rend="italic">Luy soit moins chere que ce pris.</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">De ce qu'il de
+                                            sire en son ame,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">S'il doit
+                                            l'acheter au mespris</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">De son honneur ou
+                                            de sa Dame,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Luy soit moins
+                                            chere que ce pris.</hi></l>
                                 </lg>
 
                                 <lg n="6">
                                     <head>Sixiesme Table.</head>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Pour subjet qui se vienne
-                                            offrir,</hi></l>
-                                    <l><hi rend="italic">Qu'il ne puisse jamais souffrir.</hi></l>
-                                    <l><hi rend="italic">La honte de la chose aimée :</hi></l>
-                                    <l><hi rend="italic">Et si devant luy par desdain,</hi></l>
-                                    <l><hi rend="italic">D'un mesdisant elle est blasmée :</hi></l>
-                                    <l><hi rend="italic">Qu'il meure ou la venge soudain.</hi></l>
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Pour subjet qui se vienne offrir,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Qu'il ne puisse
+                                            jamais souffrir.</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">La honte de la
+                                            chose aimée :</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Et si devant luy
+                                            par desdain,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">D'un mesdisant
+                                            elle est blasmée :</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Qu'il meure ou la
+                                            venge soudain.</hi></l>
                                 </lg>
 
                                 <lg n="7">
                                     <head>Septiesme Table.</head>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Que son Amour fasse en
-                                            effet,</hi></l>
-                                    <l><hi rend="italic">Qu'il juge en elle tout parfait,</hi></l>
-                                    <l><hi rend="italic">Et quoy que sans doute il l'estime
-                                        :</hi></l>
-                                    <l><hi rend="italic">Au prix de ce qu'il aymera,</hi></l>
-                                    <l><hi rend="italic">Qu'il condamne comme d'un crime,</hi></l>
-                                    <l><hi rend="italic">Celuy qui moins l'estimera.</hi></l>
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Que son Amour fasse en effet,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Qu'il juge en elle
+                                            tout parfait,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Et quoy que sans
+                                            doute il l'estime :</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Au prix de ce
+                                            qu'il aymera,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Qu'il condamne
+                                            comme d'un crime,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Celuy qui moins
+                                            l'estimera.</hi></l>
                                 </lg>
                                 <pb xml:id="page_abs_305" n="page_ori_298"/>
 
                                 <lg n="8">
                                     <head>Huictiesme Table.</head>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Qu'espris d'un Amour
-                                            violant,</hi></l>
-                                    <l><hi rend="italic">Il aille sans cesse brulant,</hi></l>
-                                    <l><hi rend="italic">Et qu'il languisse, &amp; qu'il
-                                            souspire,</hi></l>
-                                    <l><hi rend="italic">Entre la vie &amp; le trespas,</hi></l>
-                                    <l><hi rend="italic">Sans toutesfois qu'il puisse dire,</hi></l>
-                                    <l><hi rend="italic">Ce qu'il veut, ou qu'il ne veut
-                                        pas.</hi></l>
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Qu'espris d'un Amour violant,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Il aille sans
+                                            cesse brulant,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Et qu'il
+                                            languisse, &amp; qu'il souspire,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Entre la vie &amp;
+                                            le trespas,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Sans toutesfois
+                                            qu'il puisse dire,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Ce qu'il veut, ou
+                                            qu'il ne veut pas.</hi></l>
                                 </lg>
 
                                 <lg n="9">
                                     <head>Neufiesme Table.</head>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Mesprisant son propre
-                                            sejour,</hi></l>
-                                    <l><hi rend="italic">Son Ame aille vivre d'Amour</hi></l>
-                                    <l><hi rend="italic">Au sein de celle qu'il adore,</hi></l>
-                                    <l><hi rend="italic">Et qu'en elle ainsi transformé,</hi></l>
-                                    <l><hi rend="italic">Tout ce qu'elle aime &amp; qu'elle
-                                            honore,</hi></l>
-                                    <l><hi rend="italic">Soit aussi de luy bien aimé.</hi></l>
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Mesprisant son propre sejour,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Son Ame aille
+                                            vivre d'Amour</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Au sein de celle
+                                            qu'il adore,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Et qu'en elle
+                                            ainsi transformé,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Tout ce qu'elle
+                                            aime &amp; qu'elle honore,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Soit aussi de luy
+                                            bien aimé.</hi></l>
                                 </lg>
 
                                 <lg n="10">
                                     <head>Dixiesme Table.</head>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Qu'il tienne les jours
-                                            pour perdus,</hi></l>
-                                    <l><hi rend="italic">Qui loing d'elle sont despendus,</hi></l>
-                                    <l><hi rend="italic">Toute peine soit embrassée,</hi></l>
-                                    <l><hi rend="italic">Pour estre en ce lieu desiré,</hi></l>
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Qu'il tienne les jours pour perdus,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Qui loing d'elle
+                                            sont despendus,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Toute peine soit
+                                            embrassée,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Pour estre en ce
+                                            lieu desiré,</hi></l>
                                     <pb xml:id="page_abs_306" n="page_ori_299"/>
-                                    <l><hi rend="italic">Et qu'il y soit de la pensée,</hi></l>
-                                    <l><hi rend="italic">Si le corps en est separé.</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Et qu'il y soit de
+                                            la pensée,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Si le corps en est
+                                            separé.</hi></l>
                                 </lg>
 
                                 <lg n="11">
                                     <head>Unziesme Table.</head>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Que la perte de la
-                                            raison,</hi></l>
-                                    <l><hi rend="italic">Que les liens &amp; la prison,</hi></l>
-                                    <l><hi rend="italic">Pour elle en son ame il cherisse ;</hi></l>
-                                    <l><hi rend="italic">Et se plaise à s'y renfermer,</hi></l>
-                                    <l><hi rend="italic">Sans attendre de son service,</hi></l>
-                                    <l><hi rend="italic">Que le seul honneur de l'aimer.</hi></l>
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Que la perte de la raison,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Que les liens
+                                            &amp; la prison,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Pour elle en son
+                                            ame il cherisse ;</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Et se plaise à s'y
+                                            renfermer,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Sans attendre de
+                                            son service,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Que le seul
+                                            honneur de l'aimer.</hi></l>
                                 </lg>
 
                                 <lg n="12">
                                     <head>Douziesme Table.</head>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Qu'il ne puisse jamais
-                                            penser,</hi></l>
-                                    <l><hi rend="italic">Que son Amour doive passer :</hi></l>
-                                    <l><hi rend="italic">Qui d'autre sorte le conseille,</hi></l>
-                                    <l><hi rend="italic">Soit pour ennemy reputé,</hi></l>
-                                    <l><hi rend="italic">Car c'est de luy preter
-                                        l'aureille,</hi></l>
-                                    <l><hi rend="italic">Crime de leze Maiesté.</hi></l>
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Qu'il ne puisse jamais penser,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Que son Amour
+                                            doive passer :</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Qui d'autre sorte
+                                            le conseille,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Soit pour ennemy
+                                            reputé,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Car c'est de luy
+                                            preter l'aureille,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Crime de leze
+                                            Maiesté.</hi></l>
                                 </lg>
 
                             </div>
@@ -13818,17 +13880,20 @@
                                 <head>
                                     <hi rend="bold">ORACLE.</hi>
                                 </head>
-                                <lg>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">A vous sage <persName
-                                                key="adamas" role="druide">Adamas</persName> le Ciel
-                                            l'a destiné,</hi></l>
-                                    <l><hi rend="italic">Surmontez par prudence,</hi></l>
-                                    <l><hi rend="italic">Et l'amour &amp; l'enfance.</hi></l>
-                                    <l><hi rend="italic">Vous le devez ainsi, puis qu'il est
-                                            ordonné,</hi></l>
-                                    <l><hi rend="italic">Qu'obtenant sa maistresse</hi></l>
-                                    <l><hi rend="italic">Contente pour jamais sera vostre
-                                            vieillesse.</hi></l>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >A vous sage <persName key="adamas" role="druide"
+                                                >Adamas</persName> le Ciel l'a destiné,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Surmontez par
+                                            prudence,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Et l'amour &amp;
+                                            l'enfance.</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Vous le devez
+                                            ainsi, puis qu'il est ordonné,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Qu'obtenant sa
+                                            maistresse</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Contente pour
+                                            jamais sera vostre vieillesse.</hi></l>
                                 </lg>
                             </div>
                         </body>
@@ -15199,24 +15264,24 @@
                                     <l>I</l>
                                     <l>PAL. <hi rend="italic">Si j'ayme autre que vous que je meure
                                             &amp; soudain</hi></l>
-                                    <l><hi rend="italic">D'eternelle douleur ceste mort soit
-                                            suivie.</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">D'eternelle
+                                            douleur ceste mort soit suivie.</hi></l>
                                     <l>DOR. <hi rend="italic">Que je puisse mourir d'un tourment
                                             inhumain,</hi></l>
-                                    <l><hi rend="italic">Si d'aymer rien que moy je prens jamais
-                                            envie.</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Si d'aymer rien
+                                            que moy je prens jamais envie.</hi></l>
                                 </lg>
                                 <lg n="2">
                                     <l>II.</l>
 
                                     <l>P. <hi rend="italic">Aimez ou n'aymez point, tousjours vous
                                             adorant,</hi></l>
-                                    <l><hi rend="italic">Vous verrez que ma foy se rendra plus
-                                            extreme.</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Vous verrez que ma
+                                            foy se rendra plus extreme.</hi></l>
                                     <l>D. <hi rend="italic">Aymez ou n'aimez point, il m'est
                                             indifferent,</hi></l>
-                                    <l><hi rend="italic">Mais vous ne verrez point que jamais je
-                                            vous ayme.</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Mais vous ne
+                                            verrez point que jamais je vous ayme.</hi></l>
                                 </lg>
                                 <lg n="3">
                                     <l>III.</l>
@@ -15224,36 +15289,36 @@
                                     <l>P. <hi rend="italic">Je vaincray vous aymant toute
                                             difficulté</hi></l>
                                     <pb xml:id="page_abs_580" n="page_ori_574"/>
-                                    <l><hi rend="italic">Encor qu'à mon dessein le Ciel mesme
-                                            s'oppose.</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Encor qu'à mon
+                                            dessein le Ciel mesme s'oppose.</hi></l>
                                     <l>D. <hi rend="italic">Mon cœur est tellement de l'amour
                                             rebuté,</hi></l>
-                                    <l><hi rend="italic">Que pour ne vous aymer il vaincra toute
-                                            chose.</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Que pour ne vous
+                                            aymer il vaincra toute chose.</hi></l>
                                 </lg>
                                 <lg n="4">
                                     <l>IIII.</l>
 
                                     <l>P. <hi rend="italic">Si le Ciel estoit juste il puniroit en
                                             vous,</hi></l>
-                                    <l><hi rend="italic">Cet orgueil qui vous fait mespriser tous
-                                            les hommes.</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Cet orgueil qui
+                                            vous fait mespriser tous les hommes.</hi></l>
                                     <l>D. <hi rend="italic">Mais tant s'en faut le Ciel estant tres
                                             juste en nous,</hi></l>
-                                    <l><hi rend="italic">Nous detient l'un &amp; l'autre au dessein
-                                            où nous sommes.</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Nous detient l'un
+                                            &amp; l'autre au dessein où nous sommes.</hi></l>
                                 </lg>
                                 <lg n="5">
                                     <l>V.</l>
 
                                     <l>P. <hi rend="italic">Quand il veut qu'on vous aime il est
                                             juste en ce point,</hi></l>
-                                    <l><hi rend="italic"> Mais injuste, en ostant à l'Amour
-                                            l'esperance.</hi></l>
-                                    <l> D. <hi rend="italic">S'il veut que vous aimiez,&amp; que je
-                                            n'aime point,</hi></l>
-                                    <l><hi rend="italic"> Il vange mon Amour &amp; punit vostre
-                                            offence.</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic"> Mais injuste, en
+                                            ostant à l'Amour l'esperance.</hi></l>
+                                    <l ana="vers" xml:lang="fr"> D. <hi rend="italic">S'il veut que
+                                            vous aimiez,&amp; que je n'aime point,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic"> Il vange mon
+                                            Amour &amp; punit vostre offence.</hi></l>
                                 </lg>
                             </div1>
                         </body>
@@ -15387,7 +15452,7 @@
                                     Memoire Eternelle.<lb/> Du. Plus. Aymable Berger.<lb/> De
                                         <placeName key="riviere_lignon">Lignon</placeName>.</head>
 
-                                <lg>
+                                <lg ana="vers" xml:lang="fr">
                                     <l>Amour qui. Par. Imprudence. Fut. Cause.</l>
                                     <l>De. La. Mort. De <persName key="celadon" role="berger"
                                             >Celadon</persName></l>
@@ -24402,15 +24467,23 @@
                         <body>
                             <div>
                                 <head>EPITAPHE<lb/> D'UN HOMME HEUREUX.</head>
-
-                                <p>&#160;&#160;&#160;<hi rend="italic">Enfant chery de tous, nourry
-                                        de pere &amp; mere,<lb/> Jeune, sans point de peine, &amp;
-                                        sans mauvaises mœurs,<lb/> Puis homme j'ay vescu, sans
-                                        fortune contraire.<lb/> Et vieux sans maladie : à la fin si
-                                        je meurs,<lb/> C'est que la mort à tous, est chose
-                                        necessaire,<lb/> Passant ne trouble point maintenant mon
-                                        repos :<lb/> Et toy terre, à jamais sois legere à mes
-                                        os.</hi><lb/></p>
+                                <lg ana="vers" xml:lang="fr">
+                                    <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
+                                            >Enfant chery de tous, nourry de pere &amp;
+                                        mere,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Jeune, sans point
+                                            de peine, &amp; sans mauvaises mœurs,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Puis homme j'ay
+                                            vescu, sans fortune contraire.</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Et vieux sans
+                                            maladie : à la fin si je meurs,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">C'est que la mort
+                                            à tous, est chose necessaire,</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Passant ne trouble
+                                            point maintenant mon repos :</hi></l>
+                                    <l ana="vers" xml:lang="fr"><hi rend="italic">Et toy terre, à
+                                            jamais sois legere à mes os.</hi></l>
+                                </lg>
                             </div>
                         </body>
                     </floatingText>
