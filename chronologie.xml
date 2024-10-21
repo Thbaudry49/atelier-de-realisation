@@ -1,18 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <listEvent xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+    
+    <listEvent xml:id="livre_1">
+        <event from="1607" where="paris" xml:id="xml_1607_i_global">
+            <label>Astrée. Première partie, édition de 1607</label>
+        </event>
+        
+        <event from="1612" where="paris" xml:id="xml_1612_i_global">
+            <label>Astrée. Première partie, édition de 1612</label>
+        </event>
+    </listEvent>
+    
+    <listEvent xml:id="livre_2">
+        <event from="1610" where="paris" xml:id="xml_1610_ii_global">
+            <label>Astrée. Deuxième partie, édition de 1610</label>
+        </event>
+        
+        <event from="1614" where="paris" xml:id="xml_1614_ii_global">
+            <label>Astrée. Deuxième partie, édition de 1614</label>
+        </event>
+    </listEvent>
 
-        <listEvent xml:id="livre_1">
-    <event from="1607" where="paris" xml:id="xml_1607_i_global">
-        <label>Astrée. Première partie, édition de 1607</label>
-    </event>
-        </listEvent>
+    <listEvent xml:id="livre_3">
+        <event from="1619" where="paris" xml:id="Astree_iii_Maz">
+            <label>Astrée. Troisième partie, édition de 1619</label>
+        </event>
+        
+        <event from="1620" where="paris" xml:id="1620">
+            <label>Astrée. Troisième partie, édition de 1620</label>
+        </event>
+    </listEvent>
     
+    <listEvent xml:id="livre_5">
+        <event from="1606" where="paris" xml:id="Fouet1625-5">
+            <label>Astrée. Cinquième partie, édition de 1606</label>
+        </event>
+    </listEvent>
     
-    <event from="1614" where="paris" xml:id="xml_1614_ii_global">
-        <label>Astrée. Seconde partie, édition de 1614</label>
-    </event>
+    <listEvent xml:id="livre_6">
+        <event from="1606" where="paris" xml:id="Fouet1626">
+            <label>Astrée. Sixième partie, édition de 1606</label>
+        </event>
+    </listEvent>
     
-
     
 </listEvent>
