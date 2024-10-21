@@ -36,13 +36,74 @@
                 </note>
             </notesStmt>
             <sourceDesc>
-                <bibl>
-                    <title>Astrée. Seconde partie, édition de 1614</title>
-                    <author xml:id="honoreurfe" role="auteur">D'Urfé, Honoré</author>
-                    <pubPlace>Paris</pubPlace>
-                    <date when="1614">1614</date>
-                    <editor xml:id="delphinedenis">Dir. Delphine Denis</editor>
-                    <editor xml:id="alexaandregefen">Alexandre Gefen</editor>
+                <bibl xml:id="astree_biblio">
+                    <bibl xml:id="xml_1607_i_global">
+                        <title>Astrée. Première partie, édition de 1607</title>
+                        <author corresp="honoreurfe" role="auteur">D'Urfé, Honoré</author>
+                        <pubPlace>Paris</pubPlace>
+                        <date when="1607">1607</date>
+                        <editor corresp="delphinedenis">Dir. Delphine Denis</editor>
+                        <editor corresp="alexaandregefen">Alexandre Gefen</editor>
+                    </bibl>
+                    <bibl xml:id="xml_1612_i_global">
+                        <title>Astrée. Première partie, édition de 1612</title>
+                        <author corresp="honoreurfe" role="auteur">D'Urfé, Honoré</author>
+                        <pubPlace>Paris</pubPlace>
+                        <date when="1612">1612</date>
+                        <editor corresp="delphinedenis">Dir. Delphine Denis</editor>
+                        <editor corresp="alexaandregefen">Alexandre Gefen</editor>
+                    </bibl>
+                    <bibl xml:id="xml_1610_ii_global">
+                        <title>Astrée. Deuxième partie, édition de 1610</title>
+                        <author corresp="honoreurfe" role="auteur">D'Urfé, Honoré</author>
+                        <pubPlace>Paris</pubPlace>
+                        <date when="1610">1610</date>
+                        <editor corresp="delphinedenis">Dir. Delphine Denis</editor>
+                        <editor corresp="alexaandregefen">Alexandre Gefen</editor>
+                    </bibl>
+                    <bibl xml:id="xml_1614_ii_global">
+                        <title>Astrée. Seconde partie, édition de 1614</title>
+                        <author xml:id="honoreurfe" role="auteur">D'Urfé, Honoré</author>
+                        <pubPlace>Paris</pubPlace>
+                        <date when="1614">1614</date>
+                        <editor xml:id="delphinedenis">Dir. Delphine Denis</editor>
+                        <editor xml:id="alexaandregefen">Alexandre Gefen</editor>
+                    </bibl>
+                    <bibl xml:id="Astree_iii_Maz">
+                        <title>Astrée. Troisième partie, édition de 1619</title>
+                        <author corresp="honoreurfe" role="auteur">D'Urfé, Honoré</author>
+                        <pubPlace>Paris</pubPlace>
+                        <date when="1619">1619</date>
+                        <editor corresp="delphinedenis">Dir. Delphine Denis</editor>
+                        <editor corresp="alexaandregefen">Alexandre Gefen</editor>
+                    </bibl>
+                    <bibl xml:id="xml_1620">
+                        <title>Astrée. Troisième partie, édition de 1620</title>
+                        <author corresp="honoreurfe" role="auteur">D'Urfé, Honoré</author>
+                        <pubPlace>Paris</pubPlace>
+                        <date when="1620">1620</date>
+                        <editor corresp="delphinedenis">Dir. Delphine Denis</editor>
+                        <editor corresp="alexaandregefen">Alexandre Gefen</editor>
+                        <editor xml:id="schuwey">Christophe Schuwey</editor>
+                    </bibl>
+                    <bibl xml:id="Fouet1625-5">
+                        <title>Astrée. Cinquième partie, édition de 1606</title>
+                        <author corresp="honoreurfe" role="auteur">D'Urfé, Honoré</author>
+                        <pubPlace>Paris</pubPlace>
+                        <date when="1606">1606</date>
+                        <editor corresp="delphinedenis">Dir. Delphine Denis</editor>
+                        <editor corresp="alexaandregefen">Alexandre Gefen</editor>
+                        <editor corresp="schuwey">Christophe Schuwey</editor>
+                    </bibl>
+                    <bibl xml:id="Fouet1626">
+                        <title>Astrée. Sixième partie, édition de 1606</title>
+                        <author corresp="honoreurfe" role="auteur">D'Urfé, Honoré</author>
+                        <pubPlace>Paris</pubPlace>
+                        <date when="1606">1606</date>
+                        <editor corresp="delphinedenis">Dir. Delphine Denis</editor>
+                        <editor corresp="alexaandregefen">Alexandre Gefen</editor>
+                        <editor corresp="schuwey">Christophe Schuwey</editor>
+                    </bibl>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -407,9 +468,10 @@
                         cette opinion il suivoit la coustume de ceux qui ayment, qui d'ordinaire se
                         flattent en ce qu'ils desirent, &amp; trouvent des apparences d'espoir où il
                         n'y a point d'apparence de raison. Apres avoir remercié le genie de ce
-                        rocher &amp; les Nimphes de <placeName key="riviere_lignon">Lignon</placeName>, il faisoit dessein d'aller attendre sa
-                        Bergere au carrefour de Mercure, parce que c'estoit par là qu'elle avoit
-                        accoustumé d'aller chez <persName key="astree_personnage" role="berger"
+                        rocher &amp; les Nimphes de <placeName key="riviere_lignon"
+                            >Lignon</placeName>, il faisoit dessein d'aller attendre sa Bergere au
+                        carrefour de Mercure, parce que c'estoit par là qu'elle avoit accoustumé
+                        d'aller chez <persName key="astree_personnage" role="berger"
                             >Astrée</persName>, &amp; il luy sembloit que l'heure en approchoit, la
                         moitié du jour estant déja passée, mais lors qu'il en vouloit prendre le
                         chemin, il vid assez pres de luy la Nimphe <persName key="leonide"
@@ -811,48 +873,49 @@
                             key="philis" role="amie_astree">Philis</persName>, pour le contrarier,
                         luy respondit. Personne ne peut ignorer ce que vous pouvez, mais <persName
                             key="silvandre" role="berger">Silvandre</persName> en sera encore moins
-                        ignorant que tous les autres Bergers de <placeName key="riviere_lignon">Lignon</placeName>, puis qu'il a si souvent
-                        ressenty les effets de vostre beauté. Si cela est, repliqua la Bergere, il
-                        vous est donc avenu comme à ceux qu[i] s'éblouyssent au Soleil sans que le
-                        Soleil s'en apperçoive. Ah ! respondit incontinent le Berger, qui voit le
-                        soleil de vos yeux &amp; volontairement ne s'y esblouyt comme moy, n'est pas
-                        digne de les voir. Je ne sçay, ajousta <persName key="philis"
-                            role="amie_astree">Philis</persName>, rougissant de ces paroles, quel
-                        peut estre vostre dessein en me parlant de cette sorte, mais je suis bien
-                        asseurée que nostre Maistresse sera avertie de vos faintizes, &amp; parce
-                        que c'est dans peu de jours que nous devons recevoir l'Arrest de nostre
-                        gageure, je m'asseure que ces paroles vous couteront cher &amp; que vous
-                        sçaurez combien est cuisante une trop tardive repentance. Ne croyez point,
-                        dit-il, Bergere, que jamais je me repente de vous avoir asseurée de
-                        l'affection que je vous porte, puis qu'au contraire je dois avoir plus de
-                        regret d'avoir si longuement vescu sans le vous avoir declaré, que je ne
-                        dois craindre de mal de ce dont vous me menacez. Phylis cognoissoit bien
-                        qu'il se moquoit, &amp; <persName key="astree_personnage" role="berger"
-                            >Astrée</persName> aussi, mais cela ne la pouvoit satisfaire pour le
-                        soupçon que telles paroles faisoient naistre en Licidas : qui <pb
-                            xml:id="page_abs_32" n="page_ori_25"/> cependant considerant la peine où
-                        elle en estoit se fortifioit tousjours davantage en son opinion. En fin elle
-                        luy dit : Je pense, <persName key="silvandre" role="berger"
-                            >Silvandre</persName>, que c'est par gageure que vous me voulez déplaire
-                        en me tenant ces paroles, ou bien que vous les venez estudier icy pour les
-                        sçavoir mieux dire quand vous serez aupres de vostre Maistresse. Si cela
-                        estoit, interrompit <persName key="astree_personnage" role="berger"
-                            >Astrée</persName>, il vaudroit mieux que tout à fait il vous parlast
-                        comme si vous estiez <persName key="diane" role="berger">Diane</persName>,
-                        que non pas de vous entretenir par personne empruntée. Ce m'est tout un,
-                        respondit <persName key="silvandre" role="berger">Silvandre</persName>,
-                        pourveu que je luy fasse entendre la qualité de mon affection, &amp; lors
-                        qu'il s'y preparoit, Je vous conjure, dict <persName key="philis"
-                            role="amie_astree">Philis</persName>, par la personne du monde que vous
-                        aymez le plus, de me laisser en repos, &amp; que vous vous contentiez, que
-                        je sçay plus de vostre affection que vous ne m'en sçauriez dire. Ces
-                        adjurations, dit-il, sont trop fortes pour y contrevenir, &amp; la
-                        declaration que vous me faictes, trop avantageuse pour ne m'en contenter,
-                        c'est pourquoy je me tairay puis que vous le voulez ainsi. Vous m'obligerez
-                        en cela, dit la Bergere : car je ne puis souffrir vos paroles, &amp; plus
-                        encores si faisant vostre devoir vous allez ayder à <persName key="diane"
-                            role="berger">Diane</persName> que j'ay laissée bien empéchée à la porte
-                        de sa Cabane, apres Florette sa chere brebis, qui se meurt. Si vous me le
+                        ignorant que tous les autres Bergers de <placeName key="riviere_lignon"
+                            >Lignon</placeName>, puis qu'il a si souvent ressenty les effets de
+                        vostre beauté. Si cela est, repliqua la Bergere, il vous est donc avenu
+                        comme à ceux qu[i] s'éblouyssent au Soleil sans que le Soleil s'en
+                        apperçoive. Ah ! respondit incontinent le Berger, qui voit le soleil de vos
+                        yeux &amp; volontairement ne s'y esblouyt comme moy, n'est pas digne de les
+                        voir. Je ne sçay, ajousta <persName key="philis" role="amie_astree"
+                            >Philis</persName>, rougissant de ces paroles, quel peut estre vostre
+                        dessein en me parlant de cette sorte, mais je suis bien asseurée que nostre
+                        Maistresse sera avertie de vos faintizes, &amp; parce que c'est dans peu de
+                        jours que nous devons recevoir l'Arrest de nostre gageure, je m'asseure que
+                        ces paroles vous couteront cher &amp; que vous sçaurez combien est cuisante
+                        une trop tardive repentance. Ne croyez point, dit-il, Bergere, que jamais je
+                        me repente de vous avoir asseurée de l'affection que je vous porte, puis
+                        qu'au contraire je dois avoir plus de regret d'avoir si longuement vescu
+                        sans le vous avoir declaré, que je ne dois craindre de mal de ce dont vous
+                        me menacez. Phylis cognoissoit bien qu'il se moquoit, &amp; <persName
+                            key="astree_personnage" role="berger">Astrée</persName> aussi, mais cela
+                        ne la pouvoit satisfaire pour le soupçon que telles paroles faisoient
+                        naistre en Licidas : qui <pb xml:id="page_abs_32" n="page_ori_25"/>
+                        cependant considerant la peine où elle en estoit se fortifioit tousjours
+                        davantage en son opinion. En fin elle luy dit : Je pense, <persName
+                            key="silvandre" role="berger">Silvandre</persName>, que c'est par
+                        gageure que vous me voulez déplaire en me tenant ces paroles, ou bien que
+                        vous les venez estudier icy pour les sçavoir mieux dire quand vous serez
+                        aupres de vostre Maistresse. Si cela estoit, interrompit <persName
+                            key="astree_personnage" role="berger">Astrée</persName>, il vaudroit
+                        mieux que tout à fait il vous parlast comme si vous estiez <persName
+                            key="diane" role="berger">Diane</persName>, que non pas de vous
+                        entretenir par personne empruntée. Ce m'est tout un, respondit <persName
+                            key="silvandre" role="berger">Silvandre</persName>, pourveu que je luy
+                        fasse entendre la qualité de mon affection, &amp; lors qu'il s'y preparoit,
+                        Je vous conjure, dict <persName key="philis" role="amie_astree"
+                            >Philis</persName>, par la personne du monde que vous aymez le plus, de
+                        me laisser en repos, &amp; que vous vous contentiez, que je sçay plus de
+                        vostre affection que vous ne m'en sçauriez dire. Ces adjurations, dit-il,
+                        sont trop fortes pour y contrevenir, &amp; la declaration que vous me
+                        faictes, trop avantageuse pour ne m'en contenter, c'est pourquoy je me
+                        tairay puis que vous le voulez ainsi. Vous m'obligerez en cela, dit la
+                        Bergere : car je ne puis souffrir vos paroles, &amp; plus encores si faisant
+                        vostre devoir vous allez ayder à <persName key="diane" role="berger"
+                            >Diane</persName> que j'ay laissée bien empéchée à la porte de sa
+                        Cabane, apres Florette sa chere brebis, qui se meurt. Si vous me le
                         commandez, repliqua <persName key="silvandre" role="berger"
                             >Silvandre</persName>, &amp; que vous vueilliez avoir soing de mon
                         trouppeau jusques à mon retour, je le feray. S'il ne faut que cela, dit
@@ -992,49 +1055,49 @@
                         different qui est entr'eux, je m'asseure que vous passerez agreablement le
                         reste du jour, car ils sont tous deux Amoureux de cette Bergere, &amp; elle
                         qui est offencée contre tous deux, ne veut ny de l'un ny de l'autre. Je me
-                        rencontray il y a quelque temps de l'autre costé de <placeName key="riviere_lignon">Lignon</placeName>, en lieu où
-                        j'oüys de leur bouche mesme leur dispute, qui selon mon jugement n'est pas
-                        petite. La Bergere s'appelle <persName key="celidee" role="amant"
-                            >Celidée</persName>, &amp; ce Berger qui est plus grand &amp; que vous
-                        voyez à main droite, se nomme Thamyre, &amp; l'autre Calydon. A peine
-                        Licidas avoit fini ces paroles que ces estrangers furent si proches, que
-                        chacun peut remarquer à voir <persName key="celidee" role="amant"
-                            >Celidée</persName>, que Licidas avoit dit la verité, parce que l'esclat
-                        de son visage estoit si grand, qu'il attiroit les yeux de chacun, &amp; quoy
-                        qu'il y eust quelque deffaut en sa beauté, on jugeoit bien que le temps y
-                        raporteroit la perfection necessaire. Cependant que chacun s'amusoit à la
-                        considerer, <persName key="leonide" role="travesti">Leonide</persName>
-                        desireuse à cause des paroles de Licidas de <pb xml:id="page_abs_39"
-                            n="page_ori_32"/> sçavoir leur differend s'avança vers elle, &amp; apres
-                        l'avoir salüée, la pria au nom de toute la trouppe de s'asseoir sur les
-                        degrez du Terme, pour y passer une partie du chaud, sous l'ombre des
-                        Sicomores qui estoient plantez au quatre côtez des chemins, elle qui estoit
-                        courtoise, &amp; qui sçavoit bien le respect qu'elle devoit à la Nimphe,
-                        &amp; qui outre cela estoit bien aise d'éviter les importunitez des deux
-                        Bergers, obeyt librement à la volonté de <persName key="leonide"
-                            role="travesti">Leonide</persName>, &amp; lors qu'ils vouloient prendre
-                        leurs places, <persName key="diane" role="berger">Diane</persName> arriva
-                        qui embrassée par la Nimphe, &amp; salüée de Paris, se mit parmy cette bonne
-                        compagnie. Licidas ce pendant qui ne pouvoit supporter <persName
-                            key="silvandre" role="berger">Silvandre</persName> aupres de <persName
-                            key="philis" role="amie_astree">Philis</persName>, le voyant revenu, se
-                        déroba de la trouppe sans qu'on s'en print garde, &amp; s'enfonçant dans le
-                        bois, s'en alla seul entretenir ses tristes pensées. Et lors <persName
-                            key="leonide" role="travesti">Leonide</persName> ayant fait asseoir
-                            <persName key="celidee" role="amant">Celidée</persName> aupres d'elle,
-                        &amp; <persName key="astree_personnage" role="berger">Astrée</persName> de
-                        l'autre costé, <persName key="diane" role="berger">Diane</persName> se mit
-                        pres de l'estrangere, &amp; Paris aupres d'elle : &amp; parce que <persName
-                            key="philis" role="amie_astree">Philis</persName> avoit pris place au
-                        côté de la triste <persName key="astree_personnage" role="berger"
-                            >Astrée</persName>, <persName key="silvandre" role="berger"
-                            >Silvandre</persName> demeura debout avec Thamyre, &amp; Calydon,
-                        d'autant que s'ils se fussent assis autour du Terme, ils eussent tourné le
-                        dos à ces belles Bergeres, &amp; n'eussent pas eu le bien de les voir,
-                        d'autant que ce costé là estoit trop estroit : Paris, &amp; <persName
-                            key="philis" role="amie_astree">Philis</persName> estoient en partie
-                        assis sur les côtez qui tournoient, mais ils ne laissoient de voir &amp;
-                        parler aux autres en se panchant quelque peu. Estant de ceste sorte
+                        rencontray il y a quelque temps de l'autre costé de <placeName
+                            key="riviere_lignon">Lignon</placeName>, en lieu où j'oüys de leur
+                        bouche mesme leur dispute, qui selon mon jugement n'est pas petite. La
+                        Bergere s'appelle <persName key="celidee" role="amant">Celidée</persName>,
+                        &amp; ce Berger qui est plus grand &amp; que vous voyez à main droite, se
+                        nomme Thamyre, &amp; l'autre Calydon. A peine Licidas avoit fini ces paroles
+                        que ces estrangers furent si proches, que chacun peut remarquer à voir
+                            <persName key="celidee" role="amant">Celidée</persName>, que Licidas
+                        avoit dit la verité, parce que l'esclat de son visage estoit si grand, qu'il
+                        attiroit les yeux de chacun, &amp; quoy qu'il y eust quelque deffaut en sa
+                        beauté, on jugeoit bien que le temps y raporteroit la perfection necessaire.
+                        Cependant que chacun s'amusoit à la considerer, <persName key="leonide"
+                            role="travesti">Leonide</persName> desireuse à cause des paroles de
+                        Licidas de <pb xml:id="page_abs_39" n="page_ori_32"/> sçavoir leur differend
+                        s'avança vers elle, &amp; apres l'avoir salüée, la pria au nom de toute la
+                        trouppe de s'asseoir sur les degrez du Terme, pour y passer une partie du
+                        chaud, sous l'ombre des Sicomores qui estoient plantez au quatre côtez des
+                        chemins, elle qui estoit courtoise, &amp; qui sçavoit bien le respect
+                        qu'elle devoit à la Nimphe, &amp; qui outre cela estoit bien aise d'éviter
+                        les importunitez des deux Bergers, obeyt librement à la volonté de <persName
+                            key="leonide" role="travesti">Leonide</persName>, &amp; lors qu'ils
+                        vouloient prendre leurs places, <persName key="diane" role="berger"
+                            >Diane</persName> arriva qui embrassée par la Nimphe, &amp; salüée de
+                        Paris, se mit parmy cette bonne compagnie. Licidas ce pendant qui ne pouvoit
+                        supporter <persName key="silvandre" role="berger">Silvandre</persName>
+                        aupres de <persName key="philis" role="amie_astree">Philis</persName>, le
+                        voyant revenu, se déroba de la trouppe sans qu'on s'en print garde, &amp;
+                        s'enfonçant dans le bois, s'en alla seul entretenir ses tristes pensées. Et
+                        lors <persName key="leonide" role="travesti">Leonide</persName> ayant fait
+                        asseoir <persName key="celidee" role="amant">Celidée</persName> aupres
+                        d'elle, &amp; <persName key="astree_personnage" role="berger"
+                            >Astrée</persName> de l'autre costé, <persName key="diane" role="berger"
+                            >Diane</persName> se mit pres de l'estrangere, &amp; Paris aupres d'elle
+                        : &amp; parce que <persName key="philis" role="amie_astree"
+                            >Philis</persName> avoit pris place au côté de la triste <persName
+                            key="astree_personnage" role="berger">Astrée</persName>, <persName
+                            key="silvandre" role="berger">Silvandre</persName> demeura debout avec
+                        Thamyre, &amp; Calydon, d'autant que s'ils se fussent assis autour du Terme,
+                        ils eussent tourné le dos à ces belles Bergeres, &amp; n'eussent pas eu le
+                        bien de les voir, d'autant que ce costé là estoit trop estroit : Paris,
+                        &amp; <persName key="philis" role="amie_astree">Philis</persName> estoient
+                        en partie assis sur les côtez qui tournoient, mais ils ne laissoient de voir
+                        &amp; parler aux autres en se panchant quelque peu. Estant de ceste sorte
                         arrangez, la Nimphe qui cognoissoit bien que la honte empeschoit <pb
                             xml:id="page_abs_40" n="page_ori_33"/>
                         <persName key="celidee" role="amant">Celidée</persName> de parler, à fin de
@@ -1059,8 +1122,8 @@
                         Thamire, afin qu'ils me démentent si je ne dis la verité. Grande Nimphe, dit
                         incontinent Thamire, d'autant que j'ay le plus grand interest en cet
                         affaire, il est plus raisonnable que vous l'oyez de ma bouche. Si cela
-                        estoit, adjousta <persName key="celidee" role="amant">Celidée</persName>,
-                        ce <pb xml:id="page_abs_41" n="page_ori_34"/> seroit à moy à parler, puis
+                        estoit, adjousta <persName key="celidee" role="amant">Celidée</persName>, ce
+                            <pb xml:id="page_abs_41" n="page_ori_34"/> seroit à moy à parler, puis
                         que vous estes tous deux conjurez contre moy, Cela n'est pas raisonnable,
                         dit Calydon : car si vous estes, ô belle <persName key="celidee"
                             role="amant">Celidée</persName>, contre nous deux, nous ne laissons pas
@@ -1526,8 +1589,8 @@
                         tant d'apparence de regret, que sans doute la cognoissance que j'en eus, fit
                         que je luy remis toute la faute qu'il avoit commise contre moy, voyant bien
                         que s'il avoit erré ç'avoit esté par force. Mais lors que j'en voulus parler
-                        à <persName key="celidee" role="amant">Celidée</persName>, ce fut bien où
-                        je trouvay de la difficulté : car non seulement elle ne l'aymoit point, mais
+                        à <persName key="celidee" role="amant">Celidée</persName>, ce fut bien où je
+                        trouvay de la difficulté : car non seulement elle ne l'aymoit point, mais
                         elle le haissoit, &amp; falloit bien que cette inimitié vint de nature, puis
                         qu'il n'y avoit suject quelconque apparent de luy vouloir mal, les bonnes
                         conditions de ce berger estant telles, qu'elles devoient plustost donner de
@@ -1667,8 +1730,8 @@
                         &amp; ne parles point, est-ce de honte, ou de l'offence que tu m'as faite ?
                         ny l'un ny l'autre ne te sçauroit toucher à mon occasion, mais tu songes
                         quelque nouvelle malice contre cette peu fine <persName key="celidee"
-                            role="amant">Celidée</persName>, à fin de souler la mauvaise volonté
-                        que tu luy portes : Mais va, perfide &amp; desloyal Thamyre, &amp; te
+                            role="amant">Celidée</persName>, à fin de souler la mauvaise volonté que
+                        tu luy portes : Mais va, perfide &amp; desloyal Thamyre, &amp; te
                         ressouviens que tu as fait plus pour moy que tu ne penses : car par cette
                         action je suis hors de l'opinion que j'avois d'estre aymée de toy,
                         cognoissance qui me degageant de ta tyrannie, m'empeschera de me remettre
@@ -1759,8 +1822,8 @@
                         dis-je, qui me met le glaive dans le cœur, &amp; qui me pousse dans le
                         tombeau. Je luy respondis assez froidement, en luy representant les
                         considerations qui m'avoient fait quitter <persName key="celidee"
-                            role="amant">Celidée</persName>, &amp; celles qui me ramenoient à elle
-                        : mais d'autant que l'amour le transportoit avec violence, je ne croy pas
+                            role="amant">Celidée</persName>, &amp; celles qui me ramenoient à elle :
+                        mais d'autant que l'amour le transportoit avec violence, je ne croy pas
                         qu'il y eust reproche que je ne receusse de luy sur ce sujet. Mais la
                         Bergere se mocquant de nous, Ne debatez point, dit-elle, à qui doit estre
                             <persName key="celidee" role="amant">Celidée</persName> : car vous n'y
@@ -1844,12 +1907,14 @@
                         m'avoient avertie en songe, de le faire : car la plus grande partie estoit
                         desja écoulée, lors qu'il m'a semblé que mon pere, qu'il y a desja long
                         temps qui est mort, m'ouvroit l'estomac, en sortoit le cœur, &amp; le
-                        jettoit comme si c'eust esté une pierre, avec une sonde, par deçà <placeName key="riviere_lignon">Lignon</placeName>,
-                        &amp; puis me disoit ces mots : Va, mon enfant, de là la fatale riviere de
-                        <placeName key="riviere_lignon">Lignon</placeName>, tu trouveras ce cœur qui te tourmente si fort, au repos où il doit
-                        demeurer jusques à ce que tu me viennes trouver. Je me suis esveillée en
-                        sursaut, &amp; cela a esté cause que je me suis resoluë de passer la
-                        riviere, avec esperance de trouver le repos qui m'a esté promis.</p>
+                        jettoit comme si c'eust esté une pierre, avec une sonde, par deçà <placeName
+                            key="riviere_lignon">Lignon</placeName>, &amp; puis me disoit ces mots :
+                        Va, mon enfant, de là la fatale riviere de <placeName key="riviere_lignon"
+                            >Lignon</placeName>, tu trouveras ce cœur qui te tourmente si fort, au
+                        repos où il doit demeurer jusques à ce que tu me viennes trouver. Je me suis
+                        esveillée en sursaut, &amp; cela a esté cause que je me suis resoluë de
+                        passer la riviere, avec esperance de trouver le repos qui m'a esté
+                        promis.</p>
                     <p>&#160;&#160;&#160;Vous devez donc estre certaine, Madame, dit elle,
                         s'addressant à <persName key="leonide" role="travesti">Leonide</persName>,
                         que je n'ay garde de desobeïr à vos commandemens, puis que ce sont <pb
@@ -1925,9 +1990,9 @@
                                     doit aimer, &amp; qu'il n'y a personne que moy qui puisse
                                     justement la pretendre sienne.</p>
                                 <p>&#160;&#160;&#160;Car pour le premier poinct, que respondra
-                                        <persName key="celidee" role="amant">Celidée</persName> :
-                                    si je l'appelle devant le throsne d'Amour, &amp; si en presence
-                                    de cette equitable compagnie je me plains à luy de cette sorte ?
+                                        <persName key="celidee" role="amant">Celidée</persName> : si
+                                    je l'appelle devant le throsne d'Amour, &amp; si en presence de
+                                    cette equitable compagnie je me plains à luy de cette sorte ?
                                     Ceste belle, ô grand Dieu, qui se presente devant toy, c'est
                                     celle là mesme que tu m'as commandé d'aymer &amp; de servir,
                                     sous les esperances que tu as accoustumé de donner à ceux qui te
@@ -2409,9 +2474,9 @@
                                     bouche, je vous diray, que la faveur que je receus de vous ne
                                     fut autre que de vous laisser voir à moy au sacrifice qui se fit
                                     le sixiesme de la Lune. Estois-je la seule fille, adjouta
-                                        <persName key="celidee" role="amant">Celidée</persName>,
-                                    qui assistay à ce sacrifice, &amp; toy le seul Berger du Hameau
-                                    qui y fust ? Toutes les Bergeres du vilage, respondit-il, &amp;
+                                        <persName key="celidee" role="amant">Celidée</persName>, qui
+                                    assistay à ce sacrifice, &amp; toy le seul Berger du Hameau qui
+                                    y fust ? Toutes les Bergeres du vilage, respondit-il, &amp;
                                     presque tous les Bergers y estoient. Et comment, repliqua la
                                     Bergere, ne fis-je une seule action particuliere pour t'attirer,
                                     ny pour acquerir ton affection ? Tant s'en faut respondit
@@ -2627,10 +2692,10 @@
                                     gueres moins que moy : Et si tu m'aymes, contente toy de la
                                     peine que tu me donnes par ton amitié, sans vouloir me
                                     surcharger d'une autre insuportable, en me contraignant de
-                                    t'aymer. Et sois certain que <placeName key="riviere_lignon">Lignon</placeName> peut retourner à sa source
-                                    beaucoup plus aysément que tu ne parviendras à l'amitié de
-                                        <persName key="celidee" role="amant"
-                                    >Celidée</persName>.</p>
+                                    t'aymer. Et sois certain que <placeName key="riviere_lignon"
+                                        >Lignon</placeName> peut retourner à sa source beaucoup plus
+                                    aysément que tu ne parviendras à l'amitié de <persName
+                                        key="celidee" role="amant">Celidée</persName>.</p>
                                 <p>&#160;&#160;&#160;Or, Madame, voila la responce que je puis faire
                                     aux mauvaises raisons de Calydon, mais maintenant il me reste un
                                     plus dangereux ennemy à combattre, &amp; qui m'oppose bien des
@@ -2796,14 +2861,14 @@
                                     je te l'ay donnée pour te maintenir en vie, quel tort te fais-je
                                     de te la demander maintenant que je vois ta vie asseurée ? Mais
                                     diras-tu, si je suis gueri, ç'a esté pour l'esperance que j'ay
-                                    euë, que <persName key="celidee" role="amant"
-                                        >Celidée</persName> me demeureroit : Et qu'importe comme que
-                                    tu sois revenu en santé, pourveu que tu ne sois plus en danger ?
-                                    La courtoisie &amp; la discretion nous enseignent, que quand
-                                    nous nous sommes servis en nostre necessité de ce qui est à nos
-                                    amis, nous le leur rendions avec des remerciemens. Tu es bien
-                                    loin de ceste courtoisie &amp; de ceste discretion, puis que
-                                    t'ayant donné l'esperance des bonnes <pb xml:id="page_abs_110"
+                                    euë, que <persName key="celidee" role="amant">Celidée</persName>
+                                    me demeureroit : Et qu'importe comme que tu sois revenu en
+                                    santé, pourveu que tu ne sois plus en danger ? La courtoisie
+                                    &amp; la discretion nous enseignent, que quand nous nous sommes
+                                    servis en nostre necessité de ce qui est à nos amis, nous le
+                                    leur rendions avec des remerciemens. Tu es bien loin de ceste
+                                    courtoisie &amp; de ceste discretion, puis que t'ayant donné
+                                    l'esperance des bonnes <pb xml:id="page_abs_110"
                                         n="page_ori_103"/> graces de <persName key="celidee"
                                         role="amant">Celidée</persName>, &amp; la santé t'estant
                                     revenuë par son moyen, maintenant tu la veux pretendre tienne,
@@ -2812,14 +2877,14 @@
                                     je la retire, il retombera aux mesmes accidens, &amp; aux mesmes
                                     dangers de sa vie qu'il a esté. Nullement, grande Nimphe, nous
                                     l'avons veu par experience : car estant esseuré que <persName
-                                        key="celidee" role="amant">Celidée</persName> ne sera
-                                    jamais sienne, il est bien devenu un peu plus melancolic qu'il
-                                    n'estoit pas : mais on n'a point veu d'apparence qu'il fust en
-                                    danger de sa vie, &amp; c'est ce qui a causé, que recognoissant
-                                    qu'il ne s'agissoit plus de sa vie, mais de son plaisir
-                                    seulement, j'ai pensé que mon contentement me devoit estre aussi
-                                    cher que le sien, &amp; que l'occasion estant passée, pour
-                                    laquelle je lui avois cedé <persName key="celidee" role="amant"
+                                        key="celidee" role="amant">Celidée</persName> ne sera jamais
+                                    sienne, il est bien devenu un peu plus melancolic qu'il n'estoit
+                                    pas : mais on n'a point veu d'apparence qu'il fust en danger de
+                                    sa vie, &amp; c'est ce qui a causé, que recognoissant qu'il ne
+                                    s'agissoit plus de sa vie, mais de son plaisir seulement, j'ai
+                                    pensé que mon contentement me devoit estre aussi cher que le
+                                    sien, &amp; que l'occasion estant passée, pour laquelle je lui
+                                    avois cedé <persName key="celidee" role="amant"
                                         >Celidée</persName>, je pouvois la retirer sans l'offenser.
                                     Mais soit ainsi qu'il y ait encor du danger pour lui : il y en a
                                     aussi pour moi, &amp; de telle sorte que la mort m'est plus
@@ -3023,8 +3088,8 @@
                                 <p>&#160;&#160;&#160;A ce mot, il se jetta en terre, &amp; luy
                                     embrassant les iambes, luy arrosoit le giron avec ses larmes,
                                     dont presque toute la compagnie fut esmeuë, mesme <persName
-                                        key="celidee" role="amant">Celidée</persName> pour ne luy
-                                    en donner connoissance, luy mettant une main contre le visage,
+                                        key="celidee" role="amant">Celidée</persName> pour ne luy en
+                                    donner connoissance, luy mettant une main contre le visage,
                                     tourna la teste de l'autre costé. Alors la Nimphe voyant qu'ils
                                     ne vouloient rien dire davantage se leva, &amp; tirant Paris,
                                     les Bergeres &amp; <persName key="silvandre" role="berger"
@@ -3707,14 +3772,15 @@
                         &amp; les branches du buisson, il vit que sa Maistresse faisoit un brasselet
                         de ses cheveux : qu'il recognut aisément, tant pour ce qu'il en avoit oüy
                         dire à <persName key="astree_personnage" role="berger">Astrée</persName>,
-                        que d'autant qu'il n'y avoit Bergere sur <placeName key="riviere_lignon">les rives de Lignon</placeName>, qui les eut
-                        semblables. Et lors qu'il commençoit d'estre jaloux que quelque autre les
-                        portast que luy, luy semblant que sa seule affection les pouvoit meriter, il
-                        oüit qu'<persName key="astree_personnage" role="berger">Astrée</persName>
-                        disoit : <persName key="silvandre" role="berger">Silvandre</persName> ne
-                        sera pas sans jalousie quand il verra son ennemie plus favorisée que luy. Je
-                        croy, respondit <persName key="diane" role="berger">Diane</persName>, que ce
-                        n'a esté qu'à cette intention qu'elle me les a demandez. Je le pense aussi,
+                        que d'autant qu'il n'y avoit Bergere sur <placeName key="riviere_lignon">les
+                            rives de Lignon</placeName>, qui les eut semblables. Et lors qu'il
+                        commençoit d'estre jaloux que quelque autre les portast que luy, luy
+                        semblant que sa seule affection les pouvoit meriter, il oüit qu'<persName
+                            key="astree_personnage" role="berger">Astrée</persName> disoit :
+                            <persName key="silvandre" role="berger">Silvandre</persName> ne sera pas
+                        sans jalousie quand il verra son ennemie plus favorisée que luy. Je croy,
+                        respondit <persName key="diane" role="berger">Diane</persName>, que ce n'a
+                        esté qu'à cette intention qu'elle me les a demandez. Je le pense aussi,
                         adjousta <persName key="astree_personnage" role="berger">Astrée</persName> :
                         mais vous faites tort au Berger, &amp; si vous favorisez l'un plus que
                         l'autre, vous manquez à vostre parole, ayant promis le contraire. Ny leur
@@ -4282,21 +4348,21 @@
                         plus court, se mist devant pour les conduire.</p>
                     <p>&#160;&#160;&#160;Tant que le chemin fut estroit &amp; mal-aisé <persName
                             key="silvandre" role="berger">Silvandre</persName> marcha tousjours le
-                        premier : mais soudain qu'ils furent entrez dans les prez dont <placeName key="riviere_lignon">les rives de
-                        Lignon</placeName> sont presque par tout embellies, il attendit les Bergers : &amp;
-                        voulut ayder à sa Maistresse. Elle qui avoit desja de l'autre costé
-                            <persName key="philis" role="amie_astree">Philis</persName> qui s'estoit
-                        mise entre elle &amp; <persName key="astree_personnage" role="berger"
-                            >Astrée</persName>, &amp; les tenoit sous les bras, receut le Berger de
-                        bon cœur pour ne se lasser tant, par la longueur du chemin, &amp; luy
-                        donnant le bras gauche, vous dit elle <persName key="silvandre"
-                            role="berger">Silvandre</persName>, je vous tiens pour me servir en ce
-                        voyage, &amp; vous <persName key="philis" role="amie_astree"
-                            >Philis</persName> pour estre ma compagne. <persName key="philis"
-                            role="amie_astree">Philis</persName> qui estoit bien aise de faire
-                        parler <persName key="silvandre" role="berger">Silvandre</persName> pour
-                        desennuyer la compagnie : &amp; qui outre cela ne vouloit qu'un mot tant à
-                        son advantage, fut prononcé par <persName key="diane" role="berger"
+                        premier : mais soudain qu'ils furent entrez dans les prez dont <placeName
+                            key="riviere_lignon">les rives de Lignon</placeName> sont presque par
+                        tout embellies, il attendit les Bergers : &amp; voulut ayder à sa
+                        Maistresse. Elle qui avoit desja de l'autre costé <persName key="philis"
+                            role="amie_astree">Philis</persName> qui s'estoit mise entre elle &amp;
+                            <persName key="astree_personnage" role="berger">Astrée</persName>, &amp;
+                        les tenoit sous les bras, receut le Berger de bon cœur pour ne se lasser
+                        tant, par la longueur du chemin, &amp; luy donnant le bras gauche, vous dit
+                        elle <persName key="silvandre" role="berger">Silvandre</persName>, je vous
+                        tiens pour me servir en ce voyage, &amp; vous <persName key="philis"
+                            role="amie_astree">Philis</persName> pour estre ma compagne. <persName
+                            key="philis" role="amie_astree">Philis</persName> qui estoit bien aise
+                        de faire parler <persName key="silvandre" role="berger">Silvandre</persName>
+                        pour desennuyer la compagnie : &amp; qui outre cela ne vouloit qu'un mot
+                        tant à son advantage, fut prononcé par <persName key="diane" role="berger"
                             >Diane</persName> sans estre remarqué, s'addressant au Berger luy
                         demanda que luy sembloit de céte faveur ? Qu'elle est plus grande que nous
                         ne meritons, respondit <persName key="silvandre" role="berger"
@@ -4536,17 +4602,18 @@
                         fontaines, parce qu'estant estrangers, &amp; n'ayant nul troupeau à garder,
                         ils n'employoient le temps qu'à passer leur vie le plus doucement qu'il leur
                         estoit possible. Et ayant ce jour là fait dessein de ne s'abandonner point,
-                        ils s'alloient promenant contremont la douce &amp; delectable <placeName key="riviere_lignon">riviere de
-                        Lignon</placeName>. Or cette trouppe s'estant rencontrée, <persName key="hylas"
-                            role="donjuan">Hylas</persName> laissant incontinent Laonice, s'en vient
-                        vers <persName key="philis" role="amie_astree">Philis</persName> : &amp;
-                        quoy qu'elle sceust faire, si fallut-il qu'elle laissast <persName
-                            key="astree_personnage" role="berger">Astrée</persName> &amp; <persName
-                            key="diane" role="berger">Diane</persName> : de quoy <persName
-                            key="silvandre" role="berger">Silvandre</persName> ne fut point marry,
-                        luy semblant qu'il possedoit plus absoluement sa Maistresse. Tyrcis qui
-                        apperceut <persName key="astree_personnage" role="berger">Astrée</persName>
-                        toute seule : car <persName key="thersandre" role="antagonsite"
+                        ils s'alloient promenant contremont la douce &amp; delectable <placeName
+                            key="riviere_lignon">riviere de Lignon</placeName>. Or cette trouppe
+                        s'estant rencontrée, <persName key="hylas" role="donjuan">Hylas</persName>
+                        laissant incontinent Laonice, s'en vient vers <persName key="philis"
+                            role="amie_astree">Philis</persName> : &amp; quoy qu'elle sceust faire,
+                        si fallut-il qu'elle laissast <persName key="astree_personnage"
+                            role="berger">Astrée</persName> &amp; <persName key="diane"
+                            role="berger">Diane</persName> : de quoy <persName key="silvandre"
+                            role="berger">Silvandre</persName> ne fut point marry, luy semblant
+                        qu'il possedoit plus absoluement sa Maistresse. Tyrcis qui apperceut
+                            <persName key="astree_personnage" role="berger">Astrée</persName> toute
+                        seule : car <persName key="thersandre" role="antagonsite"
                             >Thersandre</persName> conduisoit Madonte, apres luy avoir fait la
                         reverence, s'offrit de luy ayder. Elle qui estimoit infiniment la vertu de
                         ce Berger, outre qu'il luy sembloit que leurs fortunes avoient beaucoup de
@@ -4577,8 +4644,9 @@
                         d'avantage. <persName key="diane" role="berger">Diane</persName> qui n'avoit
                         point de dessein sur <persName key="silvandre" role="berger"
                             >Silvandre</persName>, quoy qu'elle lui voulut plus de bien qu'au reste
-                        des Bergers de <placeName key="riviere_lignon">Lignon</placeName>, ne se soucioit point que ses paroles fussent oüyes :
-                        &amp; <pb xml:id="page_abs_175" n="page_ori_168"/>
+                        des Bergers de <placeName key="riviere_lignon">Lignon</placeName>, ne se
+                        soucioit point que ses paroles fussent oüyes : &amp; <pb
+                            xml:id="page_abs_175" n="page_ori_168"/>
                         <persName key="silvandre" role="berger">Silvandre</persName> n'y prenoit pas
                         garde, parce que du tout attentif à ce qu'il disoit à sa Maistresse, il ne
                         voyoit presque le chemin par où il passoit, qui fut cause que Leonice les
@@ -4702,31 +4770,41 @@
                                     <hi rend="bold">CHANSON.</hi>
                                 </head>
 
-                              
+
                                 <lg type="chansonparagraphe" n="1">
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Quand <persName key="hylas" role="donjuan">Hylas</persName>apperceut les yeux</hi></l>
-                                    <l><hi rend="italic">De <persName key="philis" role="amie_astree">Philis</persName> sabelle Maistresse,</hi></l>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Quand <persName
+                                                key="hylas" role="donjuan">Hylas</persName>apperceut
+                                            les yeux</hi></l>
+                                    <l><hi rend="italic">De <persName key="philis"
+                                                role="amie_astree">Philis</persName> sabelle
+                                            Maistresse,</hi></l>
                                     <l><hi rend="italic">Voit on encor telle Déesse</hi></l>
-                                    <l><hi rend="italic">Ailleurs, dit-il, que dans les Cieux ?</hi></l>
+                                    <l><hi rend="italic">Ailleurs, dit-il, que dans les Cieux
+                                        ?</hi></l>
                                 </lg>
 
                                 <lg type="chansonparagraphe" n="2">
                                     <head>II.</head>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Phylis d'un esclat rougissant</hi></l>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Phylis d'un esclat
+                                            rougissant</hi></l>
                                     <l><hi rend="italic">Oyant ces mots devint plus belle ;</hi></l>
                                     <l><hi rend="italic">En vain cette beauté nouvelle</hi></l>
-                                    <l><hi rend="italic">Rend, dit-il, vostre œil plus puissant.</hi></l>
+                                    <l><hi rend="italic">Rend, dit-il, vostre œil plus
+                                            puissant.</hi></l>
                                 </lg>
                                 <lg type="chansonparagraphe" n="3">
                                     <head>III.</head>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Elle d'un gracieux sousris</hi></l>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Elle d'un gracieux
+                                            sousris</hi></l>
                                     <l><hi rend="italic">Recevant cette flatterie :</hi></l>
                                     <l><hi rend="italic">Cessez, luy dit-il, je vous prie,</hi></l>
-                                    <l><hi rend="italic">C'est fait, en fin <persName key="hylas" role="donjuan">Hylas</persName> est pris.</hi></l>
+                                    <l><hi rend="italic">C'est fait, en fin <persName key="hylas"
+                                                role="donjuan">Hylas</persName> est pris.</hi></l>
                                 </lg>
                                 <lg type="chansonparagraphe" n="4">
                                     <head>IIII.</head>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Mais s'il plaint, dit-elle, à l'instant</hi></l>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Mais s'il plaint,
+                                            dit-elle, à l'instant</hi></l>
                                     <l><hi rend="italic">Sa liberté, qu'il la repreine</hi></l>
                                     <l><hi rend="italic">Vous estes, dit-il, moins humaine</hi></l>
                                     <l><hi rend="italic">En pardonnant qu'en surmontant.</hi></l>
@@ -4735,10 +4813,13 @@
 
                                 <lg type="chansonparagraphe" n="5">
                                     <head>V.</head>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Lien trop aymable &amp; trop cher</hi></l>
-                                    <l><hi rend="italic">Dont le captif craint qu'on le lasche,</hi></l>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Lien trop aymable &amp;
+                                            trop cher</hi></l>
+                                    <l><hi rend="italic">Dont le captif craint qu'on le
+                                        lasche,</hi></l>
                                     <l><hi rend="italic">Heureux Amant puis qu'il te fasche</hi></l>
-                                    <l><hi rend="italic">Quand tu vois qu'on te veut lascher.</hi></l>
+                                    <l><hi rend="italic">Quand tu vois qu'on te veut
+                                        lascher.</hi></l>
                                 </lg>
                             </div1>
                         </body>
@@ -5217,10 +5298,11 @@
                                 >Astrée</persName>.</hi>
                     </head>
                     <lb/>
-                    <p>&#160;&#160;&#160;C'estoit la coustume des Bergers de <placeName key="riviere_lignon">Lignon</placeName> de ne rencontrer
-                        jamais estranger, sans luy offrir toute sorte d'assistance, leur semblant
-                        que les loix de l'hospitalité le leur commandoient ainsi. Ceste coustume
-                        convia <persName key="astree_personnage" role="berger">Astrée</persName>,
+                    <p>&#160;&#160;&#160;C'estoit la coustume des Bergers de <placeName
+                            key="riviere_lignon">Lignon</placeName> de ne rencontrer jamais
+                        estranger, sans luy offrir toute sorte d'assistance, leur semblant que les
+                        loix de l'hospitalité le leur commandoient ainsi. Ceste coustume convia
+                            <persName key="astree_personnage" role="berger">Astrée</persName>,
                             <persName key="diane" role="berger">Diane</persName> &amp; toute leur
                         compagnie, de faire ces mesmes offres à ces belles estrangeres, &amp; apres
                         leur demander la cause de leur voyage. A quoy <persName key="florice"
@@ -7836,9 +7918,11 @@
 
                                 <lg n="1">
                                     <head>Premiere Table.</head>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Qui veut estre parfaitAmant,</hi></l> 
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Qui veut estre
+                                            parfaitAmant,</hi></l>
                                     <l><hi rend="italic">Il faut qu'il ayme infiniment :</hi></l>
-                                    <l><hi rend="italic">L'extreme Amour seule en est digne,</hi></l>
+                                    <l><hi rend="italic">L'extreme Amour seule en est
+                                        digne,</hi></l>
                                     <l><hi rend="italic">Aussi la mediocrité,</hi></l>
                                     <l><hi rend="italic">De trahison est plustost signe,</hi></l>
                                     <l><hi rend="italic">Que non pas de fidelité.</hi></l>
@@ -7846,18 +7930,21 @@
 
                                 <lg n="2">
                                     <head>Deuxiesme Table.</head>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Qu'il n'aime jamais qu'en un lieu,</hi></l>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Qu'il n'aime jamais qu'en
+                                            un lieu,</hi></l>
                                     <l><hi rend="italic">Et que cest Amour soit un Dieu,</hi></l>
                                     <l><hi rend="italic">Qu'il adore pour toute chose :</hi></l>
                                     <l><hi rend="italic">Et n'ayant jamais qu'un objet,</hi></l>
                                     <pb xml:id="page_abs_303" n="page_ori_296"/>
-                                    <l><hi rend="italic">Tous les bon heurs qu'il se propose</hi></l>
+                                    <l><hi rend="italic">Tous les bon heurs qu'il se
+                                        propose</hi></l>
                                     <l><hi rend="italic">Soient pour cet unique sujet.</hi></l>
                                 </lg>
 
                                 <lg n="3">
                                     <head>Troisiesme Table.</head>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Bornant en luy tous ses plaisirs,</hi></l>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Bornant en luy tous ses
+                                            plaisirs,</hi></l>
                                     <l><hi rend="italic">Qu'il arreste tous ses desirs,</hi></l>
                                     <l><hi rend="italic">Au service de cette belle :</hi></l>
                                     <l><hi rend="italic">Voire qu'il cesse de s'aymer,</hi></l>
@@ -7867,8 +7954,10 @@
 
                                 <lg n="4">
                                     <head>Quatriesme Table.</head>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Que s'il a le soin d'estre mieux,</hi></l>
-                                    <l><hi rend="italic">Ce ne soit que pour les beaux yeux,</hi></l>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Que s'il a le soin
+                                            d'estre mieux,</hi></l>
+                                    <l><hi rend="italic">Ce ne soit que pour les beaux
+                                        yeux,</hi></l>
                                     <l><hi rend="italic">Dont son Amour a pris naissance :</hi></l>
                                     <l><hi rend="italic">S'il souhaite plus de bon-heur,</hi></l>
                                     <l><hi rend="italic">Ce ne soit que pour l'esperance,</hi></l>
@@ -7877,7 +7966,8 @@
 
                                 <lg n="5">
                                     <head>Cinquiesme Table.</head>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Telle soit son affection,</hi></l>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Telle soit son
+                                            affection,</hi></l>
                                     <l><hi rend="italic">Que mesme la possession,</hi></l>
                                     <pb xml:id="page_abs_304" n="page_ori_297"/>
                                     <l><hi rend="italic">De ce qu'il de sire en son ame,</hi></l>
@@ -7885,51 +7975,60 @@
                                     <l><hi rend="italic">De son honneur ou de sa Dame,</hi></l>
                                     <l><hi rend="italic">Luy soit moins chere que ce pris.</hi></l>
                                 </lg>
-                                
+
                                 <lg n="6">
                                     <head>Sixiesme Table.</head>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Pour subjet qui se vienne offrir,</hi></l>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Pour subjet qui se vienne
+                                            offrir,</hi></l>
                                     <l><hi rend="italic">Qu'il ne puisse jamais souffrir.</hi></l>
                                     <l><hi rend="italic">La honte de la chose aimée :</hi></l>
                                     <l><hi rend="italic">Et si devant luy par desdain,</hi></l>
                                     <l><hi rend="italic">D'un mesdisant elle est blasmée :</hi></l>
                                     <l><hi rend="italic">Qu'il meure ou la venge soudain.</hi></l>
                                 </lg>
-                                
+
                                 <lg n="7">
                                     <head>Septiesme Table.</head>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Que son Amour fasse en effet,</hi></l>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Que son Amour fasse en
+                                            effet,</hi></l>
                                     <l><hi rend="italic">Qu'il juge en elle tout parfait,</hi></l>
-                                    <l><hi rend="italic">Et quoy que sans doute il l'estime :</hi></l>
+                                    <l><hi rend="italic">Et quoy que sans doute il l'estime
+                                        :</hi></l>
                                     <l><hi rend="italic">Au prix de ce qu'il aymera,</hi></l>
                                     <l><hi rend="italic">Qu'il condamne comme d'un crime,</hi></l>
                                     <l><hi rend="italic">Celuy qui moins l'estimera.</hi></l>
                                 </lg>
                                 <pb xml:id="page_abs_305" n="page_ori_298"/>
-                                
+
                                 <lg n="8">
                                     <head>Huictiesme Table.</head>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Qu'espris d'un Amour violant,</hi></l>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Qu'espris d'un Amour
+                                            violant,</hi></l>
                                     <l><hi rend="italic">Il aille sans cesse brulant,</hi></l>
-                                    <l><hi rend="italic">Et qu'il languisse, &amp; qu'il souspire,</hi></l>
+                                    <l><hi rend="italic">Et qu'il languisse, &amp; qu'il
+                                            souspire,</hi></l>
                                     <l><hi rend="italic">Entre la vie &amp; le trespas,</hi></l>
                                     <l><hi rend="italic">Sans toutesfois qu'il puisse dire,</hi></l>
-                                    <l><hi rend="italic">Ce qu'il veut, ou qu'il ne veut pas.</hi></l>
+                                    <l><hi rend="italic">Ce qu'il veut, ou qu'il ne veut
+                                        pas.</hi></l>
                                 </lg>
 
                                 <lg n="9">
                                     <head>Neufiesme Table.</head>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Mesprisant son propre sejour,</hi></l>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Mesprisant son propre
+                                            sejour,</hi></l>
                                     <l><hi rend="italic">Son Ame aille vivre d'Amour</hi></l>
                                     <l><hi rend="italic">Au sein de celle qu'il adore,</hi></l>
                                     <l><hi rend="italic">Et qu'en elle ainsi transformé,</hi></l>
-                                    <l><hi rend="italic">Tout ce qu'elle aime &amp; qu'elle honore,</hi></l>
+                                    <l><hi rend="italic">Tout ce qu'elle aime &amp; qu'elle
+                                            honore,</hi></l>
                                     <l><hi rend="italic">Soit aussi de luy bien aimé.</hi></l>
                                 </lg>
-                                
+
                                 <lg n="10">
                                     <head>Dixiesme Table.</head>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Qu'il tienne les jours pour perdus,</hi></l>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Qu'il tienne les jours
+                                            pour perdus,</hi></l>
                                     <l><hi rend="italic">Qui loing d'elle sont despendus,</hi></l>
                                     <l><hi rend="italic">Toute peine soit embrassée,</hi></l>
                                     <l><hi rend="italic">Pour estre en ce lieu desiré,</hi></l>
@@ -7937,27 +8036,30 @@
                                     <l><hi rend="italic">Et qu'il y soit de la pensée,</hi></l>
                                     <l><hi rend="italic">Si le corps en est separé.</hi></l>
                                 </lg>
-                                
+
                                 <lg n="11">
                                     <head>Unziesme Table.</head>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Que la perte de la raison,</hi></l>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Que la perte de la
+                                            raison,</hi></l>
                                     <l><hi rend="italic">Que les liens &amp; la prison,</hi></l>
                                     <l><hi rend="italic">Pour elle en son ame il cherisse ;</hi></l>
                                     <l><hi rend="italic">Et se plaise à s'y renfermer,</hi></l>
                                     <l><hi rend="italic">Sans attendre de son service,</hi></l>
                                     <l><hi rend="italic">Que le seul honneur de l'aimer.</hi></l>
                                 </lg>
-                                
+
                                 <lg n="12">
                                     <head>Douziesme Table.</head>
-                                    <l>&#160;&#160;&#160;<hi rend="italic">Qu'il ne puisse jamais penser,</hi></l>
+                                    <l>&#160;&#160;&#160;<hi rend="italic">Qu'il ne puisse jamais
+                                            penser,</hi></l>
                                     <l><hi rend="italic">Que son Amour doive passer :</hi></l>
                                     <l><hi rend="italic">Qui d'autre sorte le conseille,</hi></l>
                                     <l><hi rend="italic">Soit pour ennemy reputé,</hi></l>
-                                    <l><hi rend="italic">Car c'est de luy preter l'aureille,</hi></l>
+                                    <l><hi rend="italic">Car c'est de luy preter
+                                        l'aureille,</hi></l>
                                     <l><hi rend="italic">Crime de leze Maiesté.</hi></l>
                                 </lg>
-                                
+
                             </div>
                         </body>
                     </floatingText>
@@ -8363,12 +8465,13 @@
                         leurs corps ? Et ne sçavez vous pas que celuy de <persName key="celadon"
                             role="berger">Celadon</persName> n'ayant peu. estre trouvé, est demeuré
                         sans ce dernier office de pitié ? Que si cela est, pourquoy seroit il
-                        impossible qu'il allast errant le long de ce mal heureux <placeName key="riviere_lignon">rivage de Lignon</placeName>,
-                        &amp; que conservant l'amitié qu'il m'a tousjours portée, il eust encore
-                        pour son intention les mesmes pensées qu'autrefois il a euës ? Ah ma sœur,
-                        ma sœur, <persName key="celadon" role="berger">Celadon</persName> est trop
-                        veritablement mort pour mon contentement, &amp; ce que nous en voyons, n'est
-                        que le tesmoignage de son amitié, &amp; de mon <pb xml:id="page_abs_318"
+                        impossible qu'il allast errant le long de ce mal heureux <placeName
+                            key="riviere_lignon">rivage de Lignon</placeName>, &amp; que conservant
+                        l'amitié qu'il m'a tousjours portée, il eust encore pour son intention les
+                        mesmes pensées qu'autrefois il a euës ? Ah ma sœur, ma sœur, <persName
+                            key="celadon" role="berger">Celadon</persName> est trop veritablement
+                        mort pour mon contentement, &amp; ce que nous en voyons, n'est que le
+                        tesmoignage de son amitié, &amp; de mon <pb xml:id="page_abs_318"
                             n="page_ori_311"/> imprudence. Ce que j'en dis, respondit <persName
                             key="philis" role="amie_astree">Philis</persName>, n'est que pour
                         l'apparence que j'y vois, &amp; le desir que j'en ay pour vostre repos. Je
@@ -8410,11 +8513,11 @@
                             key="celadon" role="berger">Celadon</persName> n'estoit point mort.
                         Comment, dit Tircis, <persName key="celadon" role="berger"
                             >Celadon</persName> ce Berger qui se noya il y a quatre ou cinq lunes
-                        dans <placeName key="riviere_lignon">Lignon</placeName> ? Celuy là mesme, respondit <persName key="silvandre"
-                            role="berger">Silvandre</persName>, &amp; servoit il <persName
-                            key="astree_personnage" role="berger">Astrée</persName> ? adjousta
-                        Tircis. Au contraire j'ay ouy dire qu'il y avoit tant d'inimitié entre leurs
-                        familles.</p>
+                        dans <placeName key="riviere_lignon">Lignon</placeName> ? Celuy là mesme,
+                        respondit <persName key="silvandre" role="berger">Silvandre</persName>,
+                        &amp; servoit il <persName key="astree_personnage" role="berger"
+                            >Astrée</persName> ? adjousta Tircis. Au contraire j'ay ouy dire qu'il y
+                        avoit tant d'inimitié entre leurs familles.</p>
                     <p>&#160;&#160;&#160;La beauté de la Bergere fut plus grande que la haine,
                         respondit <persName key="silvandre" role="berger">Silvandre</persName>,
                         &amp; me semble que puis qu'il est mort, il n'y a point de danger de le
@@ -8443,24 +8546,25 @@
                         qu'il n'est pas mort. A quoy <persName key="philis" role="amie_astree"
                             >Philis</persName> respondit, c'est de quoy nous parlions à cette heure
                         mesme : mais elle dit que l'Ame de <persName key="celadon" role="berger"
-                            >Celadon</persName> qui va errant le long du <placeName key="riviere_lignon">rivage de Lignon</placeName> les a
-                        escrits. Et quoy ? [dit] Tircis, n'a-t'il point esté enterré ? c'est la
-                        cause dit <persName key="astree_personnage" role="berger">Astrée</persName>
-                        qu'il va errant de cette sorte : car on ne luy a pas mesme fait un vain
-                        Tombeau. C'est veritablement, adjousta Paris, trop de nonchalance, d'avoir
-                        laissé si longuement en peine pour un devoir de si peu de moment, une si
-                        belle ame que celle de ce gentil Berger. Voila, dit Tyrcis, comme le souci
-                        des morts touche le plus souvent fort peu ceux qui survivent : de sorte que
-                        j'estime ceux là sages, qui durant leur vie y pourvoient : &amp; sans
-                        mentir, adjousta <persName key="diane" role="berger">Diane</persName>, c'est
-                        chose estrange que ce Berger tant aymé, non seulement de tous ses parens,
-                        mais de tout nostre hameau, n'ait receu ce pitoyable office que recevoient
-                        les moins aymez. C'est peut-estre, dict <persName key="thersandre"
-                            role="antagonsite">Thersandre</persName>, que les Dieux l'ont ordonné de
-                        cette sorte, afin qu'il n'abandonnast pas si tost ces <pb
-                            xml:id="page_abs_321" n="page_ori_314"/> lieux qu'il avoit tant aymés,
-                        &amp; que recompensé de son affection il eust ce contentement de demeurer
-                        quelque temps pres de celle qu'il ayme.</p>
+                            >Celadon</persName> qui va errant le long du <placeName
+                            key="riviere_lignon">rivage de Lignon</placeName> les a escrits. Et quoy
+                        ? [dit] Tircis, n'a-t'il point esté enterré ? c'est la cause dit <persName
+                            key="astree_personnage" role="berger">Astrée</persName> qu'il va errant
+                        de cette sorte : car on ne luy a pas mesme fait un vain Tombeau. C'est
+                        veritablement, adjousta Paris, trop de nonchalance, d'avoir laissé si
+                        longuement en peine pour un devoir de si peu de moment, une si belle ame que
+                        celle de ce gentil Berger. Voila, dit Tyrcis, comme le souci des morts
+                        touche le plus souvent fort peu ceux qui survivent : de sorte que j'estime
+                        ceux là sages, qui durant leur vie y pourvoient : &amp; sans mentir,
+                        adjousta <persName key="diane" role="berger">Diane</persName>, c'est chose
+                        estrange que ce Berger tant aymé, non seulement de tous ses parens, mais de
+                        tout nostre hameau, n'ait receu ce pitoyable office que recevoient les moins
+                        aymez. C'est peut-estre, dict <persName key="thersandre" role="antagonsite"
+                            >Thersandre</persName>, que les Dieux l'ont ordonné de cette sorte, afin
+                        qu'il n'abandonnast pas si tost ces <pb xml:id="page_abs_321"
+                            n="page_ori_314"/> lieux qu'il avoit tant aymés, &amp; que recompensé de
+                        son affection il eust ce contentement de demeurer quelque temps pres de
+                        celle qu'il ayme.</p>
                     <p>&#160;&#160;&#160;Toutefois, dit Tyrcis, j'ai appris que tout ainsi que
                         nostre corps ne peut demeurer en l'air, en l'eau ny dans le feu sans une
                         continuelle peine, parce qu'estant pesant, il faut qu'incessamment il se
@@ -8712,10 +8816,11 @@
                             >Philis</persName> qui venoit apres l'apperceut en ceste posture : Et
                         qu'est ce ? luy dit elle, <persName key="hylas" role="donjuan"
                             >Hylas</persName> que vous faites icy, cependant que nous venons de voir
-                        les plus grandes merveilles qui soient en toute la <placeName key="riviere_lignon">rive de Lignon</placeName> ? J'ay une
-                        pensée (respondit <persName key="hylas" role="donjuan">Hylas</persName> se
-                        levant froidement, &amp; se frottant les yeux) qui me tourmente plus que je
-                        ne me fusse jamais peu persuader. Et qui est elle ? (adjousta <persName
+                        les plus grandes merveilles qui soient en toute la <placeName
+                            key="riviere_lignon">rive de Lignon</placeName> ? J'ay une pensée
+                        (respondit <persName key="hylas" role="donjuan">Hylas</persName> se levant
+                        froidement, &amp; se frottant les yeux) qui me tourmente plus que je ne me
+                        fusse jamais peu persuader. Et qui est elle ? (adjousta <persName
                             key="philis" role="amie_astree">Philis</persName>) je la vous diray,
                         respondit l'inconstant, si vous me promettez de faire une chose dont je vous
                         supplieray. Je n'ay garde, dict-elle, de m'obliger de parole sans sçavoir ce
@@ -8927,53 +9032,53 @@
                             <persName key="astree_personnage" role="berger">Astrée</persName>, un
                         lieu bien retiré pour y recevoir des lettres. Vous le jugerez bien mieux
                         tel, luy dit-il, quand vous [y] serez : car c'est bien le lieu le plus
-                        sauvage, &amp; le moins frequenté, qui soit le long des <placeName key="riviere_lignon">rives de Lignon</placeName>. De
-                        sorte, dit <persName key="astree_personnage" role="berger"
-                        >Astrée</persName>, qu'aucun ne l'a sceu escrire que vous, ou l'Amour. Pour
-                        ce qui est de moy, dit-il, je sçay bien ce qui en est ; Et quant à l'Amour
-                        je m'en tais, car j'ay ouy dire que quelquesfois nous voulant jetter ses
-                        flammes dans le cœur, il se brusle luy mesme sans y penser. Et qui sçait si
-                        cela ne luy est point advenu par la beauté de ma maistresse ? Que si quelque
-                        chose l'a garanti, c'est sans doute le bandeau qu'il a devant les yeux. Ah !
-                            <persName key="silvandre" role="berger">Silvandre</persName>, dit la
-                        Bergere, ce bandeau ne l'empesche gueres de bien voir ce qui luy plaist :
-                        &amp; ces coups sont si justes, &amp; faillent si peu souvent le but où il
-                        les adresse qu'il n'y a pas apparence qu'un aveugle les ait tirez. Discrette
-                        Bergere, respondit <persName key="silvandre" role="berger"
-                            >Silvandre</persName>, j'ay veu un aveugle en la maison de vostre pere,
-                        qui sçavoit aussi bien tous les chemins &amp; destours de vostre hameau,
-                        &amp; se conduisoit aussi <pb xml:id="page_abs_340" n="page_ori_333"/> bien
-                        par tout le logis que j'eusse sceu faire, ayant acquis cela par une longue
-                        accoustumance. Et pourquoy ne dirions nous que Amour qui est le premier,
-                        &amp; le plus vieil de tous les dieux, n'ait par une longue coustume appris
-                        d'attaindre les hommes au cœur ? &amp; pour monstrer que c'est plus par
-                        coustume que par justesse, prenez garde qu'il ne nous vise que aux yeux,
-                        &amp; qu'il ne nous attaint qu'au cœur. Que s'il n'estoit point aveugle,
-                        quelle apparence y a t'il qu'il blessast d'un reciproque Amour des personnes
-                        tant inesgales, ou qu'aux uns il donnast de l'Amour pour des personnes qui
-                        les surpassent de tant, &amp; aux autres, pour d'autres qui leur sont tant
-                        inferieures ? J'en parle comme interessé : car à moy qui ne sçay seulement
-                        qui je suis, il a fait aimer <persName key="diane" role="berger"
-                            >Diane</persName>, de qui le merite surpasse tous ceux des Bergers,
-                        &amp; à Paris qui est fils du Prince de nos Druides, il fait aimer une
-                        Bergere. Par vos merites, respondit <persName key="astree_personnage"
-                            role="berger">Astrée</persName>, vous esgalez les perfections de
-                            <persName key="diane" role="berger">Diane</persName>, &amp; <persName
-                            key="diane" role="berger">Diane</persName> par ses vertus surpasse la
-                        grandeur de Paris, &amp; par ainsi l'inegalité n'est point telle qu'il
-                        faille par là accuser Amour d'aveuglement. <persName key="silvandre"
-                            role="berger">Silvandre</persName> demeura muet à cette replique, non
-                        pas qu'il n'eut aisément respondu, mais parce qu'il fut marry d'avoir par
-                        ses paroles donné, cognoissance de sa veritable affection, &amp; s'en
-                        repentoit craignant d'offencer <persName key="diane" role="berger"
-                            >Diane</persName> si autre qu'elle le sçavoit. Mais il s'estoit de
-                        fortune bien addressé : car <persName key="astree_personnage" role="berger"
-                            >Astrée</persName> luy eust volontiers donné toute sorte d'aide,
-                        recognoissant la pure &amp; <pb xml:id="page_abs_341" n="page_ori_334"/>
-                        sincere amitié qu'il portoit à <persName key="diane" role="berger"
-                            >Diane</persName>. Aussi le naturel d'une personne qui ayme bien, est de
-                        ne nuire jamais aux amours d'autruy, si elles ne sont prejudiciables aux
-                        siennes.</p>
+                        sauvage, &amp; le moins frequenté, qui soit le long des <placeName
+                            key="riviere_lignon">rives de Lignon</placeName>. De sorte, dit
+                            <persName key="astree_personnage" role="berger">Astrée</persName>,
+                        qu'aucun ne l'a sceu escrire que vous, ou l'Amour. Pour ce qui est de moy,
+                        dit-il, je sçay bien ce qui en est ; Et quant à l'Amour je m'en tais, car
+                        j'ay ouy dire que quelquesfois nous voulant jetter ses flammes dans le cœur,
+                        il se brusle luy mesme sans y penser. Et qui sçait si cela ne luy est point
+                        advenu par la beauté de ma maistresse ? Que si quelque chose l'a garanti,
+                        c'est sans doute le bandeau qu'il a devant les yeux. Ah ! <persName
+                            key="silvandre" role="berger">Silvandre</persName>, dit la Bergere, ce
+                        bandeau ne l'empesche gueres de bien voir ce qui luy plaist : &amp; ces
+                        coups sont si justes, &amp; faillent si peu souvent le but où il les adresse
+                        qu'il n'y a pas apparence qu'un aveugle les ait tirez. Discrette Bergere,
+                        respondit <persName key="silvandre" role="berger">Silvandre</persName>, j'ay
+                        veu un aveugle en la maison de vostre pere, qui sçavoit aussi bien tous les
+                        chemins &amp; destours de vostre hameau, &amp; se conduisoit aussi <pb
+                            xml:id="page_abs_340" n="page_ori_333"/> bien par tout le logis que
+                        j'eusse sceu faire, ayant acquis cela par une longue accoustumance. Et
+                        pourquoy ne dirions nous que Amour qui est le premier, &amp; le plus vieil
+                        de tous les dieux, n'ait par une longue coustume appris d'attaindre les
+                        hommes au cœur ? &amp; pour monstrer que c'est plus par coustume que par
+                        justesse, prenez garde qu'il ne nous vise que aux yeux, &amp; qu'il ne nous
+                        attaint qu'au cœur. Que s'il n'estoit point aveugle, quelle apparence y a
+                        t'il qu'il blessast d'un reciproque Amour des personnes tant inesgales, ou
+                        qu'aux uns il donnast de l'Amour pour des personnes qui les surpassent de
+                        tant, &amp; aux autres, pour d'autres qui leur sont tant inferieures ? J'en
+                        parle comme interessé : car à moy qui ne sçay seulement qui je suis, il a
+                        fait aimer <persName key="diane" role="berger">Diane</persName>, de qui le
+                        merite surpasse tous ceux des Bergers, &amp; à Paris qui est fils du Prince
+                        de nos Druides, il fait aimer une Bergere. Par vos merites, respondit
+                            <persName key="astree_personnage" role="berger">Astrée</persName>, vous
+                        esgalez les perfections de <persName key="diane" role="berger"
+                            >Diane</persName>, &amp; <persName key="diane" role="berger"
+                            >Diane</persName> par ses vertus surpasse la grandeur de Paris, &amp;
+                        par ainsi l'inegalité n'est point telle qu'il faille par là accuser Amour
+                        d'aveuglement. <persName key="silvandre" role="berger">Silvandre</persName>
+                        demeura muet à cette replique, non pas qu'il n'eut aisément respondu, mais
+                        parce qu'il fut marry d'avoir par ses paroles donné, cognoissance de sa
+                        veritable affection, &amp; s'en repentoit craignant d'offencer <persName
+                            key="diane" role="berger">Diane</persName> si autre qu'elle le sçavoit.
+                        Mais il s'estoit de fortune bien addressé : car <persName
+                            key="astree_personnage" role="berger">Astrée</persName> luy eust
+                        volontiers donné toute sorte d'aide, recognoissant la pure &amp; <pb
+                            xml:id="page_abs_341" n="page_ori_334"/> sincere amitié qu'il portoit à
+                            <persName key="diane" role="berger">Diane</persName>. Aussi le naturel
+                        d'une personne qui ayme bien, est de ne nuire jamais aux amours d'autruy, si
+                        elles ne sont prejudiciables aux siennes.</p>
                     <p>&#160;&#160;&#160;Et lors qu'il levoit la teste pour lui répondre il arriva
                         dans le bois, qui fut cause que sans faire semblant de ce qu'ils avoient
                         dit, Voicy, luy dit-il, sage Bergere, le bois que vous avez tant desiré,
@@ -11802,23 +11907,24 @@
                             >riviere de Lignon</placeName>, &amp; des bocages qui s'y rencontroient
                         qu'il estoit impossible de s'y ennuyer. Il avint donc qu'estant resoluë un
                         jour de s'y en aller toute seule, elle alla passer sur le pont de la
-                        [B]outeresse, &amp; descendant le long des <placeName key="riviere_lignon">rives de Lignon</placeName>. Encores qu'il
-                        n'y eust point de sentier si pres de la rive, elle ne laissoit de s'y faire
-                        chemin pour le plaisir qu'elle prenoit de voir le poisson qui dans la claire
-                        eau de la riviere s'en alloit à petites troupes, se joüant ensemble le long
-                        du bord, &amp; poursuivant ainsi son voyage, se trouva sans y penser pres de
-                        la fontaine où <persName key="celadon" role="berger">Celadon</persName>
-                        souloit cueillir le cresson dont il se nourrissoit. Et de fortune le Berger
-                        s'estant couché sur le bord s'y estoit endormy un peu auparavant. D'aussi
-                        loing que la Nimphe l'apperceut, elle le prist pour Licidas, parce que ces
-                        deux freres estoient presque d'une mesme taille, &amp; avoient accoustumé
-                        d'aller vestus l'un comme l'autre : &amp; quoy que <persName key="celadon"
-                            role="berger">Celadon</persName> fut un peu plus grand, &amp; eust le
-                        visage beaucoup plus blanc &amp; plus agreable, si est ce que s'approchant
-                        de luy elle y fust deceuë, tant pource qu'elle creut asseurement que
-                            <persName key="celadon" role="berger">Celadon</persName> n'estoit pas en
-                        cette contrée, que pour le changement de son visage, ou pour l'opinion
-                        qu'elle avoit que Licidas plein de jalousie, comme elle sçavoit <pb
+                        [B]outeresse, &amp; descendant le long des <placeName key="riviere_lignon"
+                            >rives de Lignon</placeName>. Encores qu'il n'y eust point de sentier si
+                        pres de la rive, elle ne laissoit de s'y faire chemin pour le plaisir
+                        qu'elle prenoit de voir le poisson qui dans la claire eau de la riviere s'en
+                        alloit à petites troupes, se joüant ensemble le long du bord, &amp;
+                        poursuivant ainsi son voyage, se trouva sans y penser pres de la fontaine où
+                            <persName key="celadon" role="berger">Celadon</persName> souloit
+                        cueillir le cresson dont il se nourrissoit. Et de fortune le Berger s'estant
+                        couché sur le bord s'y estoit endormy un peu auparavant. D'aussi loing que
+                        la Nimphe l'apperceut, elle le prist pour Licidas, parce que ces deux freres
+                        estoient presque d'une mesme taille, &amp; avoient accoustumé d'aller vestus
+                        l'un comme l'autre : &amp; quoy que <persName key="celadon" role="berger"
+                            >Celadon</persName> fut un peu plus grand, &amp; eust le visage beaucoup
+                        plus blanc &amp; plus agreable, si est ce que s'approchant de luy elle y
+                        fust deceuë, tant pource qu'elle creut asseurement que <persName
+                            key="celadon" role="berger">Celadon</persName> n'estoit pas en cette
+                        contrée, que pour le changement de son visage, ou pour l'opinion qu'elle
+                        avoit que Licidas plein de jalousie, comme elle sçavoit <pb
                             xml:id="page_abs_463" n="page_ori_457"/> bien qu'il estoit, se retiroit
                         ainsi seul par ces lieux esgarez. Tant y a qu'elle s'assit aupres de
                             <persName key="celadon" role="berger">Celadon</persName>, pensant qu'il
@@ -12032,45 +12138,45 @@
                         representant le Berger à qui elle avoit pris ce petit sac, &amp; se
                         ressouvenant d'en avoir oüi dire quelque chose à <persName key="galathee"
                             role="berger">Galathée</persName>, lors que <persName key="celadon"
-                                role="berger">Celadon</persName> fut trouvé sur le bord de <placeName key="riviere_lignon">Lignon</placeName>, elle
-                        entra en quelque opinion que ce fust luy, &amp; non pas Licidas : &amp; lors
-                        considerant de plus pres ces papiers, elle s'en, asseura d'avantage quand
-                        elle en vit quelques uns qui monstroient d'avoir esté moüillez : mais
-                        beaucoup plus encores lors que regardant le sac elle trouva que le cuir
-                        s'estoit retiré &amp; ridé en certains lieux, car elle recognut par là que
-                        veritablement c'estoit cestuy cy dont <persName key="galathee" role="berger"
-                            >Galathée</persName> luy avoit parlé. O Dieux ! dit elle, frappant des
-                        mains ensemble, il n'en faut point douter, c'est <persName key="celadon"
-                            role="berger">Celadon</persName>. Mais où avois-je les yeux, que je ne
-                        l'ay pas cogneu <pb xml:id="page_abs_471" n="page_ori_465"/> quand je l'ay
-                        veu ? Et lors ramassant en diligence tous ces papiers elle les resserre,
-                        &amp; s'en retourne bien plus viste à la fontaine où elle l'avoit laissé
-                        qu'elle n'en estoit pas venuë. Mais elle fut bien fachée de ne l'y trouver
-                        plus. Ah ! fontaine, disoit elle, &amp; vous sejour solitaire, rendez moy ce
-                        que je vous ay laissé. Rendez le moy ce Berger, duquel ne voulant
-                        interrompre le repos, j'ay perdu entierement le mien. En proferant ces
-                        paroles elle alloit tournant la veuë tout à l'entour, pour voir si elle en
-                        pouvoit apprendre quelque nouvelle. Mais elle n'avoit garde : car il
-                        s'estoit desja retiré tout triste en sa caverne, apres avoir cherché en
-                        vain, ce qu'elle luy avoit desrobé. En fin Amour, qui est prudent, luy fist
-                        prendre garde que l'herbe depuis la fontaine jusques assez loin de là estoit
-                        foulée comme un sentier nouveau, &amp; qui n'est pas bien encor battu. Elle
-                        jugea, &amp; certes fort à propos, que ce sentier la conduiroit où s'estoit
-                        retiré ce Berger : &amp; de fait c'estoit la verité que <persName
-                            key="celadon" role="berger">Celadon</persName> ayant accoustumé de
-                        passer par là lors que de sa caverne, il s'en venoit en ce lieu, en avoit
-                        fait si souvent le chemin, que l'herbe en estoit foulée comme d'un nouveau
-                        sentier. Le prenant donc pour son guide, elle ne l'eust point suivy, cinq ou
-                        six cens pas, qu'elle se trouve proche du Rocher où <persName key="celadon"
-                            role="berger">Celadon</persName> faisoit sa retraitte : toutefois
-                        d'autant que les arbres &amp; buissons qui luy estoient à l'entour, le
-                        couvroient tout, elle eust presque peur de s'en approcher, craignant que ce
-                        ne fut le <pb xml:id="page_abs_472" n="page_ori_466"/> repaire de quelque
-                        loup ou sanglier, ou pour le moins de quantité de serpents. Et comme elle
-                        estoit en suspens, il luy sembla d'oüir souspirer : ce qui lui fit
-                        cognoistre qu'il y avoit quelqu'un : mais jugeant aussi que les couleuvres
-                        &amp; serpens sifflent quelquesfois presque de la sorte, elle ne s'en
-                        approchoit qu'avec apprehension, &amp; si doucement que <persName
+                            role="berger">Celadon</persName> fut trouvé sur le bord de <placeName
+                            key="riviere_lignon">Lignon</placeName>, elle entra en quelque opinion
+                        que ce fust luy, &amp; non pas Licidas : &amp; lors considerant de plus pres
+                        ces papiers, elle s'en, asseura d'avantage quand elle en vit quelques uns
+                        qui monstroient d'avoir esté moüillez : mais beaucoup plus encores lors que
+                        regardant le sac elle trouva que le cuir s'estoit retiré &amp; ridé en
+                        certains lieux, car elle recognut par là que veritablement c'estoit cestuy
+                        cy dont <persName key="galathee" role="berger">Galathée</persName> luy avoit
+                        parlé. O Dieux ! dit elle, frappant des mains ensemble, il n'en faut point
+                        douter, c'est <persName key="celadon" role="berger">Celadon</persName>. Mais
+                        où avois-je les yeux, que je ne l'ay pas cogneu <pb xml:id="page_abs_471"
+                            n="page_ori_465"/> quand je l'ay veu ? Et lors ramassant en diligence
+                        tous ces papiers elle les resserre, &amp; s'en retourne bien plus viste à la
+                        fontaine où elle l'avoit laissé qu'elle n'en estoit pas venuë. Mais elle fut
+                        bien fachée de ne l'y trouver plus. Ah ! fontaine, disoit elle, &amp; vous
+                        sejour solitaire, rendez moy ce que je vous ay laissé. Rendez le moy ce
+                        Berger, duquel ne voulant interrompre le repos, j'ay perdu entierement le
+                        mien. En proferant ces paroles elle alloit tournant la veuë tout à l'entour,
+                        pour voir si elle en pouvoit apprendre quelque nouvelle. Mais elle n'avoit
+                        garde : car il s'estoit desja retiré tout triste en sa caverne, apres avoir
+                        cherché en vain, ce qu'elle luy avoit desrobé. En fin Amour, qui est
+                        prudent, luy fist prendre garde que l'herbe depuis la fontaine jusques assez
+                        loin de là estoit foulée comme un sentier nouveau, &amp; qui n'est pas bien
+                        encor battu. Elle jugea, &amp; certes fort à propos, que ce sentier la
+                        conduiroit où s'estoit retiré ce Berger : &amp; de fait c'estoit la verité
+                        que <persName key="celadon" role="berger">Celadon</persName> ayant
+                        accoustumé de passer par là lors que de sa caverne, il s'en venoit en ce
+                        lieu, en avoit fait si souvent le chemin, que l'herbe en estoit foulée comme
+                        d'un nouveau sentier. Le prenant donc pour son guide, elle ne l'eust point
+                        suivy, cinq ou six cens pas, qu'elle se trouve proche du Rocher où <persName
+                            key="celadon" role="berger">Celadon</persName> faisoit sa retraitte :
+                        toutefois d'autant que les arbres &amp; buissons qui luy estoient à
+                        l'entour, le couvroient tout, elle eust presque peur de s'en approcher,
+                        craignant que ce ne fut le <pb xml:id="page_abs_472" n="page_ori_466"/>
+                        repaire de quelque loup ou sanglier, ou pour le moins de quantité de
+                        serpents. Et comme elle estoit en suspens, il luy sembla d'oüir souspirer :
+                        ce qui lui fit cognoistre qu'il y avoit quelqu'un : mais jugeant aussi que
+                        les couleuvres &amp; serpens sifflent quelquesfois presque de la sorte, elle
+                        ne s'en approchoit qu'avec apprehension, &amp; si doucement que <persName
                             key="celadon" role="berger">Celadon</persName> qui estoit dedans ne s'en
                         aperceut point. Mais encor qu'à sa venuë, elle eut fait plus de bruit, le
                         Berger [n]e s'en fust pas pris garde, tant il estoit attentif à ce qu'il
@@ -12224,34 +12330,35 @@
                         l'amour ou la mort m'en sorte, parce que si ma Bergere m'avoit absolument
                         commandé de ne me faire jamais voir à elle, il n'y a point de doute que je
                         fusse sorti de ceste vie, aussi tost que revenu à moy, je recogneus que
-                        <placeName key="riviere_lignon">Lignon</placeName> ne m'avoit pas voulu donner la mort, mais ayant bonne memoire de ses
-                        paroles, &amp; me ressouvenant que ce bannissement n'estoit pas pour
-                        tousjours : mais seulement autant qu'elle demeureroit à me commander de
-                        revenir, j'ai vescu de cette sorte, attendant que l'amour me r'appellast,
-                        comme il semble qu'elle m'ait promis, ou à son deffaut, la mort, qui ne me
-                        sera jamais moins ennuyeuse, qu'en l'estat où je suis. Mais comment pauvre
-                        abusé, repliqua la Nimphe, pouvez vous <pb xml:id="page_abs_479"
-                            n="page_ori_473"/> esperer qu'elle vous r'appelle, si elle ne sçait pas
-                        où vous estes ? Amour respondit-il, qui m'a conduit icy, n'a pas oublié le
-                        lieu où je suis, puis qu'ordinairement il m'y vient entretenir : &amp; puis
-                        que c'est par luy que je dois esperer qu'elle me r'appelle, il ne faut point
-                        que je doute que sans moy il ne luy fasse bien entendre en quel lieu il m'a
-                        confiné. Si vos imaginations, repliqua la Nymphe, pouvoient autant sur les
-                        autres que sur vous, il y auroit quelque apparence en ce que vous dites :
-                        mais croyez que les Dieux n'aydent guiere à ceux qui ne s'aydent point eux
-                        mesmes. Et ne pensez que je vous en parle sans raison : car je sçay fort
-                        bien que si <persName key="astree_personnage" role="berger"
-                            >Astrée</persName> vous sçavoit en vie, elle vous desireroit aupres
-                        d'elle. Et comment, dit incontinent le Berger, le sçavez vous, belle Nimphe
-                        ? Je l'ay apris, dit elle, de la tristesse que je vois en son visage. Elle
-                        se trouve peut estre mal d'ailleurs, dit le Berger : mais où l'avez vous
-                        veuë depuis que nous nous separames ? J'ay bien, luy dit elle, à vous
-                        entretenir sur ces discours, &amp; serois bien aise de vous raconter ce qui
-                        m'est advenu depuis que nous nous quitames, pourveu que je vous visse faire
-                        meilleure chere que vous ne faites pas. Cela, dit <persName key="celadon"
-                            role="berger">Celadon</persName>, ne vous en doit pas empescher, &amp;
-                        croyez que vostre veuë m'apporte autant de contentement qu'autre que je
-                        puisse avoir sans celle d'<persName key="astree_personnage" role="berger"
+                            <placeName key="riviere_lignon">Lignon</placeName> ne m'avoit pas voulu
+                        donner la mort, mais ayant bonne memoire de ses paroles, &amp; me
+                        ressouvenant que ce bannissement n'estoit pas pour tousjours : mais
+                        seulement autant qu'elle demeureroit à me commander de revenir, j'ai vescu
+                        de cette sorte, attendant que l'amour me r'appellast, comme il semble
+                        qu'elle m'ait promis, ou à son deffaut, la mort, qui ne me sera jamais moins
+                        ennuyeuse, qu'en l'estat où je suis. Mais comment pauvre abusé, repliqua la
+                        Nimphe, pouvez vous <pb xml:id="page_abs_479" n="page_ori_473"/> esperer
+                        qu'elle vous r'appelle, si elle ne sçait pas où vous estes ? Amour
+                        respondit-il, qui m'a conduit icy, n'a pas oublié le lieu où je suis, puis
+                        qu'ordinairement il m'y vient entretenir : &amp; puis que c'est par luy que
+                        je dois esperer qu'elle me r'appelle, il ne faut point que je doute que sans
+                        moy il ne luy fasse bien entendre en quel lieu il m'a confiné. Si vos
+                        imaginations, repliqua la Nymphe, pouvoient autant sur les autres que sur
+                        vous, il y auroit quelque apparence en ce que vous dites : mais croyez que
+                        les Dieux n'aydent guiere à ceux qui ne s'aydent point eux mesmes. Et ne
+                        pensez que je vous en parle sans raison : car je sçay fort bien que si
+                            <persName key="astree_personnage" role="berger">Astrée</persName> vous
+                        sçavoit en vie, elle vous desireroit aupres d'elle. Et comment, dit
+                        incontinent le Berger, le sçavez vous, belle Nimphe ? Je l'ay apris, dit
+                        elle, de la tristesse que je vois en son visage. Elle se trouve peut estre
+                        mal d'ailleurs, dit le Berger : mais où l'avez vous veuë depuis que nous
+                        nous separames ? J'ay bien, luy dit elle, à vous entretenir sur ces
+                        discours, &amp; serois bien aise de vous raconter ce qui m'est advenu depuis
+                        que nous nous quitames, pourveu que je vous visse faire meilleure chere que
+                        vous ne faites pas. Cela, dit <persName key="celadon" role="berger"
+                            >Celadon</persName>, ne vous en doit pas empescher, &amp; croyez que
+                        vostre veuë m'apporte autant de contentement qu'autre que je puisse avoir
+                        sans celle d'<persName key="astree_personnage" role="berger"
                             >Astrée</persName>, de laquelle estant privé, le discours que vous me
                         voulez faire m'est sur tout agreable. Alors <persName key="leonide"
                             role="travesti">Leonide</persName> reprit la parole de cette sorte.</p>
@@ -12813,19 +12920,21 @@
                                     frere, estant ainsi conjurée. Je <pb xml:id="page_abs_498"
                                         n="page_ori_492"/> vous supplie donc, continua-t'il, que
                                     cependant que vous ne retournerez point à Marsilli, vous
-                                    veuillez aller sur les <placeName key="riviere_lignon">rives de Lignon</placeName> passer les apres-disnées
-                                    en la compagnie de ces belles &amp; sages Bergeres, &amp; je
-                                    vous y suivray. Aussi bien trouverez vous icy les jours fort
-                                    longs, ayant accoustumé la Cour de <persName key="galathee"
-                                        role="berger">Galathée</persName>, outre que les <placeName key="riviere_lignon">rivages de
-                                    Lignon</placeName> ont des ombres fresches &amp; si plaisantes, qu'il est
-                                    impossible de s'y ennuyer. On y voit l'onde claire &amp; nette,
-                                    si peuplée de toute sorte de poissons qu'à peine se peuvent-ils
-                                    couvrir de l'eau. Vous y entendez mille sortes d'oyseaux, qui
-                                    des proches boccages font retentir leur voix avec mille Echos.
-                                    Il y a des fontaines si fraiches &amp; claires qu'elles convient
-                                    les moins alterez d'en boire. Bref, luy dis-je, en sousriant, on
-                                    y rencontre des plus belles &amp; agreables Bergeres de toute la
+                                    veuillez aller sur les <placeName key="riviere_lignon">rives de
+                                        Lignon</placeName> passer les apres-disnées en la compagnie
+                                    de ces belles &amp; sages Bergeres, &amp; je vous y suivray.
+                                    Aussi bien trouverez vous icy les jours fort longs, ayant
+                                    accoustumé la Cour de <persName key="galathee" role="berger"
+                                        >Galathée</persName>, outre que les <placeName
+                                        key="riviere_lignon">rivages de Lignon</placeName> ont des
+                                    ombres fresches &amp; si plaisantes, qu'il est impossible de s'y
+                                    ennuyer. On y voit l'onde claire &amp; nette, si peuplée de
+                                    toute sorte de poissons qu'à peine se peuvent-ils couvrir de
+                                    l'eau. Vous y entendez mille sortes d'oyseaux, qui des proches
+                                    boccages font retentir leur voix avec mille Echos. Il y a des
+                                    fontaines si fraiches &amp; claires qu'elles convient les moins
+                                    alterez d'en boire. Bref, luy dis-je, en sousriant, on y
+                                    rencontre des plus belles &amp; agreables Bergeres de toute la
                                     contrée. Il est vray, me dit-il, &amp; tout cela ne vous doit-il
                                     pas convier d'y aller ? Tout ce que vous me racontez, luy
                                     dis-je, ne m'esmeut point au prix de la volonté que vous en avez
@@ -12897,14 +13006,15 @@
                                     de la Bouteresse, où remontant un peu, &amp; laissant le temple
                                     de la bonne Déesse à <pb xml:id="page_abs_501" n="page_ori_495"
                                     /> main droite, nous vi[n]mes sur un lieu relevé, d'où nous
-                                    pouvions voir presque tous les destours de <placeName key="riviere_lignon">Lignon</placeName>, &amp; les
-                                    lieux où les Bergers menent paistre leurs troupeaux, mesmes nous
-                                    y en vismes, qui pour estre trop esloignez, ne peurent estre
-                                    recognus de nous. Et lors que par un petit sentier nous
-                                    commencions à descendre dans la plaine : Voyez vous, luy dis-je,
-                                    mon frere, en la luy montrant du doigt, cette touffe d'arbres,
-                                    qui est à main droitte, &amp; qui s'approche un peu du bord de
-                                    la riviere, c'est le premier lieu où je vis jamais <persName
+                                    pouvions voir presque tous les destours de <placeName
+                                        key="riviere_lignon">Lignon</placeName>, &amp; les lieux où
+                                    les Bergers menent paistre leurs troupeaux, mesmes nous y en
+                                    vismes, qui pour estre trop esloignez, ne peurent estre recognus
+                                    de nous. Et lors que par un petit sentier nous commencions à
+                                    descendre dans la plaine : Voyez vous, luy dis-je, mon frere, en
+                                    la luy montrant du doigt, cette touffe d'arbres, qui est à main
+                                    droitte, &amp; qui s'approche un peu du bord de la riviere,
+                                    c'est le premier lieu où je vis jamais <persName
                                         key="astree_personnage" role="berger">Astrée</persName>,
                                         <persName key="diane" role="berger">Diane</persName>, &amp;
                                         <persName key="philis" role="amie_astree">Philis</persName>
@@ -13389,47 +13499,47 @@
                         elle, &amp; à ce coup ne vous voyant point avec ces Bergeres j'en estois en
                         une peine extreme : en fin comme l'on passe d'un subjet en l'autre pour peu
                         que l'on parle ensemble, je luy dis que je n'eusse pas pensé que les Bergers
-                        de <placeName key="riviere_lignon">Lignon</placeName> eussent esté si gentils ni si civilisez que je les trouvois, &amp;
-                        que la premiere fois que revenant de Feurs je m'estois arrestée avec elles
-                        ç'avoit principalement esté en intention de sçavoir si ce que l'on en disoit
-                        estoit veritable, &amp; que <persName key="silvandre" role="berger"
-                            >Silvandre</persName> dés ce jour là m'en avoit donné une fort bonne
-                        impression. A la verité, me respondit-elle froidement, <persName
-                            key="silvandre" role="berger">Silvandre</persName> est un tres honnesse
-                        Berger : mais Madame, si vous fussiez venuë en une autre saison, je croy que
-                        vous eussiez esté beaucoup plus satisfaite de nous. Car au temps que je veux
-                        dire, il y avoit une volée de jeunes Bergers, qui sembloient faire à l'envy
-                        à qui seroit plus honneste homme. Et que <pb xml:id="page_abs_513"
-                            n="page_ori_507"/> sont-ils devenus ? respondis-je : Les uns, me dit
-                        elle, sont morts comme le pauvre <persName key="celadon" role="berger"
-                            >Celadon</persName>, les autres affligez de cette perte qui est encores
-                        fort fresche, car il n'y a pas plus de trois ou quatre Lunes, demeurent
-                        solitaires &amp; se retirent de toutes compagnies, comme <persName
-                            key="lycidas" role="berger">Lycidas</persName> : les autres estonnez de
-                        ce desastre ont quitté les <placeName key="riviere_lignon">rives de ce malheureux Lignon</placeName> : bref nous mesmes
-                        qui sommes demeurées, nous trouvons si estourdies de ce coup, que nous ne
-                        pouvons nous remettre. <persName key="celadon" role="berger"
-                            >Celadon</persName>, repliquay je, n'estoit ce pas ce Berger dont j'ouys
-                        parler depuis ne fus je icy ? C'est celuy là mesme, me dit elle, avec un
-                        grand souspir[.] Estoit-il de vos parents ? luy dis-je, Non dit elle, au
-                        contraire, son pere &amp; le mien estoient mortels ennemis. Mais, Madame,
-                        c'estoit bien un des plus gentils Bergers qui ayent jamais esté en ceste
-                        contrée. Et quoy qu'il y eust une tres-grande inimitié entre ceux de sa
-                        famille &amp; de la mienne, si ne puis je m'empescher de le regretter, tant
-                        il avoit de bonnes conditions qui contraignent chacun de ressentir sa perte.
-                        A ce mot elle changea de visage : &amp; se mettant une main sur les yeux,
-                        fit semblant de se frotter le front. Je cogneus bien à ces discours, que
-                        vous n'estiez point revenu vers elle depuis que je vous avois laissée, &amp;
-                        cognoissant qu'elle ne me pouvoit dire nouvelles de ce que je desirois,
-                        &amp; que la continuation de ses propos ne pouvoit que l'ennuyer, je
-                        changeay de discours, &amp; quelque temps apres, voyant qu'il <pb
-                            xml:id="page_abs_514" n="page_ori_508"/> se faisoit tard, Paris &amp;
-                        moy nous retirasmes : Et ce fut lors que je sceus de <persName
-                            key="silvandre" role="berger">Silvandre</persName> la jalousie de
-                            <persName key="lycidas" role="berger">Lycidas</persName>, car vous
-                        venant accompagner jusques sur le bord de la riviere, je luy demanday quelle
-                        estoit la tristesse de vostre frere, &amp; pourquoy on ne le voyoit point :
-                        &amp; il me raconta, qu'estant serviteur de <persName key="philis"
+                        de <placeName key="riviere_lignon">Lignon</placeName> eussent esté si
+                        gentils ni si civilisez que je les trouvois, &amp; que la premiere fois que
+                        revenant de Feurs je m'estois arrestée avec elles ç'avoit principalement
+                        esté en intention de sçavoir si ce que l'on en disoit estoit veritable,
+                        &amp; que <persName key="silvandre" role="berger">Silvandre</persName> dés
+                        ce jour là m'en avoit donné une fort bonne impression. A la verité, me
+                        respondit-elle froidement, <persName key="silvandre" role="berger"
+                            >Silvandre</persName> est un tres honnesse Berger : mais Madame, si vous
+                        fussiez venuë en une autre saison, je croy que vous eussiez esté beaucoup
+                        plus satisfaite de nous. Car au temps que je veux dire, il y avoit une volée
+                        de jeunes Bergers, qui sembloient faire à l'envy à qui seroit plus honneste
+                        homme. Et que <pb xml:id="page_abs_513" n="page_ori_507"/> sont-ils devenus
+                        ? respondis-je : Les uns, me dit elle, sont morts comme le pauvre <persName
+                            key="celadon" role="berger">Celadon</persName>, les autres affligez de
+                        cette perte qui est encores fort fresche, car il n'y a pas plus de trois ou
+                        quatre Lunes, demeurent solitaires &amp; se retirent de toutes compagnies,
+                        comme <persName key="lycidas" role="berger">Lycidas</persName> : les autres
+                        estonnez de ce desastre ont quitté les <placeName key="riviere_lignon">rives
+                            de ce malheureux Lignon</placeName> : bref nous mesmes qui sommes
+                        demeurées, nous trouvons si estourdies de ce coup, que nous ne pouvons nous
+                        remettre. <persName key="celadon" role="berger">Celadon</persName>,
+                        repliquay je, n'estoit ce pas ce Berger dont j'ouys parler depuis ne fus je
+                        icy ? C'est celuy là mesme, me dit elle, avec un grand souspir[.] Estoit-il
+                        de vos parents ? luy dis-je, Non dit elle, au contraire, son pere &amp; le
+                        mien estoient mortels ennemis. Mais, Madame, c'estoit bien un des plus
+                        gentils Bergers qui ayent jamais esté en ceste contrée. Et quoy qu'il y eust
+                        une tres-grande inimitié entre ceux de sa famille &amp; de la mienne, si ne
+                        puis je m'empescher de le regretter, tant il avoit de bonnes conditions qui
+                        contraignent chacun de ressentir sa perte. A ce mot elle changea de visage :
+                        &amp; se mettant une main sur les yeux, fit semblant de se frotter le front.
+                        Je cogneus bien à ces discours, que vous n'estiez point revenu vers elle
+                        depuis que je vous avois laissée, &amp; cognoissant qu'elle ne me pouvoit
+                        dire nouvelles de ce que je desirois, &amp; que la continuation de ses
+                        propos ne pouvoit que l'ennuyer, je changeay de discours, &amp; quelque
+                        temps apres, voyant qu'il <pb xml:id="page_abs_514" n="page_ori_508"/> se
+                        faisoit tard, Paris &amp; moy nous retirasmes : Et ce fut lors que je sceus
+                        de <persName key="silvandre" role="berger">Silvandre</persName> la jalousie
+                        de <persName key="lycidas" role="berger">Lycidas</persName>, car vous venant
+                        accompagner jusques sur le bord de la riviere, je luy demanday quelle estoit
+                        la tristesse de vostre frere, &amp; pourquoy on ne le voyoit point : &amp;
+                        il me raconta, qu'estant serviteur de <persName key="philis"
                             role="amie_astree">Philis</persName>, il estoit devenu jaloux d'elle
                         &amp; de luy, &amp; qu'expressement pour le tourmenter d'avantage quand il
                         pensoit estre veu de luy, il feignoit d'aymer <persName key="philis"
@@ -13591,22 +13701,23 @@
                         de cette sorte de condition ? Ma fille, dit le Druyde, ny <pb
                             xml:id="page_abs_521" n="page_ori_515"/>
                         <persName key="celadon" role="berger">Celadon</persName> ny ces autres
-                        Bergers que vous voyez le long des rives de <placeName key="riviere_lignon">Lignon</placeName>, ny la plus part de ceux
-                        de Loire &amp; de Furan, ne sont pas de moindre extraction que vous estes,
-                        &amp; faut que vous sçachiez que leurs ayeux n'ont esleu cette sorte de vie
-                        que pour estre plus douce, &amp; accompagnée de moins d'inquietudes. Et
-                        d'effect ce <persName key="celadon" role="berger">Celadon</persName> de qui
-                        nous parlons, est vostre parent fort proche. Car la maison de Lavieu, &amp;
-                        la sienne viennent d'un mesme tige : si bien que <persName key="lindamor"
-                            role="noble">Lindamor</persName>, &amp; luy vous sont parents en mesme
-                        degré. Mon ayeul, &amp; les bisayeuls de <persName key="lindamor"
-                            role="noble">Lindamor</persName> &amp; de <persName key="celadon"
-                            role="berger">Celadon</persName>, ayant esté freres. <persName
-                            key="leonide" role="travesti">Leonide</persName> qui n'avoit encores
-                        sceu cette alliance demeura estonnée, luy semblant que cette proximité luy
-                        deffendoit d'aymer <persName key="celadon" role="berger">Celadon</persName>,
-                        comme l'amour luy commandoit : toutesfois pour n'en donner cognoissance à
-                        son oncle, elle luy dit, que leur estant si proche ils estoient donc obligez
+                        Bergers que vous voyez le long des rives de <placeName key="riviere_lignon"
+                            >Lignon</placeName>, ny la plus part de ceux de Loire &amp; de Furan, ne
+                        sont pas de moindre extraction que vous estes, &amp; faut que vous sçachiez
+                        que leurs ayeux n'ont esleu cette sorte de vie que pour estre plus douce,
+                        &amp; accompagnée de moins d'inquietudes. Et d'effect ce <persName
+                            key="celadon" role="berger">Celadon</persName> de qui nous parlons, est
+                        vostre parent fort proche. Car la maison de Lavieu, &amp; la sienne viennent
+                        d'un mesme tige : si bien que <persName key="lindamor" role="noble"
+                            >Lindamor</persName>, &amp; luy vous sont parents en mesme degré. Mon
+                        ayeul, &amp; les bisayeuls de <persName key="lindamor" role="noble"
+                            >Lindamor</persName> &amp; de <persName key="celadon" role="berger"
+                            >Celadon</persName>, ayant esté freres. <persName key="leonide"
+                            role="travesti">Leonide</persName> qui n'avoit encores sceu cette
+                        alliance demeura estonnée, luy semblant que cette proximité luy deffendoit
+                        d'aymer <persName key="celadon" role="berger">Celadon</persName>, comme
+                        l'amour luy commandoit : toutesfois pour n'en donner cognoissance à son
+                        oncle, elle luy dit, que leur estant si proche ils estoient donc obligez
                         d'en avoir plus de soin que d'un estranger, &amp; que la sauvage vie qu'il
                         menoit estoit telle qu'elle ne pensoit pas qu'il peut vivre longuement. Il
                         faut, respondit le Druide, que nous y rapportions tout ce que nous pourrons,
@@ -13620,19 +13731,20 @@
                         mirent à table, &amp; quelque temps apres dans le lict, afin d'aller plus
                         matin vers Cleontine.</p>
                     <p>&#160;&#160;&#160;Mont-verdun est un grand rocher qui s'esleve en pointe de
-                        Diamant au milieu de la plaine du costé de Montbrison, entre la <placeName key="riviere_lignon">riviere de
-                        Lignon</placeName>, &amp; la Montagne d'Isoure. Que s'il estoit un peu plus à main
-                        droite du costé de Laigneu, les trois pointes de Marcylli, d'Isoure, &amp;
-                        de Mont-verdun feroient un triangle parfait. On diroit que la nature a pris
-                        plaisir d'embellir ce lieu sur tous les autres de cette contrée. Car l'ayant
-                        eslevé dans le sein de cette plaine, si esgalement de tous costez, il se va
-                        estressissant peu à peu, &amp; laisse au sommet la juste espace d'un temple,
-                        qui a esté dedié à Teutates, Hesus, Taramis, Belenus. Et parce que c'est le
-                        plus renommé de tous ceux de Forets, c'est le lieu où les Eubages, les
-                        Sarronides, les Vacies &amp; les Bardes se tiennent dans des grottes qu'ils
-                        ont faictes autour du temple, dans lequel ils font leurs assemblées, lors
-                        que les Druydes le leur ordonnent. Mais ce qui est plus admirable, c'est que
-                        ce grand rocher qui a plus de quatre mille pas de tour, quand il commence de
+                        Diamant au milieu de la plaine du costé de Montbrison, entre la <placeName
+                            key="riviere_lignon">riviere de Lignon</placeName>, &amp; la Montagne
+                        d'Isoure. Que s'il estoit un peu plus à main droite du costé de Laigneu, les
+                        trois pointes de Marcylli, d'Isoure, &amp; de Mont-verdun feroient un
+                        triangle parfait. On diroit que la nature a pris plaisir d'embellir ce lieu
+                        sur tous les autres de cette contrée. Car l'ayant eslevé dans le sein de
+                        cette plaine, si esgalement de tous costez, il se va estressissant peu à
+                        peu, &amp; laisse au sommet la juste espace d'un temple, qui a esté dedié à
+                        Teutates, Hesus, Taramis, Belenus. Et parce que c'est le plus renommé de
+                        tous ceux de Forets, c'est le lieu où les Eubages, les Sarronides, les
+                        Vacies &amp; les Bardes se tiennent dans des grottes qu'ils ont faictes
+                        autour du temple, dans lequel ils font leurs assemblées, lors que les
+                        Druydes le leur ordonnent. Mais ce qui est plus admirable, c'est que ce
+                        grand rocher qui a plus de quatre mille pas de tour, quand il commence de
                         s'eslever, &amp; de hauteur plus de quatre cents, &amp; au sommet plus de
                         cinq cents, est tout couvert de terre, &amp; d'un costé planté de vignes,
                         &amp; de l'autre si plein d'une menuë herbe, &amp; si verte, que ceux du
@@ -13723,26 +13835,28 @@
                         pour les merites du Berger : mais depuis la responce de l'oracle il y fut
                         bien davantage pousé pour son propre sujet, faisant bien paroistre combien
                         une personne interessée s'employe plus soigneusement que celle qui n'est
-                        touchée que du devoir. Prenant donc le chemin de <placeName key="riviere_lignon">Lignon</placeName>, il s'enquit de
-                            <persName key="leonide" role="travesti">Leonide</persName> du lieu, où
-                            <persName key="celadon" role="berger">Celadon</persName> estoit, &amp;
-                        elle luy ayant monstré l'endroit, il creut estre à propos de regagner le
-                        pont de la Bouteresse, &amp; prenant le mesme sentier par où elle y avoit
-                        esté conduite sans y penser, elle luy montra la fontaine où elle l'avoit
-                        rencontré, &amp; en fin le buisson qui couvroit le rocher où il demeuroit.
-                        Et parce qu'ils eurent peur que s'il les appercevoit il ne s'en fuit, ils
-                        s'en approcherent le plus doucement qu'il leur fut possible pour le
-                        surprendre. Et de fortune il estoit couché à l'entrée de sa caverne si pres
-                        de la riviere, que la considerant appuyé sur un coude, les larmes que ses
-                        pensées luy arrachoient du cœur, tumboient dedans, &amp; se mesloient parmy
-                        son onde : Et lors qu'ils arriverent, il reprit ainsi la parole.</p>
+                        touchée que du devoir. Prenant donc le chemin de <placeName
+                            key="riviere_lignon">Lignon</placeName>, il s'enquit de <persName
+                            key="leonide" role="travesti">Leonide</persName> du lieu, où <persName
+                            key="celadon" role="berger">Celadon</persName> estoit, &amp; elle luy
+                        ayant monstré l'endroit, il creut estre à propos de regagner le pont de la
+                        Bouteresse, &amp; prenant le mesme sentier par où elle y avoit esté conduite
+                        sans y penser, elle luy montra la fontaine où elle l'avoit rencontré, &amp;
+                        en fin le buisson qui couvroit le rocher où il demeuroit. Et parce qu'ils
+                        eurent peur que s'il les appercevoit il ne s'en fuit, ils s'en approcherent
+                        le plus doucement qu'il leur fut possible pour le surprendre. Et de fortune
+                        il estoit couché à l'entrée de sa caverne si pres de la riviere, que la
+                        considerant appuyé sur un coude, les larmes que ses pensées luy arrachoient
+                        du cœur, tumboient dedans, &amp; se mesloient parmy son onde : Et lors
+                        qu'ils arriverent, il reprit ainsi la parole.</p>
 
                     <pb xml:id="page_abs_527" n="page_ori_521"/>
                     <floatingText xml:id="S1_L8_P2" type="sonnet">
                         <body>
                             <div>
-                                <head><hi rend="bold">SONNET.</hi><lb/> Il se compare à <placeName key="riviere_lignon">la riviere
-                                    de Lignon</placeName>.</head>
+                                <head><hi rend="bold">SONNET.</hi><lb/> Il se compare à <placeName
+                                        key="riviere_lignon">la riviere de
+                                    Lignon</placeName>.</head>
 
                                 <lg ana="vers" xml:lang="fr">
                                     <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
@@ -15249,7 +15363,7 @@
                             <div>
                                 <head><hi rend="bold">AUX.</hi><lb/> DIEUX MANES.<lb/> ET<lb/> A. La
                                     Memoire Eternelle.<lb/> Du. Plus. Aymable Berger.<lb/> De
-                                    <placeName key="riviere_lignon">Lignon</placeName>.</head>
+                                        <placeName key="riviere_lignon">Lignon</placeName>.</head>
 
 
                                 <p>Amour qui. Par. Imprudence. Fut. Cause.<lb/> De. La. Mort. De
@@ -17164,7 +17278,8 @@
                                 </head>
                                 <lg ana="vers" xml:lang="fr">
                                     <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
-                                        >Belle onde de <placeName key="riviere_lignon">Lignon</placeName> que j'enfle de mes
+                                            >Belle onde de <placeName key="riviere_lignon"
+                                                >Lignon</placeName> que j'enfle de mes
                                         pleurs,</hi></l>
                                     <l ana="vers" xml:lang="fr"><hi rend="italic">Campagnes qui
                                             sçavez quelles sont mes douleurs,</hi></l>
@@ -17183,7 +17298,8 @@
                                     <l ana="vers" xml:lang="fr"><hi rend="italic">Quoy qu'il soit
                                             eslevé n'a le dos assailly,</hi></l>
                                     <l ana="vers" xml:lang="fr"><hi rend="italic">Tousjours
-                                        impetueux <placeName key="riviere_lignon">Lignon</placeName> ne se courrouce,</hi></l>
+                                            impetueux <placeName key="riviere_lignon"
+                                                >Lignon</placeName> ne se courrouce,</hi></l>
                                     <l ana="vers" xml:lang="fr"><hi rend="italic">L'espoir de mes
                                             moissons ne nous deçoit tousjours,</hi></l>
                                     <l ana="vers" xml:lang="fr"><hi rend="italic">Par divers
@@ -17223,7 +17339,9 @@
                                 </lg>
                                 <lg ana="vers" xml:lang="fr">
                                     <l ana="vers" xml:lang="fr">&#160;&#160;&#160;<hi rend="italic"
-                                        >En sa course <placeName key="riviere_lignon">Lignon</placeName>, reflotte moins de fois,</hi></l>
+                                            >En sa course <placeName key="riviere_lignon"
+                                                >Lignon</placeName>, reflotte moins de
+                                        fois,</hi></l>
                                     <l ana="vers" xml:lang="fr"><hi rend="italic">Nos champs
                                             jaunissent moins, Isoure a moins de bois,</hi></l>
                                     <l ana="vers" xml:lang="fr"><hi rend="italic">Et moins de voix
@@ -17390,25 +17508,26 @@
                             <persName key="leonide" role="travesti">Leonide</persName> revindrent
                         avec tout ce qui estoit necessaire vers <persName key="celadon"
                             role="berger">Celadon</persName>, qui cependant avoit eu le loisir de
-                        dire Adieu à <placeName key="riviere_lignon">Lignon</placeName>, &amp; prendre congé de ces bois, de son antre, &amp;
-                        sur tout du temple de la Déesse <persName key="astree_personnage"
-                            role="berger">Astrée</persName> : Et lors qu'il fut revestu en Nimphe,
-                        (c'est ainsi qu'en céte contrée s'habilloient les filles des Druydes, quand
-                        elles revenoient de leurs Antres) &amp; qu'il fut prest à partir, ils furent
-                        d'avis qu'il faloit attendre le soir, afin que personne ne le vist arriver
-                        seul, &amp; cependant <persName key="adamas" role="druide">Adamas</persName>
-                        l'instruisoit de ce qu'il avoit à respondre à ceux qui s'enquestoient de la
-                        façon de vivre des filles Druides, de leurs ceremonies, de leur sacrifice
-                        &amp; de leurs escoles &amp; sciences, mais en fin, lui disoit-il, le
-                        meilleur sera, ce me <pb xml:id="page_abs_662" n="page_ori_657"/> semble,
-                        d'en parler le moins qu'il vous sera possible, &amp; principalement devant
-                        ceux qui sçauront quelque chose, car pour les autres il n'importera,
-                        d'autant que facilement ils croiront ce que vous leur en direz. Or le jour
-                        estant presque finy, ils sortirent de ce lieu, à l'entrée duquel <persName
-                            key="celadon" role="berger">Celadon</persName> avoit gravé des vers de
-                        la pointe d'un poinçon sur le rocher avec beaucoup de peine &amp; de temps,
-                        les ayant commencez dés le jour qu'il resolut d'en sortir, pour memoire
-                        eternelle du sejour qu'il y avoit fait, ils estoient tels.</p>
+                        dire Adieu à <placeName key="riviere_lignon">Lignon</placeName>, &amp;
+                        prendre congé de ces bois, de son antre, &amp; sur tout du temple de la
+                        Déesse <persName key="astree_personnage" role="berger">Astrée</persName> :
+                        Et lors qu'il fut revestu en Nimphe, (c'est ainsi qu'en céte contrée
+                        s'habilloient les filles des Druydes, quand elles revenoient de leurs
+                        Antres) &amp; qu'il fut prest à partir, ils furent d'avis qu'il faloit
+                        attendre le soir, afin que personne ne le vist arriver seul, &amp; cependant
+                            <persName key="adamas" role="druide">Adamas</persName> l'instruisoit de
+                        ce qu'il avoit à respondre à ceux qui s'enquestoient de la façon de vivre
+                        des filles Druides, de leurs ceremonies, de leur sacrifice &amp; de leurs
+                        escoles &amp; sciences, mais en fin, lui disoit-il, le meilleur sera, ce me
+                            <pb xml:id="page_abs_662" n="page_ori_657"/> semble, d'en parler le
+                        moins qu'il vous sera possible, &amp; principalement devant ceux qui
+                        sçauront quelque chose, car pour les autres il n'importera, d'autant que
+                        facilement ils croiront ce que vous leur en direz. Or le jour estant presque
+                        finy, ils sortirent de ce lieu, à l'entrée duquel <persName key="celadon"
+                            role="berger">Celadon</persName> avoit gravé des vers de la pointe d'un
+                        poinçon sur le rocher avec beaucoup de peine &amp; de temps, les ayant
+                        commencez dés le jour qu'il resolut d'en sortir, pour memoire eternelle du
+                        sejour qu'il y avoit fait, ils estoient tels.</p>
 
                     <floatingText xml:id="M1_L10_P2" type="madrigal">
                         <body>
@@ -17490,10 +17609,11 @@
                         que je le peusse oublier, le ressentant d'ordinaire comme je fay ? Elles
                         parvindrent avec ces propos au boccage, qui estant plus relevé que la maison
                         descouvroit encores mieux toute la plaine, de sorte qu'il n'y avoit reply ny
-                        destour de <placeName key="riviere_lignon">Lignon</placeName>, depuis Boën d'où il commençoit de sortir de la montagne,
-                        jusques à Feurs, où il entroit en Loire, qu'elles ne descouvrissent
-                        aisément. Ceste representation fut si sensible à la feinte Alexis, qu'elle
-                        ne peut s'empescher de dire tout haut.</p>
+                        destour de <placeName key="riviere_lignon">Lignon</placeName>, depuis Boën
+                        d'où il commençoit de sortir de la montagne, jusques à Feurs, où il entroit
+                        en Loire, qu'elles ne descouvrissent aisément. Ceste representation fut si
+                        sensible à la feinte Alexis, qu'elle ne peut s'empescher de dire tout
+                        haut.</p>
                     <p>&#160;&#160;&#160;Ha ! mes tristes yeux comment souffrez vous sans mort la
                         veuë de ces rives heureuses, où vous laissastes par mon départ tout vostre
                         contentement. <persName key="leonide" role="travesti">Leonide</persName> qui
@@ -17518,27 +17638,28 @@
                         mal ? O Dieux ! je pense que la langue ne pouvant bien expliquer le mal,
                         duquel les sentimens ne peuvent assez bien comprendre la grandeur, vous ne
                         voulez pas que l'entendement le cognoisse ! Et lors continuant ses tristes
-                        pensées, voyez vous, dit elle, grande Nimphe une petite isle que <placeName key="riviere_lignon">Lignon</placeName>
-                        faict audroict de ce hameau, qui est de là la riviere, un peu plus en là <pb
-                            xml:id="page_abs_666" n="page_ori_661"/> que Mont-verdun, &amp; un peu
-                        par dessus Julieu. Nous y estions passez par dessus des grosses pierres que
-                        nous avions jettées en l'eau de pas en pas, parce qu'en ce temps là, nous
-                        cherchions les lieux les plus cachez pour esviter la veuë de nos parens,
-                        &amp; mesme de mon pere, qui ne trouvant remede à ceste affection qu'il
-                        voyoit croistre devant ses yeux, resolut de me faire sortir de la Gaule,
-                        &amp; me faire passer les Alpes, &amp; visiter la grande cité, pensant que
-                        l'esloignement pourroit obtenir sur moy ce que ses deffences &amp;
-                        contrarietez n'avoient jamais peu : &amp; par ce que nous en estions bien
-                        advertis, nous allions cherchant, comme j'ay dit, les endroits les plus
-                        reculez, pour au moins employer le peu de temps qui nous restoit à nous
-                        entretenir sans contrainte. Quelquefois à cause de la commodité du lieu,
-                        nous venions dans ce rocher que vous voyez beaucoup plus pres de nous, qui
-                        est creux, &amp; laissions Licidas ou <persName key="philis"
-                            role="amie_astree">Philis</persName> en sentinellepour nous advertir
-                        quand quelqu'un passoit, parce qu'estant prez du grand chemin nous avions
-                        peur d'estre oüis &amp; entendus. Or cette fois comme je vous dy suivant nos
-                        brebis qui s'estoient comme de coustume ramassées ensemble nous passames sur
-                        des gros cailloux en ceste petite isle de <placeName key="riviere_lignon">Lignon</placeName> : Et quoy que nous eussions
+                        pensées, voyez vous, dit elle, grande Nimphe une petite isle que <placeName
+                            key="riviere_lignon">Lignon</placeName> faict audroict de ce hameau, qui
+                        est de là la riviere, un peu plus en là <pb xml:id="page_abs_666"
+                            n="page_ori_661"/> que Mont-verdun, &amp; un peu par dessus Julieu. Nous
+                        y estions passez par dessus des grosses pierres que nous avions jettées en
+                        l'eau de pas en pas, parce qu'en ce temps là, nous cherchions les lieux les
+                        plus cachez pour esviter la veuë de nos parens, &amp; mesme de mon pere, qui
+                        ne trouvant remede à ceste affection qu'il voyoit croistre devant ses yeux,
+                        resolut de me faire sortir de la Gaule, &amp; me faire passer les Alpes,
+                        &amp; visiter la grande cité, pensant que l'esloignement pourroit obtenir
+                        sur moy ce que ses deffences &amp; contrarietez n'avoient jamais peu : &amp;
+                        par ce que nous en estions bien advertis, nous allions cherchant, comme j'ay
+                        dit, les endroits les plus reculez, pour au moins employer le peu de temps
+                        qui nous restoit à nous entretenir sans contrainte. Quelquefois à cause de
+                        la commodité du lieu, nous venions dans ce rocher que vous voyez beaucoup
+                        plus pres de nous, qui est creux, &amp; laissions Licidas ou <persName
+                            key="philis" role="amie_astree">Philis</persName> en sentinellepour nous
+                        advertir quand quelqu'un passoit, parce qu'estant prez du grand chemin nous
+                        avions peur d'estre oüis &amp; entendus. Or cette fois comme je vous dy
+                        suivant nos brebis qui s'estoient comme de coustume ramassées ensemble nous
+                        passames sur des gros cailloux en ceste petite isle de <placeName
+                            key="riviere_lignon">Lignon</placeName> : Et quoy que nous eussions
                         desja diverses fois pris congé l'un de l'autre, afin de n'estre point
                         surpris, car mon pere me tenoit caché le jour de mon despart, si ne
                         laissames nous de renouveller encor nos Adieux. D'abord <pb
@@ -18732,12 +18853,13 @@
                             xml:id="page_abs_709" n="page_ori_704"/> cognoissoit, auquel il faisoit
                         des caresses extraordinaires : Et en fin j'ay sçeu de plusieurs que ceux qui
                         cherchoient <persName key="celadon" role="berger">Celadon</persName>, le
-                        long de <placeName key="riviere_lignon">Lignon</placeName>, treuverent Polemas tout seul, qui se promenoit au mesme lieu
-                        où vous trouvastes le Berger. Vrayement dit <persName key="galathee"
-                            role="berger">Galathée</persName>, ce que vous me racontez me met bien
-                        en peine, &amp; s'il est vray, il ne faut point douter que j'ay eu tort de
-                        traicter <persName key="leonide" role="travesti">Leonide</persName> comme
-                        j'ay fait, car j'ay pensé jusques icy que c'estoit une pure menterie Madame,
+                        long de <placeName key="riviere_lignon">Lignon</placeName>, treuverent
+                        Polemas tout seul, qui se promenoit au mesme lieu où vous trouvastes le
+                        Berger. Vrayement dit <persName key="galathee" role="berger"
+                            >Galathée</persName>, ce que vous me racontez me met bien en peine,
+                        &amp; s'il est vray, il ne faut point douter que j'ay eu tort de traicter
+                            <persName key="leonide" role="travesti">Leonide</persName> comme j'ay
+                        fait, car j'ay pensé jusques icy que c'estoit une pure menterie Madame,
                         respondit Silvie, je vous asseureray bien que c'est la verité que Polemas
                         fut long temps sur le lieu, &amp; que depuis on l'y a veu plusieurs jours
                         suivans sans compagnie, jugez ce qu'il y pouvoit attendre. Il faut advoüer,
@@ -19394,8 +19516,8 @@
                         Thamyre, ne le voulut plus abandonner : d'autre costé Thamyre avoit tant de
                         satisfaction de l'amitié que son Nepveu luy faisoit paroistre, qu'il le
                         vouloit tousjours avoir pres de luy. Il n'y avoit que <persName
-                            key="celidee" role="amant">Celidée</persName> qui fut bien en peine,
-                        car elle ne vouloit declarer sa deliberation à personne, de peur d'y estre
+                            key="celidee" role="amant">Celidée</persName> qui fut bien en peine, car
+                        elle ne vouloit declarer sa deliberation à personne, de peur d'y estre
                         contrariée, &amp; toutefois elle ne <pb xml:id="page_abs_735"
                             n="page_ori_730"/> sçavoit par quel moyen y parvenir. Elle avoit fait un
                         dessein bien different de celuy de toutes les filles, parce que cognoissant
@@ -19619,9 +19741,9 @@
                         penser à une si grande cruauté ? Et quelque Tygre soubs la figure d'un homme
                         l'ayant imaginée, &amp; quelque malin Demon y ayant consenti : Quelle
                         cruauté a jamais eu assez d'inhumanité pour l'executer ? <persName
-                            key="celidee" role="amant">Celidée</persName> se tournant doucement
-                        vers luy, Ami Thamyre, luy dit-elle, console toy, que si tu as perdu le
-                        visage de <persName key="celidee" role="amant">Celidée</persName>, elle t'a
+                            key="celidee" role="amant">Celidée</persName> se tournant doucement vers
+                        luy, Ami Thamyre, luy dit-elle, console toy, que si tu as perdu le visage de
+                            <persName key="celidee" role="amant">Celidée</persName>, elle t'a
                         conservé pour le moins tout le reste, &amp; si tu veux me promettre de n'en
                         point faire de vengeance, je te diray qui en est cause, &amp; qui m'a fait
                         cet outrage, si <pb xml:id="page_abs_745" n="page_ori_740"/> avec toy je le
@@ -19730,8 +19852,8 @@
                         outre que tu es tellement à Thamyre, que rien ne t'en peut retirer que la
                         mort. D'estre aussi à Thamyre, la passion de Calydon ne le peut souffrir, ny
                         le bon naturel de Thamyre, endurer le continuel desplaisir de son Nepveu.
-                        Que faut il donc <persName key="celidee" role="amant">Celidée</persName>
-                        que tu faces ? prive toy par une belle resolution de ce qui est le germe de
+                        Que faut il donc <persName key="celidee" role="amant">Celidée</persName> que
+                        tu faces ? prive toy par une belle resolution de ce qui est le germe de
                         ceste dissention : mais que peux tu penser que ce soit autre chose que la
                         beauté de ton visage ? Il est <pb xml:id="page_abs_750" n="page_ori_745"/>
                         vrai, respondis-je, mais perdant ceste beauté, je perds aussi bien l'Amour
@@ -19746,8 +19868,8 @@
                         longuement &amp; estre asseurée que quand l'aage te rendra laide, Thamire
                         cessera de t'aimer. Mais cela n'est pas, d'autant que ce Berger ayme
                             <persName key="celidee" role="amant">Celidée</persName>, &amp; quelle
-                        que <persName key="celidee" role="amant">Celidée</persName> devienne,
-                        jamais son amitié, ne se perdra.</p>
+                        que <persName key="celidee" role="amant">Celidée</persName> devienne, jamais
+                        son amitié, ne se perdra.</p>
                     <p>&#160;&#160;&#160;Voilà Bergers, quelle fut la secrette inspiration que ce
                         Dieu me donna, à laquelle ne voulant contrevenir, je cherchai les moyens d'y
                         satisfaire, &amp; de fortune ayant appris de ma Tante que les blesseures que
@@ -19758,8 +19880,8 @@
                         qu'elle souloit avoir, puis qu'elle a bien voulu le donner pour rançon,
                         &amp; pour se racheter des desirs de <persName key="calidon" role="berger"
                             >Calidon</persName>, afin d'estre toute vostre ? <persName key="celidee"
-                            role="amant">Celidée</persName> finit de ceste sorte, laissant tous
-                        ceux qui l'oüirent si plains d'estonnement, &amp; de merveille, de cette
+                            role="amant">Celidée</persName> finit de ceste sorte, laissant tous ceux
+                        qui l'oüirent si plains d'estonnement, &amp; de merveille, de cette
                         genereuse action, qu'a peine pouvoient ils croire que ce qu'ils voyoient
                         fust vray.</p>
                     <pb xml:id="page_abs_751" n="page_ori_746"/>
@@ -24694,7 +24816,8 @@
                             <!--       <pb xml:id="page_abs_940"n="page_ori_LIM10"/> -->
                         </eLeaf>
                         <eLeaf>
-                            <label>Belle onde de <placeName key="riviere_lignon">Lignon</placeName>. 649</label>
+                            <label>Belle onde de <placeName key="riviere_lignon">Lignon</placeName>.
+                                649</label>
                         </eLeaf>
                         <eLeaf>
                             <label>Ces vieux rochers tous nuds. 667</label>
