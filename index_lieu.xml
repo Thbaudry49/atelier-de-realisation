@@ -30,4 +30,17 @@
             <name>La cabane du druide</name>
           </place>
 
+  <!--<place xml:id="ile">
+            <name>l'île enchantée</name>
+          </place>
+
+  <place xml:id="chateau">
+            <name>Le château de Forez</name>
+          </place>
+
+  <place xml:id="grotte">
+            <name>La grotte de la bergère</name>
+          </place>
+  --!>
+
 </listPlace>
