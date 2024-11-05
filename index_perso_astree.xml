@@ -7,12 +7,14 @@
         <role>Berger et protagoniste du roman</role>
         <identifier type="wikipedia">https://fr.wikipedia.org/wiki/C%C3%A9ladon_(roman)</identifier>
     </person>
+    <!--<persName key="celadon" role="berger">Celadon</persName>--!>
     
     <person xml:id="astree" sex="F">
         <name>Astrée</name>
         <role>Bergère et protagoniste du roman</role>
         <identifier type="wikipedia">https://fr.wikipedia.org/wiki/L%27Astr%C3%A9e</identifier>
     </person>
+    <!--<persName key="astree_personnage" role="berger">Astrée</persName>--!>
     
     <person xml:id="silvandre" sex="M">
         <name>Silvandre</name>
@@ -103,6 +105,7 @@
         <name>Adamas</name>
         <role>Druide sage, protecteur de Céladon</role>
     </person>
+    <!--<persName key="adamas" role="druide">Adamas</persName>--!>
     
     <person xml:id="cleontine" sex="F">
         <name>Cléontine</name>
