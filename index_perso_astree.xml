@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="index.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <listPerson xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+
+    https://astree.tufts.edu/_analyse/personnage_aa.html
     
     <person xml:id="celadon" sex="M">
         <name>Céladon</name>
