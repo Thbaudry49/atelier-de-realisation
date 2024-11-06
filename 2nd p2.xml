@@ -370,6 +370,7 @@
                                     <persName key="palemon" role="berger">Palemon</persName>,
                                     DORIS.</head>
                                 <lg n="1">
+                                  <!-- Mettre speaker ou autre ici pour les noms des persos dans le dialogue ? -->
                                     <l>I</l>
                                     <l>PAL. Si j'ayme autre que vous que je meure &amp; soudain </l>
                                     <l>D'eternelle douleur ceste mort soit suivie. </l>
@@ -10282,111 +10283,132 @@
                         <eLeaf corresp="#HIS1_L1_P2">
                             <label>Histoire de <persName key="celidee" role="amant"
                                     >Celidée</persName>, Thamyre &amp; <persName key="calidon"
-                                    role="berger">Calidon</persName>. 35</label>
+                                    role="berger">Calidon</persName></label>
                         </eLeaf>
+                        
                         <eLeaf corresp="#HAR1_L2_P2">
                             <label>Harangue du Berger <persName key="calidon" role="berger"
-                                    >Calidon</persName>. 68</label>
+                                    >Calidon</persName></label>
                         </eLeaf>
+                        
                         <eLeaf corresp="#REP1_L2_P2">
                             <label>Responce de la Bergere <persName key="celidee" role="amant"
-                                    >Celidée</persName>. 84</label>
+                                    >Celidée</persName></label>
                         </eLeaf>
+                        
                         <eLeaf corresp="#REP2_L2_P2">
-                            <label>Responce du Berger Thamyre. 110</label>
+                            <label>Responce du Berger <persName key="thamire" role="poete">Thamyre</persName></label>
                         </eLeaf>
+                        
                         <eLeaf corresp="#REP3_L2_P2">
                             <label>Jugement de la Nimphe <persName key="leonide" role="travesti"
-                                    >Leonide</persName>. 111</label>
+                                    >Leonide</persName></label>
                         </eLeaf>
+                        
                         <eLeaf corresp="#HIS1_L3_P2">
                             <label>Histoire de <persName key="palinice" role="veuve"
-                                    >Palinice</persName>, &amp; de Circene. 174</label>
+                                    >Palinice</persName>, &amp; de Circene</label>
                         </eLeaf>
+                        
                         <eLeaf corresp="#HIS1_L4_P2">
                             <label>Histoire de <persName key="parthenope" role="dame"
                                     >Parthenopé</persName>, <persName key="florice" role="amant"
                                     >Florice</persName>, &amp; <persName key="dorinde" role="berger"
-                                    >Dorinde</persName>. 201</label>
+                                    >Dorinde</persName></label>
                         </eLeaf>
+                        
                         <eLeaf corresp="#HIS1_L5_P2">
                             <label>Oraison à la Déesse <persName key="astree_personnage"
-                                    role="berger">Astrée</persName>. 316</label>
+                                    role="berger">Astrée</persName></label>
                         </eLeaf>
+                        
                         <eLeaf corresp="#HIS1_L6_P2">
                             <label>Histoire de <persName key="damon" role="berger">Damon</persName>,
-                                &amp; de <persName key="madonthe" role="amant">Madonthe</persName>.
-                                341</label>
+                                &amp; de <persName key="madonthe" role="amant">Madonthe</persName></label>
                         </eLeaf>
+                        
                         <eLeaf corresp="#HIS2_L5_P2">
                             <label>Deffy de <persName key="damon" role="berger">Damon</persName> à
                                     <persName key="thersandre" role="antagoniste"
-                                    >Thersandre</persName>. 394</label>
+                                    >Thersandre</persName></label>
                         </eLeaf>
+                        
                         <eLeaf corresp="#HIS1_L7_P2">
                             <label>Histoire de <persName key="galathee" role="berger"
-                                    >Galathée</persName>. 474</label>
+                                    >Galathée</persName></label>
                         </eLeaf>
+                        
                         <eLeaf corresp="#">
                             <label>Tombeau du Berger <persName key="celadon" role="berger"
-                                    >Celadon</persName>. 579</label>
+                                    >Celadon</persName></label>
                         </eLeaf>
+                        
                         <eLeaf corresp="#HIS1_L9_P2">
-                            <label>Hist. de Doris, &amp; <persName key="palemon" role="berger"
-                                    >Palemon</persName>. 589</label>
+                            <label>Histoire de Doris, &amp; <persName key="palemon" role="berger"
+                                    >Palemon</persName></label>
                         </eLeaf>
-                        <eLeaf corresp="#HIS3_L9_P2">
-                            <label>Hist. du Berger <persName key="adraste" role="amant"
-                                    >Adraste</persName>. 614</label>
-                        </eLeaf>
-                        <eLeaf corresp="#HIS4_L9_P2">
-                            <label>Jugement de la Nimphe <persName key="leonide" role="travesti"
-                                    >Leonide</persName>. 624</label>
-                        </eLeaf>
-                        <eLeaf corresp="#HIS1_L10_P2">
-                            <label>Hist. d'<persName key="ursace" role="prince">Ursace</persName>,
-                                &amp; d'Olymbre. 668</label>
-                        </eLeaf>
-                        <eLeaf corresp="#HIS2_L10_P2">
-                            <label>Suitte de l'histoire de <persName key="lindamor" role="noble"
-                                    >Lindamor</persName>. 682</label>
-                        </eLeaf>
+                        
                         <eLeaf corresp="#">
                             <label>Responce du Berger <persName key="palemon" role="berger"
-                                    >Palemon</persName>. 600</label>
+                                >Palemon</persName></label>
                         </eLeaf>
+                        
+                        <eLeaf corresp="#HIS3_L9_P2">
+                            <label>Histoire du Berger <persName key="adraste" role="amant"
+                                    >Adraste</persName></label>
+                        </eLeaf>
+                        
+                        <eLeaf corresp="#HIS4_L9_P2">
+                            <label>Jugement de la Nimphe <persName key="leonide" role="travesti"
+                                    >Leonide</persName></label>
+                        </eLeaf>
+                        
+                        <eLeaf corresp="#HIS1_L10_P2">
+                            <label>Histoire d'<persName key="ursace" role="prince">Ursace</persName>,
+                                &amp; d'Olymbre</label>
+                        </eLeaf>
+                        
+                        <eLeaf corresp="#HIS2_L10_P2">
+                            <label>Suitte de l'histoire de <persName key="lindamor" role="noble"
+                                    >Lindamor</persName></label>
+                        </eLeaf>
+                        
                         <eLeaf corresp="#HIS1_L11_P2">
                             <label>Suitte de l'histoire de <persName key="celidee" role="amant"
-                                    >Celidée</persName>. 718</label>
+                                    >Celidée</persName></label>
                         </eLeaf>
+                        
                         <eLeaf corresp="#HIS2_L11_P2">
-                            <label>Hist. de la jalousie de <persName key="lycidas" role="berger"
-                                    >Lycidas</persName>. 750</label>
+                            <label>Histoire de la jalousie de <persName key="lycidas" role="berger"
+                                    >Lycidas</persName></label>
                         </eLeaf>
+                        
                         <eLeaf corresp="#HIS3_L11_P2">
-                            <label>Hist. de <persName key="placidie" role="princesse"
-                                    >Placidie</persName>. 771</label>
+                            <label>Histoire de <persName key="placidie" role="princesse"
+                                    >Placidie</persName></label>
                         </eLeaf>
+                        
                         <eLeaf corresp="#HIS1_L12_P2">
-                            <label>Hist. d'<persName key="eudoxe" role="adjuvant">Eudoxe</persName>
+                            <label>Histoire d'<persName key="eudoxe" role="adjuvant">Eudoxe</persName>
                                 <persName key="Valentinien_iii" role="roi">Valentinian</persName>
-                                &amp; <persName key="ursace" role="prince">Ursace</persName>
-                                810</label>
+                                &amp; <persName key="ursace" role="prince">Ursace</persName></label>
                         </eLeaf>
+                        
                         <eLeaf corresp="#REQ1_L12_P2">
                             <label>Requeste qui se presente au conseil des six cens, demandant le
-                                poison. 914</label>
+                                poison</label>
                         </eLeaf>
-                        <!--     <pb xml:id="page_abs_939" n="page_ori_LIM9"/> -->
+                        
                         <eLeaf corresp="#DEM1_L12_P2">
-                            <label>Demande d'<persName key="ursace" role="prince">Ursace</persName>.
-                                916</label>
+                            <label>Demande d'<persName key="ursace" role="prince">Ursace</persName></label>
                         </eLeaf>
+                        
                         <eLeaf corresp="#DEM2_L12_P2">
-                            <label>Demande d'Olymbre. 917</label>
+                            <label>Demande d'Olymbre</label>
                         </eLeaf>
+                        
                         <eLeaf corresp="#JUG_L12_P2">
-                            <label>Jugement du Conseil des six cens. 919</label>
+                            <label>Jugement du Conseil des six cens</label>
                         </eLeaf>
                     </eTree>
 
@@ -10394,104 +10416,69 @@
                     <eTree>
                         <label n="table_des_lettres" xml:id="table_lettres" type="table">TABLE DES
                             LETTRES.</label>
-                        <eLeaf corresp="#">
-                            <label>Lettre à la plus aymée &amp; belle Bergere. 151</label>
+                        <eLeaf corresp="#LET0_L3_P2">
+                            <label>Lettre à la plus aymée &amp; belle Bergere</label>
                         </eLeaf>
-                        <eLeaf corresp="#LET1_L4_P2">
-                            <label>Let de <persName key="dorinde" role="berger">Dorinde</persName> à
-                                    <persName key="hylas" role="donjuan">Hylas</persName>.
-                                246</label>
+                        
+                        <eLeaf corresp="#LET1_L4_P2, LET2_L4_P2, LET3_L4_P2">
+                            <label>Lettre de <persName key="dorinde" role="berger"
+                                >Dorinde</persName> à <persName key="hylas" role="donjuan"
+                                >Hylas</persName></label>
                         </eLeaf>
-                        <eLeaf corresp="#LET2_L4_P2">
-                            <label>Autre let. de <persName key="dorinde" role="berger"
-                                    >Dorinde</persName> à <persName key="hylas" role="donjuan"
-                                    >Hylas</persName>. 247</label>
+                        
+                        <eLeaf corresp="#LET4_L4_P2, LET7_L4_P2, LET8_L4_P2, LET9_L4_P2">
+                        <label>Lettre de <persName key="florice" role="amant">Florice</persName> à
+                            <persName key="hylas" role="donjuan">Hylas</persName></label>
                         </eLeaf>
-                        <eLeaf corresp="#LET3_L4_P2">
-                            <label>Autre let. de <persName key="dorinde" role="berger"
-                                    >Dorinde</persName> à <persName key="hylas" role="donjuan"
-                                    >Hylas</persName>. 245</label>
+                        
+                        <eLeaf corresp="#LET5_L4_P2, LET6_L4_P2">
+                            <label>Lettre de <persName key="hylas" role="donjuan"
+                                >Hylas</persName> à <persName key="florice" role="amant"
+                                >Florice</persName></label>
                         </eLeaf>
-                        <eLeaf corresp="#LET4_L4_P2">
-                            <label>Let. de <persName key="florice" role="amant">Florice</persName> à
-                                    <persName key="hylas" role="donjuan">Hylas</persName>.
-                                266</label>
+                        
+                        <eLeaf corresp="#LET1_L6_P2, LET3_L6_P2">
+                            <label>Lettre de <persName key="damon" role="berger">Damon</persName> à
+                                    <persName key="madonthe" role="amant">Madonthe</persName></label>
                         </eLeaf>
-                        <eLeaf corresp="#LET5_L4_P2">
-                            <label>Autre let. de <persName key="hylas" role="donjuan"
-                                    >Hylas</persName> à <persName key="florice" role="amant"
-                                    >Florice</persName>. 264</label>
-                        </eLeaf>
-                        <eLeaf corresp="#LET6_L4_P2">
-                            <!-- <eLeaf corresp="#"> Trompé dans l'ordre des noms -->
-                            <label>Let. de <persName key="florice" role="amant">Florice</persName> à
-                                    <persName key="hylas" role="donjuan">Hylas</persName>.
-                                260</label>
-                        </eLeaf>
-                        <eLeaf corresp="#LET7_L4_P2">
-                            <label>Autre let. de <persName key="florice" role="amant"
-                                    >Florice</persName> à <persName key="hylas" role="donjuan"
-                                    >Hylas</persName>. 266</label>
-                        </eLeaf>
-                        <eLeaf corresp="#LET8_L4_P2">
-                            <label>Autre let. de <persName key="florice" role="amant"
-                                    >Florice</persName> à <persName key="hylas" role="donjuan"
-                                    >Hylas</persName>. 278</label>
-                        </eLeaf>
-                        <eLeaf corresp="#LET1_L6_P2">
-                            <label>Let. de <persName key="damon" role="berger">Damon</persName> à
-                                    <persName key="madonthe" role="amant">Madonthe</persName>.
-                                348</label>
-                        </eLeaf>
+                        
                         <eLeaf corresp="#LET2_L6_P2">
-                            <label>Let. de <persName key="thersandre" role="antagoniste"
+                            <label>Lettre de <persName key="thersandre" role="antagoniste"
                                     >Thersandre</persName> à <persName key="madonthe" role="amant"
-                                    >Madonthe</persName>. 369</label>
+                                    >Madonthe</persName></label>
                         </eLeaf>
-                        <eLeaf corresp="#LET3_L6_P2">
-                            <label>Let. de <persName key="damon" role="berger">Damon</persName> à
-                                    <persName key="madonthe" role="amant">Madonthe</persName>.
-                                401</label>
-                        </eLeaf>
-                        <eLeaf corresp="#LET1_L7_P2">
-                            <label>Let. d'<persName key="astree_personnage" role="berger"
+                        
+                        <eLeaf corresp="#LET1_L7_P2, LET2_L7_P2, LET3_L7_P2">
+                            <label>Lettre d'<persName key="astree_personnage" role="berger"
                                     >Astrée</persName> à <persName key="celadon" role="berger"
-                                    >Celadon</persName>. 462</label>
+                                    >Celadon</persName></label>
                         </eLeaf>
-                        <eLeaf corresp="#LET2_L7_P2">
-                            <label>Autre let. d'<persName key="astree_personnage" role="berger"
-                                    >Astrée</persName> à <persName key="celadon" role="berger"
-                                    >Celadon</persName>. 463</label>
-                        </eLeaf>
-                        <eLeaf corresp="#">
-                            <label><persName key="celadon" role="berger">Celadon</persName> à la
+                        
+                        <eLeaf corresp="#LET1_L8_P2">
+                            <label>Lettre de <persName key="celadon" role="berger">Celadon</persName> à la
                                 Bergere <persName key="astree_personnage" role="berger"
-                                    >Astrée</persName>. 565</label>
+                                    >Astrée</persName></label>
                         </eLeaf>
-                        <eLeaf corresp="#">
-                            <label>Let. de <persName key="lindamor" role="noble">Lindamor</persName>
-                                à <persName key="leonide" role="travesti">Leonide</persName>.
-                                684</label>
+                        
+                        <eLeaf corresp="#LET1_L10_P2">
+                            <label>Lettre de <persName key="lindamor" role="noble">Lindamor</persName>
+                                à <persName key="leonide" role="travesti">Leonide</persName></label>
                         </eLeaf>
-                        <eLeaf corresp="#">
-                            <label>Let. de <persName key="lindamor" role="noble">Lindamor</persName>
-                                à <persName key="galathee" role="berger">Galathée</persName>.
-                                687</label>
+                        
+                        <eLeaf corresp="#LET2_L10_P2">
+                            <label>Lettre de <persName key="lindamor" role="noble">Lindamor</persName>
+                                à <persName key="galathee" role="berger">Galathée</persName></label>
                         </eLeaf>
-                        <eLeaf corresp="#">
-                            <label>Let. de <persName key="leonide" role="travesti"
+                        
+                        <eLeaf corresp="#LET3_L10_P2">
+                            <label>Lettre de <persName key="leonide" role="travesti"
                                     >Leonide</persName> à <persName key="lindamor" role="noble"
-                                    >Lindamor</persName>. 695</label>
+                                    >Lindamor</persName></label>
                         </eLeaf>
-                        <eLeaf corresp="#">
-                            <label>Let. d'<persName key="eudoxe" role="adjuvant">Eudoxe</persName> à
-                                    <persName key="ursace" role="prince">Ursace</persName>.
-                                868</label>
-                        </eLeaf>
-                        <eLeaf corresp="#">
-                            <label>Autre let. d'<persName key="eudoxe" role="adjuvant"
-                                    >Eudoxe</persName> à <persName key="ursace" role="prince"
-                                    >Ursace</persName>. 892</label>
+                        
+                        <eLeaf corresp="#LET1_L12_P2, LET2_L12_P2">
+                            <label>Lettre d'<persName key="eudoxe" role="adjuvant">Eudoxe</persName> à
+                                    <persName key="ursace" role="prince">Ursace</persName></label>
                         </eLeaf>
                     </eTree>
 
@@ -10603,30 +10590,29 @@
 
                     <!-- TABLE 4 -->
                     <eTree n="table_damour" xml:id="table_amour" type="table">
-                        <label>Tables d'Amour.</label>
-                        <eLeaf corresp="#">
-                            <label>Qui veut estre parfait Amant. 295 <ptr target="#page_abs_295"
-                                /></label>
+                        <label>TABLES D'AMOUR.</label>
+                        <eLeaf corresp="#STAN1_L5_P2">
+                            <label>Qui veut estre parfait Amant</label>
                         </eLeaf>
                     </eTree>
 
                     <!-- TABLE 5 -->
                     <eTree n="table_damour_falscifees" xml:id="table_amourfa" type="table">
-                        <label>Tables d'Amour falcifiées.</label>
-                        <eLeaf corresp="#">
-                            <label>Que je vive, &amp; qu'on le possede. 717</label>
+                        <label>TABLES D'AMOUR FALCIFIÉES.</label>
+                        <eLeaf corresp="#M1_L11_P2">
+                            <label>Que je vive, &amp; qu'on le possede</label>
                         </eLeaf>
-                        <eLeaf corresp="#">
-                            <label>Riviere que j'accrois. 521</label>
+                        <eLeaf corresp="#S1_L8_P2">
+                            <label>Riviere que j'accrois</label>
                         </eLeaf>
-                        <eLeaf corresp="#">
+                        <eLeaf corresp="#STAN2_L5_P2">
                             <label>Sont ce, Peintr[e] sçavan[t]. 307</label>
                         </eLeaf>
-                        <eLeaf corresp="#">
+                        <eLeaf corresp="#S2_L7_P2">
                             <label><persName key="silvandre" role="berger">Silvandre</persName> qui
                                 te plains. 502</label>
                         </eLeaf>
-                        <eLeaf corresp="#">
+                        <eLeaf corresp="#POEM2_L8_P2">
                             <label>Sy j'ayme autre que vous. 573</label>
                         </eLeaf>
                     </eTree>
