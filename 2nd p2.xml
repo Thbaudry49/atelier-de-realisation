@@ -10338,7 +10338,7 @@
                                     >Galathée</persName></label>
                         </eLeaf>
                         
-                        <eLeaf corresp="#">
+                        <eLeaf corresp="#POEM3_L8_P2">
                             <label>Tombeau du Berger <persName key="celadon" role="berger"
                                     >Celadon</persName></label>
                         </eLeaf>
@@ -10348,7 +10348,7 @@
                                     >Palemon</persName></label>
                         </eLeaf>
                         
-                        <eLeaf corresp="#">
+                        <eLeaf corresp="#HIS2_L9_P2">
                             <label>Responce du Berger <persName key="palemon" role="berger"
                                 >Palemon</persName></label>
                         </eLeaf>
@@ -10485,106 +10485,131 @@
                     <!-- TABLE 3 -->
                     <eTree n="table_des_poesie" xml:id="table_poesie" type="table">
                         <label>TABLE DES PŒSIES.</label>
-                        <eLeaf corresp="#">
-                            <label>Amour ne brusle plus. 21</label>
+                        <eLeaf corresp="#S1_L1_P2">
+                            <label>Fille de l'Air</label>
                         </eLeaf>
-                        <eLeaf corresp="#">
-                            <label>Amour qui dans mon cœur. 498</label>
+                        
+                        <eLeaf corresp="#S2_L1_P2">
+                            <label>Amour ne brusle plus</label>
                         </eLeaf>
-                        <eLeaf corresp="#">
-                            <label>Amour grand artisan. 499</label>
+                        
+                        <eLeaf corresp="#S3_L1_P2">
+                            <label>Quelle Aurore jamais</label>
                         </eLeaf>
-                        <eLeaf corresp="#">
-                            <label>A vous sage <persName key="adamas" role="druide"
-                                    >Adamas</persName>. 519</label>
+                        
+                        <eLeaf corresp="#S1_L2_P2">
+                            <label>Bel astre flamboyant</label>
                         </eLeaf>
-                        <eLeaf corresp="#">
-                            <label>Bel astre flamboyant. 115</label>
+                        
+                        <eLeaf corresp="#S2_L2_P2">
+                            <label>Mon Penser, hé pourquoy ?</label>
                         </eLeaf>
-                        <eLeaf corresp="#">
-                            <label>Belle de mes desirs. 224</label>
-                            <!--       <pb xml:id="page_abs_940"n="page_ori_LIM10"/> -->
+                        
+                        <eLeaf corresp="#M1_L3_P2">
+                            <label>L'esguille de quadran</label>
                         </eLeaf>
-                        <eLeaf corresp="#">
-                            <label>Belle onde de <placeName key="riviere_lignon">Lignon</placeName>.
-                                649</label>
+                        
+                        <eLeaf corresp="#M2_L3_P2">
+                            <label>Quoy vous ay-je offencée</label>
                         </eLeaf>
-                        <eLeaf corresp="#">
-                            <label>Ces vieux rochers tous nuds. 667</label>
+                        
+                        <eLeaf corresp="#CHAN_L3_P2">
+                            <label>Quand <persName key="hylas" role="donjuan">Hylas</persName>
+                                apperceut</label>
                         </eLeaf>
-                        <eLeaf corresp="#">
-                            <label>Ce pendant que Madame. 821</label>
+                        
+                        <eLeaf corresp="#S1_L3_P2">
+                            <label>Doux Zephir que je vois</label>
                         </eLeaf>
-                        <eLeaf corresp="#">
-                            <label>Doux Zephir que je vois. 179</label>
-                        </eLeaf>
-                        <eLeaf corresp="#">
-                            <label><persName key="dorinde" role="berger">Dorinde</persName> se moqua
-                                de vous. 120</label>
-                        </eLeaf>
-                        <eLeaf corresp="#">
-                            <label>Dans les tristes recoings. 657</label>
-                        </eLeaf>
-                        <eLeaf corresp="#">
+                        
+                        <eLeaf corresp="#M3_L3_P2">
                             <label>Elle fuit &amp; fuyant. 183</label>
                         </eLeaf>
-                        <eLeaf corresp="#">
-                            <label>Epitaphe d'un homme heureux. 924</label>
+                        
+                        <eLeaf corresp="#S1_L4_P2">
+                            <label><persName key="dorinde" role="berger">Dorinde</persName> se moqua
+                                de vous</label>
                         </eLeaf>
-                        <eLeaf corresp="#">
-                            <label>Fille de l'Air. 62</label>
+                        
+                        <eLeaf corresp="#S2_L4_P2">
+                            <label>Belle de mes desirs</label>
                         </eLeaf>
-                        <eLeaf corresp="#">
-                            <label>Jamais contre les Rocs. 829</label>
+                        
+                        <eLeaf corresp="#M1_L5_P2">
+                            <label>Le Temple d'amitié</label>
                         </eLeaf>
-                        <eLeaf corresp="#">
-                            <label>J'estois pour mon malheur. 844</label>
+                        
+                        <eLeaf corresp="#POEM1_L5_P2">
+                            <label>Passant si tu t'enquiers</label>
                         </eLeaf>
-                        <eLeaf corresp="#">
-                            <label>L'eguille de quadran. 153</label>
+                        
+                        <eLeaf corresp="#S1_L5_P2">
+                            <label>Qui ne l'admireroit</label>
                         </eLeaf>
-                        <eLeaf corresp="#">
-                            <label>Le Temple d'amitié. 301</label>
+                        
+                        <eLeaf corresp="#S1_L6_P2">
+                            <label>Qu'envieux de mon bien</label>
                         </eLeaf>
-                        <eLeaf corresp="#">
-                            <label>La belle dont l'Amour. 558</label>
+                        
+                        <eLeaf corresp="#S1_L7_P2">
+                            <label>Amour qui dans mon cœur</label>
                         </eLeaf>
-                        <eLeaf corresp="#">
-                            <label>Mon Penser, hé pourquoy ? 117</label>
+                        
+                        <eLeaf corresp="#STAN1_L7_P2">
+                            <label>Amour grand artisan</label>
                         </eLeaf>
-                        <eLeaf corresp="#">
-                            <label>Mon esprit combatu. 669</label>
+                        
+                        <eLeaf corresp="#POEM1_L8_P2">
+                            <label>A vous sage <persName key="adamas" role="druide"
+                                >Adamas</persName></label>
                         </eLeaf>
-                        <eLeaf corresp="#">
-                            <label>Onde qui soulevez. 666</label>
+                        
+                        <eLeaf corresp="#S2_L8_P2">
+                            <label>La belle dont l'Amour</label>
                         </eLeaf>
-                        <eLeaf corresp="#">
-                            <label>Passant si tu t'enquiers. 395</label>
+                        
+                        <eLeaf corresp="#S1_L9_P2">
+                            <label>Quand je vois un amant</label>
                         </eLeaf>
-                        <eLeaf corresp="#">
-                            <label>Precipices, rochers. 665</label>
+                        
+                        <eLeaf corresp="#STAN1_L10_P2">
+                            <label>Belle onde de <placeName key="riviere_lignon">Lignon</placeName></label>
                         </eLeaf>
-                        <eLeaf corresp="#">
-                            <label>Quelle Aurore jamais. 37</label>
+                        
+                        <eLeaf corresp="#M1_L10_P2">
+                            <label>Dans les tristes recoings. 657</label>
                         </eLeaf>
-                        <eLeaf corresp="#">
-                            <label>Quoy vous ay-je offencée. 171</label>
+                        
+                        <eLeaf corresp="#STAN2_L10_P2">
+                            <label>Precipices, rochers</label>
                         </eLeaf>
-                        <eLeaf corresp="#">
-                            <label>Quand <persName key="hylas" role="donjuan">Hylas</persName>
-                                apperceut. 172</label>
+                        
+                        <eLeaf corresp="#S1_L10_P2">
+                            <label>Ondes qui soulevez</label>
                         </eLeaf>
-                        <eLeaf corresp="#">
-                            <label>Qui ne l'admireroit. 308</label>
+                        
+                        <eLeaf corresp="#S2_L10_P2">
+                            <label>Ces vieux rochers tous nuds</label>
                         </eLeaf>
-                        <eLeaf corresp="#">
-                            <label>Qu'enuieux de mon bien. 357</label>
+                        
+                        <eLeaf corresp="#S3_L10_P2">
+                            <label>Mon esprit combatu</label>
                         </eLeaf>
-                        <eLeaf corresp="#">
-                            <label>Quand je vois un amant. 586</label>
+                        
+                        <eLeaf corresp="#S1_L12_P2">
+                            <label>Cependant que Madame</label>
                         </eLeaf>
-                        <eLeaf corresp="#">
-                            <label>Qui veut estre parfait Amant. 319</label>
+                        
+                        <eLeaf corresp="#S2_L12_P2">
+                            <label>Jamais contre les Rocs</label>
+                        </eLeaf>
+                        
+                        <eLeaf corresp="#S3_L12_P2">
+                            <label>J'estois pour mon malheur</label>
+                        </eLeaf>
+                        
+                        <eLeaf corresp="#POEM1_L12_P2">
+                            <label>Epitaphe d'un homme heureux</label>
                         </eLeaf>
                     </eTree>
 
@@ -10599,21 +10624,29 @@
                     <!-- TABLE 5 -->
                     <eTree n="table_damour_falscifees" xml:id="table_amourfa" type="table">
                         <label>TABLES D'AMOUR FALCIFIÉES.</label>
-                        <eLeaf corresp="#M1_L11_P2">
-                            <label>Que je vive, &amp; qu'on le possede</label>
+                        <eLeaf corresp="#POEM2_L5_P2">
+                            <label>Qui veut estre parfait Amant</label>
                         </eLeaf>
+                        
+                        <eLeaf corresp="#STAN2_L5_P2">
+                            <label>Sont ce, Peintr[e] sçavan[t]</label>
+                        </eLeaf>
+                        
+                        <eLeaf corresp="#S2_L7_P2">
+                            <label><persName key="silvandre" role="berger">Silvandre</persName> qui
+                                te plains</label>
+                        </eLeaf>
+                        
                         <eLeaf corresp="#S1_L8_P2">
                             <label>Riviere que j'accrois</label>
                         </eLeaf>
-                        <eLeaf corresp="#STAN2_L5_P2">
-                            <label>Sont ce, Peintr[e] sçavan[t]. 307</label>
-                        </eLeaf>
-                        <eLeaf corresp="#S2_L7_P2">
-                            <label><persName key="silvandre" role="berger">Silvandre</persName> qui
-                                te plains. 502</label>
-                        </eLeaf>
+                        
                         <eLeaf corresp="#POEM2_L8_P2">
-                            <label>Sy j'ayme autre que vous. 573</label>
+                            <label>Sy j'ayme autre que vous</label>
+                        </eLeaf>
+                        
+                        <eLeaf corresp="#M1_L11_P2">
+                            <label>Que je vive, &amp; qu'on le possede</label>
                         </eLeaf>
                     </eTree>
 
