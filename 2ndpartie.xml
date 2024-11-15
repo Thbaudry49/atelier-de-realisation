@@ -153,12 +153,12 @@
     <text>
         <front>
             <head type="main">L'<persName key="astree_personnage" role="berger"
-                >Astrée</persName><lb/> DE<lb/> MESSIRE<lb/>
-                <persName key="honoreurfe" role="auteur">Honoré<lb/> D'urfé</persName><lb/> Seconde partie<lb/>
+                >Astrée</persName>DEMESSIRE
+                <persName key="honoreurfe" role="auteur">HonoréD'urfé</persName>Seconde partie
                 <date when="1614">1614</date></head>
-            <head type="sub">A <placeName key="paris">Paris</placeName><lb/> Chez Toussainct &amp;
+            <head type="sub">A <placeName key="paris">Paris</placeName>Chez Toussainct &amp;
                 du Bray Rue St Jaques Aux Espics Meurs &amp; en sa Bouticque au Palais en la
-                Gallerie des Prisonniers<lb/> Avec Privilege du <persName key="louisxiii"
+                Gallerie des PrisonniersAvec Privilege du <persName key="louisxiii"
                     >Roy</persName>.</head>
             <pb xml:id="page_abs_1" n="page_ori_LIM1"/>
         </front>
@@ -166,9 +166,9 @@
         <body>
             <div1 type="astree">
                 <pb xml:id="page_abs_2" n="page_ori_LIM2"/>
-                <head>L'AUTHEUR<lb/> AU BERGER<lb/>
+                <head>L'AUTHEURAU BERGER
                     <persName key="celadon" role="berger">CELADON</persName>.</head>
-                <lb/>
+                
                 <div2 type="preface">
                     <p>C'est une estrange humeur que la tienne, <persName key="celadon"
                             role="berger">Celadon</persName>, de te cacher avec tant de peine, &amp;
@@ -252,8 +252,8 @@
                 </div2>
 
                 <div2 xml:id="livre_premier" n="premier" type="livre">
-                    <head> LA SECONDE<lb/> PARTIE D'<persName key="astree_personnage" role="berger"
-                            >Astrée</persName>,<lb/> De Messire Honoré d'Urfé.<lb/>
+                    <head> LA SECONDEPARTIE D'<persName key="astree_personnage" role="berger"
+                            >Astrée</persName>,De Messire Honoré d'Urfé.
                     </head>
                     <head> LIVRE PREMIER. </head>
 
@@ -393,14 +393,14 @@
                                     <l>Quel est le mal des peines amoureuses,</l>
                                     <l>N'auray-je donc jamais alegements ? Je ments.</l>
                                     <l>Comment, Echo, n'est-ce point un blaspheme </l>
-                                    <l>De t'accuser &amp; dire que tu ments ?<lb/> Ce que j'entens
+                                    <l>De t'accuser &amp; dire que tu ments ?Ce que j'entens
                                         est-ce bien ta voix mesme ? Ayme.</l>
                                     <pb xml:id="page_abs_14" n="page_ori_7"/>
                                 </lg>
                                 <lg>
                                     <head>V.</head>
                                     <l>C'est bien ta voix qui frappe mes a[u]reilles,</l>
-                                    <l>Mais ce secret, Nimphe qui me conseilles<lb/> L'as-tu dis moy
+                                    <l>Mais ce secret, Nimphe qui me conseillesL'as-tu dis moy
                                         de ma <persName key="diane" role="berger">Diane</persName>
                                         ouy ? Ouy.</l>
                                     <l>Mais de l'aymer, helas ! c'est peu de chose,</l>
@@ -763,7 +763,7 @@
                         <body>
                             <div>
 
-                                <head>SONNET.<lb/> CONTRE LA JALOUSIE.</head>
+                                <head>SONNET.CONTRE LA JALOUSIE.</head>
 
                                 <lg>
                                     <l>Amour ne brusle plus, on bien il brusle en vain,</l>
@@ -1151,9 +1151,9 @@
                     <floatingText xml:id="HIS1_L1_P2" type="histoire">
                         <body>
                             <div>
-                                <head>HISTOIRE<lb/> DE <persName key="celidee" role="amant"
+                                <head>HISTOIREDE <persName key="celidee" role="amant"
                                         >Celidée</persName>, <persName key="thamire" role="poete"
-                                        >Thamyre</persName>,<lb/> ET <persName key="calidon"
+                                        >Thamyre</persName>,ET <persName key="calidon"
                                         role="berger"><persName key="calidon" role="berger"
                                             >CALYDON</persName></persName>.</head>
 
@@ -1216,14 +1216,14 @@
                                     donner une si grande esperance de sa beauté que je n'avois plus
                                     de honte d'aymer un enfant, se pouvant dire dés lors la plus
                                     belle fille du hameau, je me souviens que sur ce sujet je fis
-                                    ces vers.<lb/></p>
+                                    ces vers.</p>
                             </div>
                         </body>
                     </floatingText>
                     <floatingText xml:id="S3_L1_P2" type="sonnet">
                         <body>
                             <div>
-                                <head>SONNET.<lb/> D'UNE JEUNE BEAUTE.</head>
+                                <head>SONNET.D'UNE JEUNE BEAUTE.</head>
                                 <lg>
                                     <l>Quelle Aurore jamais d'un beau jour devanciere </l>
                                     <l> Eut le sein plus semé de roses &amp; de lys ?</l>
@@ -1885,7 +1885,7 @@
                 <div2 xml:id="page_ASTREE_1614_0202" n="deuxiesme" type="livre">
                     <pb xml:id="page_abs_72" n="page_ori_65"/>
 
-                    <head> LE DEUXIESME<lb/> LIVRE DE LA<lb/> SECONDE PARTIE<lb/> D'<persName
+                    <head> LE DEUXIESMELIVRE DE LASECONDE PARTIED'<persName
                             key="astree_personnage" role="berger">Astrée</persName>. </head>
 
                     <p>Ainsi paracheva <persName key="thamire" role="poète">Thamire</persName>, de
@@ -1967,7 +1967,7 @@
                     <floatingText xml:id="HAR1_L2_P2" type="harangue">
                         <body>
                             <div>
-                                <head>HARANGUE<lb/> DU BERGER <persName key="calidon" role="berger"
+                                <head>HARANGUEDU BERGER <persName key="calidon" role="berger"
                                             ><persName key="calidon" role="berger"
                                             >CALYDON</persName></persName>.</head>
 
@@ -2429,7 +2429,7 @@
                     <floatingText xml:id="REP1_L2_P2" type="reponse" corresp="#HAR1_L2_P2">
                         <body>
                             <div>
-                                <head>RESPONCE<lb/> DE LA BERGERE <persName key="celidee"
+                                <head>RESPONCEDE LA BERGERE <persName key="celidee"
                                         role="amant">Celidée</persName>.</head>
 
                                 <p>Je suis si peu accoustumée, grande Nimphe, à parler du sujet qui
@@ -2904,7 +2904,7 @@
                     <floatingText xml:id="REP2_L2_P2" type="reponse" corresp="#REP1_L2_P2">
                         <body>
                             <div>
-                                <head>RESPONCE<lb/> DU BERGER <persName key="thamire" role="poete"
+                                <head>RESPONCEDU BERGER <persName key="thamire" role="poete"
                                         >Thamyre</persName>.</head>
                                 <p>A ce que je vois, grande Nimphe, il m'est advenu comme à celuy
                                     qui forge &amp; trempe avec une grande peine le fer qu'un autre
@@ -3215,7 +3215,7 @@
                     <floatingText xml:id="REP3_L2_P2" type="text" corresp="#REP2_L2_P2">
                         <body>
                             <div>
-                                <head>JUGEMENT DE LA NIMPHE<lb/>
+                                <head>JUGEMENT DE LA NIMPHE
                                     <persName key="leonide" role="travesti"
                                     >Leonide</persName>.</head>
                                 <p>Trois choses se presentent à nos yeux, sur le different de
@@ -3392,8 +3392,8 @@
                     <floatingText xml:id="S1_L2_P2" type="sonnet">
                         <body>
                             <div>
-                                <head>SONNET.<lb/> RAPORT DE <persName key="diane" role="berger"
-                                        >Diane</persName> A<lb/> LA LUNE.</head>
+                                <head>SONNET.RAPORT DE <persName key="diane" role="berger"
+                                        >Diane</persName> ALA LUNE.</head>
                                 <lg>
                                     <l>Bel Astre flamboyant, qui dans un Ciel serain </l>
                                     <l>Esclairez de la Nuict le visage effroyable,</l>
@@ -3440,8 +3440,8 @@
                     <floatingText xml:id="S2_L2_P2" type="sonnet">
                         <body>
                             <div>
-                                <head>SONNET.<lb/> QU'IL N'Y A CONSIDERATION<lb/> QUI L'EMPESCHE
-                                    D'AYMER<lb/> sa Maistresse.</head>
+                                <head>SONNET.QU'IL N'Y A CONSIDERATIONQUI L'EMPESCHE
+                                    D'AYMERsa Maistresse.</head>
                                 <lg>
                                     <l>Mon penser, hé! pourquoy me viens tu figurer,</l>
                                     <l>Qu'il ne faut que je l'aime, &amp; qu'elle est pour un
@@ -3658,7 +3658,7 @@
                 </div2>
                 <div2 xml:id="page_ASTREE_1614_0203" n="troisiesme" type="livre">
                     <pb xml:id="page_abs_134" n="page_ori_127"/>
-                    <head> LE<lb/> TROISIESME<lb/> LIVRE DE LA<lb/> SECONDE PARTIE<lb/> D'<persName
+                    <head> LETROISIESMELIVRE DE LASECONDE PARTIED'<persName
                             key="astree_personnage" role="berger">Astrée</persName>. </head>
                     <p>Lors que <persName key="silvandre" role="berger">Silvandre</persName>
                         s'endormit, la nuict estoit desja tant advancée, qu'il ne s'esveilla que le
@@ -4941,7 +4941,7 @@
                         <body>
                             <div>
 
-                                <head>HISTOIRE<lb/> DE <persName key="palinice" role="veuve"
+                                <head>HISTOIREDE <persName key="palinice" role="veuve"
                                         >Palinice</persName> ET DE CYRCENE.</head>
 
                                 <p>Je ne trouveray jamais estrange, gentil Berger, tant que j'auray
@@ -5094,7 +5094,7 @@
                     <floatingText xml:id="S1_L3_P2" type="sonnet">
                         <body>
                             <div>
-                                <head>SONNET.<lb/> IL PARLE AU VENT.</head>
+                                <head>SONNET.IL PARLE AU VENT.</head>
                                 <lg>
                                     <l>Doux zephir que je vois errer folatrement </l>
                                     <l>Entre les crins aigus de ces plantes hautaines,</l>
@@ -5385,9 +5385,9 @@
                 </div2>
                 <div2 xml:id="page_ASTREE_1614_0204" n="quatriesme" type="livre">
                     <pb xml:id="page_abs_198" n="page_ori_191"/>
-                    <head> LE<lb/> QUATRIESME<lb/> LIVRE DE LA<lb/> SECONDE PARTIE<lb/> D'<persName
+                    <head> LEQUATRIESMELIVRE DE LASECONDE PARTIED'<persName
                             key="astree_personnage" role="berger">Astrée</persName>. </head>
-                    <lb/>
+                    
                     <p>C'estoit la coustume des Bergers de <placeName key="riviere_lignon"
                             >Lignon</placeName> de ne rencontrer jamais estranger, sans luy offrir
                         toute sorte d'assistance, leur semblant que les loix de l'hospitalité le
@@ -5658,8 +5658,8 @@
                     <floatingText xml:id="HIS1_L4_P2" type="histoire">
                         <body>
                             <div>
-                                <head>HISTOIRE.<lb/> DE PARTHENOPE, <persName key="florice"
-                                        role="amant">Florice</persName><lb/> ET <persName
+                                <head>HISTOIRE.DE PARTHENOPE, <persName key="florice"
+                                        role="amant">Florice</persName>ET <persName
                                         key="dorinde" role="berger">Dorinde</persName>.</head>
                                 <p>Je me suis moqué bien souvent en ma pensée, de ceux qui blasment
                                     l'inconstance, &amp; qui font profession d'en estre plus
@@ -6312,7 +6312,7 @@
                     <floatingText xml:id="S2_L4_P2" type="sonnet">
                         <body>
                             <div>
-                                <head>SONNET.<lb/> SERMENTS AMOUREUX.</head>
+                                <head>SONNET.SERMENTS AMOUREUX.</head>
                                 <lg>
                                     <l>Belle de mes desirs, vous estes le trespas.</l>
                                     <l>Et c'est vous toutefois que seule je desire,</l>
@@ -6849,7 +6849,7 @@
                     <floatingText xml:id="LET1_L4_P2" type="lettre">
                         <body>
                             <div>
-                                <head>LETTRE<lb/> DE <persName key="dorinde" role="berger"
+                                <head>LETTREDE <persName key="dorinde" role="berger"
                                         >Dorinde</persName> A <persName key="hylas" role="donjuan"
                                         >Hylas</persName>.</head>
                                 <p>Je m'y trouveray puis que vous le voulez ainsi : aussi seroit-il
@@ -6861,7 +6861,7 @@
                                     toute autre consideration. C'est donc à vous à y prendre garde
                                     si vous m'aimez. Et à Dieu jusques à ce que je voye celui qui
                                     est aimé de moi, &amp; qui m'aime, si pour le moins les Dieux me
-                                    veulent rendre contente.<lb/></p>
+                                    veulent rendre contente.</p>
                             </div>
                         </body>
                     </floatingText>
@@ -6874,7 +6874,7 @@
                     <floatingText xml:id="LET2_L4_P2" type="lettre">
                         <body>
                             <div>
-                                <head>LETTRE.<lb/> DE <persName key="dorinde" role="berger"
+                                <head>LETTRE.DE <persName key="dorinde" role="berger"
                                         >Dorinde</persName> A <persName key="hylas" role="donjuan"
                                         >Hylas</persName>.</head>
                                 <p>Je croi de vostre affection encor plus que vous ne m'en dites.
@@ -6885,7 +6885,7 @@
                                     sçavent point aimer ; car vous avez tant d'experience du <pb
                                         xml:id="page_abs_254" n="page_ori_247"/> contraire, que vous
                                     estes le plus incredule de tous les hommes, si par mes effets
-                                    vous ne croyez à mes paroles.<lb/></p>
+                                    vous ne croyez à mes paroles.</p>
                             </div>
                         </body>
                     </floatingText>
@@ -6895,7 +6895,7 @@
                         <body>
                             <div>
 
-                                <head>LETTRE<lb/> DE <persName key="dorinde" role="berger"
+                                <head>LETTREDE <persName key="dorinde" role="berger"
                                         >Dorinde</persName> A <persName key="hylas" role="donjuan"
                                         >Hylas</persName>.</head>
 
@@ -6908,7 +6908,7 @@
                                     vous qu'elle sera heureuse en cela plus que moi, &amp; moins
                                     heureuse seulement en ce qu'elle possedera ce bien sans le
                                     connoistre, que sans le posseder j'estime plus que ma
-                                    vie.<lb/></p>
+                                    vie.</p>
                             </div>
                         </body>
                     </floatingText>
@@ -7212,7 +7212,7 @@
                     <floatingText xml:id="LET4_L4_P2" type="lettre">
                         <body>
                             <div>
-                                <head>LETTRE<lb/> DE <persName key="florice" role="amant"
+                                <head>LETTREDE <persName key="florice" role="amant"
                                         >Florice</persName> A <persName key="hylas" role="donjuan"
                                         >Hylas</persName></head>
                                 <p>Quand vous verrez cette escriture, peut estre vous souviendrez
@@ -7285,7 +7285,7 @@
                         <body>
                             <div>
 
-                                <head>LETTRE<lb/> DE <persName key="hylas" role="donjuan"
+                                <head>LETTREDE <persName key="hylas" role="donjuan"
                                         >Hylas</persName> A <persName key="florice" role="amant"
                                         >Florice</persName></head>
 
@@ -7297,7 +7297,7 @@
                                     contenter &amp; moy pour vous regretter ? O Dieux le permettrez
                                     vous ? ou le permettant ne punirez vous point cette ingratte,
                                     &amp; mescognoissante <persName key="florice" role="amant"
-                                        >Florice</persName> ?<lb/></p>
+                                        >Florice</persName> ?</p>
                             </div>
                         </body>
                     </floatingText>
@@ -7321,7 +7321,7 @@
                         <body>
                             <div>
 
-                                <head>LETTRE<lb/> DE <persName key="hylas" role="donjuan"
+                                <head>LETTREDE <persName key="hylas" role="donjuan"
                                         >Hylas</persName> A <persName key="florice" role="amant"
                                         >Florice</persName></head>
 
@@ -7335,7 +7335,7 @@
                                     laissez peu, &amp; vous le vueillent continuer aussi longuement
                                     que durera le cuisant regret que j'en ai, &amp; qui
                                     m'accompagnera dans le cercueil, où mesme je me plaindray de
-                                    vostre changement, &amp; de la rigueur de ma fortune.<lb/></p>
+                                    vostre changement, &amp; de la rigueur de ma fortune.</p>
                             </div>
                         </body>
                     </floatingText>
@@ -7379,7 +7379,7 @@
                         <body>
                             <div>
 
-                                <head>LETTRE<lb/> DE <persName key="florice" role="amant"
+                                <head>LETTREDE <persName key="florice" role="amant"
                                         >Florice</persName> A <persName key="hylas" role="donjuan"
                                         >Hylas</persName>.</head>
 
@@ -7392,7 +7392,7 @@
                                     contentement. Si <persName key="hylas" role="donjuan"
                                         >Hylas</persName> veut accompagner mon desplaisir du sien il
                                     peut me retirer du tombeau, &amp; plus encores s'il ne laisse
-                                    pas de m'aymer toute miserable que je suis.<lb/></p>
+                                    pas de m'aymer toute miserable que je suis.</p>
                             </div>
                         </body>
                     </floatingText>
@@ -7609,14 +7609,14 @@
                         <body>
                             <div>
 
-                                <head>LETTRE<lb/> DE <persName key="florice" role="amant"
+                                <head>LETTREDE <persName key="florice" role="amant"
                                         >Florice</persName> A <persName key="hylas" role="donjuan"
                                         >Hylas</persName>.</head>
 
                                 <p>Celuy qui n'est au monde que pour nostre supplice s'en va demain
                                     hors de la ville. Si vous venez tout le soir sera nostre. Le
                                     reste du temps que je passe esloignée de ce que j'aime, je ne
-                                    dis pas qu'il soit à nous.<lb/></p>
+                                    dis pas qu'il soit à nous.</p>
                             </div>
                         </body>
                     </floatingText>
@@ -7683,7 +7683,7 @@
                         <body>
                             <div>
 
-                                <head>LETTRE<lb/> DE <persName key="florice" role="amant"
+                                <head>LETTREDE <persName key="florice" role="amant"
                                         >Florice</persName> A <persName key="hylas" role="donjuan"
                                         >Hylas</persName>.</head>
 
@@ -7693,7 +7693,7 @@
                                     meschancetez pour la faire mourir, &amp; que le Ciel laissera
                                     assez de vie pour me vanger de tous deux. Cependant, oublie mon
                                     nom, comme tu as perdu le souvenir des faveurs que je t'ay
-                                    faites.<lb/></p>
+                                    faites.</p>
                             </div>
                         </body>
                     </floatingText>
@@ -7743,7 +7743,7 @@
                 </div2>
                 <div2 xml:id="page_ASTREE_1614_0205" n="cinquiesme" type="livre">
                     <pb xml:id="page_abs_288" n="page_ori_281"/>
-                    <head> LE<lb/> CINQUIESME<lb/> LIVRE DE LA<lb/> SECONDE PARTIE<lb/> D'<persName
+                    <head> LECINQUIESMELIVRE DE LASECONDE PARTIED'<persName
                             key="astree_personnage" role="berger">Astrée</persName>. </head>
                     <p><persName key="astree_personnage" role="berger">Astrée</persName> eust bien
                         pris plaisir au discours de <persName key="hylas" role="donjuan"
@@ -7910,9 +7910,9 @@
                         l'entrée, avant que de passer outre y leurent des vers, qui escris sur une
                         petite table de bois estoient attachez au milieu d'un feston, qui faisoit le
                         tour de la voute de la porte. Les vers estoient tels.</p>
-                    <p>Loin, bien loin, profanes esprits :<lb/> Qui n'est d'un sainct Amour
-                        espris,<lb/> En ce lieu sainct ne fasse entrée :<lb/> Voicy le bois où
-                        chaque jour,<lb/> Un cœur qui ne vit que d'Amour,<lb/> Adore la Déesse
+                    <p>Loin, bien loin, profanes esprits :Qui n'est d'un sainct Amour
+                        espris,En ce lieu sainct ne fasse entrée :Voicy le bois où
+                        chaque jour,Un cœur qui ne vit que d'Amour,Adore la Déesse
                             <persName key="astree_personnage" role="berger">Astrée</persName>.</p>
                     <p>Ces Bergers &amp; Bergeres demeurerent estonnez de voir cette inscription,
                         &amp; se regardoient les uns les autres, comme se voulant demander si
@@ -8414,7 +8414,7 @@
                         <body>
                             <div>
 
-                                <head>DIALOGUE<lb/> SUR LES YEUX D'UN POURTRAIT,<lb/>
+                                <head>DIALOGUESUR LES YEUX D'UN POURTRAIT,
                                     STANCES.</head>
 
                                 <lg>
@@ -8694,7 +8694,7 @@
                     <floatingText xml:id="HIS1_L5_P2" type="histoire">
                         <body>
                             <div>
-                                <head>O. RAISON<lb/> A LA DÉESSE <persName key="astree_personnage"
+                                <head>O. RAISONA LA DÉESSE <persName key="astree_personnage"
                                         role="berger">Astrée</persName>.</head>
                                 <p>Grande &amp; toute-puissante Déesse, encore que vos perfections
                                     ne puissent estre esgalées, il ne faut que nos sacrifices ne
@@ -8713,7 +8713,7 @@
                                         role="berger">Celadon</persName>, de qui la memoire vous
                                     doit plaire, si celle du plus fidelle &amp; affectionné de vos
                                     serviteurs, peut jamais avoir obtenu de vostre Divinité cette
-                                    glorieuse satisfaction.<lb/></p>
+                                    glorieuse satisfaction.</p>
                             </div>
                         </body>
                     </floatingText>
@@ -8756,7 +8756,7 @@
                     <floatingText xml:id="POEM2_L5_P2" type="poem">
                         <body>
                             <div>
-                                <head>TABLES D'AMOUR<lb/>falsifiées par l'inconstant<lb/><persName
+                                <head>TABLES D'AMOURfalsifiées par l'inconstant<persName
                                         key="hylas" role="donjuan">Hylas</persName>.</head>
 
                                 <lg n="1">
@@ -9255,7 +9255,7 @@
                 </div2>
                 <div2 xml:id="page_ASTREE_1614_0206" n="sixiesme" type="livre">
                     <pb xml:id="page_abs_345" n="page_ori_339"/>
-                    <head> LE<lb/> SIXIESME<lb/> LIVRE DE LA<lb/> SECONDE PARTIE<lb/> d'<persName
+                    <head> LESIXIESMELIVRE DE LASECONDE PARTIEd'<persName
                             key="astree_personnage" role="berger">Astrée</persName>. </head>
                     <p>Encores que la nuict fut desja bien fort avancée, lors que ces Bergeres se
                         coucherent sur les juppes &amp; sayes de leurs Bergers ; si est-ce qu'estant
@@ -9306,7 +9306,7 @@
                     <floatingText xml:id="HIS1_L6_P2" type="histoire">
                         <body>
                             <div>
-                                <head>HISTOIRE<lb/> DE <persName key="damon" role="berger"
+                                <head>HISTOIREDE <persName key="damon" role="berger"
                                         >Damon</persName> ET DE <persName key="madonthe"
                                         role="amant">Madonthe</persName>.</head>
 
@@ -9476,7 +9476,7 @@
                     <floatingText xml:id="LET1_L6_P2" type="lettre">
                         <body>
                             <div>
-                                <head>LETTRE<lb/> DE <persName key="damon" role="berger"
+                                <head>LETTREDE <persName key="damon" role="berger"
                                         >Damon</persName> A <persName key="madonthe" role="amant"
                                         >Madonthe</persName>.</head>
                                 <p>C'est bien temerité d'aymer tant de perfections, mais aussi c'est
@@ -9488,7 +9488,7 @@
                                     desobeye : car la force excusera tousjours ceux qui feront cette
                                     offence contre vostre volonté, puis que la necessité ne
                                     recognoist pas mesme la Loy que les Dieux nous
-                                    imposent.<lb/></p>
+                                    imposent.</p>
                             </div>
                         </body>
                     </floatingText>
@@ -9981,8 +9981,8 @@
                         <body>
                             <div>
 
-                                <head>LETTRE<lb/> DE <persName key="thersandre" role="antagoniste"
-                                        >Thersandre</persName> A<lb/>
+                                <head>LETTREDE <persName key="thersandre" role="antagoniste"
+                                        >Thersandre</persName> A
                                     <persName key="madonthe" role="amant"
                                     >Madonthe</persName>.</head>
 
@@ -10580,7 +10580,7 @@
                         <body>
                             <div>
 
-                                <head>DEFFY DE <persName key="damon" role="berger">Damon</persName>, A<lb/>
+                                <head>DEFFY DE <persName key="damon" role="berger">Damon</persName>, A
                                     <persName key="thersandre" role="antagoniste"
                                         >Thersandre</persName>.</head>
 
@@ -10751,7 +10751,7 @@
                         <body>
                             <div>
 
-                                <head>LETTRE<lb/> DE <persName key="damon" role="berger"
+                                <head>LETTREDE <persName key="damon" role="berger"
                                         >Damon</persName> A <persName key="madonthe" role="amant"
                                         >Madonthe</persName>.</head>
 
@@ -12029,7 +12029,7 @@
                 </div2>
                 <div2 xml:id="page_ASTREE_1614_0207" n="septiesme" type="livre">
                     <pb xml:id="page_abs_459" n="page_ori_453"/>
-                    <head> LE<lb/> SEPTIESME<lb/> LIVRE DE LA<lb/> SECONDE PARTIE<lb/> d'<persName
+                    <head> LESEPTIESMELIVRE DE LASECONDE PARTIEd'<persName
                             key="astree_personnage" role="berger">Astrée</persName>. </head>
                     <p>Mais il est temps de revenir à <persName key="celadon" role="berger"
                             >Celadon</persName> que nous avons si longuement laissé dans sa caverne,
@@ -12228,7 +12228,7 @@
                         <body>
                             <div>
 
-                                <head>LETTRE<lb/> D'<persName key="astree_personnage" role="berger"
+                                <head>LETTRED'<persName key="astree_personnage" role="berger"
                                         >Astrée</persName> A <persName key="celadon" role="berger"
                                         >Celadon</persName>.</head>
 
@@ -12262,7 +12262,7 @@
                         <body>
                             <div>
 
-                                <head>LETTRE<lb/> D'<persName key="astree_personnage" role="berger"
+                                <head>LETTRED'<persName key="astree_personnage" role="berger"
                                         >Astrée</persName> A <persName key="celadon" role="berger"
                                         >Celadon</persName>.</head>
 
@@ -12281,7 +12281,7 @@
                                     vous eussiez ceste creance de moy. Et pource ne doutez point,
                                     tant que je vous feray paroistre d'avoir memoire de vous, que ce
                                     ne soit un gage tres-asseuré de l'estat que je fay d'estre
-                                    veritablement aymée de mon fils.<lb/></p>
+                                    veritablement aymée de mon fils.</p>
                             </div>
                         </body>
                     </floatingText>
@@ -12298,7 +12298,7 @@
                         <body>
                             <div>
 
-                                <head>LETTRE<lb/> D'<persName key="astree_personnage" role="berger"
+                                <head>LETTRED'<persName key="astree_personnage" role="berger"
                                         >Astrée</persName> A <persName key="celadon" role="berger"
                                         >Celadon</persName>.</head>
 
@@ -12316,7 +12316,7 @@
                                     nomme, &amp; non pas nos peres) si vous voulez que je croye
                                     vostre amitié esgale à celle qui me fait non seulement
                                     surmonter, mais mespriser pour vous toutes sortes de peines
-                                    &amp; d'incommoditez.<lb/></p>
+                                    &amp; d'incommoditez.</p>
                             </div>
                         </body>
                     </floatingText>
@@ -12554,7 +12554,7 @@
                         <body>
                             <div>
 
-                                <head>HISTOIRE<lb/> DE <persName key="galathee" role="berger"
+                                <head>HISTOIREDE <persName key="galathee" role="berger"
                                         >Galathée</persName>.</head>
 
                                 <p>Vous desirez donc sçavoir, <persName key="celadon" role="berger"
@@ -13338,7 +13338,7 @@
                     <floatingText xml:id="S1_L7_P2" type="sonnet">
                         <body>
                             <div>
-                                <head>SONNET.<lb/> Qu'il est jaloux avec raison.</head>
+                                <head>SONNET.Qu'il est jaloux avec raison.</head>
                                 <lg>
                                     <l>Amour qui dans mon cœur vas lisant mes pensées </l>
                                     <l>Dans mon cœur où ta main tous les jours les escrit,</l>
@@ -13381,7 +13381,7 @@
                         <body>
                             <div1>
 
-                                <head>STANCES.<lb/> MONDE D'AMOVR.</head>
+                                <head>STANCES.MONDE D'AMOVR.</head>
 
                                 <lg ana="vers" xml:lang="fr" n="1">
                                     <head>I</head>
@@ -13513,7 +13513,7 @@
                     <floatingText xml:id="S2_L7_P2" type="sonnet">
                         <body>
                             <div>
-                                <head>SONNET.<lb/> Que d'adorer seulement <persName key="diane"
+                                <head>SONNET.Que d'adorer seulement <persName key="diane"
                                         role="berger">Diane</persName>, il est trop heureux</head>
 
                                 <lg>
@@ -13751,7 +13751,7 @@
                 <div2 xml:id="page_ASTREE_1614_0208" n="huictiesme" type="livre">
                     <pb xml:id="page_abs_517" n="page_ori_511"/>
 
-                    <head> LE<lb/> HUICTIESME<lb/> LIVRE DE LA<lb/> SECONDE PARTIE<lb/> d'<persName
+                    <head> LEHUICTIESMELIVRE DE LASECONDE PARTIEd'<persName
                             key="astree_personnage" role="berger">Astrée</persName>. </head>
 
 
@@ -14007,7 +14007,7 @@
                     <floatingText xml:id="S1_L8_P2" type="sonnet">
                         <body>
                             <div>
-                                <head>SONNET.<lb/> Il se compare à <placeName key="riviere_lignon"
+                                <head>SONNET.Il se compare à <placeName key="riviere_lignon"
                                         >la riviere de Lignon</placeName>.</head>
 
                                 <lg>
@@ -14833,8 +14833,8 @@
                     <floatingText xml:id="LET1_L8_P2" type="lettre">
                         <body>
                             <div>
-                                <head>LETTRE<lb/> DE <persName key="celadon" role="berger"
-                                        >Celadon</persName> A LA BERGERE<lb/>
+                                <head>LETTREDE <persName key="celadon" role="berger"
+                                        >Celadon</persName> A LA BERGERE
                                     <persName key="astree_personnage" role="berger"
                                         >Astrée</persName>.</head>
 
@@ -14872,7 +14872,7 @@
                                     estes la plus belle &amp; plus aymée Bergere de l'univers, de
                                     mesme je me diray, puis que ma fortune &amp; ma constance le
                                     veulent ainsi, le plus infortuné comme le plus fidelle de vos
-                                    serviteurs.<lb/></p>
+                                    serviteurs.</p>
                             </div>
                         </body>
                     </floatingText>
@@ -15331,7 +15331,7 @@
                     <floatingText xml:id="POEM2_L8_P2" type="poem">
                         <body>
                             <div1>
-                                <head>DIALOGUE.<lb/>
+                                <head>DIALOGUE.
                                     <persName key="palemon" role="berger">Palemon</persName>,
                                         <persName key="Doris" role="berger">Doris</persName>.</head>
                                 <lg n="1">
@@ -15509,8 +15509,8 @@
                     <floatingText xml:id="POEM3_L8_P2" type="poem">
                         <body>
                             <div>
-                                <head>AUX.<lb/> DIEUX MANES.<lb/> ET<lb/> A. La Memoire
-                                    Eternelle.<lb/> Du. Plus. Aymable Berger.<lb/> De <placeName
+                                <head>AUX.DIEUX MANES.ETA. La Memoire
+                                    Eternelle.Du. Plus. Aymable Berger.De <placeName
                                         key="riviere_lignon">Lignon</placeName>.</head>
 
                                 <lg>
@@ -15688,7 +15688,7 @@
 
                 <div2 xml:id="page_ASTREE_1614_0209" n="neufiesme" type="livre">
                     <pb xml:id="page_abs_591" n="page_ori_585"/>
-                    <head> LE<lb/> NEUFIESME<lb/> LIVRE DE LA<lb/> SECONDE PARTIE<lb/> d'<persName
+                    <head> LENEUFIESMELIVRE DE LASECONDE PARTIEd'<persName
                             key="astree_personnage" role="berger">Astrée</persName>. </head>
 
                     <p>Cependant que <persName key="leonide" role="travesti">Leonide</persName>,
@@ -15721,7 +15721,7 @@
                     <floatingText xml:id="S1_L9_P2" type="sonnet">
                         <body>
                             <div>
-                                <head>SONNET.<lb/> Qu'il ne faut point aymer sans estre aymé.</head>
+                                <head>SONNET.Qu'il ne faut point aymer sans estre aymé.</head>
 
                                 <lg>
                                     <l>Quand je vois un amant transi,</l>
@@ -15797,7 +15797,7 @@
                     <floatingText xml:id="HIS1_L9_P2" type="histoire">
                         <body>
                             <div>
-                                <head>HISTOIRE<lb/> DE <persName key="Doris" role="berger"
+                                <head>HISTOIREDE <persName key="Doris" role="berger"
                                         >Doris</persName> ET <persName key="palemon" role="berger"
                                         >Palemon</persName></head>
 
@@ -16103,7 +16103,7 @@
                     <floatingText xml:id="HIS2_L9_P2" type="histoire" corresp="#HIS1_L9_P2">
                         <body>
                             <div>
-                                <head>RESPONCE<lb/> DU BERGER <persName key="palemon" role="berger"
+                                <head>RESPONCEDU BERGER <persName key="palemon" role="berger"
                                         >Palemon</persName>.</head>
 
                                 <p>Grande Nymphe, je cognoy bien estre tres-veritable, ce que j'ay
@@ -16479,7 +16479,7 @@
                     <floatingText xml:id="HIS3_L9_P2" type="histoire" corresp="#HIS2_L9_P2">
                         <body>
                             <div>
-                                <head>HISTOIRE<lb/> DU BERGER <persName key="adraste" role="amant"
+                                <head>HISTOIREDU BERGER <persName key="adraste" role="amant"
                                         >Adraste</persName>.</head>
 
                                 <p>Je vous conjure grande &amp; puissante Nimphe, &amp; vous sage
@@ -17466,7 +17466,7 @@
                 </div2>
                 <div2 xml:id="page_ASTREE_1614_0210" n="dixiesme" type="livre">
                     <pb xml:id="page_abs_652" n="page_ori_647"/>
-                    <head> LE<lb/> DIXIESME<lb/> LIVRE DE LA<lb/> SECONDE PARTIE<lb/> d'<persName
+                    <head> LEDIXIESMELIVRE DE LASECONDE PARTIEd'<persName
                             key="astree_personnage" role="berger">Astrée</persName>. </head>
 
                     <p>Quant à <persName key="leonide" role="travesti">Leonide</persName>, elle
@@ -18013,7 +18013,7 @@
                     <floatingText xml:id="S2_L10_P2" type="sonnet">
                         <body>
                             <div>
-                                <head>SONNET.<lb/> Des Montagnes &amp; Rochers à un Amant.</head>
+                                <head>SONNET.Des Montagnes &amp; Rochers à un Amant.</head>
 
                                 <lg>
                                     <l>Ces vieux Rochers tous nuds, glissants en precipice </l>
@@ -18054,7 +18054,7 @@
                     <floatingText xml:id="HIS1_L10_P2" type="histoire">
                         <body>
                             <div>
-                                <head>HISTOIRE<lb/> D'<persName key="ursace" role="prince"
+                                <head>HISTOIRED'<persName key="ursace" role="prince"
                                         >Ursace</persName> ET D'<persName key="olimbre"
                                         role="chevalier">Olimbre</persName>.</head>
 
@@ -18095,7 +18095,7 @@
                     <floatingText xml:id="S3_L10_P2" type="sonnet">
                         <body>
                             <div>
-                                <head>SONNET.<lb/> S'il doit mourir ou vivre.</head>
+                                <head>SONNET.S'il doit mourir ou vivre.</head>
 
                                 <lg>
                                     <l>Mon esprit combatu diversement chancelle,</l>
@@ -18421,7 +18421,7 @@
                     <floatingText xml:id="HIS2_L10_P2" type="histoire">
                         <body>
                             <div>
-                                <head>SUITTE DE<lb/> L'HISTOIRE<lb/> DE <persName key="lindamor"
+                                <head>SUITTE DEL'HISTOIREDE <persName key="lindamor"
                                         role="noble">Lindamor</persName>.</head>
 
                                 <p>Encores ma sœur, qu'il ne me faille point de subjet pour me
@@ -18490,7 +18490,7 @@
                     <floatingText xml:id="LET1_L10_P2" type="lettre">
                         <body>
                             <div>
-                                <head>LETTRE<lb/> DE <persName key="lindamor" role="noble"
+                                <head>LETTREDE <persName key="lindamor" role="noble"
                                         >Lindamor</persName> A <persName key="leonide"
                                         role="travesti">Leonide</persName>.</head>
 
@@ -18509,7 +18509,7 @@
                                     rende tesmoignage, que je ne pouvois survivre <pb
                                         xml:id="page_abs_690" n="page_ori_685"/> l'amitié qu'elle
                                     m'avoit promise, ny mourir aussi sans en tirer
-                                    vengence.<lb/></p>
+                                    vengence.</p>
                             </div>
                         </body>
                     </floatingText>
@@ -18569,7 +18569,7 @@
                     <floatingText xml:id="LET2_L10_P2" type="lettre">
                         <body>
                             <div>
-                                <head>LETTRE<lb/> DE <persName key="lindamor" role="noble"
+                                <head>LETTREDE <persName key="lindamor" role="noble"
                                         >Lindamor</persName> A <persName key="galathee"
                                         role="berger">Galathée</persName>.</head>
 
@@ -18584,7 +18584,7 @@
                                     ressentie, luy ostera à ce coup la vie, que je ne luy laissay
                                     que trop malheureusement, pour ce miserable &amp; infortuné
                                         <persName key="lindamor" role="noble"
-                                    >Lindamor</persName>.<lb/></p>
+                                    >Lindamor</persName>.</p>
                             </div>
                         </body>
                     </floatingText>
@@ -18814,7 +18814,7 @@
                     <floatingText xml:id="LET3_L10_P2" type="lettre">
                         <body>
                             <div>
-                                <head>LETTRE<lb/> DE <persName key="leonide" role="travesti"
+                                <head>LETTREDE <persName key="leonide" role="travesti"
                                         >Leonide</persName> A <persName key="lindamor" role="noble"
                                         >Lindamor</persName>.</head>
 
@@ -18828,7 +18828,7 @@
                                     revenez promptement. Je ne puis vous en dire d'avantage que ce
                                     ne soit de bouche, n'estant pas à propos <pb
                                         xml:id="page_abs_701" n="page_ori_696"/> qu'autre que vous
-                                    entende ce à quoy tout seul vous pouvez remedier.<lb/></p>
+                                    entende ce à quoy tout seul vous pouvez remedier.</p>
                             </div>
                         </body>
                     </floatingText>
@@ -19093,7 +19093,7 @@
                 <div2 xml:id="page_ASTREE_1614_0211" n="unziesme" type="livre">
                     <pb xml:id="page_abs_710" n="page_ori_705"/>
 
-                    <head> LE<lb/> UNZIESME<lb/> LIVRE DE LA<lb/> SECONDE PARTIE<lb/> d'<persName
+                    <head> LEUNZIESMELIVRE DE LASECONDE PARTIEd'<persName
                             key="astree_personnage" role="berger">Astrée</persName>. </head>
 
                     <p>Douze ou quinze jours s'estoyent passez depuis qu'<persName
@@ -19375,7 +19375,7 @@
                     <floatingText xml:id="HIS1_L11_P2" type="histoire">
                         <body>
                             <div>
-                                <head>SUITTE DE<lb/> L'HISTOIRE<lb/> DE <persName key="celidee"
+                                <head>SUITTE DEL'HISTOIREDE <persName key="celidee"
                                         role="amant">Celidée</persName>.</head>
 
                                 <p>Je pensois, Madame, respondit Licidas que vous eussiez sceu sa
@@ -20346,7 +20346,7 @@
                     <floatingText xml:id="HIS2_L11_P2" type="histoire">
                         <body>
                             <div>
-                                <head>HISTOIRE<lb/> DE LA JALOUSIE DE<lb/> LICIDAS</head>
+                                <head>HISTOIREDE LA JALOUSIE DELICIDAS</head>
 
                                 <p>Vous sçavez, Madame, que l'ordinaire conversation qui estoit
                                     entre <persName key="philis" role="amie_astree"
@@ -21035,7 +21035,7 @@
                     <floatingText xml:id="HIS3_L11_P2" type="histoire">
                         <body>
                             <div>
-                                <head>L'HISTOIRE<lb/> DE <persName key="placidie" role="princesse"
+                                <head>L'HISTOIREDE <persName key="placidie" role="princesse"
                                         >Placidie</persName>.</head>
 
                                 <p><persName key="theodose" role="roi">Theodose</persName> premier
@@ -21976,7 +21976,7 @@
                 <div2 xml:id="page_ASTREE_1614_0212" n="douziesme" type="livre">
                     <pb xml:id="page_abs_806" n="page_ori_801"/>
 
-                    <head> LE<lb/> DOUZIESME<lb/> LIVRE DE LA<lb/> SECONDE PARTIE<lb/> d'<persName
+                    <head> LEDOUZIESMELIVRE DE LASECONDE PARTIEd'<persName
                             key="astree_personnage" role="berger">Astrée</persName>. </head>
 
                     <p>Puis qu'il vous plaist sage <persName key="adamas" role="druide"
@@ -22158,9 +22158,9 @@
                     <floatingText xml:id="HIS1_L12_P2" type="histoire">
                         <body>
                             <div>
-                                <head>HISTOIRE<lb/> D'<persName key="eudoxe" role="adjuvant"
+                                <head>HISTOIRED'<persName key="eudoxe" role="adjuvant"
                                         >Eudoxe</persName>, <persName key="Valentinien_iii"
-                                        role="roi">Valentinian</persName>,<lb/> ET <persName
+                                        role="roi">Valentinian</persName>,ET <persName
                                         key="ursace" role="prince">Ursace</persName>.</head>
 
                                 <p>Vostre desir est trop juste, courtois <persName key="silvandre"
@@ -22506,7 +22506,7 @@
                     <floatingText xml:id="S1_L12_P2" type="sonnet">
                         <body>
                             <div>
-                                <head>SONNET<lb/> D'une mousche sur les lévres de sa<lb/> Dame
+                                <head>SONNETD'une mousche sur les lévres de saDame
                                     endormie.</head>
 
                                 <lg>
@@ -22735,7 +22735,7 @@
                     <floatingText xml:id="S2_L12_P2" type="sonnet">
                         <body>
                             <div>
-                                <head>SONNET<lb/> Sur le départ d'un Rival.<lb/></head>
+                                <head>SONNETSur le départ d'un Rival.</head>
 
                                 <lg>
                                     <l>Jamais contre les rocs tant de flots amassez,</l>
@@ -23112,7 +23112,7 @@
                     <floatingText xml:id="S3_L12_P2" type="sonnet">
                         <body>
                             <div>
-                                <head>SONNET<lb/> SUR UN ADIEU.</head>
+                                <head>SONNETSUR UN ADIEU.</head>
 
                                 <lg>
                                     <l>J'estois pour mon mal heur prest à partir des lieux,</l>
@@ -23747,7 +23747,7 @@
                     <floatingText xml:id="LET1_L12_P2" type="lettre">
                         <body>
                             <div>
-                                <head>LETTRE<lb/> D'<persName key="eudoxe" role="adjuvant"
+                                <head>LETTRED'<persName key="eudoxe" role="adjuvant"
                                         >Eudoxe</persName> A <persName key="ursace" role="prince"
                                         >Ursace</persName>.</head>
 
@@ -23766,7 +23766,7 @@
                                     m'en venez rendre conte quand Etius laissera l'armée, à fin que
                                     comme vous avez participé à ses peines &amp; à ses dangers, vous
                                     ayez part aussi, à l'honneur &amp; à la bonne chere que l'Italie
-                                    luy fera &amp; que je vous prepare.<lb/></p>
+                                    luy fera &amp; que je vous prepare.</p>
                             </div>
                         </body>
                     </floatingText>
@@ -24353,7 +24353,7 @@
                     <floatingText xml:id="LET2_L12_P2" type="lettre">
                         <body>
                             <div>
-                                <head>LETTRE<lb/> D'<persName key="eudoxe" role="adjuvant"
+                                <head>LETTRED'<persName key="eudoxe" role="adjuvant"
                                         >Eudoxe</persName> A <persName key="ursace" role="prince"
                                         >Ursace</persName>.</head>
 
@@ -24369,7 +24369,7 @@
                                     mains de celuy qui me ravit tant injustement des vostres ; &amp;
                                     que particulierement j'en auray de vous accuser de faute
                                     d'affection, si vous ne me tenez mieux parole que je ne la vous
-                                    tiens, puis que le desastre le veut ainsi.<lb/></p>
+                                    tiens, puis que le desastre le veut ainsi.</p>
                             </div>
                         </body>
                     </floatingText>
@@ -24872,7 +24872,7 @@
                     <floatingText xml:id="REQ1_L12_P2" type="requete">
                         <body>
                             <div>
-                                <head>REQUESTE<lb/> Qui se presente au conseil des six cens,
+                                <head>REQUESTEQui se presente au conseil des six cens,
                                     demandant le Poison.</head>
 
                                 <p>Le souverain Conseil des six cens, est requis d'accorder au
@@ -24881,7 +24881,7 @@
                                     juges en terre entre la fortune &amp; les hommes. Et pour cet
                                     effect luy soit donné un jour pour deduire ses raisons par
                                     devant eux, ainsi se conserve &amp; s'augmente leur
-                                    grandeur.<lb/></p>
+                                    grandeur.</p>
                             </div>
                         </body>
                     </floatingText>
@@ -24933,7 +24933,7 @@
                                     pour quoi je me presente devant vous, sages Seigneurs, pour
                                     obtenir le soulagement que vous ne refusez point aux miserables,
                                     &amp; croyez que vous ne l'accorderez jamais à personne plus
-                                    affligée, ny qui le desire d'avantage.<lb/></p>
+                                    affligée, ny qui le desire d'avantage.</p>
                             </div>
                         </body>
                     </floatingText>
@@ -24963,7 +24963,7 @@
                                     Seigneurs, puis que le Ciel vous a establis pour le soulagement
                                     des affligez, ne m'en refusez point le remede, afin de ne
                                     contrevenir à vos loix &amp; ordonnances, que par tant de
-                                    siecles vous avez jugées si justes &amp; si sainctes.<lb/></p>
+                                    siecles vous avez jugées si justes &amp; si sainctes.</p>
                             </div>
                         </body>
                     </floatingText>
@@ -24992,7 +24992,7 @@
                     <floatingText xml:id="JUG_L12_P2" type="jugement" corresp="#DEM2_L12_P2">
                         <body>
                             <div>
-                                <head>JUGEMENT<lb/> Du Conseil des six cens.</head>
+                                <head>JUGEMENTDu Conseil des six cens.</head>
 
                                 <p>Sur les requestes à nous presentées par ces deux suppliants, pour
                                     obtenir le soulagement des miseres humaines. Le Conseil ordonne
@@ -25004,7 +25004,7 @@
                                     sont Amants &amp; aymez, &amp; que l'Amant ne doit pas vivre
                                     pour soy, mais pour la personne aymée : &amp; par consequent ne
                                     peut, ny ne doit disposer de sa vie, sans la permission de celuy
-                                    à qui elle est.<lb/></p>
+                                    à qui elle est.</p>
                             </div>
                         </body>
                     </floatingText>
@@ -25112,7 +25112,7 @@
                     <floatingText xml:id="POEM1_L12_P2" type="poem">
                         <body>
                             <div>
-                                <head>EPITAPHE<lb/> D'UN HOMME HEUREUX.</head>
+                                <head>EPITAPHED'UN HOMME HEUREUX.</head>
                                 <lg>
                                     <l>Enfant chery de tous, nourry de pere &amp; mere,</l>
                                     <l>Jeune, sans point de peine, &amp; sans mauvaises mœurs,</l>
@@ -25386,7 +25386,7 @@
                         du bien qui estoit en leur puissance, s'il leur est permis de le sçavoir
                         recognoistre.</p>
 
-                    <p style="end">FIN<lb/> De la deuxiesme partie d'<persName
+                    <p style="end">FINDe la deuxiesme partie d'<persName
                             key="astree_personnage" role="berger">Astrée</persName> de Messire
                         Honoré d'Urfé.</p>
                 </div2>
