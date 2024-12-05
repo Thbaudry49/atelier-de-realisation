@@ -251,7 +251,7 @@
                     <pb xml:id="page_abs_8" n="page_ori_1"/>
                 </div2>
 
-                <div2 xml:id="livre_premier" n="premier" type="livre">
+                <div2 xml:id="livre_premier" type="livre">
                     <head> LA SECONDE PARTIE D'<persName key="astree_personnage" role="berger"
                             >Astrée</persName>, De Messire Honoré d'Urfé.
                     </head>
@@ -1860,7 +1860,7 @@
                         n'en peut avoir personne qui l'ayme jamais.</p>
                 </div2>
 
-                <div2 xml:id="page_ASTREE_1614_0202" n="deuxiesme" type="livre">
+                <div2 xml:id="page_ASTREE_1614_0202" type="livre">
                     <pb xml:id="page_abs_72" n="page_ori_65"/>
 
                     <head> LE DEUXIESME LIVRE DE LA SECONDE PARTIE D'<persName
@@ -3621,7 +3621,7 @@
                         sommeil en fin le contraignirent de choisir un lieu pour reposer, ne
                         sçachant bonnement par où s'en retourner en son hameau.</p>
                 </div2>
-                <div2 xml:id="page_ASTREE_1614_0203" n="troisiesme" type="livre">
+                <div2 xml:id="page_ASTREE_1614_0203" type="livre">
                     <pb xml:id="page_abs_134" n="page_ori_127"/>
                     <head> LE TROISIESME LIVRE DE LA SECONDE PARTIE D'<persName
                             key="astree_personnage" role="berger">Astrée</persName>. </head>
@@ -5329,7 +5329,7 @@
                         trouppe arriverent, &amp; furent cause que ceste dispute prist fin.</p>
 
                 </div2>
-                <div2 xml:id="page_ASTREE_1614_0204" n="quatriesme" type="livre">
+                <div2 xml:id="page_ASTREE_1614_0204" type="livre">
                     <pb xml:id="page_abs_198" n="page_ori_191"/>
                     <head> LE QUATRIESME LIVRE DE LA SECONDE PARTIE D'<persName
                             key="astree_personnage" role="berger">Astrée</persName>. </head>
@@ -7654,7 +7654,7 @@
                         donner de l'amour qu'elle.</p>
 
                 </div2>
-                <div2 xml:id="page_ASTREE_1614_0205" n="cinquiesme" type="livre">
+                <div2 xml:id="page_ASTREE_1614_0205" type="livre">
                     <pb xml:id="page_abs_288" n="page_ori_281"/>
                     <head> LE CINQUIESME LIVRE DE LA SECONDE PARTIE D'<persName
                             key="astree_personnage" role="berger">Astrée</persName>. </head>
@@ -9166,7 +9166,7 @@
                         Bergeres s'estant couchées dessus, ils se retirerent un peu à costé, où tous
                         ensemble ils se coucherent attendant que la Lune parust.</p>
                 </div2>
-                <div2 xml:id="page_ASTREE_1614_0206" n="sixiesme" type="livre">
+                <div2 xml:id="page_ASTREE_1614_0206" type="livre">
                     <pb xml:id="page_abs_345" n="page_ori_339"/>
                     <head> LE SIXIESME LIVRE DE LA SECONDE PARTIE d'<persName
                             key="astree_personnage" role="berger">Astrée</persName>. </head>
@@ -11859,7 +11859,7 @@
                         luy permit de clore les yeux, &amp; y laisser couler le sommeil pour
                         enchanter en quelque sorte ses facheuses incertitudes.</p>
                 </div2>
-                <div2 xml:id="page_ASTREE_1614_0207" n="septiesme" type="livre">
+                <div2 xml:id="page_ASTREE_1614_0207" type="livre">
                     <pb xml:id="page_abs_459" n="page_ori_453"/>
                     <head> LE SEPTIESME LIVRE DE LA SECONDE PARTIE d'<persName
                             key="astree_personnage" role="berger">Astrée</persName>. </head>
@@ -13574,7 +13574,7 @@
                         prest à se cacher elle fut contrainte de se retirer, avec promesse de le
                         revoir bien souvent.</p>
                 </div2>
-                <div2 xml:id="page_ASTREE_1614_0208" n="huictiesme" type="livre">
+                <div2 xml:id="page_ASTREE_1614_0208" type="livre">
                     <pb xml:id="page_abs_517" n="page_ori_511"/>
 
                     <head> LE HUICTIESME LIVRE DE LA SECONDE PARTIE d'<persName
@@ -15492,7 +15492,7 @@
                         peut avoir une bonne parole d'elle.</p>
                 </div2>
 
-                <div2 xml:id="page_ASTREE_1614_0209" n="neufiesme" type="livre">
+                <div2 xml:id="page_ASTREE_1614_0209" type="livre">
                     <pb xml:id="page_abs_591" n="page_ori_585"/>
                     <head> LE NEUFIESME LIVRE DE LA SECONDE PARTIE d'<persName
                             key="astree_personnage" role="berger">Astrée</persName>. </head>
@@ -17238,7 +17238,7 @@
                         </body>
                     </floatingText>
                 </div2>
-                <div2 xml:id="page_ASTREE_1614_0210" n="dixiesme" type="livre">
+                <div2 xml:id="page_ASTREE_1614_0210" type="livre">
                     <pb xml:id="page_abs_652" n="page_ori_647"/>
                     <head> LE DIXIESME LIVRE DE LA SECONDE PARTIE d'<persName
                             key="astree_personnage" role="berger">Astrée</persName>. </head>
@@ -18840,7 +18840,7 @@
                         >Alexis</persName>, &amp; elle se retirerent au petit pas dans le logis.</p>
                 </div2>
 
-                <div2 xml:id="page_ASTREE_1614_0211" n="unziesme" type="livre">
+                <div2 xml:id="page_ASTREE_1614_0211" type="livre">
                     <pb xml:id="page_abs_710" n="page_ori_705"/>
 
                     <head> LE UNZIESME LIVRE DE LA SECONDE PARTIE d'<persName
@@ -21646,7 +21646,7 @@
                         </body>
                     </floatingText>
                 </div2>
-                <div2 xml:id="page_ASTREE_1614_0212" n="douziesme" type="livre">
+                <div2 xml:id="page_ASTREE_1614_0212" type="livre">
                     <pb xml:id="page_abs_806" n="page_ori_801"/>
 
                     <head> LE DOUZIESME LIVRE DE LA SECONDE PARTIE d'<persName
