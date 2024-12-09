@@ -20298,55 +20298,176 @@
                     <eTree n="table_des_poesie" xml:id="table_poesie" type="table">
                         <label>TABLE DES PŒSIES.</label>
                         <eLeaf corresp="#">
-                            <label>AMARILLIS toute pleine de grace. 37.</label>
+                            <label>Je pourray bien dessus moy-mesme. 10.</label>
                         </eLeaf>
-
+                        
                         <eLeaf corresp="#">
-                            <label>Amour pourquoy. 75.</label>
+                            <label>La beauté que la mort. 14.</label>
+                        </eLeaf>
+                        
+                        <eLeaf corresp="#">
+                            <label>Si l'on me dédaigne je laisse. 15.</label>
+                        </eLeaf>
+                        
+                        <eLeaf corresp="#">
+                            <label>Puis qu'il faut arracher. 18.</label>
+                        </eLeaf>
+                        
+                        <eLeaf corresp="#">
+                            <label>Chers Oyseaux de Venus. 35.</label>
+                        </eLeaf>
+                        
+                        <eLeaf corresp="#">
+                            <label>Elle a le cœur de glace. 36.</label>
+                        </eLeaf>
+                        
+                        <eLeaf corresp="#">
+                            <label>Amarillis toute pleine de grace. 37.</label>
+                        </eLeaf>
+                        
+                        <eLeaf corresp="#">
+                            <label>Riviere de Lignon. 37.</label>
+                        </eLeaf>
+                        
+                        <eLeaf corresp="#">
+                            <label>Quand je vy ces beaux yeux. 68.</label>
                         </eLeaf>
 
                         <eLeaf corresp="#">
                             <label>Amour en trahison. 69.</label>
                         </eLeaf>
-
+                        
                         <eLeaf corresp="#">
-                            <label>A la fin celuy l'aura. 162.</label>
+                            <label>Quel est ce mal. 73.</label>
                         </eLeaf>
 
                         <eLeaf corresp="#">
-                            <label>Chers Oyseaux de Venus. 35.</label>
+                            <label>Amour pourquoy. 75.</label>
                         </eLeaf>
-
+                        
                         <eLeaf corresp="#">
-                            <label>Cette source Eternelle. 342.</label>
+                            <label>Pour faire en elle quelque effet. 75.</label>
                         </eLeaf>
-
+                        
                         <eLeaf corresp="#">
-                            <label>Cependant que l'Amour. 130.</label>
+                            <label>Elle le veut ainsi. 76.</label>
                         </eLeaf>
-
+                        
+                        <eLeaf corresp="#">
+                            <label>Le Phoenix de la cendre sort. 76.</label>
+                        </eLeaf>
+                        
                         <eLeaf corresp="#">
                             <label>Dessus les bords d'une fontaine. 96.</label>
                         </eLeaf>
-
+                        
+                        <eLeaf corresp="#">
+                            <label>Pensons nous en l'aymant. 99.</label>
+                        </eLeaf>
+                        
+                        <eLeaf corresp="#">
+                            <label>Il faudroit bien que la Constance. 114.</label>
+                        </eLeaf>
+                        
+                        <eLeaf corresp="#">
+                            <label>Elle feint de m'aymer. 120.</label>
+                        </eLeaf>
+                        
+                        <eLeaf corresp="#">
+                            <label>Je puis bien dire. 120.</label>
+                        </eLeaf>
+                        
                         <eLeaf corresp="#">
                             <label>D'un marbre dur. 120.</label>
                         </eLeaf>
-
+                        
+                        <eLeaf corresp="#">
+                            <label>Cependant que l'Amour. 130.</label>
+                        </eLeaf>
+                        
+                        <eLeaf corresp="#">
+                            <label>Voudriez vous este mon Berger. 142.</label>
+                        </eLeaf>
+                        
                         <eLeaf corresp="#">
                             <label>Despit foible guerrier. 146.</label>
                         </eLeaf>
 
                         <eLeaf corresp="#">
+                            <label>A la fin celuy l'aura. 162.</label>
+                        </eLeaf>
+                        
+                        <eLeaf corresp="#">
+                            <label>Puis qu'en naissant belle <persName key="diane" role="berger"
+                                >Diane</persName>. 162.</label>
+                        </eLeaf>
+                        
+                        <eLeaf corresp="#">
+                            <label>Pourquoy semble t'il tant estrange. 163.</label>
+                        </eLeaf>
+                        
+                        <eLeaf corresp="#">
+                            <label>Que ces desirs soient grands. 163.</label>
+                        </eLeaf>
+                        
+                        <eLeaf corresp="#">
                             <label>D'un cœur outrecuidé. 165.</label>
                         </eLeaf>
-
+                        
+                        <eLeaf corresp="#">
+                            <label>J'ayme à changer. 200.</label>
+                        </eLeaf>
+                        
+                        <eLeaf corresp="#">
+                            <label>Mon Dieu quel est le mal. 204.</label>
+                        </eLeaf>
+                        
+                        <eLeaf corresp="#">
+                            <label>Pourquoy cacher nos pleurs. 211.</label>
+                        </eLeaf>
+                        
+                        <eLeaf corresp="#">
+                            <label>Sur les bords où Lignon. 213.</label>
+                        </eLeaf>
+                        
+                        <eLeaf corresp="#">
+                            <label>Espoirs Ixions en audace. 222.</label>
+                        </eLeaf>
+                        
+                        <eLeaf corresp="#">
+                            <label>Tu nasquis dans la terre. 227.</label>
+                        </eLeaf>
+                        
+                        <eLeaf corresp="#">
+                            <label>Quand ma Bergere parle. 244.</label>
+                        </eLeaf>
+                        
+                        <eLeaf corresp="#">
+                            <label>Pourquoy si vous m'aimez. 272.</label>
+                        </eLeaf>
+                        
                         <eLeaf corresp="#">
                             <label>Dans le Temple sacré. 310.</label>
                         </eLeaf>
-
+                        
+                        <eLeaf corresp="#">
+                            <label>J'ay plus aymé que moy. 310.</label>
+                        </eLeaf>
+                        
                         <eLeaf corresp="#">
                             <label>Donques le Ciel consent. 339.</label>
+                        </eLeaf>
+                        
+                        <eLeaf corresp="#">
+                            <label>Je ne puis excuser. 340.</label>
+                        </eLeaf>
+
+                        <eLeaf corresp="#">
+                            <label>Cette source Eternelle. 342.</label>
+                        </eLeaf>
+                        
+                        <eLeaf corresp="#">
+                            <label>Outré par la douleur. 349.</label>
                         </eLeaf>
 
                         <eLeaf corresp="#">
@@ -20354,132 +20475,11 @@
                         </eLeaf>
 
                         <eLeaf corresp="#">
-                            <label>Elle a le cœur de glace. 36.</label>
-                        </eLeaf>
-
-                        <eLeaf corresp="#">
-                            <label>Elle le veut ainsi. 76.</label>
-                        </eLeaf>
-
-                        <eLeaf corresp="#">
-                            <label>Elle feint de m'aymer. 120.</label>
-                        </eLeaf>
-
-                        <eLeaf corresp="#">
-                            <label>Espoirs Ixions en audace. 222.</label>
-                        </eLeaf>
-
-                        <eLeaf corresp="#">
-                            <label>Je pourray bien dessus moy-mesme. 10.</label>
-                        </eLeaf>
-
-                        <eLeaf corresp="#">
-                            <label>Il faudroit bien que la Constance. 114.</label>
-                        </eLeaf>
-
-                        <eLeaf corresp="#">
-                            <label>Je puis bien dire. 120.</label>
-                        </eLeaf>
-
-                        <eLeaf corresp="#">
-                            <label>J'ayme à changer. 200.</label>
-                        </eLeaf>
-
-                        <eLeaf corresp="#">
-                            <label>J'ay plus aymé que moy. 310.</label>
-                        </eLeaf>
-
-                        <eLeaf corresp="#">
-                            <label>Je ne puis excuser. 340.</label>
-                        </eLeaf>
-
-                        <eLeaf corresp="#">
                             <label>Icy mon beau Soleil repose. 399.</label>
                         </eLeaf>
 
                         <eLeaf corresp="#">
-                            <label>La beauté que la mort. 14.</label>
-                        </eLeaf>
-
-                        <eLeaf corresp="#">
-                            <label>Le Phoenix de la cendre sort. 76.</label>
-                        </eLeaf>
-
-                        <eLeaf corresp="#">
-                            <label>Mon Dieu quel est le mal. 204.</label>
-                        </eLeaf>
-
-                        <eLeaf corresp="#">
-                            <label>Outré par la douleur. 349.</label>
-                        </eLeaf>
-
-                        <eLeaf corresp="#">
-                            <label>Puis qu'il faut arracher. 18.</label>
-                        </eLeaf>
-
-                        <eLeaf corresp="#">
-                            <label>Pour faire en elle quelque effet. 75.</label>
-                        </eLeaf>
-
-                        <eLeaf corresp="#">
-                            <label>Pensons nous en l'aymant. 99.</label>
-                        </eLeaf>
-
-                        <eLeaf corresp="#">
-                            <label>Pourquoy si vous m'aimez. 272.</label>
-                        </eLeaf>
-
-                        <eLeaf corresp="#">
-                            <label>Puis qu'en naissant belle <persName key="diane" role="berger"
-                                    >Diane</persName>. 162.</label>
-                        </eLeaf>
-
-                        <eLeaf corresp="#">
-                            <label>Pourquoy semble t'il tant estrange. 163.</label>
-                        </eLeaf>
-
-                        <eLeaf corresp="#">
-                            <label>Pourquoy cacher nos pleurs. 211.</label>
-                        </eLeaf>
-
-                        <eLeaf corresp="#">
-                            <label>Quand je vy ces beaux yeux. 68.</label>
-                        </eLeaf>
-
-                        <eLeaf corresp="#">
-                            <label>Quel est ce mal. 73.</label>
-                        </eLeaf>
-
-                        <eLeaf corresp="#">
-                            <label>Que ces desirs soient grands. 163.</label>
-                        </eLeaf>
-
-                        <eLeaf corresp="#">
-                            <label>Quand ma Bergere parle. 244.</label>
-                        </eLeaf>
-
-                        <eLeaf corresp="#">
-                            <label>Riviere de Lignon. 37.</label>
-                        </eLeaf>
-
-                        <eLeaf corresp="#">
-                            <label>Si l'on me dédaigne je laisse. 15.</label>
-                        </eLeaf>
-
-                        <eLeaf corresp="#">
-                            <label>Sur les bords où Lignon. 213.</label>
-                        </eLeaf>
-
-                        <eLeaf corresp="#">
-                            <label>Tu nasquis dans la terre. 227.</label>
-                        </eLeaf>
-
-                        <eLeaf corresp="#">
                             <label>Vous qui voyez mes tristes pleurs. 401.</label>
-                        </eLeaf>
-
-                        <eLeaf corresp="#">
-                            <label>Voudriez vous este mon Berger. 142.</label>
                         </eLeaf>
                     </eTree>
 
