@@ -9,21 +9,6 @@
                 <title>
                     <xsl:value-of select="//tei:titleStmt/tei:title"/>
                 </title>
-                <style>
-                    /* Styles pour améliorer l'affichage */
-                    .metadata, .introduction, .section, .subsection, .paragraph, .poem, .line, .page-number, .floating-title {
-                    margin: 10px 0;
-                    padding: 5px 10px;
-                    }
-                    .metadata { background-color: #f9f9f9; border: 1px solid #ddd; }
-                    .poem { font-style: italic; border-left: 3px solid darkgreen; padding: 10px; }
-                    .line { margin-left: 20px; }
-                    hr.page-divider { visibility: hidden; }
-                    .linked-text { border-left: 4px solid #4a0072; background-color: #f0f8ff; padding: 10px; margin: 20px 0; border-radius: 5px; }
-                    .linked-text a { text-decoration: none; color: #4a0072; font-weight: bold; }
-                    .floating-text h4 { color: #4a0072; font-weight: bold; }
-                    .floating-text h5 { color: #555; font-style: italic; }
-                </style>
             </head>
             <body>
                 <!-- Métadonnées -->
@@ -42,24 +27,25 @@
         </html>
     </xsl:template>
     
-    <!-- Front (introduction) -->
+    <!-- Front avec transformation des <head> en <p> -->
     <xsl:template match="tei:front">
-        <div class="introduction">
-            <h2 class="section-title">Introduction</h2>
-            <xsl:apply-templates/>
+        <div class="front">
+            <xsl:for-each select="tei:head">
+                <p class="front-paragraph">
+                    <xsl:value-of select="."/>
+                </p>
+            </xsl:for-each>
+            <xsl:apply-templates select="node()[not(self::tei:head)]"/>
         </div>
     </xsl:template>
     
     <!-- Section principale -->
     <xsl:template match="tei:div1">
-        <xsl:if test="position() &gt; 1">
-            <hr class="page-divider"/>
-        </xsl:if>
         <div class="section" id="{@xml:id}">
             <h2 class="section-title">
                 <xsl:value-of select="tei:head"/>
             </h2>
-            <xsl:apply-templates/>
+            <xsl:apply-templates select="node()[not(self::tei:head)]"/>
         </div>
     </xsl:template>
     
@@ -69,38 +55,57 @@
             <h3 class="subsection-title">
                 <xsl:value-of select="tei:head"/>
             </h3>
-            <xsl:apply-templates/>
+            <xsl:apply-templates select="node()[not(self::tei:head)]"/>
         </div>
     </xsl:template>
     
-    <!-- Gestion des titres et hiérarchies pour <head> -->
-    <xsl:template match="tei:head">
-        <xsl:choose>
-            <xsl:when test="ancestor::tei:div1">
-                <h2 class="section-title">
-                    <xsl:value-of select="."/>
-                </h2>
-            </xsl:when>
-            <xsl:when test="ancestor::tei:div2">
-                <h3 class="subsection-title">
-                    <xsl:value-of select="."/>
-                </h3>
-            </xsl:when>
-            <xsl:when test="ancestor::tei:floatingText">
+    <!-- Gestion des `floatingText` -->
+    <xsl:template match="tei:floatingText">
+        <div class="floating-text" id="{@xml:id}" data-type="{@type}">
+            <!-- Premier <head> en h4 -->
+            <xsl:for-each select="tei:body/tei:div/tei:head">
                 <xsl:choose>
                     <xsl:when test="position() = 1">
-                        <h4 class="{ancestor::tei:floatingText/@type}">
+                        <h4 class="floating-text-title">
                             <xsl:value-of select="."/>
                         </h4>
                     </xsl:when>
                     <xsl:otherwise>
-                        <h5>
+                        <h5 class="floating-text-subtitle">
                             <xsl:value-of select="."/>
                         </h5>
                     </xsl:otherwise>
                 </xsl:choose>
-            </xsl:when>
-        </xsl:choose>
+            </xsl:for-each>
+            <!-- Gestion de @corresp -->
+            <xsl:if test="@corresp">
+                <div class="linked-text">
+                    Lié à :
+                    <xsl:for-each select="tokenize(@corresp, ' ')">
+                        <a href="{.}" title="Voir le texte correspondant">
+                            <xsl:value-of select="substring-after(., '#')"/>
+                        </a>
+                        <xsl:if test="position() != last()">, </xsl:if>
+                    </xsl:for-each>
+                </div>
+            </xsl:if>
+            <!-- Contenu -->
+            <xsl:apply-templates select="tei:body/tei:div/node()[not(self::tei:head)]"/>
+        </div>
+    </xsl:template>
+    
+    <!-- Gestion des titres dans `lg` -->
+    <xsl:template match="tei:lg">
+        <div class="poem-stanza">
+            <!-- Titres des strophes en h5 -->
+            <xsl:if test="tei:head">
+                <h5 class="poem-title">
+                    <xsl:value-of select="tei:head"/>
+                </h5>
+            </xsl:if>
+            <!-- Contenu -->
+            <xsl:apply-templates select="node()[not(self::tei:head)]"/>
+        </div>
     </xsl:template>
     
     <!-- Paragraphe -->
@@ -110,34 +115,6 @@
         </p>
     </xsl:template>
     
-    <!-- Texte flottant avec gestion des types et des connexions -->
-    <xsl:template match="tei:floatingText">
-        <div class="floating-text" id="{@xml:id}" data-type="{@type}">
-            <!-- Titre principal -->
-            <xsl:apply-templates select="tei:head[1]"/>
-            <!-- Sous-titre (si présent) -->
-            <xsl:apply-templates select="tei:head[position() > 1]"/>
-            <!-- Références via corresp -->
-            <xsl:if test="@corresp">
-                <div class="linked-text">
-                    Réponse au texte : 
-                    <a href="{@corresp}" title="Voir le texte correspondant">
-                        <xsl:value-of select="@corresp"/>
-                    </a>
-                </div>
-            </xsl:if>
-            <!-- Contenu du texte flottant -->
-            <xsl:apply-templates select="node()[not(self::tei:head)]"/>
-        </div>
-    </xsl:template>
-    
-    <!-- Groupe de lignes dans un poème -->
-    <xsl:template match="tei:lg">
-        <div class="poem-stanza">
-            <xsl:apply-templates/>
-        </div>
-    </xsl:template>
-    
     <!-- Ligne dans un poème -->
     <xsl:template match="tei:l">
         <p class="line">
@@ -145,10 +122,9 @@
         </p>
     </xsl:template>
     
-    <!-- Gestion des numéros de page -->
+    <!-- Ignorer les numéros de page -->
     <xsl:template match="tei:pb">
-        <hr class="page-divider"/>
-        <span class="page-number" id="page-{@n}">Page <xsl:value-of select="@n"/></span>
+        <!-- Aucun contenu à générer pour les balises <pb> -->
     </xsl:template>
     
     <!-- Gestion des noms de personnages -->
@@ -157,11 +133,10 @@
             <xsl:apply-templates/>
         </span>
     </xsl:template>
-    
-    <!-- Gestion des noms de lieux -->
-    <xsl:template match="tei:placeName">
-        <span class="placeName" id="place-{@key}" data-role="{@role}">
-            <xsl:apply-templates/>
-        </span>
-    </xsl:template>
+        
+        <xsl:template match="tei:placeName">
+            <span class="placeName" id="place-{@key}" data-role="{@role}">
+                <xsl:apply-templates/>
+            </span>
+        </xsl:template>
 </xsl:stylesheet>
